@@ -1,7 +1,5 @@
-Takashi SUGA's private bookmark for computer and other special interest items
-=============================================================================
-
-# 公開ブックマーク
+Takashi SUGA's personal bookmarks for computer and other special interest items
+===============================================================================
 
 本データは[須賀隆](http://hosi.org:3000/TakashiSuga.ttl)のブックマークのうち下記で利用するために公開する部分を抜き出したものです。
 
