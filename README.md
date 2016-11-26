@@ -7,6 +7,8 @@ Takashi SUGA's personal bookmarks for computer and other special interest items
 
 [機械学習関連情報の収集と分類(構想)](http://qiita.com/suchowan/items/459062590f7134dfc138)のⒹに相当するブックマークです。
 
+![こんなふうにして作ったもの](https://qiita-image-store.s3.amazonaws.com/0/144985/95d8f8f2-831c-19b8-7c67-de2973a7b0f6.png)
+
 ## その他 - sig.url.txt
 
 http://hosi.org:4000/bookmarks が参照しているブックマークです。
