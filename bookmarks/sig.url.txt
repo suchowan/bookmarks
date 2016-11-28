@@ -61,6 +61,9 @@ URL=http://zero-config.com/centos/gnome-0001.html
 =2016-09-01T09:21:37.00+09:00 Computer/OS/Unix/CentOS/はじめての人工知能。CentOS7.0 でTensorflow。virtualenvで、python3.5系とpython2.7系に分けて構築。 - Qiita
 URL=http://qiita.com/Leonhard/items/188690df29fd91717c92
 
+=2016-07-09T09:01:13.00+09:00 Computer/OS/Unix/Dockerで作る機械学習研究開発環境
+URL=https://hyt-sasaki.github.io/docker_slides/#1
+
 =2016-05-06T08:59:59.99+09:00:00 Computer/OS/Unix/Historical trends in the usage of Linux versions for websites
 URL=http://w3techs.com/technologies/history_details/os-linux
 
@@ -568,6 +571,9 @@ URL=http://pc.nikkeibp.co.jp/article/news/20141128/1149103/?rt=nocnt
 =2016-07-05T07:54:45.00+09:00 Computer/ハードウェア/ストレージはデータをためて出すだけの箱じゃない――“元カメラ小僧”が考える「ストレージ進化論」 - ITmedia エンタープライズ
 URL=http://www.itmedia.co.jp/enterprise/articles/1606/29/news003.html
 
+=2016-11-26T07:38:25.00+09:00 Computer/ハードウェア/スマホで掃除開始や終了を命じることができるロボット掃除機が日本上陸　マニュアル操作もできる - ねとらぼ
+URL=http://nlab.itmedia.co.jp/nl/articles/1611/26/news032.html
+
 =2016-10-31T05:23:25.00+09:00 Computer/ハードウェア/ソニーのFeliCa対応スマートウォッチ『wena wrist』がBEAMSとコラボ。オシャレなの来た！- DIGIMONO！（デジモノ！）
 URL=http://www.digimonostation.jp/0000077551/
 
@@ -591,6 +597,9 @@ URL=http://www.itmedia.co.jp/pcuser/articles/1608/09/news001.html
 
 =2016-05-06T08:59:59.99+09:00:00 Computer/ハードウェア/ドンキ、1万9800円のWindows 10搭載PC「ワリキリPC」発売
 URL=http://www.itmedia.co.jp/news/articles/1512/10/news122.html
+
+=2016-11-25T09:07:43.00+09:00 Computer/ハードウェア/ニュース解説 - 日本発、新方式の量子コンピュータ、来年にクラウドサービスを提供：ITpro
+URL=http://itpro.nikkeibp.co.jp/atcl/column/14/346926/112200709/?rt=nocnt
 
 =2016-05-06T08:59:59.99+09:00:00 Computer/ハードウェア/ネット史に輝く金字塔、「ｉモード」生んだ運命の出会い 
 URL=http://www.nikkei.com/article/DGXMZO85609010T10C15A4000000/
@@ -1432,6 +1441,9 @@ URL=http://togech.jp/2016/10/28/41943
 =2016-05-30T13:03:47.00+09:00 Science/トンデモ/ネットの記事は今後「誤った情報」が爆発的に増えるかもしれない、というお話が話題に「確かに思い当たる」 - Togetterまとめ
 URL=http://togetter.com/li/979281
 
+=2016-11-25T18:49:00.00+09:00 Science/トンデモ/ホメオパシー製品販売不可に-Food Watch Japan
+URL=http://www.foodwatch.jp/science/nihsreport/56204
+
 =2016-11-06T05:22:39.00+09:00 Science/トンデモ/今すぐやめて！「免疫力」を高めない7つの誤解 - MEDLEYニュース
 URL=https://medley.life/news/item/5808ad9b13e3742c008b458f
 
@@ -2194,6 +2206,9 @@ URL=http://headlines.yahoo.co.jp/hl?a=20160825-00010000-sorae_jp-sctch
 =2016-05-16T12:25:25.00+09:00 Science/天文学/トピック/天文学が太陽系の準惑星で最大の名無し天体を偶然発見（動画）
 URL=http://jp.sputniknews.com/science/20160514/2135147.html
 
+=2016-11-28T09:05:28.00+09:00 Science/天文学/トピック/天文学と機械学習の遠くて近い関係
+URL=http://newswitch.jp/p/6951
+
 =2016-08-18T13:55:56.00+09:00 Science/天文学/トピック/天文学の常識を覆す「第9惑星」は本当に存在するのか？ 〈dot.〉｜dot.ドット 朝日新聞出版
 URL=http://dot.asahi.com/dot/2016081200090.html
 
@@ -2268,6 +2283,9 @@ URL=https://ja.wikipedia.org/wiki/%E6%83%91%E6%98%9F%E3%81%AE%E5%AE%9A%E7%BE%A9#
 
 =2016-05-06T08:59:59.99+09:00:00 Science/天文学/トピック/数学・物理学・天文学研究者が挑む「すばる望遠鏡」プロジェクトが求めるプログラマとは──
 URL=http://getnews.jp/archives/1433913
+
+=2016-11-15T15:38:56.00+09:00 Science/天文学/トピック/日本で初めてクレーターを発見した、江戸時代の天文学者とは？｜ニフティニュース
+URL=https://news.nifty.com/article/entame/showbizd/12199-0ZB34TR0tt/
 
 =2016-05-16T12:25:19.00+09:00 Science/天文学/トピック/日本の天文学プロジェクトチームはハワイにたどり着けるのか～１億円が出せて旅費８０万円が出せない謎(石渡嶺司) - 個人 - Yahoo!ニュース
 URL=http://bylines.news.yahoo.co.jp/ishiwatarireiji/20160516-00057712/
@@ -3205,6 +3223,9 @@ URL=https://journals.uair.arizona.edu/index.php/radiocarbon/article/view/16947
 =2014-01-26T23:59:59.99+09:00:00 Science/物理学/Isotopes_of_tungsten#cite_note-8
 URL=https://en.wikipedia.org/wiki/Isotopes_of_tungsten#cite_note-8
 
+=2006-02-11T05:28:38.00+09:00 Science/物理学/serihu-わしは二つも定数はいらない
+URL=http://www.ms.osakafu-u.ac.jp/~kayanuma/serihu.html
+
 =2015-07-02T23:59:59.99+09:00:00 Science/物理学/「時間結晶」が実現できないことが数学的に証明される %7c サイエンス - 財経新聞
 URL=http://www.zaikei.co.jp/article/20150623/255682.html
 
@@ -3276,6 +3297,9 @@ URL=http://alchemist-jp.at.webry.info/201403/article_20.html
 
 =2013-08-17T23:59:59.99+09:00:00 Science/物理学/完全な量子テレポーテーションに成功
 URL=http://eetimes.jp/ee/articles/1308/19/news028.html
+
+=1987-05-11T18:51:00.00+09:00 Science/物理学/幾何学だけの相対論
+URL=http://www.asahi-net.or.jp/~dd6t-sg/geo/geo1.html
 
 =2016-05-17T05:34:14.00+09:00 Science/物理学/日本の物理学と技術イノベーションのルーツ - 日経テクノロジーオンライン
 URL=http://techon.nikkeibp.co.jp/atcl/column/15/371342/051100005/
@@ -5722,6 +5746,9 @@ URL=http://www.kbs-kyoto.co.jp/gion/sakiato/
 =2016-08-18T15:25:02.00+09:00 SIG/暦/祝祭/「山の日」忘れて、駐輪代を誤徴収　横浜市が設定ミス：朝日新聞デジタル
 URL=http://www.asahi.com/articles/ASJ8H7WNVJ8HULOB018.html
 
+=2014-02-11T05:28:17.00+09:00 SIG/暦/祝祭/「建国記念の日」の基礎知識 日夜困惑日記＠望夢楼
+URL=http://clio.seesaa.net/article/388018490.html?seesaa_related=category
+
 =2014-05-23T23:59:59.99+09:00:00 SIG/暦/祝祭/「海の日」あるなら…「山の日」も、１６年から
 URL=http://www.yomiuri.co.jp/politics/20140523-OYT1T50097.html
 
@@ -5940,6 +5967,9 @@ URL=http://www.jisc.go.jp/app/pager?%23jps.JPSH0090D:JPSO0023:/JPS/JPSO0090.jsp=
 
 =2016-11-04T06:58:07.00+09:00 SIG/暦/規格/国立国会図書館デジタルコレクション - 法令全書. 明治６年太政官布告258号(7月20日)
 URL=http://dl.ndl.go.jp/info:ndljp/pid/787953/266
+
+=2016-11-26T18:49:30.00+09:00 SIG/暦/規格/日本標準時プロジェクト　Announcement of DUT1
+URL=http://jjy.nict.go.jp/QandA/data/dut1.html
 
 =2011-10-28T13:59:00.00+09:00:00 SIG/暦/規格/暦表時
 URL=https://ja.wikipedia.org/wiki/%E6%9A%A6%E8%A1%A8%E6%99%82
@@ -6202,6 +6232,9 @@ URL=http://togetter.com/li/979281
 =2016-09-15T18:24:14.00+09:00 Social/メディア/ハイビジョン月面画像をネット公開しなかったNHK - ビジネススタイル - nikkei BPnet
 URL=http://www.nikkeibp.co.jp/style/biz/feature/matsuura/space/071122_nhk/
 
+=2016-11-26T08:46:47.00+09:00 Social/メディア/パクリ記事で稼ぎたいなら「WELQ語法」をマスターしよう！ まだ東京で消耗してるの？
+URL=http://www.ikedahayato.com/20161126/67361118.html
+
 =2016-06-18T08:03:07.00+09:00 Social/メディア/ピースボート災害ボランティアセンターが産経ニュース記事に抗議　「女性スタッフは熊本で活動中で街頭インタビューに応じるわけない」 - 産経ニュース
 URL=http://www.sankei.com/affairs/news/160617/afr1606170010-n1.html
 
@@ -6253,6 +6286,9 @@ URL=http://nlab.itmedia.co.jp/nl/articles/1609/22/news041.html
 =2016-06-19T19:21:55.00+09:00 Social/メディア/佐村河内守のウソの付き方が“まだら”なのがおもしろい　森達也監督『FAKE』をもっと楽しむ方法(飯田一史) - 個人 - Yahoo!ニュース
 URL=http://bylines.news.yahoo.co.jp/iidaichishi/20160615-00058863/
 
+=2016-11-26T09:00:30.00+09:00 Social/メディア/元welqライターからの告発 クラウドワークス批評「労働組合つくったろか」
+URL=http://cwhihyou.exblog.jp/24972121/
+
 =2016-10-02T13:58:18.00+09:00 Social/メディア/元フジテレビアナウンサー・長谷川豊氏の炎上と番組降板を招いた3つの勘違い。(中嶋よしふみ) - 個人 - Yahoo!ニュース
 URL=http://bylines.news.yahoo.co.jp/nakajimayoshifumi/20161002-00062792/
 
@@ -6285,6 +6321,9 @@ URL=https://twitter.com/yamagiwasumio/status/676360669000687616
 
 =2016-05-06T08:59:59.99+09:00:00 Social/メディア/吉田証言を書いた清田治史外報部長が大誤報をもみ消した
 URL=http://agora-web.jp/archives/1611777.html
+
+=2016-11-26T15:18:02.00+09:00 Social/メディア/問題の医療系サイト「WELQ（ウェルク）」赤ペン先生しました！！間違いがゾロゾロ！！ 五本木クリニック 院長ブログ
+URL=http://www.gohongi-beauty.jp/blog/?p=19989
 
 =2016-05-06T08:59:59.99+09:00:00 Social/メディア/国際共同制作プロジェクト 1984～不朽のSF小説から生まれる過去・現在・未来～
 URL=http://www.wowow.co.jp/pg_info/detail/105413/?utm_source=twitter_sougou20150115&utm_medium=social&utm_campaign=
@@ -6375,6 +6414,9 @@ URL=http://www.excite.co.jp/News/column_g/20161026/Bizjournal_mixi201610_post-83
 
 =2016-08-07T19:46:40.00+09:00 Social/メディア/朝日新聞、「海外STAP細胞論文発表」記事の掲載を一旦拒否…何度も執筆者に修正要求 ビジネスジャーナル
 URL=http://biz-journal.jp/2016/08/post_16176.html
+
+=2016-11-25T18:40:47.00+09:00 Social/メディア/朝日新聞、論説主幹コラムを訂正 改憲勢力「初めて3分の2」は誤り(楊井人文) - 個人 - Yahoo!ニュース
+URL=http://bylines.news.yahoo.co.jp/yanaihitofumi/20161125-00064804/
 
 =2016-05-06T08:59:59.99+09:00:00 Social/メディア/朝日新聞と北朝鮮の「1兆円利権」
 URL=http://agora-web.jp/archives/1612087.html
@@ -6691,6 +6733,9 @@ URL=http://www.47news.jp/CN/201305/CN2013052001001322.html
 =2016-09-16T12:12:57.00+09:00 Social/交通/鉄道ニュース週報 (35) JR西日本、三江線廃止を表明 - 「地域に必要」だけでは生き残れない マイナビニュース
 URL=http://news.mynavi.jp/series/railwaynews/035/
 
+=2016-11-24T18:40:47.00+09:00 Social/交通/鉄道大国ドイツでも｢寝台列車｣が全廃止へ 読売新聞 東洋経済オンライン 経済ニュースの新基準
+URL=http://toyokeizai.net/articles/-/146726
+
 =2016-06-16T14:21:02.00+09:00 Social/交通/銀座線に設置された「デスク＆ベンチ」 知られざる、その機能に迫る TABI LABO
 URL=http://tabi-labo.com/254945/desk-bench/
 
@@ -6876,6 +6921,9 @@ URL=http://web.archive.org/web/20040912134728/http://www.ne.jp/asahi/konko/fushi
 
 =2012-07-28T23:59:59.99+09:00:00 Social/思想・宗教/龍樹 (講談社学術文庫) %3a 中村 元 %3a 本 %3a Amazon
 URL=http://www.amazon.co.jp/dp/4061595482
+
+=2012-10-03T15:27:47.00+09:00 Social/教育・研究/100の職業でどんな数学を使うのか１枚の表にまとめてみた 読書猿Classic between beyond readers
+URL=http://readingmonkey.blog45.fc2.com/blog-entry-625.html
 
 =2016-05-06T08:59:59.99+09:00:00 Social/教育・研究/11月18日の県総合教育会議における長谷川教育委員の発言について
 URL=http://www.edu.pref.ibaraki.jp/board/welcome/iinkai/hatugen.html
@@ -7065,6 +7113,9 @@ URL=http://togetter.com/li/954324
 
 =2016-05-06T08:59:59.99+09:00:00 Social/教育・研究/京都大学平成28年度学部入学式 式辞 （2016年4月7日）
 URL=http://www.kyoto-u.ac.jp/ja/about/president/speech/2016/160407_1.html
+
+=2016-11-26T08:04:47.00+09:00 Social/教育・研究/人工知能でムダになる勉強、ムダにならない勉強
+URL=http://blogos.com/article/199592/
 
 =2016-05-06T08:59:59.99+09:00:00 Social/教育・研究/今、岡山大学で何が起きているのか？
 URL=http://seesaawiki.jp/rebirth_okayama/
@@ -7543,6 +7594,9 @@ URL=http://togetter.com/li/900291
 =2012-11-27T08:28:43.00+09:00 Social/教育・研究/計算順序論争とその周辺/「9÷0＝0」？　ある小学校で出された問題に「ちょっと待て」 - ねとらぼ
 URL=http://nlab.itmedia.co.jp/nl/articles/1211/27/news047.html
 
+=2015-11-17T15:30:27.00+09:00 Social/教育・研究/計算順序論争とその周辺/「かけ算の順序」なんてもう古い! 今や時代は「足し算の順序」!!- Togetterまとめ
+URL=http://togetter.com/li/901635
+
 =2016-05-06T08:59:59.99+09:00:00 Social/教育・研究/計算順序論争とその周辺/「かけ算の順序」なんてもう古い-今や時代は「足し算の順序」!!
 URL=http://togetter.com/li/901635
 
@@ -7567,14 +7621,32 @@ URL=http://www.scoopnest.com/ja/user/konamih/798101012510699520
 =2016-11-20T14:35:00.00+09:00 Social/教育・研究/計算順序論争とその周辺/モルグリコ - Twitter検索
 URL=https://twitter.com/search?f=tweets&vertical=default&q=%E3%83%A2%E3%83%AB%E3%82%B0%E3%83%AA%E3%82%B3&src=typd&lang=ja
 
+=2016-08-21T18:40:47.00+09:00 Social/教育・研究/計算順序論争とその周辺/余計なことは教えない　一次方程式編 大場数理学院のブログ　数学教育についてウェブリブログ
+URL=http://sekibunn.at.webry.info/201608/article_1.html
+
+=2016-11-26T18:41:44.00+09:00 Social/教育・研究/計算順序論争とその周辺/反比例 グラフ 定規 - Twitter検索
+URL=https://twitter.com/search?f=tweets&vertical=default&q=%E5%8F%8D%E6%AF%94%E4%BE%8B%20%E3%82%B0%E3%83%A9%E3%83%95%20%E5%AE%9A%E8%A6%8F&src=typd
+
+=2015-12-03T18:40:47.00+09:00 Social/教育・研究/計算順序論争とその周辺/反比例のグラフは定規を使うの？｜江戸川台発”勉強がわからない”は宝物！小・中学生対象の個別指導
+URL=http://ameblo.jp/otl-edo/entry-12102361753.html
+
 =2016-11-19T15:29:33.00+09:00 Social/教育・研究/計算順序論争とその周辺/掛算順序固定強制問題と文章読解力 - Togetterまとめ
 URL=http://togetter.com/li/1051464
 
 =2016-11-24T15:36:20.00+09:00 Social/教育・研究/計算順序論争とその周辺/日常生活の中で計算が活用できる子供の育成を目指した学習指導の一試み - 01B0010.pdf
 URL=http://aobadb.edu-c.pref.miyagi.jp/practice_research/attach/01B0010.pdf
 
+=2016-11-26T18:44:48.00+09:00 Social/教育・研究/計算順序論争とその周辺/演算・演算決定｜算数用語集
+URL=http://www.shinko-keirin.co.jp/keirinkan/sansu/WebHelp/01/page1_19.html
+
+=2016-11-26T18:45:21.00+09:00 Social/教育・研究/計算順序論争とその周辺/算数「かけ算の順序」を中心に数学教育を考える　掲示板
+URL=http://8254.teacup.com/kakezannojunjo/bbs
+
 =2016-11-24T15:26:59.00+09:00 Social/教育・研究/計算順序論争とその周辺/算数を教えるのに必要な数学的素養
 URL=http://www.avis.ne.jp/~uriuri/kaz/profile/Itohetal1993.pdf
+
+=2012-02-24T15:30:46.00+09:00 Social/教育・研究/計算順序論争とその周辺/算数授業研究Vol.80 TwitLonger-When you talk too much for Twitter
+URL=http://www.twitlonger.com/show/g3fmao
 
 =2016-08-01T09:30:56.00+09:00 Social/教育・研究/計算順序論争とその周辺/結城先生の連ツイには心情的には同意したいものの数式には漢字や英語にはない怖さがあると思う - しいたげられたしいたけ
 URL=http://watto.hatenablog.com/entry/2016/07/31/010000
@@ -7587,6 +7659,12 @@ URL=http://togetter.com/li/1050950
 
 =2016-11-15T18:07:28.00+09:00 Social/教育・研究/計算順序論争とその周辺/黒木玄 Gen Kurokiさんのツイート #掛算 httpst.coyEFMChdXNK httpst.coOENmrxp5GD 例の800円の50%を800÷2と解くことを減点したがる人達は単純に無知無能なのだと思う。
 URL=https://twitter.com/genkuroki/status/798712375004123136
+
+=2012-12-21T18:40:47.00+09:00 Social/教育・研究/計算順序論争とその周辺/黒木玄 Gen Kurokiさんのツイート #掛算 具体的なイメージを重視しているかのように見える人達が形式的な掛算の順序にこだわる教え方を擁護する様を見ると、とても不思議な気分になる。
+URL=https://twitter.com/genkuroki/status/282373377463836672
+
+=2014-02-10T18:40:47.00+09:00 Social/教育・研究/計算順序論争とその周辺/黒木玄 Gen Kurokiさんのツイート #掛算 割合の授業に関する実証的研究は httpst.coRkibnxYsVo からの連ツイで紹介してあります。
+URL=https://twitter.com/genkuroki/status/433089451787427840
 
 =2016-11-21T15:33:36.00+09:00 Social/教育・研究/計算順序論争とその周辺/黒木玄 Gen Kurokiさんのツイート #掛算 添付画像は、交換法則を教えた直後の掛算順序固定強制の典型例です。
 URL=https://twitter.com/genkuroki/status/800748230732460032
