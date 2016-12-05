@@ -25,6 +25,9 @@ URL=http://apicodes.hatenablog.com/entry/AI-WORLD
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/まとめ/2016年 やじうまPC Watch バックナンバー
 URL=http://pc.watch.impress.co.jp/docs/news/yajiuma/
 
+=2016-12-05T08:22:10.00+09:00 Computer/トピック/まとめ/2016年に話題になったWebサービスまとめ 男子ハック
+URL=http://www.danshihack.com/2016/12/05/junp/2016-webservice.html
+
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/まとめ/Advent Calendar 2015
 URL=https://qiita.com/advent-calendar/2015
 
@@ -69,6 +72,9 @@ URL=http://qiita.com/TomHortons/items/359f8e39b9cd424c2360
 
 =2016-11-22T07:58:58.00+09:00 Computer/トピック/まとめ/KaggleまとめBOSCH(winner) - Qiita
 URL=http://qiita.com/TomHortons/items/51aa356455c0b6e8945a
+
+=2016-12-05T08:04:53.00+09:00 Computer/トピック/まとめ/NLP機械学習データ分析系のDockerイメージ8選 + 1 - Qiita
+URL=http://qiita.com/yamitzky/items/80be0ec14c95ac793958
 
 =2016-05-17T07:43:49.00+09:00 Computer/トピック/まとめ/PFI official account(@preferred_jp)さん Twitter
 URL=https://twitter.com/preferred_jp
@@ -177,6 +183,9 @@ URL=http://tjo.hatenablog.com/
 
 =2016-07-15T10:26:41.00+09:00 Computer/トピック/まとめ/機械学習 - アルゴリズムの分類 - Weblio辞書
 URL=http://www.weblio.jp/wkpja/content/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92_%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E5%88%86%E9%A1%9E
+
+=2016-12-03T08:06:03.00+09:00 Computer/トピック/まとめ/機械学習DeepLearningデータ分析系のAdvent Calendarけっこうあるけど探しにくいから列挙する - Qiita
+URL=http://qiita.com/sudoyu/items/85a6268a6f8900596136
 
 =2016-08-26T07:22:23.00+09:00 Computer/トピック/まとめ/機械学習に使える、オープンデータ一覧　※随時更新 - Beginning AI
 URL=http://blog.beginning-ai.com/entry/open-data-index
@@ -349,8 +358,14 @@ URL=http://www.atmarkit.co.jp/ait/articles/1607/21/news049.html
 =2016-08-16T08:27:44.00+09:00 Computer/トピック/セキュリティ/【PICKUP】米国防高等研究計画局(DARPA)、人工知能対抗セキュリティ脆弱性発見修正技術コンテスト「Cyber Grand Challenge」を開催
 URL=http://www.ossnews.jp/oss_info/article.html?oid=7133
 
+=2016-12-02T08:15:39.00+09:00 Computer/トピック/セキュリティ/【セキュリティ ニュース】シマンテック、機械学習を活用した「SEP 14」 - パッカー対抗も（1ページ目 全2ページ）：Security NEXT
+URL=http://www.security-next.com/076343
+
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/セキュリティ/【ネットのちから】亡くなった叔父さんの日記が暗号で書かれてて読めないけど誰か！？→解読完了！#叔父日記暗号
 URL=http://togetter.com/li/749056?page=7
+
+=2016-12-02T07:51:55.00+09:00 Computer/トピック/セキュリティ/【プレスリリース】インテル セキュリティ、2017年と今後4年間のサイバー脅威予測を発表 - INTERNET Watch
+URL=http://internet.watch.impress.co.jp/docs/release/1032922.html
 
 =2016-08-24T09:01:47.00+09:00 Computer/トピック/セキュリティ/【マインドコマース調査報告】モノのインターネット（IoT）のセキュリティと詐欺防止における人工知能（AI）の市場
 URL=http://www.dreamnews.jp/press/0000137644/
@@ -1192,6 +1207,12 @@ URL=http://qiita.com/matobaa/items/2ebe035d6354d0481461
 =2016-11-30T09:52:45.00+09:00 Computer/トピック/ツール/オンプレミス/Jubatus/Jubatus をインストールして使ってみる【2016年版】 - Qiita
 URL=http://qiita.com/kmaehashi/items/6e953e42ae7c09d5ba51
 
+=2016-12-05T07:53:15.00+09:00 Computer/トピック/ツール/オンプレミス/Jubatus/jubatus-exampleを全部動かしてみる(後編) - Qiita
+URL=http://qiita.com/TkrUdagawa/items/0328a4d19e04121043c5
+
+=2016-12-04T08:01:21.00+09:00 Computer/トピック/ツール/オンプレミス/Jubatus/jubatus-exampleを全部動かしてみる（中編） - Qiita
+URL=http://qiita.com/TkrUdagawa/items/0c5c0891a48872f1174f
+
 =2016-12-01T10:01:40.00+09:00 Computer/トピック/ツール/オンプレミス/Jubatus/jubatus-exampleを全部動かしてみる（前編） - Qiita
 URL=http://qiita.com/TkrUdagawa/items/c07ef11fbc99ed18f49b
 
@@ -1275,6 +1296,9 @@ URL=http://qiita.com/nzw0301/items/1ee8f4735536bf3177e0
 
 =2016-05-18T07:56:47.00+09:00 Computer/トピック/ツール/オンプレミス/Keras/あれ...？chainerよりkerasの方が書きやすくね？ - MATHGRAM
 URL=http://ket-30.hatenablog.com/entry/keras/mnist
+
+=2016-12-04T07:47:30.00+09:00 Computer/トピック/ツール/オンプレミス/Keras/メンターとパンサーを人工知能に区別させてみた - Qiita
+URL=http://qiita.com/rikky0611/items/a2783252f4452ab8733b
 
 =2016-10-04T07:57:17.00+09:00 Computer/トピック/ツール/オンプレミス/Keras/手書きひらがなの認識で99.78%の精度をディープラーニングで - Qiita
 URL=http://qiita.com/yukoba/items/7a687e44395783eb32b1
@@ -1834,6 +1858,9 @@ URL=http://www.ossnews.jp/oss_info/article.html?oid=7703
 =2016-07-05T08:11:27.00+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/【社内勉強会】TensorFlowのCNNのMNIST学習コードを噛み砕いてみる - Qiita
 URL=http://qiita.com/To_Murakami/items/35d1b3144a0d017ad0ee
 
+=2016-12-05T07:56:25.00+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/お手軽にrealtime画像認識をAndroidiOSで動かす - Qiita
+URL=http://qiita.com/mainyaa/items/4b4e4d47868133410a96
+
 =2016-09-01T09:21:37.00+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/はじめての人工知能。CentOS7.0 でTensorflow。virtualenvで、python3.5系とpython2.7系に分けて構築。 - Qiita
 URL=http://qiita.com/Leonhard/items/188690df29fd91717c92
 
@@ -2199,6 +2226,9 @@ URL=http://codezine.jp/article/detail/7234
 
 =2016-10-04T07:57:08.00+09:00 Computer/トピック/ツール/クラウド/Amazon/【OSS解説】「Apache Spark」×「Amazon EMR」、簡単な機械学習のSparkアプリケーションを作成しAmazonEMRで実行
 URL=http://www.ossnews.jp/oss_info/article.html?oid=7391
+
+=2016-12-05T08:23:27.00+09:00 Computer/トピック/ツール/クラウド/Amazon/アマゾンが｢人工知能｣で先端にいられる秘密 インターネット 東洋経済オンライン 経済ニュースの新基準
+URL=http://toyokeizai.net/articles/-/147950
 
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/ツール/クラウド/Amazon/アマゾンのドル箱となったAWSがこれほど破壊的である理由
 URL=http://japan.zdnet.com/article/35072527/?google_editors_picks=true
@@ -2698,6 +2728,9 @@ URL=https://how-old.net/#
 =2016-05-30T10:12:48.00+09:00 Computer/トピック/ツール/クラウド/Microsoft/Microsoft Azure Machine Learning 日本語版アルゴリズムチートシートを公開しました（非公式） - 吉田の備忘録
 URL=http://ty-memo.azurewebsites.net/azure/microsoft-azure-machine-learning-%e6%97%a5%e6%9c%ac%e8%aa%9e%e7%89%88%e3%82%a2%e3%83%ab%e3%82%b4%e3%83%aa%e3%82%ba%e3%83%a0%e3%83%81%e3%83%bc%e3%83%88%e3%82%b7%e3%83%bc%e3%83%88%e3%82%92%e5%85%ac/
 
+=2016-11-30T08:16:21.00+09:00 Computer/トピック/ツール/クラウド/Microsoft/Microsoft Azureの機械学習サービス (Azure Machine LearningMicrosoft Cognitive …
+URL=http://www.slideshare.net/satonaoki/microsoft-azure-machine-learning-69700998
+
 =2016-10-08T10:25:27.00+09:00 Computer/トピック/ツール/クラウド/Microsoft/Microsoft Cognitive Servicesで人工知能を体験しよう！（Computer Vison API編） 知識創造研究室 by CRM（xRM）
 URL=http://artisan.jp.net/crmblogs/2016/10/08/963/
 
@@ -2742,6 +2775,9 @@ URL=http://japan.zdnet.com/article/35090208/
 
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/ツール/クラウド/Microsoft/【機械学習】AzureMLで合唱音楽レコメンドシステムTwitter Librarian作ってみた 
 URL=http://s2terminal.hatenablog.com/entry/2016/04/10/210355
+
+=2016-12-05T07:31:21.00+09:00 Computer/トピック/ツール/クラウド/Microsoft/なぜ、MSは「Dynamics 365」でERPとCRMを統合したのか (12) - ITmedia エンタープライズ
+URL=http://www.itmedia.co.jp/enterprise/articles/1612/05/news057.html
 
 =2016-07-21T07:38:34.00+09:00 Computer/トピック/ツール/クラウド/Microsoft/まず始めよう！Cortana Intelligence ギャラリーを使って統計分析・機械学習を10分で始める方法-Microsoft Japan Data Platform Tech Sales Team Blog
 URL=https://blogs.msdn.microsoft.com/dataplatjp/2016/07/21/%e3%81%be%e3%81%9a%e5%a7%8b%e3%82%81%e3%82%88%e3%81%86%ef%bc%81cortana-intelligence-%e3%82%ae%e3%83%a3%e3%83%a9%e3%83%aa%e3%83%bc%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e7%b5%b1%e8%a8%88%e5%88%86/
@@ -3279,6 +3315,9 @@ URL=http://qiita.com/cutting_the_Gordian_knot/items/0c3315dca6f2fa83b544
 
 =2016-12-03T08:38:49.00+09:00 Computer/トピック/ツール/言語・環境/Python/PRML第5章 ニューラルネットワーク Python実装 - Qiita
 URL=http://qiita.com/cutting_the_Gordian_knot/items/507f2f1531b870a973bf
+
+=2016-12-04T07:57:38.00+09:00 Computer/トピック/ツール/言語・環境/Python/PRML第5章 混合密度ネットワーク Python実装 - Qiita
+URL=http://qiita.com/cutting_the_Gordian_knot/items/19c4a4f205b855cf6a05
 
 =2015-05-15T07:17:14.00+09:00 Computer/トピック/ツール/言語・環境/Python/PyBrainを用いて強化学習をしてみた - Qiita
 URL=http://qiita.com/GushiSnow/items/bfb51afc7d57451bc036
@@ -3846,6 +3885,9 @@ URL=https://github.com/fortissimo1997/ruby-style-guide/blob/japanese/README.ja.m
 
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/ツール/言語・環境/Ruby/Ruby での REST (REpresentational State Transfer) を理解する
 URL=http://www.ibm.com/developerworks/jp/opensource/library/os-understand-rest-ruby/
+
+=2016-12-04T07:59:27.00+09:00 Computer/トピック/ツール/言語・環境/Ruby/Ruby でニューラルネットワーク - Qiita
+URL=http://qiita.com/elm200/items/24243e106013b6cda979
 
 =2013-05-02T07:58:18.00+09:00 Computer/トピック/ツール/言語・環境/Ruby/Ruby の YARD（Yardoc） の @ タグ - きたももんががきたん。
 URL=http://d.hatena.ne.jp/kitamomonga/20110825/ruby_yardoc_tag
@@ -4441,6 +4483,9 @@ URL=https://research-er.jp/articles/view/48900
 =2016-08-24T08:05:43.00+09:00 Computer/トピック/ビッグデータ・IoT/あなたの仕事を劇的に効率化！ 機械学習のインパクト - 第4回　機械学習をIoTに応用、人間の行動を認識・予測する：ITpro
 URL=http://itpro.nikkeibp.co.jp/atcl/column/16/062300135/080300004/?rt=nocnt
 
+=2016-12-02T07:34:39.00+09:00 Computer/トピック/ビッグデータ・IoT/なぜ人々は、ビッグデータを「不安」と感じるのか - ITmedia ビジネスオンライン
+URL=http://www.itmedia.co.jp/business/articles/1612/02/news127.html
+
 =2016-07-04T09:42:11.00+09:00 Computer/トピック/ビッグデータ・IoT/やっと分かった　ビッグデータアナリティクスでHadoopを使う理由 (13) － TechTargetジャパン データ分析
 URL=http://techtarget.itmedia.co.jp/tt/news/1606/30/news07.html
 
@@ -4563,6 +4608,9 @@ URL=http://www.nikkei.com/article/DGXLASDZ29IHB_Z20C16A8TJC000/
 
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/ビッグデータ・IoT/モノのインターネットで何がどう変わるのか
 URL=http://toyokeizai.net/articles/-/113807
+
+=2016-12-05T07:21:57.00+09:00 Computer/トピック/ビッグデータ・IoT/ルネサス、DevCon Japan 2017の開催を決定――2017年4月、東京に“近未来”が出現する - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1612/05/news001.html
 
 =2016-09-23T07:28:42.00+09:00 Computer/トピック/ビッグデータ・IoT/人の感情を無線信号で読み取れるデバイス　MITが開発 - ITmedia ニュース
 URL=http://www.itmedia.co.jp/news/articles/1609/23/news116.html
@@ -5851,6 +5899,9 @@ URL=http://www.bloglifer.net/entry/rankbrain-seo
 =2016-06-27T10:14:46.00+09:00 Computer/トピック/機械学習/応用/SEO・Web解析/RankBrainはロングテールによく機能するランキング要因、Googleは著者情報を完全に使っていないなどSEO最新情報 from #SMX Advanced 2016 海外SEO情報ブログ
 URL=https://www.suzukikenichi.com/blog/ama-google-search-with-gary-illyes/
 
+=2016-12-04T07:49:49.00+09:00 Computer/トピック/機械学習/応用/SEO・Web解析/Schooの動画レコメンドについて - Qiita
+URL=http://qiita.com/kamatari/items/4ba278f2d1227960861a
+
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/機械学習/応用/SEO・Web解析/SEOは最終形態へ -人工知能「Brain Rank」はサードインパクトとなり、新たな秩序を生み出す
 URL=http://www.wakatta-blog.com/brain-rank-google-seo.html
 
@@ -6090,6 +6141,9 @@ URL=http://forest.watch.impress.co.jp/docs/news/1030423.html
 
 =2016-10-11T08:24:37.00+09:00 Computer/トピック/機械学習/応用/その他/ディープラーニングで簡単に自動テストスクリプトが作れる「Magic Pot」 品質向上ブログ
 URL=http://blog.trident-qa.com/2016/10/introduce_magic_pot/
+
+=2016-12-02T08:19:59.00+09:00 Computer/トピック/機械学習/応用/その他/デザイナーがAIサービスと上手に付き合っていく方法 - Tortoise Shell
+URL=http://www.tortoise-shell.net/entry/2016/12/02/213508
 
 =2016-10-28T08:51:34.00+09:00 Computer/トピック/機械学習/応用/その他/データシティ鯖江のオープンデータを使って水位計の値を機械学習で予測してみる - Qiita
 URL=http://qiita.com/mix_dvd/items/fe2e04b8c5696f60a6ee
@@ -7273,6 +7327,9 @@ URL=http://jp.techcrunch.com/2016/05/10/20160509picturesqe/
 =2016-11-26T09:29:09.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/pix2pix(GAN)を使ってモノクロのおそ松くんをカラー画像にしてみた - 技術メモ集
 URL=http://t-nkb.hatenablog.com/entry/2016/11/26/120255
 
+=2016-12-05T07:50:42.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/pix2pixでポップアートから写真を復元してみた - Qiita
+URL=http://qiita.com/hiromu1996/items/38f1bd5a78336fa8ca25
+
 =2016-07-16T07:41:21.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/RaspberryPi3にカメラモジュールつけて撮影した画像をDeepLearningで分類してみた - Qiita
 URL=http://qiita.com/pia/items/40b55e038b333617c29a
 
@@ -7387,6 +7444,9 @@ URL=http://kiito.hatenablog.com/entry/2016/03/21/172431
 =2015-12-03T07:49:01.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/いまさら聞けないDeep Learning超入門（3）：もう絶望しない！ ディープラーニングによる画像認識のビジネス活用事例 (12) - ＠IT
 URL=http://www.atmarkit.co.jp/ait/articles/1512/03/news021.html
 
+=2016-12-05T07:56:25.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/お手軽にrealtime画像認識をAndroidiOSで動かす - Qiita
+URL=http://qiita.com/mainyaa/items/4b4e4d47868133410a96
+
 =2016-09-19T08:37:50.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/きゃすけっとで機械学習ネタした話 - Qiita
 URL=http://qiita.com/DoG_peer/items/5ab9efe779960a90924b
 
@@ -7459,6 +7519,9 @@ URL=http://www.gizmodo.jp/2016/06/s_6033.html
 =2016-11-25T08:03:24.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/マサチューセッツ工科大学が人工知能を駆使して世にあるあらゆるものをホラー化するシステムを作り上げた カラパイア
 URL=http://karapaia.livedoor.biz/archives/52228860.html
 
+=2016-12-04T07:47:30.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/メンターとパンサーを人工知能に区別させてみた - Qiita
+URL=http://qiita.com/rikky0611/items/a2783252f4452ab8733b
+
 =2016-05-09T09:19:32.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/ラフ画へ自動的にペン入れして線画にする恐るべきニューラルネットワーク技術を早稲田大学の研究室が開発 - GIGAZINE
 URL=http://gigazine.net/news/20160428-sketch-automatic-line-drawing/
 
@@ -7494,6 +7557,9 @@ URL=http://news.livedoor.com/article/detail/12338970/
 
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/機械学習/応用/画像認識・処理/写真に何がうつってる？Facebookの「人工知能」が分析、視覚障害の人に声で教える
 URL=http://news.biglobe.ne.jp/it/0406/inc_160406_8146993399.html
+
+=2016-12-05T12:11:06.00+09:00 Computer/トピック/機械学習/応用/画像認識・処理/写真をアニメ調に変換するアプリ「Everfilter」で著作権侵害か--運営元が謝罪 - CNET Japan
+URL=http://japan.cnet.com/news/service/35093173/
 
 =2015-07-05T23:59:59.99+09:00:00 Computer/トピック/機械学習/応用/画像認識・処理/凸版印刷｜凸版印刷、江戸期以前のくずし字を 高精度でテキストデータ化する新方式ＯＣＲ技術を開発
 URL=http://www.toppan.co.jp/news/2015/07/newsrelease150703_2.html
@@ -7644,6 +7710,9 @@ URL=http://pc.watch.impress.co.jp/docs/news/yajiuma/1025529.html
 
 =2016-08-01T09:28:29.00+09:00 Computer/トピック/機械学習/応用/自動運転・操縦/この手があったか...！どんな乗り物も自動運転にしてしまうソフトウェア「セレニアム」｜ギズモード・ジャパン
 URL=http://www.gizmodo.jp/2016/07/oxboticaselenium.html
+
+=2016-12-05T12:11:20.00+09:00 Computer/トピック/機械学習/応用/自動運転・操縦/アップル、米運輸当局宛て書簡で自動運転車に言及--「機械学習と自動化の研究」に投資 - CNET Japan
+URL=http://japan.cnet.com/news/business/35093168/
 
 =2016-10-13T09:31:07.00+09:00 Computer/トピック/機械学習/応用/自動運転・操縦/アメーバから学ぶロボット開発--「振動」がAI研究を進化させる - ZDNet Japan
 URL=http://japan.zdnet.com/article/35089335/
@@ -7888,6 +7957,9 @@ URL=http://qiita.com/okappy/items/32a7ba7eddf8203c9fa1
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/機械学習/応用/自然言語処理/[マイナビニュース] 小松左京さん遺作も完結？ - AI研究に作品データ提供 
 URL=https://twitter.com/news_mynavi/status/692084231061708800
 
+=2016-09-07T08:17:26.00+09:00 Computer/トピック/機械学習/応用/自然言語処理/■ 機械学習で絵文字の意味を知る - にほんごのれんしゅう
+URL=http://catindog.hatenablog.com/entry/2016/09/07/115626
+
 =2016-05-06T08:59:59.99+09:00:00 Computer/トピック/機械学習/応用/自然言語処理/Studio Ousiaが日本語対応キーワード抽出エンジン「Semantic Kernel」をリリース %7c TechCrunch Japan
 URL=http://jp.techcrunch.com/2016/04/04/studio-ousia-semantic-kernel/
 
@@ -8088,6 +8160,9 @@ URL=http://www.isus.jp/article/idz/android/developing-android-applications-with-
 
 =2016-09-21T08:16:44.00+09:00 Computer/トピック/機械学習/応用/自然言語処理/高速と噂のfastTextの仕組み - Qiita
 URL=http://qiita.com/n_kats_/items/2691c08639468e30abdd
+
+=2016-12-05T21:43:16.00+09:00 Computer/トピック/機械学習/応用/自然言語処理/ＡＩが国会答弁下書き　経産省が実証実験　　：日本経済新聞
+URL=http://www.nikkei.com/article/DGXLASDF05H0D_V01C16A2EAF000/
 
 =2016-10-06T14:03:06.00+09:00 Computer/トピック/機械学習/応用/農業/ASCII.jp：ポケットマルシェ、全国の農家漁師から直接食材が買えるアプリ｜ガチっとスタートアップ
 URL=http://ascii.jp/elem/000/001/235/1235690/
@@ -8341,6 +8416,9 @@ URL=http://qiita.com/yuku_t/items/6844aac6008911401b19
 =2016-07-05T07:37:39.00+09:00 Computer/トピック/機械学習/理論/Action value Actor-Critic型Policy Gradientによる連続値動作の強化学習 - Qiita
 URL=http://qiita.com/chachay/items/9c9ab150bd8fb454059b
 
+=2016-12-04T08:02:29.00+09:00 Computer/トピック/機械学習/理論/AdaBoost の弱学習器を色々試してみた - Qiita
+URL=http://qiita.com/antimon2/items/8761cea58f498e4ff74b
+
 =2016-09-01T09:03:39.00+09:00 Computer/トピック/機械学習/理論/AdaGrad, RMSProp, AdaDelta, Adam, SMORMS3 - Qiita
 URL=http://qiita.com/skitaoka/items/e6afbe238cd69c899b2a
 
@@ -8590,6 +8668,9 @@ URL=http://qiita.com/cutting_the_Gordian_knot/items/8ce8bb87794d43abb521
 =2016-12-03T08:38:49.00+09:00 Computer/トピック/機械学習/理論/PRML第5章 ニューラルネットワーク Python実装 - Qiita
 URL=http://qiita.com/cutting_the_Gordian_knot/items/507f2f1531b870a973bf
 
+=2016-12-04T07:57:38.00+09:00 Computer/トピック/機械学習/理論/PRML第5章 混合密度ネットワーク Python実装 - Qiita
+URL=http://qiita.com/cutting_the_Gordian_knot/items/19c4a4f205b855cf6a05
+
 =2016-11-27T08:33:53.00+09:00 Computer/トピック/機械学習/理論/pythonでHMMのパラメータ推定実装 - Qiita
 URL=http://qiita.com/ta-ka/items/3e5306d0432c05909992
 
@@ -8742,6 +8823,9 @@ URL=http://qiita.com/HirofumiYashima/items/b6e69170d4167659136c
 
 =2016-09-07T07:41:24.00+09:00 Computer/トピック/機械学習/理論/【 要点整理 】脳型コンピュータ・アーキテクチャ（Neuromorphic computing）～ IBM TrueNorthチップ を 中心に - Qiita
 URL=http://qiita.com/HirofumiYashima/items/e2808c65a97445f3ea71
+
+=2016-12-05T07:43:44.00+09:00 Computer/トピック/機械学習/理論/【 計算論的神経科学 × 人工知能 】HTM（ Hierarchical Temporal Memory ）理論 入門-脳大脳新皮質モデル の知見をベースにした 人工知能モデル - Qiita
+URL=http://qiita.com/HirofumiYashima/items/ff3ec6f61252fcf7ca29
 
 =2016-09-10T08:52:37.00+09:00 Computer/トピック/機械学習/理論/【 調査メモ 】先端AI設計 に おける「遺伝的ファジィ決定木」アルゴリズム の 有用性 ～ RaspberryPi上で動作可能 な 軽量 無人戦闘機(UCAVs) 制御プログラム
 URL=http://qiita.com/HirofumiYashima/items/33b45cdbe59b55ca7e87
@@ -10510,6 +10594,9 @@ URL=http://techon.nikkeibp.co.jp/atcl/news/16/072903326/
 =2016-11-30T11:45:43.00+09:00 Computer/トピック/社会動向/企業/AIソリューションを活用したデジタルマーケティングの試験運用について インターネット広告 DAC
 URL=http://www.dac.co.jp/press/2016/20161130_sbi_automagi
 
+=2016-12-05T08:26:20.00+09:00 Computer/トピック/社会動向/企業/AIファーストに近づいた、米メディア「Quartz」 ビジュアルシンキング
+URL=http://www.visualthinking.jp/archives/29068
+
 =2016-07-04T09:53:28.00+09:00 Computer/トピック/社会動向/企業/AI・機械学習のモデル作成を自動化するシステム - 日経テクノロジーオンライン
 URL=http://techon.nikkeibp.co.jp/atcl/news/16/070102873/?n_cid=nbptec_tecrs&rt=nocnt
 
@@ -10623,6 +10710,9 @@ URL=http://www.nikkei.com/article/DGXLZO05540720R00C16A8FFB000/
 
 =2014-11-04T23:59:59.99+09:00:00 Computer/トピック/社会動向/企業/Amazon/アマゾン、消費者の注文前に発送する特許を取得
 URL=http://jp.wsj.com/articles/SB10001424052702303572904579331461929753406
+
+=2016-12-05T08:23:27.00+09:00 Computer/トピック/社会動向/企業/Amazon/アマゾンが｢人工知能｣で先端にいられる秘密 インターネット 東洋経済オンライン 経済ニュースの新基準
+URL=http://toyokeizai.net/articles/-/147950
 
 =2016-10-04T08:33:37.00+09:00 Computer/トピック/社会動向/企業/Amazon/アマゾンも参入！｢実店舗｣が流行するワケ DIGIDAY［日本版］ 東洋経済オンライン 経済ニュースの新基準
 URL=http://toyokeizai.net/articles/-/138604
@@ -11076,6 +11166,9 @@ URL=http://gigazine.net/news/20161109-astro-teller-interview/
 
 =2016-10-05T08:52:08.00+09:00 Computer/トピック/社会動向/企業/Google/Googleの純正スマホ「Google Pixel」は一体どんな端末なのか、実際に操作してみたムービー - GIGAZINE
 URL=http://gigazine.net/news/20161005-google-pixel-hands-on/
+
+=2016-12-04T08:21:23.00+09:00 Computer/トピック/社会動向/企業/Google/GoogleはAIを使って検索機能を改良しているのではなく、検索機能を使ってAIを改良している フジイユウジドットネット
+URL=http://fujii-yuji.net/2016/12/deeplearning.html
 
 =2016-08-20T07:17:18.00+09:00 Computer/トピック/社会動向/企業/Google/GoogleはWindows, Mac, Linux用のChromeアプリを徐々に廃止へ、Webへの移行ツールを提供 TechCrunch Japan
 URL=http://jp.techcrunch.com/2016/08/20/20160819chrome-apps/
@@ -11613,6 +11706,9 @@ URL=http://www.atmarkit.co.jp/ait/articles/1611/04/news067.html
 
 =2016-10-19T08:45:26.00+09:00 Computer/トピック/社会動向/企業/Microsoft/「コンピューターによる音声認識は人間の耳と同レベルに達した」とMicrosoftが発表 - GIGAZINE
 URL=http://gigazine.net/news/20161019-computer-human-voice-recognition/
+
+=2016-12-05T07:31:21.00+09:00 Computer/トピック/社会動向/企業/Microsoft/なぜ、MSは「Dynamics 365」でERPとCRMを統合したのか (12) - ITmedia エンタープライズ
+URL=http://www.itmedia.co.jp/enterprise/articles/1612/05/news057.html
 
 =2016-11-29T08:51:27.00+09:00 Computer/トピック/社会動向/企業/Microsoft/オファー条件は最も低かったが… 日本マイクロソフト社長が転職を決断した理由 （NIKKEI STYLE） - Yahoo!ニュース
 URL=http://zasshi.news.yahoo.co.jp/article?a=20161129-00000002-nikkeisty-bus_all
@@ -13840,6 +13936,9 @@ URL=http://www3.nhk.or.jp/news/html/20161019/k10010735631000.html
 =2016-11-30T08:27:34.00+09:00 Computer/トピック/社会動向/政府・関連機関/国がん　AI活用でプレシジョン・メディシン実現目指す　創薬、診断への応用も 国内ニュース ニュース ミクスOnline
 URL=https://www.mixonline.jp/Article/tabid/55/artid/54902/Default.aspx
 
+=2016-12-05T08:26:38.00+09:00 Computer/トピック/社会動向/政府・関連機関/国の人工知能の権利や活用の方針を決める委員会を傍聴してきた - bohemia日記
+URL=http://bohemia.hatenablog.com/entry/2016/12/05/175853
+
 =2016-08-26T09:04:11.00+09:00 Computer/トピック/社会動向/政府・関連機関/国産AIのプラットフォーム構築　総務省、来年度概算要求に12億円 - ITmedia ニュース
 URL=http://www.itmedia.co.jp/news/articles/1608/26/news055.html
 
@@ -13926,6 +14025,9 @@ URL=http://headlines.yahoo.co.jp/hl?a=20160802-00000078-jij-pol
 
 =2016-08-24T09:44:13.00+09:00 Computer/トピック/社会動向/政府・関連機関/黒田総裁 フィンテック活用に向け研究 NHKニュース
 URL=http://www3.nhk.or.jp/news/html/20160823/k10010650861000.html
+
+=2016-12-05T21:43:16.00+09:00 Computer/トピック/社会動向/政府・関連機関/ＡＩが国会答弁下書き　経産省が実証実験　　：日本経済新聞
+URL=http://www.nikkei.com/article/DGXLASDF05H0D_V01C16A2EAF000/
 
 =2016-06-20T08:49:49.00+09:00 Computer/トピック/社会動向/政府・関連機関/ＡＩで中古住宅査定、正確に　国交省がデータ公開　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLZO03804340Z10C16A6NN1000/
