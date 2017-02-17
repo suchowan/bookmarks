@@ -35,7 +35,7 @@ http://hosi.org:4000/bookmarks が参照しているブックマークです。
 
 # スクリプト
 
-ブックマークファイルを扱う Ruby スクリプトを Github の [scripts](https://github.com/suchowan/bookmarks/tree/master/scripts) に置きました。
+ブックマークファイルを扱う Ruby スクリプトを GitHub の [scripts](https://github.com/suchowan/bookmarks/tree/master/scripts) に置きました。
 
 ## list2dir.rb
 
