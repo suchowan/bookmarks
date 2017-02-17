@@ -35,6 +35,26 @@ http://hosi.org:4000/bookmarks が参照しているブックマークです。
 
 # スクリプト
 
+ブックマークファイルを扱う Ruby スクリプトを Github の [scripts](https://github.com/suchowan/bookmarks/tree/master/scripts) に置きました。
+
+・ list2dir.rb
+
+プレインテキストのブックマークリストをショートカット・ディレクトリに展開します。
+
+・ dir2list.rb
+
+ショートカット・ディレクトリからプレインテキストのブックマークリストを生成します。
+
+・ collect.rb
+
+[FESSサーバ](http://hosi.org:8090)の収集結果とショートカット・ディレクトリの差分情報をリスト化します。
+
+HTML としているのはブラウザの履歴機能を利用するためです。
+
+・ crawl.rb
+
+ショートカット・ディレクトリの実体ファイルを収集します。
+
 scripts ディレクトリに入ってスクリプトを実行すると、下記の例のような変換・データ収集ができます。
 
  $ ruby list2dir.rb ../bookmarks/computer.url.txt ../trees/bookmarks
