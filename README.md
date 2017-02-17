@@ -33,8 +33,40 @@ http://hosi.org:4000/bookmarks が参照しているブックマークです。
 
 ・本情報の更新は不定期です。
 
+# スクリプト
+
+scripts ディレクトリに入ってスクリプトを実行すると、下記の例のような変換・データ収集ができます。
+
+ $ ruby list2dir.rb ../bookmarks/computer.url.txt ../trees/bookmarks
+
+../bookmarks/computer.url.txt にしたがって、../trees/bookmarks 配下に実際のショートカットファイルを階層的に配置します。
+
+ $ ruby list2dir.rb ../bookmarks/sig.url.txt ../trees/bookmarks
+
+../bookmarks/sig.url.txt にしたがって、../trees/bookmarks 配下に実際のショートカットファイルを階層的に配置します。
+
+ $ ruby dir2list.rb ../trees/bookmarks computer.filter.txt > comp.txt
+
+../trees/bookmarks 配下の実際のショートカットファイルから computer.filter.txt で指定した階層のショートカットを抽出し、computer.url.txt 相当のファイルを生成します。
+
+ $ ruby dir2list.rb ../trees/bookmarks sig.filter.txt > comp.txt
+
+../trees/bookmarks 配下の実際のショートカットファイルから sig.filter.txt で指定した階層のショートカットを抽出し、sig.url.txt 相当のファイルを生成します。
+
+ $ ruby cellect.rb 3 ../bookmarks/computer.url.txt > cellected.html
+
+hosi.org:8090 で提供している FESS サーバから最近3日分の収集結果を取り出し、../bookmarks/computer.url.txt に登録されている(か、またはタイトルが16字以上一致する)エントリを除外してリスト化します。
+
+ $ ruby cellect.rb 3 ../bookmarks/computer.url.txt ../bookmarks/excludes.url.txt > cellected.html
+
+hosi.org:8090 で提供している FESS サーバから最近3日分の収集結果を取り出し、../bookmarks/computer.url.txt と ../bookmarks/excludes.url.txt のどちらかに登録されている(か、またはタイトルが16字以上一致する)エントリを除外してリスト化します。
+
+ $ ruby crawl.rb  ../trees/bookmarks computer.filter.txt
+
+../trees/bookmarks 配下の実際のショートカットファイルから computer.filter.txt で指定した階層のショートカットを抽出し、その実体を収集して ../trees/bookmarks.crawled 配下に置きます。
+
 # LICENCE
 
-CC0 1.0 Universal
+  ブックマークファイルは CC0 1.0 Universal、スクリプトは MIT Licence です。
 
 
