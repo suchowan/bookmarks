@@ -130,11 +130,17 @@ URL=http://japanese.engadget.com/2016/08/15/anniversary-update-windows-ssd/
 =2016-09-06T20:36:05+09:00 Computer/OS/Windows/ASCII.jp：Macはもう不要! - UNIX使い狙い撃ちの「Windows Subsystem for Linux」を検証する（後編） (13)
 URL=http://ascii.jp/elem/000/001/220/1220509/
 
+=2017-02-10T08:05:27+09:00 Computer/OS/Windows/Bash on Windowsが強化、Linux版のJavaやGo、PostgreSQLなどもWindowsで実行可能に。3月リリースのWindows 10 Creators Updateで － Publickey
+URL=http://www.publickey1.jp/blog/17/bash_on_windows_creators_update.html
+
 =2016-10-02T11:48:16+09:00 Computer/OS/Windows/How to Uninstall (or Reinstall) Windows 10’s Ubuntu Bash Shell
 URL=http://www.howtogeek.com/261188/how-to-uninstall-or-reinstall-windows-10s-ubuntu-bash-shell/
 
 =2016-08-09T07:34:53+09:00 Computer/OS/Windows/ITはみ出しコラム：Windows 10「Anniversary Update」の新機能で画面にさっと直線を引いてみた - ITmedia PC USER
 URL=http://www.itmedia.co.jp/pcuser/articles/1608/07/news013.html
+
+=2017-02-26T08:27:56+09:00 Computer/OS/Windows/NVIDIA GPUが搭載されたWindows 10にTensorFlowとChainerをインストールしてDeep Learningの学習環境を構築してみる - Qiita
+URL=http://qiita.com/kekekekenta/items/19972a45025a97330e21
 
 =2016-11-06T08:06:11+09:00 Computer/OS/Windows/TensorFlowをWindowsでビルドする - Qiita
 URL=http://qiita.com/icoxfog417/items/b27563c398e5cee1e6bd
@@ -298,6 +304,9 @@ URL=http://pc-life.pulog.net/2016/08/21/amazon-fire-tv-stick-%E3%81%A8-google-ch
 =2017-01-08T07:41:45+09:00 Computer/ハードウェア/Amazonの音声操作できるテレビに期待すること - ITmedia PC USER
 URL=http://www.itmedia.co.jp/pcuser/articles/1701/08/news012.html
 
+=2017-02-23T21:40:11+09:00 Computer/ハードウェア/AMD、“Intel i7より高性能”と謳う「Ryzen 7」を3月2日発売へ - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1702/23/news060.html
+
 =2016-08-21T05:59:37+09:00 Computer/ハードウェア/AMDが「Intelと戦える場所に帰ってきた」と新アーキテクチャZen世代のCPU「Summit Ridge」の概要を明らかに - GIGAZINE
 URL=http://gigazine.net/news/20160819-amd-zen-summit-ridge/
 
@@ -411,6 +420,9 @@ URL=http://qiita.com/nonbiri15/items/635ba96cf2c8f82f5040
 
 =2016-10-28T15:23:13+09:00 Computer/ハードウェア/MacBook Proのメモリー・ストレージのBTO価格が高い理由 - Togetterまとめ
 URL=http://togetter.com/li/1042253
+
+=2017-02-21T07:32:55+09:00 Computer/ハードウェア/MEMSセンサー100個を1カ月で、日立の3Dプリント - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1702/21/news021.html
 
 =2016-08-15T09:09:59+09:00 Computer/ハードウェア/MIT出身エンジニアが20カ月かけて開発した「ただのペン」｜WIRED.jp
 URL=http://wired.jp/2016/08/12/riind-the-pen/
@@ -784,6 +796,9 @@ URL=http://www.riken.jp/pr/press/2016/20160629_1/
 =2016-05-06T09:00:00+09:00 Computer/ハードウェア/久しぶりの東京モーターショー、いちばん感じ入ったのが「アルトワークス」だった理由
 URL=http://trendy.nikkeibp.co.jp/atcl/column/15/1062892/110100001/?P=4
 
+=2017-02-24T07:40:27+09:00 Computer/ハードウェア/人工知能で睡眠を管理！適切な温度を保つAI搭載マットレス『MOORING』｜APPREVIEW
+URL=http://app-review.jp/news/320739
+
 =2016-11-28T08:04:12+09:00 Computer/ハードウェア/人工知能とロボットの関係、「自動運転」で考えれば分かりやすい 森山和道の「ロボット」基礎講座｜ビジネス+IT
 URL=http://www.sbbit.jp/article/cont1/32945
 
@@ -888,6 +903,9 @@ URL=http://news.mynavi.jp/articles/2016/11/02/yogabook/
 
 =2016-11-08T07:54:57+09:00 Computer/ハードウェア/東京新聞人工知能が暮らし操る　米で対話型端末が相次ぎ発売経済(TOKYO Web)
 URL=http://www.tokyo-np.co.jp/article/economics/list/201611/CK2016110802000135.html
+
+=2017-02-24T14:05:04+09:00 Computer/ハードウェア/東工大TSUBAME3.0スパコン開発に見るグローバルなエコシステム(津田建二) - 個人 - Yahoo!ニュース
+URL=https://news.yahoo.co.jp/byline/tsudakenji/20170224-00068032/
 
 =2017-02-17T16:08:01+09:00 Computer/ハードウェア/東工大、現行の2倍の性能となるスパコンを開発 ～日本最速のAIスパコン誕生へ - PC Watch
 URL=http://pc.watch.impress.co.jp/docs/news/1044828.html
@@ -1282,6 +1300,9 @@ URL=http://toyokeizai.net/articles/-/75247?page=3
 =2016-05-06T09:00:00+09:00 Entertainment/ゲーム/将棋/ネット将棋こそが今後の将棋界を広げる鍵になる%3f　将棋電王戦が貢献した将棋ファン層の拡大
 URL=http://japanese.engadget.com/2015/11/12/shogi/
 
+=2017-02-22T07:39:35+09:00 Entertainment/ゲーム/将棋/プロ棋士とコンピュータソフトが戦う「電王戦」は今年で最後　ドワンゴと将棋連盟が発表 - ねとらぼ
+URL=http://nlab.itmedia.co.jp/nl/articles/1702/22/news108.html
+
 =2016-11-24T08:43:11+09:00 Entertainment/ゲーム/将棋/プロ棋士・羽生善治が語る、AI時代を生き抜くために「身につけるべきスキル」とは？｜CodeIQ MAGAZINE
 URL=https://codeiq.jp/magazine/2016/11/47092/
 
@@ -1332,6 +1353,9 @@ URL=http://www3.nhk.or.jp/news/html/20161018/k10010734201000.html
 
 =2016-10-06T08:50:24+09:00 Entertainment/ゲーム/将棋/将棋、囲碁、チェス　強くなる人工知能とそれぞれの向き合い方
 URL=https://www.buzzfeed.com/harunayamazaki/shogi-smartphone?utm_term=.jjnb6JwBa#.goQELvZKx
+
+=2017-02-22T21:43:41+09:00 Entertainment/ゲーム/将棋/将棋「電王戦」今春で終了へ　川上会長「歴史的役割は終わった」 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1702/22/news130.html
 
 =2014-05-25T07:45:23+09:00 Entertainment/ゲーム/将棋/将棋のルーツ分かる「酔象」なるほどランド中日新聞(CHUNICHI Web)
 URL=http://web.archive.org/web/20150414015324/http://www.chunichi.co.jp/article/junior/naruhodo/201311/CK2013112402000185.html
@@ -2047,6 +2071,9 @@ URL=http://karapaia.livedoor.biz/archives/52039473.html
 =2017-02-02T10:59:04+09:00 Science/医学/移植用ＥＳ細胞をストック、研究機関に供給へ　京大 （京都新聞） - Yahoo!ニュース
 URL=http://headlines.yahoo.co.jp/hl?a=20170202-00000020-kyt-sctch
 
+=2017-02-23T09:09:28+09:00 Science/医学/糖尿病予備群の方へ　最も怖いのは心臓病！：朝日新聞デジタル
+URL=http://www.asahi.com/articles/SDI201702169293.html
+
 =2016-09-07T12:48:55+09:00 Science/医学/脚を組むのは体に悪いか - WSJ
 URL=http://jp.wsj.com/news/articles/SB10131342344550994625404582296722906966252?google_editors_picks=true
 
@@ -2437,6 +2464,9 @@ URL=http://sorae.jp/030201/2016_06_16_gravity.html
 =2016-05-06T09:00:00+09:00 Science/天文学/トピック/【AFP記者コラム】北極圏で皆既日食を見上げて
 URL=http://www.afpbb.com/articles/-/3043886?blog=webryblog
 
+=2017-02-23T09:13:43+09:00 Science/天文学/トピック/【地球型惑星発見】地球に似た惑星７個回る　３９光年先の恒星で　生命育む可能性も - 産経ニュース
+URL=http://www.sankei.com/life/news/170223/lif1702230001-n1.html
+
 =2016-10-29T15:22:14+09:00 Science/天文学/トピック/【早﨑公威】巨大ブラックホールの謎を明らかにする糸口を発見
 URL=https://newspicks.com/news/1861530/body/
 
@@ -2550,6 +2580,9 @@ URL=http://sorae.jp/030201/2016_04_06_ten.html
 
 =2016-08-28T13:22:49+09:00 Science/天文学/トピック/地球によく似た惑星「プロキシマb」、4光年先に発見。最も太陽系に近く、生命存在の可能性も （sorae.jp） - Yahoo!ニュース
 URL=http://headlines.yahoo.co.jp/hl?a=20160825-00010000-sorae_jp-sctch
+
+=2017-02-23T09:13:49+09:00 Science/天文学/トピック/地球に似た惑星：７個発見　３９光年離れた恒星の周りに - 毎日新聞
+URL=http://mainichi.jp/articles/20170223/k00/00m/040/166000c
 
 =2016-05-16T12:25:25+09:00 Science/天文学/トピック/天文学が太陽系の準惑星で最大の名無し天体を偶然発見（動画）
 URL=http://jp.sputniknews.com/science/20160514/2135147.html
@@ -5023,6 +5056,9 @@ URL=http://www.cybozu.net/news/national/20170118k0000m040165000c.html
 =2016-05-06T09:00:00+09:00 SIG/暦/トピック/愛知県警が「星座から見た交通死亡事故の特徴」を公開　「気をつけよう」「星座占いなの？」と賛否両論
 URL=http://headlines.yahoo.co.jp/hl?a=20150904-00000069-it_nlab-sci
 
+=2015-09-07T09:10:14+09:00 SIG/暦/トピック/愛知県警察／星座から見た交通死亡事故の特徴
+URL=https://www.pref.aichi.jp/police/koutsu/topics/seiza.html
+
 =2014-10-01T00:00:00+09:00 SIG/暦/トピック/改元
 URL=https://ja.wikipedia.org/wiki/%E6%94%B9%E5%85%83
 
@@ -6715,6 +6751,9 @@ URL=http://japan.cnet.com/news/business/35093755/
 =2016-12-18T09:16:18+09:00 Social/メディア/「クラウドソーシングサイトも共犯だ」　キュレーションメディア炎上騒動についてWELQ記事寄稿ライターが怒りの告発　 - ねとらぼ
 URL=http://nlab.itmedia.co.jp/nl/articles/1612/13/news140.html
 
+=2017-02-22T21:39:20+09:00 Social/メディア/「ジャポニカから虫が消えた」騒動は“つくられた”ものだった〈dot.〉｜dot.ドット 朝日新聞出版
+URL=https://dot.asahi.com/dot/2017022100102.html
+
 =2016-12-18T09:16:38+09:00 Social/メディア/「ステマ」疑惑の岩手放送　訂正後も残る５つの責任(水島宏明) - 個人 - Yahoo!ニュース
 URL=http://bylines.news.yahoo.co.jp/mizushimahiroaki/20161218-00065596/
 
@@ -6729,6 +6768,9 @@ URL=http://www.huffingtonpost.jp/2016/10/07/daisuke-tsuda-interview_n_12383414.h
 
 =2016-10-30T12:45:48+09:00 Social/メディア/「ハロウィンで外国人が配ってたクッキーに覚醒剤が入ってた」というのが回って来たがそれ真偽確認したのか？ - Togetterまとめ
 URL=http://togetter.com/li/1043009
+
+=2017-02-24T14:24:22+09:00 Social/メディア/「マスコミが報じない」は本当？　神道小学校めぐる疑惑、各紙の報道状況を調べてみた
+URL=https://www.buzzfeed.com/kotahatachi/what-is-mizuhonokuni6?utm_term=.phojaOV9n
 
 =2016-12-19T08:22:55+09:00 Social/メディア/「マスゴミ批判」がこの国にとって「百害あって一利なし」である理由（辻田 真佐憲） 現代ビジネス 講談社（13）
 URL=http://gendai.ismedia.jp/articles/-/50470
@@ -7119,6 +7161,9 @@ URL=http://www.j-cast.com/2017/01/05287436.html?p=2
 
 =2016-05-06T09:00:00+09:00 Social/メディア/加藤隆則 読売新聞 社内報からも削除された最後のメッセージ
 URL=http://blog.goo.ne.jp/kato-takanori2015/e/251cc8c1848e51dd571966890c6c6661
+
+=2017-02-25T14:03:22+09:00 Social/メディア/厚木のFA18、６割飛べず　在日米軍、東京新聞の「憶測」記事に遺憾表明(楊井人文) - 個人 - Yahoo!ニュース
+URL=https://news.yahoo.co.jp/byline/yanaihitofumi/20170225-00068085/
 
 =2016-05-06T09:00:00+09:00 Social/メディア/古舘氏降番、試されるテレビ報道の覚悟
 URL=http://www.huffingtonpost.jp/hiroyuki-abe/future-of-television_b_9607108.html
@@ -8077,6 +8122,9 @@ URL=http://ddnavi.com/news/320587/a/
 =2016-05-06T09:00:00+09:00 Social/教育・研究/一生食えるなら出世しないでいいやという欲のない連中が企業で何年も利益の出にくい基礎研究やっていた事だと。
 URL=https://twitter.com/Q47SM9/status/712145908612210689
 
+=2017-02-21T12:41:10+09:00 Social/教育・研究/世界がよく見えているのは大人より子供 - WSJ
+URL=http://jp.wsj.com/articles/SB11107114851997343508104582634633619534286?google_editors_picks=true
+
 =2016-12-05T08:23:21+09:00 Social/教育・研究/世界最大の語学学習アプリ「Duolingo」の研究者に聞いた、外国語学習に成功する人としない人の違い ｜ ライフハッカー［日本版］
 URL=http://www.lifehacker.jp/2016/12/161205_duolingo_hagiwara_interview.html
 
@@ -8233,6 +8281,9 @@ URL=https://twitter.com/ke_1sato/status/734712059124932609
 =2016-05-24T07:17:09+09:00 Social/教育・研究/図書館/再考：武雄の蘭学資料について - Togetterまとめ
 URL=http://togetter.com/li/978725
 
+=2017-02-22T12:39:46+09:00 Social/教育・研究/図書館/図書館　広がる相互利用…横浜と４市 地域 読売新聞（YOMIURI ONLINE）
+URL=http://www.yomiuri.co.jp/local/kanagawa/news/20170221-OYTNT50236.html
+
 =2016-05-06T09:00:00+09:00 Social/教育・研究/図書館/図書館の役割否定した民営化
 URL=http://www.h5.dion.ne.jp/~chosyu/tosyokannoyakuwarihiteisitamineika.html
 
@@ -8268,6 +8319,9 @@ URL=https://twitter.com/pinpinkiri/status/617888644343336960
 
 =2016-11-13T12:42:35+09:00 Social/教育・研究/図書館/市立図書館閉館「今どき５時とは」…試行で６時 社会 読売新聞（YOMIURI ONLINE）
 URL=http://www.yomiuri.co.jp/national/20161113-OYT1T50072.html?from=yartcl_outbrain2
+
+=2017-02-22T09:08:17+09:00 Social/教育・研究/図書館/広島大学図書館、教科書コレクション画像データベースで全文画像を公開 カレントアウェアネス・ポータル
+URL=http://current.ndl.go.jp/node/33514
 
 =2016-11-08T10:19:12+09:00 Social/教育・研究/図書館/日本時代の出版物など1万冊以上 電子化資料が無料閲覧可能に／台湾 社会 中央社フォーカス台湾
 URL=http://japan.cna.com.tw/news/asoc/201611080008.aspx
@@ -8461,6 +8515,9 @@ URL=http://www.tanteifile.com/geinou/scoop_2014/03/29_01/
 =2016-11-29T06:37:47+09:00 Social/教育・研究/教員の養成・採用・研修 制度改革でどう変わる？ 教育新聞 電子版
 URL=https://www.kyobun.co.jp/close-up/cu20161129/
 
+=2017-02-22T14:05:24+09:00 Social/教育・研究/教師がクラスの「いじめ」への対処を誤ってしまう理由。 Books&Apps
+URL=http://blog.tinect.jp/?p=37119
+
 =2016-05-06T09:00:00+09:00 Social/教育・研究/教科で分断される教育について
 URL=http://togetter.com/li/900425
 
@@ -8571,6 +8628,9 @@ URL=http://gigazine.net/news/20170112-duolingo-half-life-regression/
 
 =2016-05-06T09:00:00+09:00 Social/教育・研究/熊本市にいる１７歳の高校生の方が、文科省やそこら辺の大学教授よりも英語教育について理解している件について
 URL=https://twitter.com/ivy0110/status/706311853652086785
+
+=2015-02-22T14:06:25+09:00 Social/教育・研究/物理教育の現状と問題点 - vol38-1-08.pdf
+URL=https://www.t-kougei.ac.jp/research/pdf/vol38-1-08.pdf
 
 =2012-12-13T00:00:00+09:00 Social/教育・研究/琴棋書画#琴棋詩書画
 URL=https://ja.wikipedia.org/wiki/%E7%90%B4%E6%A3%8B%E6%9B%B8%E7%94%BB#.E7.90.B4.E6.A3.8B.E8.A9.A9.E6.9B.B8.E7.94.BB
@@ -8814,6 +8874,9 @@ URL=http://kyoko-np.net/2016070101.html
 
 =2016-06-12T14:28:20+09:00 Social/教育・研究/頭の体操が解けなくて殺意を抱く理系の人々 - Togetterまとめ
 URL=http://togetter.com/li/984622
+
+=2013-04-17T14:07:10+09:00 Social/教育・研究/高校での物理 大栗博司のブログ
+URL=http://planck.exblog.jp/19851405/
 
 =2017-02-09T07:06:00+09:00 Social/教育・研究/高校に「昼寝クラブ」、成績向上にも効果的 - WSJ
 URL=http://jp.wsj.com/articles/SB11367774349816344181604582610661325973998
@@ -9135,6 +9198,9 @@ URL=http://style.nikkei.com/article/DGXBZO19177890R01C10A2AA1P01
 
 =2017-02-14T07:33:04+09:00 Social/紀行/奥のとトロッコ鉄道｜能登半島-能登町観光ガイド
 URL=http://www.notocho.jp/feature/notoro/
+
+=2016-05-15T14:04:32+09:00 Social/紀行/宇都宮市内の公共交通機関の状況について（JR宇都宮駅～東武宇都宮駅を歩いての雑感） - Togetterまとめ
+URL=https://togetter.com/li/976061
 
 =2013-09-26T00:00:00+09:00 Social/紀行/巨人伝説の謎を追え%7Eイギリス・ブリテン諸島 グレートネイチャー - NHK
 URL=http://www4.nhk.or.jp/greatnature/x/2013-09-23/10/7428/
@@ -9463,6 +9529,9 @@ URL=http://www.huffingtonpost.jp/2016/08/10/world-map-wealth_n_11419268.html
 =2015-09-10T00:00:00+09:00 Social/統計/「早生まれは自殺リスクが30％高くなる」…大阪大が調査 %7c ハザードラボ
 URL=http://www.hazardlab.jp/know/topics/detail/1/1/11113.html
 
+=2015-10-07T09:13:11+09:00 Social/統計/「早生まれは自殺リスクが30％高くなる」…大阪大が調査 ハザードラボ
+URL=http://www.hazardlab.jp/know/topics/detail/1/1/11113.html
+
 =2016-06-22T20:10:51+09:00 Social/統計/「研究　欧米ではどんどん減っているのに　なぜ、日本人ばかりが「がん」で死ぬのか」を読んで(中川恵一氏関連 2014.10.15) - Togetterまとめ
 URL=http://togetter.com/li/732282
 
@@ -9733,11 +9802,17 @@ URL=http://www.yomiuri.co.jp/kodomo/jyuken/japanese/20150603-OYT8T50060.html?fro
 =2016-10-09T15:02:39+09:00 Social/言語・文字/なぜ赤ちゃんはどこの国でも最初に「ママ」と言うのか - GIGAZINE
 URL=http://gigazine.net/news/20130519-baby-say/
 
+=2017-02-26T14:03:53+09:00 Social/言語・文字/なんだかよく分からなかった「アラビア語」が、グッと身近になるイラスト TABI LABO
+URL=http://tabi-labo.com/280346/arabic-words
+
 =2016-05-06T09:00:00+09:00 Social/言語・文字/ぶっちゃけ
 URL=http://www.google.co.jp/trends/explore#q=%E3%81%B6%E3%81%A3%E3%81%A1%E3%82%83%E3%81%91
 
 =2016-05-06T09:00:00+09:00 Social/言語・文字/アイヌ民族が話すアイヌ語で民話を聞くことができるデータベース「アイヌ語口承文芸コーパス」が公開される。
 URL=http://karapaia.livedoor.biz/archives/52214793.html
+
+=2017-02-25T08:09:33+09:00 Social/言語・文字/アブラカダブラ！謎の呪文はどういう意味だった？｜ギズモード・ジャパン
+URL=http://www.gizmodo.jp/2017/02/the-fascinating-secret-origin-of-abracadabra.html
 
 =2016-05-09T00:00:00+09:00 Social/言語・文字/アホ・バカ分布図 - Wikipedia
 URL=https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9B%E3%83%BB%E3%83%90%E3%82%AB%E5%88%86%E5%B8%83%E5%9B%B3
