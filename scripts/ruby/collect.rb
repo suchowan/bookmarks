@@ -9,7 +9,7 @@
     ruby collect.rb (<period>) (<collected>) (<excluded>) > <new links>
 
     pediod    : Collection period / day (default : 1)
-    collected : Path name of the collected internet shortcut list file (default : ../bookmarks/computer.url.txt)
+    collected : Path name of the collected internet shortcut list file (default : ../../bookmarks/computer.url.txt)
     excluded  : Path name of the excluded internet shortcut list file (default : non)
     new links : Collected links (HTML format)
 =end
@@ -130,7 +130,7 @@ def crawl(days, registered, exclude=true)
 end
 
 
-registered = crawled(ARGV[1]||'../bookmarks/computer.url.txt').merge(crawled(ARGV[2]))
+registered = crawled(ARGV[1]||'../../bookmarks/computer.url.txt').merge(crawled(ARGV[2]))
 
 no = 0
 puts HTML % (crawl((ARGV[0]||1).to_i, registered).sort_by {|k,v| v.first}.map { |article|
