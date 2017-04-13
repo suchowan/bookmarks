@@ -3,9 +3,9 @@ Takashi SUGA's personal bookmarks for computer and other special interest items
 
 本データは[須賀隆](http://hosi.org:3000/TakashiSuga.ttl)のブックマークのうち下記で利用するために公開する部分を抜き出したものです。
 
-## 機械学習関連 - compueter.url.txt
+## 機械学習関連 - compueter.url.txt, computer.keywords.txt
 
-[機械学習関連情報の収集と分類(構想)](http://qiita.com/suchowan/items/459062590f7134dfc138)のⒹに相当するブックマークです。
+[機械学習関連情報の収集と分類(構想)](http://qiita.com/suchowan/items/459062590f7134dfc138)のⒹに相当するブックマークとキーワードです。
 
 ![こんなふうにして作ったもの](https://qiita-image-store.s3.amazonaws.com/0/144985/95d8f8f2-831c-19b8-7c67-de2973a7b0f6.png)
 
@@ -55,6 +55,18 @@ HTML としているのはブラウザの履歴機能を利用するためです
 
 ショートカット・ディレクトリの実体ファイルを収集します。
 
+## keyword2dir.rb
+
+プレインテキストのキーワードリストをキーワード・ディレクトリに展開します。
+
+## dir2keyword.rb
+
+キーワード・ディレクトリからプレインテキストのキーワードリストを生成します。
+
+## merge_keywords.rb
+
+プレインテキストのキーワードリストをマージして同義語辞書を生成します。
+
 ## 使用例
 
 scripts ディレクトリに入ってスクリプトを実行すると、下記の例のような変換・データ収集ができます。
@@ -86,6 +98,18 @@ hosi.org:8090 で提供している FESS サーバから最近3日分の収集�
  $ ruby crawl.rb  ../../trees/bookmarks computer.filter.txt
 
 ../../trees/bookmarks 配下の実際のショートカットファイルから computer.filter.txt で指定した階層のショートカットを抽出し、その実体を収集して ../../trees/bookmarks.crawled 配下に置きます。
+
+ $ ruby keyword2dir.rb ../../bookmarks/computer.keywords.txt ../../trees/bookmarks
+
+../../bookmarks/computer.keywords.txt にしたがって、../../trees/bookmarks 配下に実際のキーワードファイルを階層的に配置します。
+
+ $ ruby dir2keyword.rb ../../trees/bookmarks computer.filter.txt > keywords.txt
+
+../../trees/bookmarks 配下の実際のキーワードファイルから computer.filter.txt で指定した階層のキーワードを抽出し、computer.keywords.txt 相当のファイルを生成します。
+
+ $ ruby merge_keywords.rb ../../bookmarks/computer.keywords.txt computer.filter.txt > synonyms.txt
+
+../../bookmarks/computer.keywords.txt にしたがって、computer.filter.txt で指定した階層のキーワードを抽出し、同義語辞書を生成します。
 
 # LICENCE
 
