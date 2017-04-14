@@ -346,6 +346,9 @@ URL=http://www.social-recruiting.jp/archives/13937
 =2017-02-10T07:24:43+09:00 Computer/トピック/まとめ/ちゃんと追い付けてる？Google Home, Amazon EchoなどAIアシスタント2017年展望まとめ - BITA デジマラボ
 URL=https://bita.jp/dml/aiassistants_2017
 
+=2016-05-25T11:30:31+09:00 Computer/トピック/まとめ/もう来てるぞ！AI × Analytics でアクセス解析の常識を変えるかもしれないツールまとめ - BITA デジマラボ
+URL=https://bita.jp/dml/aianalytics
+
 =2016-04-25T08:56:09+09:00 Computer/トピック/まとめ/もう遠い技術じゃない？ビジネスの現場を変え始めた AI導入事例9個 - BITA デジマラボ
 URL=https://bita.jp/dml/bizfieldai9
 
@@ -498,6 +501,9 @@ URL=http://blog.tokoproject.com/entry/2016/10/09/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E3%
 
 =2016-09-10T07:33:46+09:00 Computer/トピック/まとめ/強化学習で参考になったサイトまとめ - Qiita
 URL=http://qiita.com/eve_yk/items/2ace6d4c1dad7e912df1
+
+=2016-06-21T11:24:46+09:00 Computer/トピック/まとめ/意外にあった!日本語の形態素解析ツールまとめ - BITA デジマラボ
+URL=https://bita.jp/dml/morpho_analysis_japan
 
 =2017-02-20T08:04:42+09:00 Computer/トピック/まとめ/新生活の準備に！ライフサポートAI（人工知能）アプリ4選 - Ameba News [アメーバニュース]
 URL=http://news.ameba.jp/20170220-562/
@@ -5422,6 +5428,12 @@ URL=http://www.fsi.co.jp/company/news/111221.html
 =2016-05-06T09:00:00+09:00 Computer/トピック/ツール/ソフトウェアシステム/富士通を退職した話
 URL=http://anond.hatelabo.jp/20160413023627
 
+=2017-02-27T11:29:02+09:00 Computer/トピック/ツール/ソフトウェアシステム/形態素解析/janome/GitHub - mocobetajanome Japanese morphological analysis engine written in pure Python
+URL=https://github.com/mocobeta/janome
+
+=2016-10-14T11:20:02+09:00 Computer/トピック/ツール/ソフトウェアシステム/形態素解析/JUMAN++/JUMAN++ - KUROHASHI-KAWAHARA LAB
+URL=http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++
+
 =2016-10-14T09:31:19+09:00 Computer/トピック/ツール/ソフトウェアシステム/形態素解析/JUMAN++/新形態素解析器JUMAN++を触ってみたけど思ったより高精度でMeCabから乗り換えようかと思った話 - Qiita
 URL=http://qiita.com/riverwell/items/438e88427363511e9f28
 
@@ -5454,6 +5466,9 @@ URL=http://qiita.com/riverwell/items/438e88427363511e9f28
 
 =2017-04-10T07:43:00+09:00 Computer/トピック/ツール/ソフトウェアシステム/形態素解析/TermExtract/TermExtractで手軽にキーワード抽出 for Python - Qiita
 URL=http://qiita.com/EastResident/items/0cdc7c5ac1f0a6b3cf1d
+
+=2016-06-21T11:24:46+09:00 Computer/トピック/ツール/ソフトウェアシステム/形態素解析/意外にあった!日本語の形態素解析ツールまとめ - BITA デジマラボ
+URL=https://bita.jp/dml/morpho_analysis_japan
 
 =2016-05-06T09:00:00+09:00 Computer/トピック/ツール/ソフトウェアシステム/技術的負債という(非エンジニアにとっての)隠しパラメータが生産性100倍を起こす
 URL=http://mizchi.hatenablog.com/entry/2014/02/19/210801
@@ -10651,6 +10666,9 @@ URL=http://www.gizmodo.jp/2016/11/ai-writer-employ.html
 =2016-06-08T08:47:58+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/Wix ADI Design AI That Will Change Website Creation
 URL=http://www.wix.com/blog/2016/06/wix-artificial-design-intelligence/
 
+=2017-01-08T11:16:45+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/[Part3]記者がAIと速報記事で対決！ -- 福音か災いか -- 朝日新聞GLOBE
+URL=http://globe.asahi.com/feature/article/2016122700007.html?page=3
+
 =2016-05-06T09:00:00+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/[マイナビニュース] 小松左京さん遺作も完結？ - AI研究に作品データ提供 
 URL=https://twitter.com/news_mynavi/status/692084231061708800
 
@@ -10704,6 +10722,9 @@ URL=http://fnmnl.tv/2017/03/19/25445
 
 =2016-11-28T09:04:24+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/イケメン俳優・玉木宏さんと「あなた」の熱愛が発覚! 人工知能が恋愛ストーリーを考えてくれるウェブサービスがすんごい ケンジゴ
 URL=http://kenji5.com/?p=34393
+
+=2017-04-13T09:21:52+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/クリエイター界激震　簡単にキーフレームアニメを作れるソフトに「無料で公開していいクオリティじゃない」の声 - ねとらぼ
+URL=http://nlab.itmedia.co.jp/nl/articles/1704/13/news119.html
 
 =2016-11-28T09:28:47+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/コンテンツ生成はAIにまかせる時代に？AIライティング・リライトツール『Articoolo』が凄かった - ウェブと食べ物と趣味のこと
 URL=http://www.weblog-life.net/entry/Articoolo
@@ -12136,6 +12157,9 @@ URL=https://itnandemo.com/ai-analyst_info/
 =2017-02-24T07:30:50+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/Google、“毒コメント”にリアルタイムで対処する機械学習API「Perspective」公開 - ITmedia NEWS
 URL=http://www.itmedia.co.jp/news/articles/1702/24/news061.html
 
+=2017-03-23T11:32:43+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/Google無双…開幕ッ！GA完全連携ABテストツール『Google Optimize 無償版』ついにリリース - BITA デジマラボ
+URL=https://bita.jp/dml/gaoptimize_release
+
 =2016-12-04T07:49:49+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/Schooの動画レコメンドについて - Qiita
 URL=http://qiita.com/kamatari/items/4ba278f2d1227960861a
 
@@ -12228,6 +12252,9 @@ URL=https://wacul-ai.com/blog/ga-keyword/
 
 =2016-10-19T07:48:10+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/【連載】データと調査で“愛されWeb”を作る　最終回：なぜ調査が役に立たないのか――プロが語る「失敗する理由」 (12) - ITmedia マーケティング
 URL=http://marketing.itmedia.co.jp/mm/articles/1610/20/news011.html
+
+=2016-05-25T11:30:31+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/もう来てるぞ！AI × Analytics でアクセス解析の常識を変えるかもしれないツールまとめ - BITA デジマラボ
+URL=https://bita.jp/dml/aianalytics
 
 =2016-12-12T10:22:40+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/アイレップ　SEM総合研究所　渡辺隆広が選出2016年検索エンジンマーケティング業界10大ニュースを発表｜株式会社アイレップのニュースリリース
 URL=http://www.news2u.net/releases/150884
@@ -14035,6 +14062,9 @@ URL=http://gigazine.net/news/20170407-deeply-artificial-trees/
 =2017-04-06T07:24:54+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/カラーの組み合わせもついに人工知能で！指定色から最適な色の組み合わせを導きだすツール -Colormind コリス
 URL=http://coliss.com/articles/build-websites/operation/design/generate-color-palettes-by-ai.html
 
+=2017-04-13T09:21:52+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/クリエイター界激震　簡単にキーフレームアニメを作れるソフトに「無料で公開していいクオリティじゃない」の声 - ねとらぼ
+URL=http://nlab.itmedia.co.jp/nl/articles/1704/13/news119.html
+
 =2017-03-01T08:11:58+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/グラフィック薄氷大魔王［510］ラクガキを写真っぽく変換する「pix2pix」／吉井 宏 - 日刊デジクリ
 URL=http://bn.dgcr.com/archives/20170301140100.html
 
@@ -15499,6 +15529,9 @@ URL=http://news.mynavi.jp/news/2016/11/04/452/
 =2016-05-06T09:00:00+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/gooラボ 形態素解析APIを試してみる
 URL=http://pierre3.hatenablog.com/entry/2014/12/13/001743
 
+=2016-10-14T11:20:02+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/JUMAN++ - KUROHASHI-KAWAHARA LAB
+URL=http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN++
+
 =2017-01-29T09:38:54+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/mikan.js - 機械学習を用いず日本語の改行問題を解決 MOONGIFT
 URL=http://www.moongift.jp/2017/01/mikan-js-%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%82%92%E7%94%A8%E3%81%84%E3%81%9A%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E6%94%B9%E8%A1%8C%E5%95%8F%E9%A1%8C%E3%82%92%E8%A7%A3%E6%B1%BA/
 
@@ -15534,6 +15567,9 @@ URL=http://qiita.com/HirofumiYashima/items/84dc00541ddc071fade3
 
 =2017-01-05T08:32:34+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/古文品詞分解サービスへの道 第1回 - illegal function call in 1980s
 URL=http://dk4130523.hatenablog.com/entry/2017/01/05/201748
+
+=2016-06-21T11:24:46+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/意外にあった!日本語の形態素解析ツールまとめ - BITA デジマラボ
+URL=https://bita.jp/dml/morpho_analysis_japan
 
 =2016-12-28T11:40:54+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/教師なし形態素解析で頻出語を可視化する-ご注文は機械学習ですか？
 URL=http://musyoku.github.io/2016/12/28/%E6%95%99%E5%B8%AB%E3%81%AA%E3%81%97%E5%BD%A2%E6%85%8B%E7%B4%A0%E8%A7%A3%E6%9E%90%E3%81%A7%E9%A0%BB%E5%87%BA%E8%AA%9E%E3%82%92%E5%8F%AF%E8%A6%96%E5%8C%96%E3%81%99%E3%82%8B/
@@ -15808,11 +15844,23 @@ URL=http://www.slideshare.net/kazoo04/ss-56821735
 =2016-12-05T08:25:35+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/自然言語処理の深層学習において転移学習はうまく行くのか - yasuhisa's blog
 URL=http://www.yasuhisay.info/entry/2016/12/05/000000
 
+=2014-01-27T10:47:59+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/Automatic summarization
+URL=https://www.slideshare.net/hitoshin/automatic-summarization?qid=d14a3a3c-7cb3-409f-aada-a3a8c3f6009c&v=&b=&from_search=1
+
+=2014-08-30T10:06:31+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/RPubs - 始めようテキスト自動要約 - @Tokyo.R #41
+URL=https://rpubs.com/yamano357/27317
+
+=2017-01-08T11:16:45+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/[Part3]記者がAIと速報記事で対決！ -- 福音か災いか -- 朝日新聞GLOBE
+URL=http://globe.asahi.com/feature/article/2016122700007.html?page=3
+
 =2017-02-13T07:09:43+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/なにこれ、超楽じゃん。会議の議事録を自動でいい感じに作成するclarke.aiがイケてる - BITA デジマラボ
 URL=https://bita.jp/dml/clarke-ai
 
 =2017-02-26T08:49:13+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/自然言語処理における、Attentionの耐えられない短さ - Qiita
 URL=http://qiita.com/icoxfog417/items/f170666d81f773e4b1a7
+
+=2010-02-15T09:29:32+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/重要文抽出によるWebページ要約のためのHTMLテキスト分割-広島市立大学機関リポジトリ
+URL=http://harp.lib.hiroshima-u.ac.jp/hiroshima-cu/detail/553220100215085639
 
 =2017-02-09T08:13:31+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/ＡＩパソコンが秘書がわりに　ＮＥＣＰＣ、開発めざす：朝日新聞デジタル
 URL=http://www.asahi.com/articles/ASK1T435YK1TULFA00D.html
@@ -19674,9 +19722,6 @@ URL=http://tomoyaishida.com/seven-pokers
 
 =2017-03-17T08:59:45+09:00 Computer/トピック/社会動向/ソフトウエア、それが問題だ　Software Matters - 若者がITを目指さない、その放置は日本産業自滅への道である：ITpro
 URL=http://itpro.nikkeibp.co.jp/atcl/column/16/090800199/031400008/?itp_side_recentlist
-
-=2017-03-31T07:58:54+09:00 Computer/トピック/社会動向/ゾーホージャパン/ユーザー体験を向上させる「攻めの統合監視」とは：ビジネスのデジタル化の落とし穴「何か遅い」アプリやシステムの原因、分かってますか？ - ＠IT
-URL=http://www.atmarkit.co.jp/ait/articles/1703/31/news010.html
 
 =2016-06-28T07:23:18+09:00 Computer/トピック/社会動向/チェス、囲碁に続き空中戦も。人工知能が元米軍パイロットに圧勝 TABI LABO
 URL=http://tabi-labo.com/272954/ai-top-guns/
@@ -23641,6 +23686,9 @@ URL=https://book.mynavi.jp/manatee/series/detail/id=65670
 =2016-08-24T07:54:45+09:00 Computer/トピック/社会動向/企業/TIS/漫画で会話学ぶＡＩ　ＴＩＳら手法を研究へ　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXMZO06355330S6A820C1X1A000/
 
+=2010-02-15T09:29:32+09:00 Computer/トピック/社会動向/企業/TIS/重要文抽出によるWebページ要約のためのHTMLテキスト分割-広島市立大学機関リポジトリ
+URL=http://harp.lib.hiroshima-u.ac.jp/hiroshima-cu/detail/553220100215085639
+
 =2017-02-04T07:57:44+09:00 Computer/トピック/社会動向/企業/TIS/ＴＩＳ、自律走行型ロボが警備　大学発ＶＢに出資　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLZO12549000U7A200C1TJC000/
 
@@ -24793,6 +24841,9 @@ URL=https://www.preferred-networks.jp/ja/news/pr20170315
 =2017-03-09T07:37:21+09:00 Computer/トピック/社会動向/企業/ソラスト/ソラスト、FRONTEOの人工知能KIBITを活用し、新入社員の離職を防ぐ取り組みを開始(証券コード2158 IR 書類ナビゲータ)
 URL=http://navigator.eir-parts.net/EIRNavi/DocumentNavigator/ENavigatorBody.aspx?cat=tdnet&sid=1449661&code=2158&ln=ja&disp=simple
 
+=2017-03-31T07:58:54+09:00 Computer/トピック/社会動向/企業/ゾーホージャパン/ユーザー体験を向上させる「攻めの統合監視」とは：ビジネスのデジタル化の落とし穴「何か遅い」アプリやシステムの原因、分かってますか？ - ＠IT
+URL=http://www.atmarkit.co.jp/ait/articles/1703/31/news010.html
+
 =2016-06-22T13:21:59+09:00 Computer/トピック/社会動向/企業/タグピク/タグピク社、人工知能（AI）を活用した次世代型キャスティングシステム「#CASPIC（キャスピク）」を開発。 PR PRESS
 URL=http://www.prpress.jp/info.php?type=press&id=P0001991
 
@@ -24849,6 +24900,9 @@ URL=http://gigazine.net/news/20160729-disney-shoes-patent/
 
 =2017-04-09T08:42:30+09:00 Computer/トピック/社会動向/企業/ディップ/ディップ、日本初のAI・人工知能ベンチャー支援制度「AI. Accelerator」を開始 Social Game Info
 URL=http://gamebiz.jp/?p=182196
+
+=2017-04-10T11:36:43+09:00 Computer/トピック/社会動向/企業/ディップ/ディップが開始した『AI.Accelerator』にメディアパートナーとしてBITAデジマラボは参加します - BITA デジマラボ
+URL=https://bita.jp/dml/ai-accelerator_media_partner
 
 =2017-02-24T09:29:59+09:00 Computer/トピック/社会動向/企業/デカルト/人工知能AIサービス「＋シナプス」開始のお知らせ 高精度ディープラーニングで作る新たな未来指向ビジネス。 株式会社　デカルト
 URL=http://www.dreamnews.jp/press/0000148042/
@@ -27870,6 +27924,9 @@ URL=http://itpro.nikkeibp.co.jp/atcl/column/15/110400255/070500010/
 
 =2016-09-17T07:56:52+09:00 Computer/トピック/社会動向/教育と職業と人工知能の影響
 URL=http://blogos.com/article/190946/
+
+=2017-04-14T11:35:10+09:00 Computer/トピック/社会動向/数理脳化学の世界的権威 甘利俊一に聞いた第三次AIブームに「足りていないモノ」 - BITA デジマラボ
+URL=https://bita.jp/dml/amari
 
 =2016-07-15T09:03:55+09:00 Computer/トピック/社会動向/断言しよう、チャットボットブームは去るし関連ビジネスも失敗するよ
 URL=http://anond.hatelabo.jp/20160714211518
