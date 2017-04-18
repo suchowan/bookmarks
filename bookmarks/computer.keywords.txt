@@ -181,7 +181,7 @@ Fess
 Anemone
 キーワードフォルダ
 
-=2017-03-22T08:46:03+09:00 Computer/トピック/ビッグデータ/IoT/keywords
+=2017-04-18T07:06:50+09:00 Computer/トピック/ビッグデータ/IoT/keywords
 インダストリー4.0,第４次産業革命
 エクスペリエンス4.0
 スマート
@@ -190,6 +190,7 @@ BigQuery
 MAGELLAN BLOCKS
 センサーネット
 ビジネス2.0
+LoRaWAN,ローラワン
 
 =2017-04-13T10:22:15+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -832,8 +833,8 @@ NATESAS
 =2017-03-29T14:22:25+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ
 
-=2017-03-29T14:20:11+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
-Oshi-el
+=2017-04-18T07:25:05+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
+Oshi-el,オシエル
 
 =2017-03-29T14:27:20+09:00 Computer/トピック/社会動向/企業/Nuance/keywords
 Nuance,ニュアンス・コミュニケーションズ・ジャパン,ニュアンス・コミュニケーションズ
@@ -858,7 +859,7 @@ Dynamics NAV
 ディープインサイツ,ディープインサイト,Deep Insights
 KAIBER
 
-=2017-03-29T14:51:58+09:00 Computer/トピック/社会動向/企業/PFN/keywords
+=2017-03-29T14:51:58+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
 PFI,Preferred Infrastructure,プリファードインフラストラクチャー
 PFN,Preferred Networks,プリファード・ネットワークス
 Chainer
@@ -1412,8 +1413,10 @@ TREASURE DMP
 =2017-04-10T14:38:18+09:00 Computer/トピック/社会動向/企業/ナカバヤシ/keywords
 CUTPEN
 
-=2017-04-10T14:39:52+09:00 Computer/トピック/社会動向/企業/ニューロープ/keywords
+=2017-04-18T07:42:47+09:00 Computer/トピック/社会動向/企業/ニューロープ/keywords
 AI-CATCHER
+#CBK scnnr,カブキスキャナー
+ファッションおじさん
 
 =2017-04-10T14:41:24+09:00 Computer/トピック/社会動向/企業/ネイバー/keywords
 ネイバー,NAVER
