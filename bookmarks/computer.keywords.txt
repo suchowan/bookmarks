@@ -144,6 +144,9 @@ SAS Visual Data Mining and Machine Learning
 =2017-03-21T14:01:14+09:00 Computer/トピック/ツール/クラウド/その他/WolframAlpha/keywords
 Wolfram Alpha
 
+=2017-05-02T12:36:26+09:00 Computer/トピック/ツール/クラウド/その他/ドワンゴ/keywords
+紅莉栖
+
 =2017-03-17T16:22:58+09:00 Computer/トピック/ツール/ソフトウェアシステム/ソフトウェアツール/mitoco/keywords
 テラスカイ,TerraSky
 エコモット
@@ -485,6 +488,9 @@ AYA
 議事録
 秘書
 
+=2017-05-02T10:45:36+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
+声認識
+
 =2017-03-23T11:35:25+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
@@ -589,9 +595,10 @@ Musio
 =2017-04-17T08:22:47+09:00 Computer/トピック/社会動向/企業/ALBERT/keywords
 Deepsearch Logo
 
-=2017-03-28T14:39:09+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2017-05-02T07:32:12+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 AWS
 Alexa
+Echo Look
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -787,6 +794,9 @@ KDDI TV通訳
 =2017-03-29T11:44:01+09:00 Computer/トピック/社会動向/企業/LINE/keywords
 Clova
 LINE Customer Connect
+
+=2017-05-02T09:56:53+09:00 Computer/トピック/社会動向/企業/LOHACO/keywords
+マナミさん
 
 =2017-04-24T07:57:22+09:00 Computer/トピック/社会動向/企業/Megvii/keywords
 Face++,フェイス++,フェイスプラスプラス
@@ -1067,6 +1077,10 @@ ATERU Bot AI
 =2017-03-30T11:30:46+09:00 Computer/トピック/社会動向/企業/イード/keywords
 marble
 
+=2017-05-02T08:40:28+09:00 Computer/トピック/社会動向/企業/イーネットソリューションズ/keywords
+Foundational Components,FCサービス
+Watson Knowledge Studio,WKSサービス
+
 =2017-03-30T11:27:57+09:00 Computer/トピック/社会動向/企業/イー・ガーディアン/keywords
 イー・ガーディアン,E-Guardian
 E-Trident
@@ -1292,8 +1306,9 @@ AI-Xプロジェクト
 =2017-03-30T14:51:23+09:00 Computer/トピック/社会動向/企業/ジャストシステム/keywors
 ATOK
 
-=2017-04-17T07:36:11+09:00 Computer/トピック/社会動向/企業/ジョリーグッド/keywords
+=2017-05-02T08:13:05+09:00 Computer/トピック/社会動向/企業/ジョリーグッド/keywords
 VRCHEL,ヴァーチェル
+VRCH,ヴァーチ
 
 =2017-04-13T10:28:28+09:00 Computer/トピック/社会動向/企業/スクウェア・エニックス/keywords
 ファイナルファンタジー
@@ -1341,6 +1356,9 @@ Pepper
 
 =2017-04-04T07:24:28+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
+
+=2017-05-02T07:58:34+09:00 Computer/トピック/社会動向/企業/ソースネクスト/keywords
+ロゼッタストーン
 
 =2017-04-03T07:59:50+09:00 Computer/トピック/社会動向/企業/ゾーホージャパン/keywords
 ManageEngine OpManager,OpManager
@@ -1410,8 +1428,9 @@ Sonarman
 =2017-04-10T14:16:01+09:00 Computer/トピック/社会動向/企業/データアーティスト/keywords
 DLPO
 
-=2017-04-10T14:18:01+09:00 Computer/トピック/社会動向/企業/データセクション/keywords
+=2017-05-02T10:13:55+09:00 Computer/トピック/社会動向/企業/データセクション/keywords
 利用シーン発掘サービス
+AI-PR
 
 =2017-04-10T14:37:40+09:00 Computer/トピック/社会動向/企業/トッパン/keywords
 トッパン,凸版
@@ -1425,9 +1444,10 @@ TREASURE DMP
 =2017-04-10T14:33:54+09:00 Computer/トピック/社会動向/企業/トークノート/keywords
 トークノート,Talknote
 
-=2017-04-21T10:35:24+09:00 Computer/トピック/社会動向/企業/ドワンゴ/keywords
+=2017-05-02T07:51:49+09:00 Computer/トピック/社会動向/企業/ドワンゴ/keywords
 ドワンゴ,DWANGO
 ニコニコ,niconico
+紅莉栖
 
 =2017-04-10T14:33:17+09:00 Computer/トピック/社会動向/企業/ドーグ/keywords
 サウザー
@@ -1543,6 +1563,9 @@ brain insight matching
 プラネット・テーブル,Planet Table
 SEND
 
+=2017-05-02T10:13:36+09:00 Computer/トピック/社会動向/企業/ベクトル/keywords
+AI-PR
+
 =2017-04-11T10:02:21+09:00 Computer/トピック/社会動向/企業/ベジタリア/keywords
 ベジタリア植物病院
 
@@ -1647,8 +1670,9 @@ KANADE DSP
 =2017-04-11T14:03:34+09:00 Computer/トピック/社会動向/企業/任天堂/keywords
 任天堂,Nintendo
 
-=2017-04-11T14:22:13+09:00 Computer/トピック/社会動向/企業/八楽/keywords
+=2017-05-02T08:02:54+09:00 Computer/トピック/社会動向/企業/八楽/keywords
 AiLingual,アイリンガル
+ヤラクゼン
 
 =2017-04-11T14:19:22+09:00 Computer/トピック/社会動向/企業/博報堂/keywords
 ラジオプリント
