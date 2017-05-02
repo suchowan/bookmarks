@@ -36,14 +36,16 @@ class Article:
         for encoding in self.encodings:
             try:
                 all = ' '.join([line.rstrip('\r\n') for line in codecs.open(path, 'r', encoding)])
-                parts = re.split("(?i)<(body|frame)[^>]*>", all, 1)
+                parts = re.split("(?i)<(body|frame).*?>", all, 1)
                 if len(parts) == 3:
                     head, void, body = parts
                 else:
                     print('Cannot split ' + path)
                     body = all
                 body = re.sub(r"(?i)<(script|style|select).*?>.*?</\1\s*>"," ", body)
-                body = re.sub("(?i)</?(" + "|".join(self.block_level_tags) + ")(>|[^a-z].*?>)",' _BLOCK_LEVEL_TAG_ ', body)
+                body = re.sub("(?i)</?(" +
+                              "|".join(self.block_level_tags) +
+                              ")(>|[^a-z].*?>)",' _BLOCK_LEVEL_TAG_ ', body)
                 body = re.sub(r"(?i)<a\s.+?>",' _ANCHOR_LEFT_TAG_ ', body)
                 body = re.sub("(?i)</a>",' _ANCHOR_RIGHT_TAG_ ', body)
                 body = re.sub("(?i)<[/a-z].*?>", " ", body)
@@ -122,10 +124,7 @@ class TextUnit:
             match += 1
         if 100 * self.categories['助動詞'] / self.categories['自立'] >= 6:
             match += 1
-        if match >= 3:
-            return True
-        else:
-            return False
+        return match >= 3
 
     def preprocess(self, text):
         text = re.sub("&[^;]+;",  " ", text)
