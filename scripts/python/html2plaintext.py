@@ -35,10 +35,10 @@ class Article:
     def get_contents(self):
         for encoding in self.encodings:
             try:
-                all = ' '.join([line.rstrip('\r\n') for line in codecs.open(self.path, 'r', encoding)])
-                parts = re.split("(?i)<(body|frame).*?>", all, 1)
-                if len(parts) == 3:
-                    head, void, body = parts
+                lines = ' '.join([line.rstrip('\r\n') for line in codecs.open(self.path, 'r', encoding)])
+                parts = re.split("(?i)<(?:body|frame).*?>", lines, 1)
+                if len(parts) == 2:
+                    head, body = parts
                 else:
                     print('Cannot split ' + self.path)
                     body = all
