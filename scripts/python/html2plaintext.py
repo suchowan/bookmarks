@@ -28,7 +28,7 @@ class Article:
         "th", "thead", "tr"
         ]) + ")(>|[^a-z].*?>)")
 
-    def __init__(self,path):
+    def __init__(self, path):
         print(path)
         self.path = path
         self.contents = self.get_contents()
@@ -37,46 +37,65 @@ class Article:
     def get_contents(self):
         for encoding in self.encodings:
             try:
-                lines = ' '.join([line.rstrip('\r\n') for line in codecs.open(self.path, 'r', encoding)])
-                parts = re.split("(?i)<(?:body|frame).*?>", lines, 1)
-                if len(parts) == 2:
-                    head, body = parts
-                else:
-                    print('Cannot split ' + self.path)
-                    body = lines
-                body = re.sub(r"(?i)<(script|style|select).*?>.*?</\1\s*>"," ", body)
-                body = re.sub(self.block_level_tags, ' _BLOCK_LEVEL_TAG_ ', body)
-                body = re.sub(r"(?i)<a\s.+?>",' _ANCHOR_LEFT_TAG_ ', body)
-                body = re.sub("(?i)</a>",' _ANCHOR_RIGHT_TAG_ ', body)
-                body = re.sub("(?i)<[/a-z].*?>", " ", body)
-                blocks = []
-                for block in body.split("_BLOCK_LEVEL_TAG_"):
-                    units = []
-                    for unit in block.split("。"):
-                        unit = re.sub("_ANCHOR_LEFT_TAG_ +_ANCHOR_RIGHT_TAG_", " ", unit) # イメージへのリンクを除外
-                        if not re.match(r"^ *$", unit):
-                            for fragment in re.split("((?:_ANCHOR_LEFT_TAG_ .+?_ANCHOR_LEFT_TAG_ ){2,})", unit):
-                                fragment = re.sub("_ANCHOR_(LEFT|RIGHT)_TAG_", ' ', fragment)
-                                if not re.match(r"^ *$", fragment):
-                                    if TextUnit(fragment).is_sentence():
-                                        # 文ユニットは“ 。”で終わる
-                                        if len(units) > 0 and units[-1] == '―':
-                                            units.append('。\n')
-                                        units.append(fragment)
-                                        units.append(' 。\n')
-                                    else:
-                                        # 非文ユニットは“―。”で終わる
-                                        # (制約) 論文と相違し非文ユニットは結合のみ行い分割していない
-                                        units.append(fragment)
-                                        units.append('―')
-                    if len(units) > 0 and units[-1] == '―':
-                       units.append('。\n')
-                    blocks += units
-                return re.sub(" +", " ", "".join(blocks))
+                lines = codecs.open(self.path, 'r', encoding)
+                html = ' '.join(line.rstrip('\r\n') for line in lines)
+                return self.__get_contents_in_html(html)
             except UnicodeDecodeError:
                 continue
         print('Cannot detect encoding of ' + self.path)
         return None
+
+    def __get_contents_in_html(self, html):
+        parts = re.split("(?i)<(?:body|frame).*?>", html, 1)
+        if len(parts) == 2:
+            head, body = parts
+        else:
+            print('Cannot split ' + self.path)
+            body = html
+        body = re.sub(r"(?i)<(script|style|select).*?>.*?</\1\s*>", " ", body)
+        body = re.sub(self.block_level_tags, ' _BLOCK_LEVEL_TAG_ ', body)
+        body = re.sub(r"(?i)<a\s.+?>", ' _ANCHOR_LEFT_TAG_ ', body)
+        body = re.sub("(?i)</a>", ' _ANCHOR_RIGHT_TAG_ ', body)
+        body = re.sub("(?i)<[/a-z].*?>", " ", body)
+        return re.sub(" +", " ", "".join(self.__get_contents_in_body(body)))
+
+    def __get_contents_in_body(self, body):
+        for block in body.split("_BLOCK_LEVEL_TAG_"):
+            yield from self.__get_contents_in_block(block)
+
+    def __get_contents_in_block(self, block):
+        self.in_sentence = False
+        for unit in block.split("。"):
+            yield from self.__get_contents_in_unit(unit)
+        if self.in_sentence:
+            yield '。\n'
+
+    def __get_contents_in_unit(self, unit):
+        image_link = "_ANCHOR_LEFT_TAG_ +_ANCHOR_RIGHT_TAG_"
+        unit = re.sub(image_link, " ", unit)
+        if re.match(r"^ *$", unit):
+            return
+        fragment_tag = "((?:_ANCHOR_LEFT_TAG_ .+?_ANCHOR_LEFT_TAG_ ){2,})"
+        for fragment in re.split(fragment_tag, unit):
+            yield from self.__get_contents_in_fragment(fragment)
+
+    def __get_contents_in_fragment(self, fragment):
+        fragment = re.sub("_ANCHOR_(LEFT|RIGHT)_TAG_", ' ', fragment)
+        if re.match(r"^ *$", fragment):
+            return
+        if TextUnit(fragment).is_sentence():
+            # 文ユニットは“ 。”で終わる
+            if self.in_sentence:
+                yield '。\n'
+            yield fragment
+            yield ' 。\n'
+            self.in_sentence = False
+        else:
+            # 非文ユニットは“―。”で終わる
+            # (制約) 論文と相違し非文ユニットは結合のみ行い分割していない
+            yield fragment
+            yield '―'
+            self.in_sentence = True
 
     def get_title(self):
         return self.path.split('/')[-1]
