@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# This script was written by Takashi SUGA on April 2017
+# This script was written by Takashi SUGA on April-May 2017
 # You may use and/or modify this file according to the license described in the MIT LICENSE.txt file https://raw.githubusercontent.com/suchowan/watson-api-client/master
 """『重要文抽出によるWebページ要約のためのHTMLテキスト分割』
     http://harp.lib.hiroshima-u.ac.jp/hiroshima-cu/metadata/5532
@@ -29,18 +29,18 @@ class Article:
     def __init__(self,path):
         print(path)
         self.path = path
-        self.contents = self.get_contents(path)
-      # self.contents = self.get_title(path)
+        self.contents = self.get_contents()
+      # self.contents = self.get_title()
 
-    def get_contents(self,path):
+    def get_contents(self):
         for encoding in self.encodings:
             try:
-                all = ' '.join([line.rstrip('\r\n') for line in codecs.open(path, 'r', encoding)])
+                all = ' '.join([line.rstrip('\r\n') for line in codecs.open(self.path, 'r', encoding)])
                 parts = re.split("(?i)<(body|frame).*?>", all, 1)
                 if len(parts) == 3:
                     head, void, body = parts
                 else:
-                    print('Cannot split ' + path)
+                    print('Cannot split ' + self.path)
                     body = all
                 body = re.sub(r"(?i)<(script|style|select).*?>.*?</\1\s*>"," ", body)
                 body = re.sub("(?i)</?(" +
@@ -75,11 +75,11 @@ class Article:
                 return re.sub(" +", " ", "".join(blocks))
             except UnicodeDecodeError:
                 continue
-        print('Cannot detect encoding of ' + path)
+        print('Cannot detect encoding of ' + self.path)
         return None
 
-    def get_title(self,path):
-        return path.split('/')[-1]
+    def get_title(self):
+        return self.path.split('/')[-1]
 
 from janome.tokenizer import Tokenizer
 from collections import defaultdict
