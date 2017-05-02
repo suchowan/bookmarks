@@ -43,7 +43,7 @@ class Article:
                     head, body = parts
                 else:
                     print('Cannot split ' + self.path)
-                    body = all
+                    body = lines
                 body = re.sub(r"(?i)<(script|style|select).*?>.*?</\1\s*>"," ", body)
                 body = re.sub(self.block_level_tags, ' _BLOCK_LEVEL_TAG_ ', body)
                 body = re.sub(r"(?i)<a\s.+?>",' _ANCHOR_LEFT_TAG_ ', body)
