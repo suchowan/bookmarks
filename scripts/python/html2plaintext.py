@@ -19,12 +19,14 @@ class Article:
         "latin_1"
     ]
 
-    # ブロックレベル要素
-    block_level_tags = [
-        "address", "blockquote", "center", "dir", "div", "dl", "fieldset", "form", "h[1-6]",
-        "hr", "isindex", "menu", "noframes", "noscript", "ol", "pre", "p", "table", "ul",
-        "dd", "dt", "frameset", "li", "tbody", "td", "tfoot", "th", "thead", "tr"
-    ]
+    # ブロックレベル要素抽出正規表現
+    block_level_tags = re.compile("(?i)</?(" + "|".join([
+        "address", "blockquote", "center", "dir", "div", "dl",
+        "fieldset", "form", "h[1-6]", "hr", "isindex", "menu",
+        "noframes", "noscript", "ol", "pre", "p", "table", "ul",
+        "dd", "dt", "frameset", "li", "tbody", "td", "tfoot",
+        "th", "thead", "tr"
+        ]) + ")(>|[^a-z].*?>)")
 
     def __init__(self,path):
         print(path)
@@ -43,9 +45,7 @@ class Article:
                     print('Cannot split ' + self.path)
                     body = all
                 body = re.sub(r"(?i)<(script|style|select).*?>.*?</\1\s*>"," ", body)
-                body = re.sub("(?i)</?(" +
-                              "|".join(self.block_level_tags) +
-                              ")(>|[^a-z].*?>)",' _BLOCK_LEVEL_TAG_ ', body)
+                body = re.sub(self.block_level_tags, ' _BLOCK_LEVEL_TAG_ ', body)
                 body = re.sub(r"(?i)<a\s.+?>",' _ANCHOR_LEFT_TAG_ ', body)
                 body = re.sub("(?i)</a>",' _ANCHOR_RIGHT_TAG_ ', body)
                 body = re.sub("(?i)<[/a-z].*?>", " ", body)
