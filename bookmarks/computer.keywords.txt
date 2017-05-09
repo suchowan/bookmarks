@@ -561,6 +561,9 @@ TensorFlow
 Keras
 Chainer
 
+=2017-05-09T08:30:08+09:00 Computer/トピック/社会動向/サークルイン/keywords
+shippio
+
 =2017-03-28T13:24:52+09:00 Computer/トピック/社会動向/シンギュラリティ/keywords
 雇用大崩壊
 人類を超える
@@ -1205,6 +1208,10 @@ ClassCat DeepLearning Appliance for TensorFlow
 =2017-03-30T14:20:07+09:00 Computer/トピック/社会動向/企業/クリーク・アンド・リバー/keywords
 Reaction Monitor,リアクションモニター
 
+=2017-05-09T07:46:32+09:00 Computer/トピック/社会動向/企業/クレジットエンジン/keywords
+LENDY,レンディ
+マエガリ
+
 =2017-03-30T14:25:50+09:00 Computer/トピック/社会動向/企業/クロスリング/keywords
 SPRAY for Agency
 
@@ -1540,12 +1547,16 @@ cakes
 =2017-04-11T09:46:03+09:00 Computer/トピック/社会動向/企業/フォースター/keywords
 マイクロサービスアーキテクチャF
 
-=2017-04-11T09:49:48+09:00 Computer/トピック/社会動向/企業/フリービット/keywords
+=2017-05-09T08:13:57+09:00 Computer/トピック/社会動向/企業/フリービット/keywords
 フリービット,freebit
 freebit AIラボ
+ClearBox Cloud
 
 =2017-04-11T09:55:24+09:00 Computer/トピック/社会動向/企業/フロムスクラッチ/keywords
 B→Dash
+
+=2017-05-09T07:45:43+09:00 Computer/トピック/社会動向/企業/ブラケット/keywords
+STORES.jp
 
 =2017-04-11T09:50:44+09:00 Computer/トピック/社会動向/企業/ブレインズテクノロジー/keywords
 Impulse
@@ -1643,8 +1654,10 @@ Opus,オーパス
 =2017-04-17T08:42:01+09:00 Computer/トピック/社会動向/企業/レイ・フロンティア/keywords
 SilentLog Analytics
 
-=2017-04-11T10:45:29+09:00 Computer/トピック/社会動向/企業/レトリバ/keywords
+=2017-05-09T07:27:20+09:00 Computer/トピック/社会動向/企業/レトリバ/keywords
 Sedue,セデュー
+Answer Finder
+VoC Analyzer
 
 =2017-04-11T10:48:48+09:00 Computer/トピック/社会動向/企業/ロゼッタ/keywords
 T-4OO
@@ -1736,10 +1749,11 @@ SOLASAT,ソラサット
 =2017-04-11T13:54:11+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
 
-=2017-04-26T07:11:11+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2017-05-09T07:14:14+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
+HiPAMPS
 
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
