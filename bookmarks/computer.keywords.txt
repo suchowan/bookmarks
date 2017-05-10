@@ -798,9 +798,6 @@ KDDI TV通訳
 Clova
 LINE Customer Connect
 
-=2017-05-02T09:56:53+09:00 Computer/トピック/社会動向/企業/LOHACO/keywords
-マナミさん
-
 =2017-04-24T07:57:22+09:00 Computer/トピック/社会動向/企業/Megvii/keywords
 Face++,フェイス++,フェイスプラスプラス
 
@@ -823,13 +820,18 @@ Mighty AI,マイティAI
 =2017-03-29T11:54:06+09:00 Computer/トピック/社会動向/企業/MKTインターナショナル/keywords
 MKT METAL
 
-=2017-03-29T11:55:10+09:00 Computer/トピック/社会動向/企業/MOTEX/keywords
+=2017-05-10T08:10:55+09:00 Computer/トピック/社会動向/企業/MOTEX/keywords
+MOTEX,エムオーテックス
 LanScope Cat
 プロテクトキャット
 
 =2017-03-29T11:57:51+09:00 Computer/トピック/社会動向/企業/Nayuta/keywords
 ビットコイン
 マイクロペイメント
+
+=2017-05-10T07:38:26+09:00 Computer/トピック/社会動向/企業/NEC/keywords
+RAPID機械学習
+RAPID WORKS
 
 =2017-04-11T09:35:05+09:00 Computer/トピック/社会動向/企業/Nextremer/keywords
 AI Samurai
@@ -1018,6 +1020,10 @@ Mackerel,マカレル
 =2017-04-14T07:25:53+09:00 Computer/トピック/社会動向/企業/アイアクト/keywords
 Cogmo Search,コグモ・サーチ
 
+=2017-05-10T07:52:40+09:00 Computer/トピック/社会動向/企業/アイシン精機/keywords
+ILY-Ai
+Smart Cockpit
+
 =2017-04-13T10:27:11+09:00 Computer/トピック/社会動向/企業/アクセンチュア/keywords
 アクセンチュア,Accenture
 
@@ -1030,6 +1036,10 @@ Vertica
 
 =2017-04-17T09:01:56+09:00 Computer/トピック/社会動向/企業/アジラ/keywords
 みまもりAI
+
+=2017-05-10T07:20:00+09:00 Computer/トピック/社会動向/企業/アスクル/keywords
+LOHACO
+マナミさん
 
 =2017-03-30T11:08:08+09:00 Computer/トピック/社会動向/企業/アップデイティット/keywords
 crossnote ML
@@ -1465,6 +1475,10 @@ TREASURE DMP
 =2017-04-10T14:38:18+09:00 Computer/トピック/社会動向/企業/ナカバヤシ/keywords
 CUTPEN
 
+=2017-05-10T08:43:20+09:00 Computer/トピック/社会動向/企業/ニフティ/keywords
+ニフティ,nifty
+スマフロ
+
 =2017-04-18T07:42:47+09:00 Computer/トピック/社会動向/企業/ニューロープ/keywords
 AI-CATCHER
 #CBK scnnr,カブキスキャナー
@@ -1650,6 +1664,9 @@ HALCON,ハルコン
 =2017-04-11T10:37:02+09:00 Computer/トピック/社会動向/企業/リーウェイズ/keywords
 Gate.
 Opus,オーパス
+
+=2017-05-10T07:32:47+09:00 Computer/トピック/社会動向/企業/ルグラン/keywords
+TNQL,テンキュール
 
 =2017-04-17T08:42:01+09:00 Computer/トピック/社会動向/企業/レイ・フロンティア/keywords
 SilentLog Analytics
