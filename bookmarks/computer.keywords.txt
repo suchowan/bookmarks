@@ -184,7 +184,7 @@ Fess
 Anemone
 キーワードフォルダ
 
-=2017-04-18T07:06:50+09:00 Computer/トピック/ビッグデータ/IoT/keywords
+=2017-05-15T08:30:33+09:00 Computer/トピック/ビッグデータ/IoT/keywords
 インダストリー4.0,第４次産業革命
 エクスペリエンス4.0
 スマート
@@ -194,6 +194,7 @@ MAGELLAN BLOCKS
 センサーネット
 ビジネス2.0
 LoRaWAN,ローラワン
+Fog Computing,フォグコンピューティング
 
 =2017-04-13T10:22:15+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -561,9 +562,6 @@ TensorFlow
 Keras
 Chainer
 
-=2017-05-09T08:30:08+09:00 Computer/トピック/社会動向/サークルイン/keywords
-shippio
-
 =2017-03-28T13:24:52+09:00 Computer/トピック/社会動向/シンギュラリティ/keywords
 雇用大崩壊
 人類を超える
@@ -664,6 +662,11 @@ Doog,ドーグ
 
 =2017-03-29T08:50:59+09:00 Computer/トピック/社会動向/企業/DYSON/keywords
 ダイソン,DYSON
+
+=2017-05-15T07:58:33+09:00 Computer/トピック/社会動向/企業/Elastic/keywords
+Elasticsearch
+Kibana
+Elastic Stack
 
 =2017-03-29T09:11:45+09:00 Computer/トピック/社会動向/企業/emin/keywords
 emin,Emotion Intelligence
@@ -914,6 +917,9 @@ SAS,SAS Institute Japan
 SAS Enterprise Miner
 Viya
 
+=2017-05-15T08:26:29+09:00 Computer/トピック/社会動向/企業/seak/keywords
+LEAP
+
 =2017-03-30T09:55:29+09:00 Computer/トピック/社会動向/企業/SELF/keywords
 タルるートくん
 
@@ -1003,6 +1009,9 @@ Xilinx,ザイリンクス
 =2017-03-30T10:55:14+09:00 Computer/トピック/社会動向/企業/YouAppi/keywords
 OneRun
 
+=2017-05-15T09:59:19+09:00 Computer/トピック/社会動向/企業/お金のデザイン/keywords
+THEO
+
 =2017-03-30T13:58:46+09:00 Computer/トピック/社会動向/企業/きのあ/keywords
 竹井戸村
 きのあ将棋
@@ -1063,6 +1072,9 @@ IoT Data-Driven Manufacturing Solution
 
 =2017-03-30T11:24:24+09:00 Computer/トピック/社会動向/企業/アリババ/keywords
 アリババ,Alibaba
+
+=2017-05-15T10:41:36+09:00 Computer/トピック/社会動向/企業/アルファコム/keywords
+Smart M Talk
 
 =2017-03-30T11:26:04+09:00 Computer/トピック/社会動向/企業/アルプス システム/keywords
 アルプス システム,ALSI
@@ -1251,6 +1263,9 @@ SHARESΦ
 AiLingual,アイリンガル
 Workplace Hub,ワークプレイスハブ
 
+=2017-05-15T08:56:54+09:00 Computer/トピック/社会動向/企業/コマースリンク/keywords
+DFO
+
 =2017-03-30T14:32:42+09:00 Computer/トピック/社会動向/企業/コラビット/keywords
 HowMa,ハウマ
 
@@ -1278,6 +1293,9 @@ PASHALYパシャリィ
 
 =2017-03-30T14:41:17+09:00 Computer/トピック/社会動向/企業/サンダーソフト/keywords
 サンダーソフト,ThunderSoft
+
+=2017-05-09T08:30:08+09:00 Computer/トピック/社会動向/企業/サークルイン/keywords
+shippio
 
 =2017-03-30T14:46:38+09:00 Computer/トピック/社会動向/企業/シスコ/keywords
 シスコ,シスコシステムズ,CISCO
@@ -1474,6 +1492,9 @@ TREASURE DMP
 
 =2017-04-10T14:38:18+09:00 Computer/トピック/社会動向/企業/ナカバヤシ/keywords
 CUTPEN
+
+=2017-05-15T10:07:15+09:00 Computer/トピック/社会動向/企業/ニトリ/keywords
+Butler
 
 =2017-05-10T08:43:20+09:00 Computer/トピック/社会動向/企業/ニフティ/keywords
 ニフティ,nifty
@@ -1734,8 +1755,9 @@ PALRO,パルロ
 =2017-04-11T14:38:27+09:00 Computer/トピック/社会動向/企業/富士フィルム/keywords
 SYNAPSE Case Match
 
-=2017-04-11T14:42:04+09:00 Computer/トピック/社会動向/企業/富士通/keywords
+=2017-05-15T09:47:15+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
+COLMINA,コルミナ
 
 =2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工/keywords
 川崎重工業,川崎重工,Kawasaki
@@ -1766,11 +1788,12 @@ SOLASAT,ソラサット
 =2017-04-11T13:54:11+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
 
-=2017-05-09T07:14:14+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2017-05-15T10:05:57+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
 HiPAMPS
+Racrew,ラックル
 
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
@@ -1833,9 +1856,10 @@ VW,フォルクスワーゲン
 =2017-04-11T14:51:10+09:00 Computer/トピック/社会動向/企業/野村不動産/keywords
 住まいの AI ANSWER
 
-=2017-04-11T14:50:16+09:00 Computer/トピック/社会動向/企業/野村総研/keywords
+=2017-05-15T09:55:26+09:00 Computer/トピック/社会動向/企業/野村総研/keywords
 野村総研,野村総合研究所,NRI
 TRAINA,トレイナ
+TRUE TELLER,トゥルーテラー
 
 =2017-04-11T11:03:06+09:00 Computer/トピック/社会動向/企業/金融・保険/Goldman Sachs/keywords
 Goldman Sachs,ゴールドマン・サックス,ゴールドマン
