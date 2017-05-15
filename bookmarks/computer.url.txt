@@ -301,6 +301,9 @@ URL=https://developer.ntt.com/ja/blog/2472716b-91d0-462f-aeb4-d0201799dfc2
 =2016-10-05T08:49:14+09:00 Computer/トピック/まとめ/Web開発におけるコンピュータサイエンス - 機械学習編1 - Hatena Developer Blog
 URL=http://developer.hatenastaff.com/entry/hatena-textbook-machine-learning-01-2016
 
+=2017-05-13T07:13:31+09:00 Computer/トピック/まとめ/Weekly Machine Learning - piqcy Revue
+URL=https://www.getrevue.co/profile/icoxfog417/
+
 =2016-05-06T09:00:00+09:00 Computer/トピック/まとめ/wired.jp
 URL=https://twitter.com/wired_jp
 
@@ -751,6 +754,9 @@ URL=http://qiita.com/aokikenichi/items/e0a26cf425d02e2eb317
 =2016-06-07T13:05:19+09:00 Computer/トピック/まとめ/私のブックマーク - 人工知能学会 (The Japanese Society for Artificial Intelligence)
 URL=http://www.ai-gakkai.or.jp/my-bookmark/
 
+=2017-05-12T07:27:52+09:00 Computer/トピック/まとめ/第11回 Machine Learning 15minutes! ~出遅れるな。‘超’大物たちから学ぶ機械学習の最前線~ 人工知能ニュースメディア AINOW
+URL=http://ainow.ai/2017/05/12/112155/
+
 =2017-05-14T10:09:56+09:00 Computer/トピック/まとめ/第17回 人工知能研究会 「今後のDeepLearning技術の発展とビジネス応用」に行ってきました yamamanx
 URL=http://www.yamamanx.com/deeplearning-20170514/
 
@@ -978,6 +984,9 @@ URL=http://www.itmedia.co.jp/enterprise/articles/1702/24/news067.html
 
 =2016-05-12T11:12:49+09:00 Computer/トピック/セキュリティ/SIEM「RSA Security Analytics」に新版--C＆Cとの通信を機械学習で検知 - ZDNet Japan
 URL=http://japan.zdnet.com/article/35082347/
+
+=2017-05-15T07:38:41+09:00 Computer/トピック/セキュリティ/Windows XP に WannaCry 対策パッチを充てる まだプログラマーですが何か？
+URL=http://dotnsf.blog.jp/archives/1065862086.html
 
 =2015-03-24T07:00:00+09:00 Computer/トピック/セキュリティ/“インテリジェンス”で脅威を特定する次世代SIEM、「IBM QRadar」の持つ技術力：EnterpriseZine（エンタープライズジン）
 URL=https://enterprisezine.jp/iti/detail/6640
@@ -5737,6 +5746,12 @@ URL=http://ai-kenkyujo.com/2017/05/10/chat-bot/
 =2016-07-18T07:41:22+09:00 Computer/トピック/ツール/クラウド/その他/api.ai/人工知能を無料でコードを書かずに作成できるapi.ai使ってみました【第１回】 Ptengine Blog
 URL=https://www.ptengine.jp/blog/index.php/make-ai-vol1/
 
+=2017-05-16T07:34:45+09:00 Computer/トピック/ツール/クラウド/その他/Apitore/Apitore -API Store-
+URL=https://apitore.com/store/index.html
+
+=2017-05-15T07:34:59+09:00 Computer/トピック/ツール/クラウド/その他/Apitore/日本語極性判定を作って公開した～SentencePiece版～ - Qiita
+URL=http://qiita.com/keigohtr/items/110a02699f5f46c9b587
+
 =2017-03-29T07:54:26+09:00 Computer/トピック/ツール/クラウド/その他/Cloud9/Cloud9 - Your development environment, in the cloud
 URL=https://c9.io/
 
@@ -7065,6 +7080,9 @@ URL=http://qiita.com/sakiyamaK/items/81bcf80ac2729cc8b283
 
 =2016-11-16T09:15:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/Pythonで人工知能のWebサービスを実装する方法 新規事業のつくり方
 URL=http://aiweeklynews.com/archives/48462559.html
+
+=2017-05-15T07:32:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/Pythonで作成したライブラリを、PyPIに公開する - Qiita
+URL=http://qiita.com/icoxfog417/items/edba14600323df6bf5e0
 
 =2016-11-24T07:24:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/Pythonで始める機械学習入門（1）：Pythonで機械学習／Deep Learningを始めるなら知っておきたいライブラリ／ツール7選 - ＠IT
 URL=http://www.atmarkit.co.jp/ait/articles/1611/24/news023.html
@@ -8593,8 +8611,14 @@ URL=http://techfactory.itmedia.co.jp/tf/articles/1705/13/news001.html
 =2016-10-03T07:30:49+09:00 Computer/トピック/ビッグデータ/IoT/Weekly Memo：IoTビジネスのアイデアが浮かばない　そんな企業への処方箋-ITmedia エンタープライズ
 URL=http://www.itmedia.co.jp/enterprise/articles/1610/03/news047.html
 
+=2017-05-12T07:05:31+09:00 Computer/トピック/ビッグデータ/IoT/Windows 10 IoTに新機能、IoTデバイスのワイヤレスUSB接続が可能に - MONOist（モノイスト）
+URL=http://monoist.atmarkit.co.jp/mn/articles/1705/12/news041.html
+
 =2017-01-26T11:39:52+09:00 Computer/トピック/ビッグデータ/IoT/「3D CADとIoT」がイマイチ理解できないので、ダッソーに聞いてみた- MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1701/26/news025.html
+
+=2017-05-12T07:06:13+09:00 Computer/トピック/ビッグデータ/IoT/「Build 2017」2日目基調講演まとめ - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1705/12/news057.html
 
 =2017-04-06T07:35:50+09:00 Computer/トピック/ビッグデータ/IoT/「IoT Lab Selection」と「地方版IoT推進ラボ」を開催、受賞者を選定 - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1704/06/news044.html
@@ -8619,6 +8643,9 @@ URL=http://techtarget.itmedia.co.jp/tt/news/1705/10/news05.html
 
 =2016-08-30T08:21:45+09:00 Computer/トピック/ビッグデータ/IoT/【Infostand海外ITトピックス】IoTの「モノ」再考　重要なのはデバイスではない - クラウド Watch
 URL=http://cloud.watch.impress.co.jp/docs/column/infostand/1017001.html
+
+=2017-05-15T07:29:25+09:00 Computer/トピック/ビッグデータ/IoT/【笠原一輝のユビキタス情報局】Jetson TX2が垣間見せる“エッジAI”という次世代IoTの可能性 - PC Watch
+URL=http://pc.watch.impress.co.jp/docs/column/ubiq/1059603.html
 
 =2016-08-24T08:05:43+09:00 Computer/トピック/ビッグデータ/IoT/あなたの仕事を劇的に効率化！ 機械学習のインパクト - 第4回　機械学習をIoTに応用、人間の行動を認識・予測する：ITpro
 URL=http://itpro.nikkeibp.co.jp/atcl/column/16/062300135/080300004/?rt=nocnt
@@ -9045,6 +9072,9 @@ URL=http://qiita.com/okumin/items/1b91286412f3912311dc
 
 =2017-04-22T09:03:06+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/マストドンの奇跡
 URL=http://blogos.com/article/219377/
+
+=2017-05-16T07:37:52+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/マストドン引っ越し記 - shi3zの長文日記
+URL=http://d.hatena.ne.jp/shi3z/20170516/1494887355
 
 =2017-04-25T10:38:16+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/日本 Mastodon インスタンス一覧 - Qiita
 URL=http://qiita.com/noraworld/items/ea853c6897326feda51f?utm_campaign=popular_items&utm_medium=referral&utm_source=popular_items
@@ -9792,6 +9822,9 @@ URL=http://qiita.com/y_ujitoko/items/4f9d3d388a55839f42e9
 
 =2017-05-09T07:56:21+09:00 Computer/トピック/機械学習/機械学習入門/Qiita/ゼロから始めるTensorFlow　2.オリジナルの機械学習をやってみよう - Qiita
 URL=http://qiita.com/hibino114514/items/2830a87cb7fad21f3d88
+
+=2017-05-14T07:15:50+09:00 Computer/トピック/機械学習/機械学習入門/Qiita/ディープじゃないディープラーニングをNumPyのみで超簡単実装してみた - Qiita
+URL=http://qiita.com/Matchlab/items/25dd57c40c8bea09b64e
 
 =2016-05-01T09:13:09+09:00 Computer/トピック/機械学習/機械学習入門/Qiita/データサイエンスの面接において知っておくべき２１のQ＆A（日本語訳その４「適合率と再現率とは？ROC曲線との関連は？」） - Qiita
 URL=http://qiita.com/ogamiki/items/1ad297ca8761e00e0bca
@@ -13261,6 +13294,9 @@ URL=http://qiita.com/tsunaki/items/ec2556dc147c6d263b9d
 =2016-03-20T00:00:00+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/“Mastering the game of Go with deep neural networks and tree search”
 URL=http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html
 
+=2017-05-15T07:25:02+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/“世界最古”にして現代ゲームAIの先駆。21世紀に『パックマン』が再評価される理由を、作者・岩谷徹氏×AI開発者・三宅陽一郎氏が解説【仕様書も一部公開！】
+URL=http://news.denfaminicogamer.jp/kikakuthetower/aitalk_miyaiwa
+
 =2016-05-06T09:00:00+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/「AlphaGoは李世ドルに勝っても、僕には勝てない」　世界最強の囲碁棋士（18歳）がコメント
 URL=http://news.ameba.jp/20160310-11/
 
@@ -15187,6 +15223,9 @@ URL=http://techtarget.itmedia.co.jp/tt/news/1611/07/news07.html
 =2016-09-18T09:36:31+09:00 Computer/トピック/機械学習/機械学習応用/医療/「医療×AI（人工知能）」によって医療界の非効率を改善し、製薬会社が医薬品を開発することに集中できる未来を僕は作りたい。
 URL=http://healthcareit.jp/?p=766
 
+=2017-05-12T07:25:22+09:00 Computer/トピック/機械学習/機械学習応用/医療/「医療ヘルスケアにおける人工知能（AI）の世界市場：技術別、用途別2022年予測」最新調査リリース (プレスリリース) - エキサイトニュース
+URL=http://www.excite.co.jp/News/release/20170512/Dreamnews_0000152556.html
+
 =2017-05-12T08:34:31+09:00 Computer/トピック/機械学習/機械学習応用/医療/「医療ヘルスケアにおける人工知能（AI）の世界市場：技術別、用途別2022年予測」最新調査リリース - BIGLOBEニュース
 URL=https://news.biglobe.ne.jp/economy/0512/dre_170512_8942463821.html
 
@@ -16783,6 +16822,9 @@ URL=http://qiita.com/mix_dvd/items/8e5d4c9703e3db6e3851
 =2017-01-06T08:38:23+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/「これ、どこの写真？」が分かる　賢い画像検索　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXMZO11081240W6A221C1000000/
 
+=2017-05-16T07:24:13+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/「すごすぎる」――地方のパン屋が“AIレジ”で超絶進化　足かけ10年、たった20人の開発会社の苦労の物語 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1705/15/news081.html
+
 =2016-05-06T09:00:00+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/【LINE Bot】 bluemixとFaceAPIを使った年齢性別推定Bot
 URL=http://qiita.com/shuheilocale@github/items/da6ecdeced3c00acc6f8
 
@@ -17794,6 +17836,9 @@ URL=http://qiita.com/ryo_grid/items/0c18513ae42778248a9f
 =2017-01-06T09:44:16+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/基礎的な文章のベクトル化を考える - Qiita
 URL=http://qiita.com/NoriakiOshita/items/6423b5a16ca5e90ab15c
 
+=2017-05-08T07:14:47+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/技術記事のタイトル間の類似性を計算する-chakki-Medium
+URL=https://medium.com/chakki/%E6%8A%80%E8%A1%93%E8%A8%98%E4%BA%8B%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E9%96%93%E3%81%AE%E9%A1%9E%E4%BC%BC%E6%80%A7%E3%82%92%E8%A8%88%E7%AE%97%E3%81%99%E3%82%8B-6348e89a7fb1
+
 =2017-03-19T09:24:17+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/機械学習初心者がfastTextを使ってみようと頑張る Part1 - Qiita
 URL=http://qiita.com/yakult/items/25e97b545926ca3908b0
 
@@ -18001,6 +18046,9 @@ URL=http://news.livedoor.com/article/detail/11839101/
 =2016-07-15T07:45:35+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/数万件のレビューを学習させた人工知能を惑わせてみた anopara
 URL=http://anopara.net/2016/07/14/%e6%95%b0%e4%b8%87%e4%bb%b6%e3%81%ae%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e3%82%92%e5%ad%a6%e7%bf%92%e3%81%95%e3%81%9b%e3%81%9f%e4%ba%ba%e5%b7%a5%e7%9f%a5%e8%83%bd%e3%82%92%e6%83%91%e3%82%8f%e3%81%9b/
 
+=2017-05-15T07:34:59+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/日本語極性判定を作って公開した～SentencePiece版～ - Qiita
+URL=http://qiita.com/keigohtr/items/110a02699f5f46c9b587
+
 =2016-10-18T08:28:09+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/機械学習で自動分類する文書管理ソフト crossnote ML による分類例を公開 - ＰＲＴＩＭＥＳ企業リリース - 朝日新聞デジタル＆Ｍ
 URL=http://www.asahi.com/and_M/information/pressrelease/CPRT201654542.html
 
@@ -18168,6 +18216,9 @@ URL=http://www.nikkei.com/article/DGXLZO14177430W7A310C1LA0000/
 
 =2017-05-12T09:54:40+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/日本語テキストマインニングの歴史と機械学習が結びつく「TRUE TELLER」 - 野村総合研究所 マイナビニュース
 URL=http://news.mynavi.jp/articles/2017/05/12/itweek2017nri/
+
+=2017-05-15T07:17:31+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/朝日新聞社、人工知能への取り組みを加速～レトリバと自然言語処理で共同研究へ - ライブドアニュース
+URL=http://news.livedoor.com/article/detail/13063739/
 
 =2017-02-10T07:32:38+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/東京ＩＴ企業　徳島市に 地域 読売新聞（YOMIURI ONLINE）
 URL=http://www.yomiuri.co.jp/local/tokushima/news/20170209-OYTNT50127.html
@@ -20428,6 +20479,9 @@ URL=http://qiita.com/research-PORT-INC/items/518b960e6d0d0475e1df
 =2017-04-30T11:08:14+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/機械学習_単純パーセプトロンを非線形化する - Qiita
 URL=http://qiita.com/tanabeman/items/c14f89785f32790354b4
 
+=2017-05-13T07:19:13+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/機械学習⑤ アダブースト (AdaBoost) まとめ - Qiita
+URL=http://qiita.com/koji_france/items/2e6740c58c1f2d2e119e
+
 =2016-12-10T08:37:48+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/機械学習でなんとなく材料研究者の気分を味わおう - Qiita
 URL=http://qiita.com/KentoObata/items/7fd8c7527d586dffc329
 
@@ -22083,6 +22137,9 @@ URL=http://www.higan.net/news/2016/11/ai-buddhism.html
 
 =2016-05-06T09:00:00+09:00 Computer/トピック/社会動向/【常識と非常識の座標】vol.101 人工知能に自我は必要か
 URL=http://www.tfm.co.jp/timeline/?itemid=107803&catid=1332
+
+=2017-05-15T03:33:43+09:00 Computer/トピック/社会動向/【悲報】Googleエンジニア「日本人は海外の発明を無視し、メイドインジャパンとしてパクりを展開する」 IT速報
+URL=http://blog.livedoor.jp/itsoku/archives/51289242.html
 
 =2016-08-30T13:38:28+09:00 Computer/トピック/社会動向/【教えて！はてな】新聞記者の仕事はAIに取って代わられるのではないか？ - とある編集者の晒しな日記
 URL=http://www.zorazora.site/entry/2016/08/30/014939
@@ -24810,6 +24867,9 @@ URL=http://www.itmedia.co.jp/news/articles/1704/06/news056.html
 
 =2016-11-16T07:43:34+09:00 Computer/トピック/社会動向/企業/Google/Google、AI研究の成果を体験できるWebサイト「A.I. Experiments」公開 - ITmedia ニュース
 URL=http://www.itmedia.co.jp/news/articles/1611/16/news087.html
+
+=2017-05-15T03:33:25+09:00 Computer/トピック/社会動向/企業/Google/Google、Androidのアップデートを容易にする新プロジェクト「Project Treble」、Android Oで実装へ -INTERNET Watch
+URL=http://internet.watch.impress.co.jp/docs/news/1059645.html
 
 =2017-03-23T08:01:04+09:00 Computer/トピック/社会動向/企業/Google/Google、Duoに音声通話モードを導入、Alloには機械学習によるスマートな絵文字・ステッカーの選択機能を導入 ｜ ガジェット通信
 URL=http://getnews.jp/archives/1669203
@@ -29290,6 +29350,9 @@ URL=https://japan.cnet.com/article/35096566/
 =2017-05-08T07:43:06+09:00 Computer/トピック/社会動向/企業/ブラケット/STORES.jpと「マエガリ」連携　機械学習を取り入れ、売上から自動融資ネット通販情報満載の無料Webマガジン「ECzine（イーシージン）」
 URL=http://eczine.jp/news/detail/4577
 
+=2017-05-16T07:24:13+09:00 Computer/トピック/社会動向/企業/ブレイン/「すごすぎる」――地方のパン屋が“AIレジ”で超絶進化　足かけ10年、たった20人の開発会社の苦労の物語 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1705/15/news081.html
+
 =2016-11-28T08:50:13+09:00 Computer/トピック/社会動向/企業/ブレインズテクノロジー/IIJとブレインズテクノロジー、システム障害の予兆を機械学習で検知するソリューション共同開発 - クラウド Watch
 URL=http://cloud.watch.impress.co.jp/docs/news/1032016.html
 
@@ -29700,6 +29763,9 @@ URL=https://prtimes.jp/main/html/rd/p/000000003.000024483.html
 
 =2017-03-14T07:52:43+09:00 Computer/トピック/社会動向/企業/レトリバ/PFIから自然言語処理と機械学習の部門がスピンアウト、新会社「レトリバ」が2.5億円を調達 TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/03/14/pfi-retriva/
+
+=2017-05-15T07:17:31+09:00 Computer/トピック/社会動向/企業/レトリバ/朝日新聞社、人工知能への取り組みを加速～レトリバと自然言語処理で共同研究へ - ライブドアニュース
+URL=http://news.livedoor.com/article/detail/13063739/
 
 =2016-05-06T09:00:00+09:00 Computer/トピック/社会動向/企業/ロゼッタ/ロゼッタ 人工知能関連のリーディングストック=向後 はるみ
 URL=https://zuuonline.com/archives/104359
@@ -30573,6 +30639,9 @@ URL=http://www3.nhk.or.jp/news/html/20160808/k10010627341000.html
 
 =2016-12-13T09:46:52+09:00 Computer/トピック/社会動向/企業/日立/ＡＩ活用の日立、技術者倫理教育を重視するわけ　　編集委員　中山淳史　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXMZO10540380S6A211C1000000/
+
+=2017-05-15T07:17:31+09:00 Computer/トピック/社会動向/企業/朝日新聞/朝日新聞社、人工知能への取り組みを加速～レトリバと自然言語処理で共同研究へ - ライブドアニュース
+URL=http://news.livedoor.com/article/detail/13063739/
 
 =2017-03-09T09:31:03+09:00 Computer/トピック/社会動向/企業/未来シェア/乗合いタクシーの最適ルートをAIで自動計算、NTTドコモと未来シェアが共同開発へ TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/03/09/docomo-miraishare-ai-taxi/
@@ -33174,6 +33243,9 @@ URL=http://www.iais.or.jp/ja/membersinfo/airesearch/
 
 =2016-12-08T07:45:37+09:00 Computer/トピック/社会動向/調査/「人工知能（AI）の世界市場：2022年に至る技術別、エンドユーザー別市場予測と動向」リサーチ最新版刊行 リサーチステーション合同会社
 URL=http://www.dreamnews.jp/press/0000144030/
+
+=2017-05-12T07:25:22+09:00 Computer/トピック/社会動向/調査/「医療ヘルスケアにおける人工知能（AI）の世界市場：技術別、用途別2022年予測」最新調査リリース (プレスリリース) - エキサイトニュース
+URL=http://www.excite.co.jp/News/release/20170512/Dreamnews_0000152556.html
 
 =2017-05-12T08:34:31+09:00 Computer/トピック/社会動向/調査/「医療ヘルスケアにおける人工知能（AI）の世界市場：技術別、用途別2022年予測」最新調査リリース - BIGLOBEニュース
 URL=https://news.biglobe.ne.jp/economy/0512/dre_170512_8942463821.html
