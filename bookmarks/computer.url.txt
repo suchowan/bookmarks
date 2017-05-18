@@ -4,6 +4,9 @@ URL=http://monoist.atmarkit.co.jp/mn/articles/1701/13/news037.html
 =2017-02-06T11:25:08+09:00 Computer/トピック/VR・AR/90年代に国策会社があった驚愕事実。誰も知らないVR・AR裏面史- 記事詳細｜Infoseekニュース
 URL=http://news.infoseek.co.jp/article/mag2news_237666/
 
+=2017-05-18T07:22:58+09:00 Computer/トピック/VR・AR/AIで世界を認識する新技術Google Lens発表。被写体の情報をその場で調べ、AR表示やアクションを実行 - Engadget 日本版
+URL=http://japanese.engadget.com/2017/05/17/ai-google-lens-ar/
+
 =2017-04-26T08:12:46+09:00 Computer/トピック/VR・AR/AIによるVR制作マッチングサービス“VRCH”（ヴァーチ）を発表｜株式会社ジョリーグッドのプレスリリース
 URL=https://prtimes.jp/main/html/rd/p/000000012.000020924.html
 
@@ -648,6 +651,9 @@ URL=http://www.weblio.jp/wkpja/content/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92_%E3%
 
 =2016-12-03T08:06:03+09:00 Computer/トピック/まとめ/機械学習DeepLearningデータ分析系のAdvent Calendarけっこうあるけど探しにくいから列挙する - Qiita
 URL=http://qiita.com/sudoyu/items/85a6268a6f8900596136
+
+=2017-05-17T07:19:51+09:00 Computer/トピック/まとめ/機械学習で使う指標総まとめ(教師あり学習編) - プロクラシスト
+URL=http://www.procrasist.com/entry/ml-metrics
 
 =2017-02-11T09:29:11+09:00 Computer/トピック/まとめ/機械学習とディープラーニングの入門者向けコンテンツまとめ - Qiita
 URL=http://qiita.com/kinmojr/items/690cbee2bbf8bd5c27d5
@@ -1690,6 +1696,9 @@ URL=http://blogs.yahoo.co.jp/verification_engineer/71047377.html
 =2017-04-10T08:09:15+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/Googleの機械学習チップ、CPUGPUより30倍高速 マイナビニュース
 URL=http://news.mynavi.jp/news/2017/04/10/181/
 
+=2017-05-18T07:23:46+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/Googleの機械学習マシン「TPU」の第2世代登場、1ボード180TFLOPSで64台グリッドでは11.5PFLOPSに到達 - GIGAZINE
+URL=http://gigazine.net/news/20170518-google-tpu-2nd-gen/
+
 =2017-01-13T07:47:30+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/GPUがけん引する“ハード黄金時代”、ディープラーニングやAI処理で需要高まる － TechTargetジャパン データ分析
 URL=http://techtarget.itmedia.co.jp/tt/news/1701/13/news05.html
 
@@ -1944,6 +1953,9 @@ URL=https://gunosy.com/articles/RfDia
 
 =2017-04-10T07:52:34+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/機械学習を活用する将来の半導体設計 - EE Times Japan
 URL=http://eetimes.jp/ee/articles/1704/10/news059.html
+
+=2017-05-16T07:15:34+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/次世代GPU「Volta」からAIまで，新製品＆新サービスラッシュだったJensen Huang氏のGTC 2017基調講演レポート - 4Gamer.net
+URL=http://www.4gamer.net/games/208/G020859/20170516092/
 
 =2016-08-10T07:50:56+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/深層学習も視野、国産の第3世代GPUコアが登場 - 日経テクノロジーオンライン
 URL=http://techon.nikkeibp.co.jp/atcl/news/16/080903505/?rt=nocnt
@@ -2904,6 +2916,9 @@ URL=http://aidiary.hatenablog.com/entry/20161212/1481549365
 
 =2016-06-30T09:15:06+09:00 Computer/トピック/ツール/オンプレミス/Keras/Kerasのcallbackを試す（modelのsave,restoreTensorBoard書き出しearly stopping） - Qiita
 URL=http://qiita.com/yukiB/items/f45f0f71bc9739830002
+
+=2017-05-17T07:31:28+09:00 Computer/トピック/ツール/オンプレミス/Keras/kerasの作者Francois Cholletはもっと歴史を勉強すべき。国や民族単位で批判することの愚かさを知れ - shi3zの長文日記
+URL=http://d.hatena.ne.jp/shi3z/20170517/1494977315
 
 =2016-06-09T07:59:19+09:00 Computer/トピック/ツール/オンプレミス/Keras/KerasをTensorFlowバックエンドで試してみた：「もっと多くの人に機械学習とDeep Learningを」という時代の幕開け - 六本木で働くデータサイエンティストのブログ
 URL=http://tjo.hatenablog.com/entry/2016/06/09/190000
@@ -4201,6 +4216,9 @@ URL=http://qiita.com/TomokIshii/items/178938b6db1edc16b94e
 =2017-04-20T09:17:02+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/難しそうな機械学習を身近なものにする「TensorFlow」と「機械学習API」で、現場の課題を解決していこう！【デブサミ2017】 (12)：CodeZine（コードジン）
 URL=https://codezine.jp/article/detail/10089
 
+=2017-05-17T07:21:22+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/［速報］Google、スマートフォン向けの機械学習ライブラリ「TensorFlow Lite」発表。DSPをアクセラレータとして利用。Google IO 2017 － Publickey
+URL=http://www.publickey1.jp/blog/17/googletensorflow_litedspgoogle_io_2017.html
+
 =2015-05-11T07:23:18+09:00 Computer/トピック/ツール/オンプレミス/Theano/DBNとLabelSpreadingを使った半教師ありラベル学習 - Qiita
 URL=http://qiita.com/shima_x/items/1899ccc769a29559679f
 
@@ -4569,6 +4587,9 @@ URL=http://qiita.com/kumonkumon/items/760970d9921c6bd68e10
 
 =2016-11-07T09:10:48+09:00 Computer/トピック/ツール/クラウド/Amazon/Weekly Memo：AWS日本法人が開いた「一風変わった会見」の背景 - ITmedia エンタープライズ
 URL=http://www.itmedia.co.jp/enterprise/articles/1611/07/news052.html
+
+=2017-05-18T07:09:38+09:00 Computer/トピック/ツール/クラウド/Amazon/[AWS] 積年の夢の終焉...？：リージョン間VPN接続 (powered by VyOS 1.1.7) - Qiita
+URL=http://qiita.com/coga2000/items/4555ef13cae70c69f677
 
 =2017-04-23T07:34:21+09:00 Computer/トピック/ツール/クラウド/Amazon/【機械学習】 TechCrowd
 URL=https://www.techcrowd.jp/category/machinelearning/
@@ -5908,6 +5929,9 @@ URL=http://qiita.com/chiku_/items/7316d42a4682609346ca
 =2016-07-12T08:04:10+09:00 Computer/トピック/ツール/クラウド/その他/UserLocal/続　ユーザーローカル社の人工知能BOTをjavascriptで試してみた。 波乗りスタッフ日記
 URL=http://blog.surfboard.co.jp/diary/865
 
+=2017-05-18T07:06:20+09:00 Computer/トピック/ツール/クラウド/その他/Wandbox/Wandboxを支える技術（2017年版） - Qiita
+URL=http://qiita.com/melpon/items/e871abb8cd2b15558a53
+
 =2016-05-06T09:00:00+09:00 Computer/トピック/ツール/クラウド/その他/WolframAlpha/Wolfram Alpha
 URL=http://www.wolframalpha.com/
 
@@ -6361,6 +6385,12 @@ URL=http://qiita.com/zembutsu/items/6e1ad18f0d548ce6c266
 =2017-04-19T07:17:52+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Docker/Docker multi stage buildで変わるDockerfileの常識 - Qiita
 URL=http://qiita.com/minamijoyo/items/711704e85b45ff5d6405
 
+=2017-05-18T07:10:37+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Docker/Dockerfileのアンチパターンと軽量化方法 - Qiita
+URL=http://qiita.com/takky/items/401344672a803469b896
+
+=2017-05-17T07:29:22+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Docker/nginxが立ち上がるだけのDockerfile - shi3zの長文日記
+URL=http://d.hatena.ne.jp/shi3z/20170517/1494987764
+
 =2017-01-08T09:34:41+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Docker/[機械学習]各種Pythonライブラリ入りの実験用Dockerイメージを作った - ズッキーニのプログラミング実験場 ズッキーニのプログラミング実験場
 URL=http://zuqqhi2.com/ml-docker-python-sandbox
 
@@ -6763,8 +6793,14 @@ URL=http://qiita.com/antimon2/items/a370ed6e91d0f2764e80
 =2016-12-23T09:20:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/スパースコーディングのための辞書生成アルゴリズム，K-SVDをJuliaで実装した - Qiita
 URL=http://qiita.com/IshitaTakeshi/items/b7c319fae79f62c80319
 
+=2017-05-18T07:07:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Kotlin/KotlinはAndroidだけじゃない。サーバーサイドKotlinの波もきっと来る。 - Qiita
+URL=http://qiita.com/devneko/items/fb3643e4654ff9124151
+
 =2017-05-05T09:19:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Kotlin/Kotlinプロジェクトに投入されるJavaエンジニアのためのカンニングペーパー - Qiita
 URL=http://qiita.com/kirimin/items/0b3f5f01eaec7a2aee33
+
+=2017-05-18T07:09:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Kotlin/[AndroidKotlin] こんにちは! Kotlin。 - Qiita
+URL=http://qiita.com/Dreamwalker/items/3a086e168e5dc801f0cd
 
 =2016-03-09T09:19:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Kotlin/[Kotlin]ことりんという言語に触れてみる - Qiita
 URL=http://qiita.com/omochiiiY/items/1dad4b629c7a5cb15157
@@ -7812,6 +7848,9 @@ URL=http://jp.rubyist.net/magazine/?0001
 
 =2013-02-27T00:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rubyist Magazine - Ruby 2.0.0 リリース特集
 URL=http://jp.rubyist.net/magazine/?0041-200Special
+
+=2017-05-18T07:08:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rubyist が pyenv を使うときに知っておいてほしいこと - Qiita
+URL=http://qiita.com/methane/items/5afdabd513a18049c34f
 
 =2016-05-06T09:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rubyistよ、irbを捨ててPryを使おう
 URL=http://labs.timedia.co.jp/2011/12/rubyist-should-use-pry.html
@@ -9108,6 +9147,9 @@ URL=http://qiita.com/hekki/items/c3f42c31632105389c79
 
 =2017-04-17T09:23:34+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/できない理由を考えるより、ここからなにが始まるか考えたほうが人生楽しくないかな - shi3zの長文日記
 URL=http://d.hatena.ne.jp/shi3z/20170417/1492378331
+
+=2017-05-19T07:28:28+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/マストドンが急成長でき、心地よいのは不完全さのおかげかもしれない - shi3zの長文日記
+URL=http://d.hatena.ne.jp/shi3z/20170519/1495146128
 
 =2017-04-16T17:36:16+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/マストドンと北朝鮮危機にみるインターネットの本質的価値 - さくらインターネット創業日記
 URL=http://tanaka.sakura.ad.jp/2017/04/mastodon-north-korea-internet.html
@@ -10513,6 +10555,9 @@ URL=http://learning.ikeay.net/entry/2016/05/02/200503
 =2017-04-05T09:48:57+09:00 Computer/トピック/機械学習/機械学習入門/機械学習って？知っててトクする基本知識＆活用法！ Find Job! Startup
 URL=http://www.find-job.net/startup/machinelearning
 
+=2017-05-17T07:19:51+09:00 Computer/トピック/機械学習/機械学習入門/機械学習で使う指標総まとめ(教師あり学習編) - プロクラシスト
+URL=http://www.procrasist.com/entry/ml-metrics
+
 =2015-02-10T07:38:34+09:00 Computer/トピック/機械学習/機械学習入門/機械学習で大事なことをミニGunosyをつくって学んだ
 URL=http://www.slideshare.net/seijitakahashi92/gunosy-44530766
 
@@ -11710,6 +11755,9 @@ URL=http://prtimes.jp/main/html/rd/p/000000007.000018663.html
 =2016-05-06T09:00:00+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/人との対話目指し「自然な質問」をするAI--マイクロソフトらの取り組み - ZDNet Japan 
 URL=http://japan.zdnet.com/article/35080608/
 
+=2017-05-18T07:07:04+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/人と対話するロボットを開発するための、研究ガイド - Qiita
+URL=http://qiita.com/icoxfog417/items/2ac455a231ff990c7f6e
+
 =2017-01-27T08:29:23+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/人工知能APIを用いて、Slack Botを作って遊んでみた - AdwaysEngineersBlog - Adwaysエンジニアブログ
 URL=http://blog.engineer.adways.net/entry/2017/01/27/140000
 
@@ -12364,6 +12412,9 @@ URL=http://globe.asahi.com/feature/article/2016122700007.html?page=3
 =2016-05-06T09:00:00+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/[マイナビニュース] 小松左京さん遺作も完結？ - AI研究に作品データ提供 
 URL=https://twitter.com/news_mynavi/status/692084231061708800
 
+=2017-05-18T07:24:19+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/“AIコピーライター”、電通が開発　広告コピーを自動生成 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1705/18/news141.html
+
 =2017-01-26T10:18:03+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/「この記事を書いたのは人ではない」→どんな酷い内容かと思ったら本当に人じゃなくて驚愕の人々「来るとこまで来たな」 - Togetterまとめ
 URL=https://togetter.com/li/1074537
 
@@ -12597,6 +12648,9 @@ URL=http://www.itmedia.co.jp/news/articles/1702/10/news063.html
 
 =2016-10-11T13:14:50+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/CuratedAI - エンタメのWebサービス 最新の人気Webサービス・アプリが見つかる Service Safari
 URL=http://www.service-safari.com/posts/31281
+
+=2017-05-17T07:21:58+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/GmailアプリにAIが返信文を提案するスマートリプライ機能。iOS版にも搭載、まず英語・スペイン語からサポート - Engadget 日本版
+URL=http://japanese.engadget.com/2017/05/17/gmail-ai-android-ios/
 
 =2016-11-04T14:41:02+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/Googleドキュメントに機械学習、オオカバマダラでトウワタを表示 マイナビニュース
 URL=http://news.mynavi.jp/news/2016/11/04/452/
@@ -13416,6 +13470,9 @@ URL=http://wired.jp/2016/01/31/huge-breakthrough-google-ai/
 
 =2016-09-15T07:25:19+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/「東京ゲームショウ2016」過去最大規模で開幕　VR・AIコーナーを新設-ITmedia ビジネスオンライン
 URL=http://www.itmedia.co.jp/business/articles/1609/15/news161.html
+
+=2017-05-17T14:22:32+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/「電王戦」5年間で人類は何を目撃した？ 気鋭の文化人類学者と振り返るAIとの激闘史。そしてAI以降の“人間”とは？【一橋大学准教授・久保明教氏インタビュー】
+URL=http://news.denfaminicogamer.jp/interview/kubo_ai
 
 =2016-10-14T08:35:21+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/『ゲームAI開発者三宅陽一郎が語る』主体性を持つ汎用人工知能開発には、哲学を足場にしていくことが不可欠 全脳アーキテクチャ・イニシアティブ
 URL=https://wba-initiative.org/1894/
@@ -14365,6 +14422,9 @@ URL=http://www.countand1.com/2017/04/google-smart-display-campaigns.html
 =2016-04-07T08:51:23+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/広告/Twitterスケールでの弾力的な広告配信 Twitter Blogs
 URL=https://blog.twitter.com/ja/2016/0407adssystem
 
+=2017-05-18T07:24:19+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/広告/“AIコピーライター”、電通が開発　広告コピーを自動生成 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1705/18/news141.html
+
 =2017-04-26T07:29:57+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/広告/「Adobe Analytics」でデジタル広告とマス広告のデータを一元管理、アドビと電通デジタルが共同でツール提供 - ITmedia マーケティング
 URL=http://marketing.itmedia.co.jp/mm/articles/1704/26/news050.html
 
@@ -14751,6 +14811,9 @@ URL=http://monoist.atmarkit.co.jp/mn/articles/1702/09/news056.html
 
 =2017-02-15T08:47:18+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボットのアイドルは人間を超えるか？　「ニコ生」で育つ「アンドロイドルU」誕生　「ぐぬぬ」もその場で学習 - ITmedia NEWS
 URL=http://www.itmedia.co.jp/news/articles/1702/15/news115.html
+
+=2017-05-17T07:18:50+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボットを高齢者住宅に導入、NTTデータなど実験　食欲・睡眠など効果検証 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1705/17/news088.html
 
 =2016-04-03T10:15:30+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボット僧開発の龍泉寺、ハイテク人材が集うその秘密に迫る--人民網日本語版--人民日報
 URL=http://j.people.com.cn/n3/2016/0413/c95952-9043723.html
@@ -16183,6 +16246,9 @@ URL=http://qiita.com/Hiroshiba/items/d5749d8896613e6f0b48
 =2017-04-10T10:42:06+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/GitHub - kaonashi-tyczi2zi Learning Chinese Character style with conditional GAN
 URL=https://github.com/kaonashi-tyc/zi2zi?utm_content=bufferba4b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
+=2017-05-17T07:17:36+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/Globally and Locally Consistent Image Completion - ディープラーニングによる画期的な画像補完 - SIGGRAPH 2017 技術論文
+URL=http://3dnchu.com/archives/deep-learning-consistent-img-comp/
+
 =2017-05-12T07:17:16+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/Google、「Allo」に顔写真からオリジナルスタンプを作るニューラルネットワーク機能 - ITmedia NEWS
 URL=http://www.itmedia.co.jp/news/articles/1705/12/news108.html
 
@@ -16662,6 +16728,9 @@ URL=http://aitimes.info/articles/502
 
 =2017-04-26T07:26:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/AIで、映像からキーワード、概念、感情的な文脈などのメタデータを自動抽出：IBM、「映像」からビジネス洞察を得るWatsonベースのクラウドサービスを提供へ - ＠IT
 URL=http://www.atmarkit.co.jp/ait/articles/1704/26/news074.html
+
+=2017-05-18T07:22:58+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/AIで世界を認識する新技術Google Lens発表。被写体の情報をその場で調べ、AR表示やアクションを実行 - Engadget 日本版
+URL=http://japanese.engadget.com/2017/05/17/ai-google-lens-ar/
 
 =2016-07-24T07:38:34+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/AIで花の名前や生態を教えてくれるアプリ「Blippar」はiOSとAndroidに対応! - グノシー
 URL=https://gunosy.com/articles/RNepH
@@ -17313,6 +17382,9 @@ URL=https://japan.cnet.com/article/35100847/
 
 =2017-05-10T08:28:30+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/ドローン/「ドローンを使った荷物配送」で理解する“フォグコンピューティング”の技術的特徴 － TechTargetジャパン 経営とIT
 URL=http://techtarget.itmedia.co.jp/tt/news/1705/10/news05.html
+
+=2017-05-18T14:20:48+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/ドローン/【特集】ドローンのポテンシャル - 実は寛容な日本の「ドローン法制」、国交省が語るその将来像とは｜ソリューション｜IT製品の事例・解説記事
+URL=https://news.mynavi.jp/itsearch/article/solution/2692
 
 =2017-05-11T06:40:39+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/ドローン/【特集】ドローンのポテンシャル - 業界団体「JUIDA」が描く未来像「このままでは日本は世界に遅れをとる」｜ソリューション｜IT製品の事例・解説記事
 URL=https://news.mynavi.jp/itsearch/article/solution/2699
@@ -18588,6 +18660,9 @@ URL=http://globe.asahi.com/feature/article/2016122700007.html?page=3
 
 =2017-02-13T07:09:43+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/なにこれ、超楽じゃん。会議の議事録を自動でいい感じに作成するclarke.aiがイケてる - BITA デジマラボ
 URL=https://bita.jp/dml/clarke-ai
+
+=2017-05-17T07:14:42+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/メディアドゥ、電子書籍をＡＩで要約　購入前に内容把握　　：日本経済新聞
+URL=http://www.nikkei.com/article/DGXLZO16488430W7A510C1TI1000/
 
 =2016-12-15T13:29:02+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/自動要約アルゴリズムLexRankでドナルド・トランプ氏の演説を3行に要約してみる - Qiita
 URL=http://qiita.com/riverwell/items/310e0a31f2e5097df7ff
@@ -21910,6 +21985,9 @@ URL=http://www.atmarkit.co.jp/ait/articles/1607/21/news039.html
 =2017-01-02T14:16:15+09:00 Computer/トピック/社会動向/Japanese white collar workers are already being replaced by artificial intelligence-Quartz
 URL=https://qz.com/875491/japanese-white-collar-workers-are-already-being-replaced-by-artificial-intelligence/
 
+=2017-05-17T07:31:28+09:00 Computer/トピック/社会動向/kerasの作者Francois Cholletはもっと歴史を勉強すべき。国や民族単位で批判することの愚かさを知れ - shi3zの長文日記
+URL=http://d.hatena.ne.jp/shi3z/20170517/1494977315
+
 =2017-01-11T07:59:04+09:00 Computer/トピック/社会動向/LinkedIn創始者ら、社会に利するAIに向けた基金を設立 - CNET Japan
 URL=http://japan.cnet.com/news/business/35094806/
 
@@ -23346,6 +23424,9 @@ URL=http://anond.hatelabo.jp/20131228011911
 
 =2016-08-09T07:11:01+09:00 Computer/トピック/社会動向/人工知能と人間の新たなステップ！アジア最大のプロジェクションマッピング国際コンペに人工知能が参加！？：時事ドットコム
 URL=http://www.jiji.com/jc/article?k=000000002.000020452&g=prt
+
+=2017-05-17T07:16:54+09:00 Computer/トピック/社会動向/人工知能に、人の真似をさせるのは間違っている 池谷裕二（脳科学者）×出口治明（ライフネット生命会長）［第1回］　WEDGE Infinity(ウェッジ)
+URL=http://wedge.ismedia.jp/articles/-/9636
 
 =2016-08-23T08:25:59+09:00 Computer/トピック/社会動向/人工知能によるPDCA、その数学的アプローチの可能性：2050年までにノーベル賞級の発見を DIGIDAY［日本版］
 URL=http://digiday.jp/platforms/kitano-ai-new-context/
@@ -24871,6 +24952,9 @@ URL=http://www.capa.co.jp/archives/12363
 =2017-01-24T10:11:58+09:00 Computer/トピック/社会動向/企業/Google/AI First時代の意味 GLOBIS 知見録 - 読む
 URL=http://globis.jp/article/5115
 
+=2017-05-18T07:22:58+09:00 Computer/トピック/社会動向/企業/Google/AIで世界を認識する新技術Google Lens発表。被写体の情報をその場で調べ、AR表示やアクションを実行 - Engadget 日本版
+URL=http://japanese.engadget.com/2017/05/17/ai-google-lens-ar/
+
 =2017-01-27T07:50:15+09:00 Computer/トピック/社会動向/企業/Google/Alphabet（Googleの親会社）、“その他”部門の営業損失10億ドルで純利益が予測に届かず - ITmedia ニュース
 URL=http://www.itmedia.co.jp/news/articles/1701/27/news071.html
 
@@ -24946,6 +25030,9 @@ URL=http://media.dglab.com/2017/05/11-event-google-brain-team-01/
 =2017-04-11T08:10:25+09:00 Computer/トピック/社会動向/企業/Google/Fast Drawing for Everyone
 URL=https://www.blog.google/topics/machine-learning/fast-drawing-everyone/
 
+=2017-05-17T07:21:58+09:00 Computer/トピック/社会動向/企業/Google/GmailアプリにAIが返信文を提案するスマートリプライ機能。iOS版にも搭載、まず英語・スペイン語からサポート - Engadget 日本版
+URL=http://japanese.engadget.com/2017/05/17/gmail-ai-android-ios/
+
 =2016-09-21T08:46:46+09:00 Computer/トピック/社会動向/企業/Google/Google Analyticsの本気。AIによる無料アドバイス機能『Analytics Assistant』の衝撃 - BITA デジマラボ
 URL=https://bita.jp/dml/gaassistant
 
@@ -24960,6 +25047,12 @@ URL=https://googledevjp.blogspot.jp/2016/11/making-it-easier-for-anyone-to-start
 
 =2016-11-07T08:06:45+09:00 Computer/トピック/社会動向/企業/Google/Google Homeレビュー：Amazon Echoより賢い。その分イラッともするけど｜ギズモード・ジャパン
 URL=http://www.gizmodo.jp/2016/11/google-home-review.html
+
+=2017-05-18T07:20:29+09:00 Computer/トピック/社会動向/企業/Google/Google IO 2017 Keynote Android開発まとめ TechBooster
+URL=https://techbooster.org/android/17834/
+
+=2017-05-18T07:08:46+09:00 Computer/トピック/社会動向/企業/Google/Google IO 2017まとめ - Qiita
+URL=http://qiita.com/usagani/items/3adce245bb68d61fc2a9
 
 =2016-11-16T08:27:35+09:00 Computer/トピック/社会動向/企業/Google/Google Japan Blog Google 翻訳が進化しました。
 URL=https://japan.googleblog.com/2016/11/google.html
@@ -25096,6 +25189,9 @@ URL=http://gigazine.net/news/20161115-google-resarch-raisr/
 =2017-05-13T08:01:25+09:00 Computer/トピック/社会動向/企業/Google/Googleが支援するCMUの「スーパーセンサー」プロジェクトは、普通の機器の世界にIoTパワーを持ち込む TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/05/13/20170511google-funded-super-sensor-project-brings-iot-powers-to-dumb-appliances/
 
+=2017-05-18T07:23:32+09:00 Computer/トピック/社会動向/企業/Google/Googleが本日のGoogle IOで発表したこと総まとめ TechCrunch Japan
+URL=http://jp.techcrunch.com/2017/05/18/galleryeverything-google-announced-at-its-google-io-keynote/
+
 =2017-01-12T09:12:53+09:00 Computer/トピック/社会動向/企業/Google/Googleが機械学習APIの提供でターゲットを企業に拡大
 URL=https://www.infoq.com/jp/news/2017/01/Google-Enterprise-ML-API?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 
@@ -25140,6 +25236,9 @@ URL=http://www.gizmodo.jp/2016/10/googles-ai-plans-are-a-privacy-nightmare.html
 
 =2017-04-10T08:09:15+09:00 Computer/トピック/社会動向/企業/Google/Googleの機械学習チップ、CPUGPUより30倍高速 マイナビニュース
 URL=http://news.mynavi.jp/news/2017/04/10/181/
+
+=2017-05-18T07:23:46+09:00 Computer/トピック/社会動向/企業/Google/Googleの機械学習マシン「TPU」の第2世代登場、1ボード180TFLOPSで64台グリッドでは11.5PFLOPSに到達 - GIGAZINE
+URL=http://gigazine.net/news/20170518-google-tpu-2nd-gen/
 
 =2016-11-09T08:45:11+09:00 Computer/トピック/社会動向/企業/Google/Googleの秘密研究所「X」を統括するアストロ・テラーがXの未来を語る - GIGAZINE
 URL=http://gigazine.net/news/20161109-astro-teller-interview/
@@ -25527,6 +25626,9 @@ URL=http://itpro.nikkeibp.co.jp/atcl/column/14/255608/053100199/?rt=nocnt
 
 =2016-11-11T08:36:46+09:00 Computer/トピック/社会動向/企業/Google/ＡＩで主導権！？ グーグルの戦略を聞く｜NHK NEWS WEB
 URL=http://www3.nhk.or.jp/news/business_tokushu/2016_1111.html
+
+=2017-05-17T07:21:22+09:00 Computer/トピック/社会動向/企業/Google/［速報］Google、スマートフォン向けの機械学習ライブラリ「TensorFlow Lite」発表。DSPをアクセラレータとして利用。Google IO 2017 － Publickey
+URL=http://www.publickey1.jp/blog/17/googletensorflow_litedspgoogle_io_2017.html
 
 =2017-03-17T09:15:36+09:00 Computer/トピック/社会動向/企業/GROUND/大和ハウス工業株式会社との業務提携契約の締結について｜GROUND株式会社のプレスリリース
 URL=https://prtimes.jp/main/html/rd/p/000000015.000019139.html
@@ -26800,6 +26902,9 @@ URL=http://news.mynavi.jp/news/2017/03/07/226/
 =2017-03-01T10:13:20+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/ニュース - NTTデータがAIやIoTの専門組織に1700人、グループ内の人員を集約：ITpro
 URL=http://itpro.nikkeibp.co.jp/atcl/news/17/030100678/
 
+=2017-05-17T07:18:50+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/ロボットを高齢者住宅に導入、NTTデータなど実験　食欲・睡眠など効果検証 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1705/17/news088.html
+
 =2017-04-03T07:14:52+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/人工知能はすでにビジネスを変革しはじめた──導入企業から知る「AI×ビジネス」のリアルな現状 - ITmedia NEWS
 URL=http://www.itmedia.co.jp/news/articles/1704/03/news004.html
 
@@ -27060,6 +27165,9 @@ URL=http://jp.autoblog.com/2016/04/08/roborace-nvidia-autonomous-cars-racing-gpu
 
 =2016-09-20T07:39:05+09:00 Computer/トピック/社会動向/企業/NVIDIA/機械学習-GPU で加速化したアプリケーション NVIDIA
 URL=http://www.nvidia.co.jp/object/machine-learning-jp.html
+
+=2017-05-16T07:15:34+09:00 Computer/トピック/社会動向/企業/NVIDIA/次世代GPU「Volta」からAIまで，新製品＆新サービスラッシュだったJensen Huang氏のGTC 2017基調講演レポート - 4Gamer.net
+URL=http://www.4gamer.net/games/208/G020859/20170516092/
 
 =2017-01-05T08:11:14+09:00 Computer/トピック/社会動向/企業/NVIDIA/米エヌビディア、自動運転向けＡＩで独ボッシュなどと提携　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLASDZ05HR3_V00C17A1000000/
@@ -29653,6 +29761,9 @@ URL=http://techon.nikkeibp.co.jp/atcl/column/15/070800054/042600026/?rt=nocnt
 =2017-04-05T09:28:50+09:00 Computer/トピック/社会動向/企業/メディアドゥ/メディアドゥ、ネット閲覧ソフトの開発会社を買収　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLZO14969330V00C17A4TJC000/
 
+=2017-05-17T07:14:42+09:00 Computer/トピック/社会動向/企業/メディアドゥ/メディアドゥ、電子書籍をＡＩで要約　購入前に内容把握　　：日本経済新聞
+URL=http://www.nikkei.com/article/DGXLZO16488430W7A510C1TI1000/
+
 =2017-04-25T07:46:16+09:00 Computer/トピック/社会動向/企業/メトロエンジン/メトロエンジン株式会社、AIを駆使したホテル・旅館向けのレベニューマネジメント支援ツール「メトロエンジン」をリリース｜メトロエンジン株式会社のプレスリリース
 URL=https://prtimes.jp/main/html/rd/p/000000012.000022951.html
 
@@ -31729,6 +31840,9 @@ URL=http://dentsulab.tokyo/news/?p=141
 =2017-04-20T08:01:09+09:00 Computer/トピック/社会動向/企業/電通/PDF型式の雑誌記事 二次利用しやすく 電通、AI使い変換… - ITインフライターが日経産業新聞を読み耽る
 URL=http://blog.goo.ne.jp/kazuhiro991/e/b5cb0ee17511787a65f6184b53860a06
 
+=2017-05-18T07:24:19+09:00 Computer/トピック/社会動向/企業/電通/“AIコピーライター”、電通が開発　広告コピーを自動生成 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1705/18/news141.html
+
 =2017-04-26T07:29:57+09:00 Computer/トピック/社会動向/企業/電通/「Adobe Analytics」でデジタル広告とマス広告のデータを一元管理、アドビと電通デジタルが共同でツール提供 - ITmedia マーケティング
 URL=http://marketing.itmedia.co.jp/mm/articles/1704/26/news050.html
 
@@ -31989,6 +32103,9 @@ URL=http://www.nikkei.com/article/DGXLZO08182600Z01C16A0TJE000/
 
 =2017-01-29T07:11:30+09:00 Computer/トピック/社会動向/大学/慶応大学/自動運転のＡＩ活用技術開発へ　慶大と東大など新会社　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLZO12270770Y7A120C1TJE000/
+
+=2017-05-17T07:17:36+09:00 Computer/トピック/社会動向/大学/早稲田大学/Globally and Locally Consistent Image Completion - ディープラーニングによる画期的な画像補完 - SIGGRAPH 2017 技術論文
+URL=http://3dnchu.com/archives/deep-learning-consistent-img-comp/
 
 =2016-05-09T09:19:06+09:00 Computer/トピック/社会動向/大学/早稲田大学/ラフ画へ自動的にペン入れして線画にする恐るべきニューラルネットワーク技術を早稲田大学の研究室が開発 - GIGAZINE
 URL=http://gigazine.net/news/20160428-sketch-automatic-line-drawing/
