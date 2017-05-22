@@ -610,6 +610,9 @@ Amper Music,Amper
 =2017-03-28T14:43:25+09:00 Computer/トピック/社会動向/企業/Anki/keywords
 Cozmo
 
+=2017-05-22T08:17:03+09:00 Computer/トピック/社会動向/企業/Appier/keywords
+Cross X AIソリューション
+
 =2017-03-28T14:45:14+09:00 Computer/トピック/社会動向/企業/Apple/keywords
 Apple,アップル
 iPhone
@@ -908,9 +911,10 @@ Salesforceコマースクラウド
 Samsung,サムスン
 Bixby
 
-=2017-03-29T15:05:30+09:00 Computer/トピック/社会動向/企業/SAP/keywords
+=2017-05-22T08:32:45+09:00 Computer/トピック/社会動向/企業/SAP/keywords
 S/4HANA Cloud
 SAP Integrated Business Planning
+SAP Leonardo
 
 =2017-03-29T15:07:07+09:00 Computer/トピック/社会動向/企業/SAS/keywords
 SAS,SAS Institute Japan
@@ -1414,7 +1418,8 @@ HireVue
 =2017-04-10T14:00:44+09:00 Computer/トピック/社会動向/企業/タレントアンドアセスメント/keywords
 (仮)AI面接官
 
-=2017-04-10T13:52:25+09:00 Computer/トピック/社会動向/企業/ダイキン工業/keywords
+=2017-05-22T09:41:01+09:00 Computer/トピック/社会動向/企業/ダイキン工業/keywords
+ダイキン,ダイキン工業
 Smart Innovator
 
 =2017-04-13T10:29:04+09:00 Computer/トピック/社会動向/企業/ティアフォー/keywords
@@ -1649,8 +1654,9 @@ AIポジショニングマップMr.DATA
 メトロプライシング for 民泊
 メトロエンジン
 
-=2017-04-11T10:31:30+09:00 Computer/トピック/社会動向/企業/ユニクロ/keywors
-ユニクロ,UNIQLO
+=2017-05-22T09:47:54+09:00 Computer/トピック/社会動向/企業/ユニクロ/keywors
+ユニクロ,UNIQLO,ファーストリテイリング
+
 
 =2017-04-11T10:33:07+09:00 Computer/トピック/社会動向/企業/ユニロボット/keywords
 unibo
@@ -1689,6 +1695,9 @@ Opus,オーパス
 
 =2017-05-10T07:32:47+09:00 Computer/トピック/社会動向/企業/ルグラン/keywords
 TNQL,テンキュール
+
+=2017-05-22T07:45:58+09:00 Computer/トピック/社会動向/企業/ルネサス/keywords
+e-AI
 
 =2017-04-17T08:42:01+09:00 Computer/トピック/社会動向/企業/レイ・フロンティア/keywords
 SilentLog Analytics
@@ -1799,8 +1808,8 @@ Racrew,ラックル
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
 
-=2017-04-11T13:43:36+09:00 Computer/トピック/社会動向/企業/東芝/keywords
-RECAIUS知識探索・活用サービス
+=2017-05-22T07:47:17+09:00 Computer/トピック/社会動向/企業/東芝/keywords
+RECAIUS,リカイアス
 Visconti
 
 =2017-04-11T10:58:54+09:00 Computer/トピック/社会動向/企業/楽天/keywords
@@ -1880,6 +1889,9 @@ Khushi
 =2017-04-11T11:28:02+09:00 Computer/トピック/社会動向/企業/金融・保険/日本生命/keywords
 日本生命,日生
 
+=2017-05-22T10:36:41+09:00 Computer/トピック/社会動向/企業/金融・保険/朝日信用金庫/keywords
+朝日信用金庫,朝日信金
+
 =2017-04-11T11:27:10+09:00 Computer/トピック/社会動向/企業/金融・保険/東京三菱UFJ/keywords
 東京三菱UFJ,三菱UFJ,MUFG
 
@@ -1896,8 +1908,9 @@ Odin,オーディン
 =2017-04-11T13:34:24+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/東京電力/keywords
 東京電力,東電
 
-=2017-04-11T13:21:56+09:00 Computer/トピック/社会動向/企業/電通/keywords
+=2017-05-22T07:15:50+09:00 Computer/トピック/社会動向/企業/電通/keywords
 ZUNO,ズノさん
+AICO
 
 =2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/ＧＭＯペパボ/keywords
 ペパボ研究所
