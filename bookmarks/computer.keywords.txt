@@ -657,6 +657,9 @@ Darktrace,ダークトレース
 =2017-03-29T08:41:19+09:00 Computer/トピック/社会動向/企業/DataRobot/keywords
 DataRobot,データロボット
 
+=2017-05-25T07:47:28+09:00 Computer/トピック/社会動向/企業/Datorama/keywords
+Datorama Genius
+
 =2017-03-29T08:43:02+09:00 Computer/トピック/社会動向/企業/DELL/keywords
 DELL,デル
 
@@ -843,6 +846,9 @@ RAPID WORKS
 AI Samurai
 MINARAI
 
+=2017-05-25T07:53:43+09:00 Computer/トピック/社会動向/企業/NHK/keywords
+ハイコネ,Hybridcast Connect
+
 =2017-03-29T12:01:37+09:00 Computer/トピック/社会動向/企業/Nokia/keywords
 MIKA
 
@@ -858,8 +864,9 @@ COTOHA
 テクノマーク クラウド＋
 NATESAS
 
-=2017-03-29T14:22:25+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
+=2017-05-25T07:36:12+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ
+petoco
 
 =2017-04-18T07:25:05+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
 Oshi-el,オシエル
@@ -1719,8 +1726,9 @@ K.I.,kafun Intelligence
 =2017-04-11T10:45:59+09:00 Computer/トピック/社会動向/企業/ロードスターキャピタル/keywords
 AI-Checker
 
-=2017-04-11T10:13:04+09:00 Computer/トピック/社会動向/企業/ワークスアプリケーションズ/keywords
+=2017-05-25T07:37:19+09:00 Computer/トピック/社会動向/企業/ワークスアプリケーションズ/keywords
 HUE
+AIすだちくん
 
 =2017-04-11T11:35:22+09:00 Computer/トピック/社会動向/企業/三井不動産/keywords
 toppi!,トッピ
@@ -1778,9 +1786,10 @@ COLMINA,コルミナ
 =2017-04-11T09:30:16+09:00 Computer/トピック/社会動向/企業/文化放送/keywords
 ラジオプリント
 
-=2017-04-11T11:56:57+09:00 Computer/トピック/社会動向/企業/新日鉄住金ソリューションズ/keywords
+=2017-05-23T09:50:21+09:00 Computer/トピック/社会動向/企業/新日鉄住金ソリューションズ/keywords
 新日鉄住金ソリューションズ,NSSOL
 DataRobot
+absonne,アブソンヌ
 
 =2017-04-13T10:31:18+09:00 Computer/トピック/社会動向/企業/日本システムウエア/keywords
 日本システムウエア,NSW
@@ -1853,6 +1862,9 @@ Ford,フォード
 =2017-04-11T11:49:27+09:00 Computer/トピック/社会動向/企業/自動車/Mercedes-Benz/keywords
 Mercedes-Benz,メルセデス・ベンツ,ベンツ
 
+=2017-05-25T07:31:13+09:00 Computer/トピック/社会動向/企業/自動車/SUBARU/keywords
+SUBARU,スバル,富士重工業
+
 =2017-04-10T14:24:34+09:00 Computer/トピック/社会動向/企業/自動車/Tesla/keywords
 Tesla,テスラ
 
@@ -1915,6 +1927,9 @@ Odin,オーディン
 ZUNO,ズノさん
 AICO
 
+=2017-05-25T07:19:39+09:00 Computer/トピック/社会動向/企業/電通国際情報サービス/keywords
+電通国際情報サービス,ISID
+
 =2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/ＧＭＯペパボ/keywords
 ペパボ研究所
 
@@ -1945,6 +1960,9 @@ TSUBAME
 
 =2017-03-27T08:48:08+09:00 Computer/トピック/社会動向/研究機関/NICT/keywords
 NICT,情報通信研究機構
+
+=2017-05-25T07:58:05+09:00 Computer/トピック/社会動向/研究機関/NII/keywords
+情報・システム研究機構国立情報学研究所,NII
 
 =2017-03-29T14:43:41+09:00 Computer/トピック/社会動向/研究機関/理研/keywords
 理化学研究所,理研
