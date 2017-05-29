@@ -694,6 +694,9 @@ Fitbit Alta HR,Alta HR
 =2017-03-29T09:34:56+09:00 Computer/トピック/社会動向/企業/FIXER/keywords
 cloud.config
 
+=2017-05-29T08:01:04+09:00 Computer/トピック/社会動向/企業/Fringe81/keywords
+Columva,コルンバ
+
 =2017-03-29T09:40:49+09:00 Computer/トピック/社会動向/企業/FRONTEO(旧UBIC)/keywords
 FRONTEO,UBIC
 KIBIT
@@ -1717,6 +1720,9 @@ Sedue,セデュー
 Answer Finder
 VoC Analyzer
 
+=2017-05-29T09:21:33+09:00 Computer/トピック/社会動向/企業/レモネード/keywords
+INFLUENCER ONE
+
 =2017-04-11T10:48:48+09:00 Computer/トピック/社会動向/企業/ロゼッタ/keywords
 T-4OO
 
@@ -1735,6 +1741,9 @@ toppi!,トッピ
 
 =2017-04-11T11:37:08+09:00 Computer/トピック/社会動向/企業/三菱重工業/keywords
 TOMONI
+
+=2017-05-29T07:24:52+09:00 Computer/トピック/社会動向/企業/三菱電機/keywords
+Maisart,マイサート
 
 =2017-04-03T07:51:18+09:00 Computer/トピック/社会動向/企業/丸紅/keywords
 TRASCOPE,トラスコープ
@@ -1757,8 +1766,9 @@ Face Targeting AD
 =2017-04-03T08:01:45+09:00 Computer/トピック/社会動向/企業/吉野家/keywords
 CORO
 
-=2017-04-11T13:10:54+09:00 Computer/トピック/社会動向/企業/大日本印刷/keywords
+=2017-05-29T08:22:36+09:00 Computer/トピック/社会動向/企業/大日本印刷/keywords
 大日本印刷,DNP
+diip,ディープ
 
 =2017-04-11T10:54:24+09:00 Computer/トピック/社会動向/企業/安川情報システム/keywords
 MMPredict
