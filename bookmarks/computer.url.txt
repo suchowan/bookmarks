@@ -1486,6 +1486,9 @@ URL=http://www.itmedia.co.jp/news/articles/1609/20/news057.html
 =2016-09-30T09:13:25+09:00 Computer/トピック/セキュリティ/新プロジェクト「Apache Spot」が誕生、ビッグデータと機械学習をサイバーセキュリティに活用：Computerworld
 URL=http://itpro.nikkeibp.co.jp/atcl/idg/14/481542/093000278/
 
+=2017-06-07T07:20:22+09:00 Computer/トピック/セキュリティ/新世代の「Identity SOC」、Oracle SaaS対応CASBサービスなど：Oracle、一連のクラウドセキュリティサービス群を強化 - ＠IT
+URL=http://www.atmarkit.co.jp/ait/articles/1706/07/news075.html
+
 =2016-09-01T07:16:52+09:00 Computer/トピック/セキュリティ/日本型セキュリティの現実と理想：第30回　 日本の終戦までの最後の1年間とサイバーセキュリティの現状の共通点- ITmedia エンタープライズ
 URL=http://www.itmedia.co.jp/enterprise/articles/1609/01/news017.html
 
@@ -2593,6 +2596,9 @@ URL=http://qiita.com/nagadomi/items/bf7f9f7a91b4cf825f3d
 =2017-01-10T09:57:20+09:00 Computer/トピック/ツール/オンプレミス/Chainer/kerasとchainerの違い - 機械学習,信号解析,ディープラーニングの勉強
 URL=http://s0sem0y.hatenablog.com/entry/2017/01/10/233242
 
+=2017-06-08T08:02:40+09:00 Computer/トピック/ツール/オンプレミス/Chainer/Kerasは便利。Chainerは激しい - shi3zの長文日記
+URL=http://d.hatena.ne.jp/shi3z/20170608/1496871921
+
 =2016-09-08T08:53:33+09:00 Computer/トピック/ツール/オンプレミス/Chainer/LSTMにsin波を覚えてもらう(chainer trainerの速習) - Qiita
 URL=http://qiita.com/chachay/items/052406176c55dd5b9a6a
 
@@ -3151,6 +3157,9 @@ URL=http://qiita.com/yukiB/items/f45f0f71bc9739830002
 =2017-05-17T07:31:28+09:00 Computer/トピック/ツール/オンプレミス/Keras/kerasの作者Francois Cholletはもっと歴史を勉強すべき。国や民族単位で批判することの愚かさを知れ - shi3zの長文日記
 URL=http://d.hatena.ne.jp/shi3z/20170517/1494977315
 
+=2017-06-08T08:02:40+09:00 Computer/トピック/ツール/オンプレミス/Keras/Kerasは便利。Chainerは激しい - shi3zの長文日記
+URL=http://d.hatena.ne.jp/shi3z/20170608/1496871921
+
 =2016-06-09T07:59:19+09:00 Computer/トピック/ツール/オンプレミス/Keras/KerasをTensorFlowバックエンドで試してみた：「もっと多くの人に機械学習とDeep Learningを」という時代の幕開け - 六本木で働くデータサイエンティストのブログ
 URL=http://tjo.hatenablog.com/entry/2016/06/09/190000
 
@@ -3564,6 +3573,9 @@ URL=http://qiita.com/sergeant-wizard/items/052c98c6e712a4a8df6a
 
 =2016-11-22T07:35:08+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/BluemixのDockerコンテナ環境にTensorFlowをインストールする - Qiita
 URL=http://qiita.com/takeyan/items/7956ec65e9cca367f8bd
+
+=2017-06-07T07:28:30+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/C#でTensorFlowのCNNを動かす。 - Qiita
+URL=http://qiita.com/Tama_maru/items/6e50edfd8f8dea184d18
 
 =2017-03-21T07:36:27+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/C#でTensorFlowを動かす。 - Qiita
 URL=http://qiita.com/Tama_maru/items/9ce0e7f88ae4f00cb18f
@@ -6193,6 +6205,9 @@ URL=http://qiita.com/noco/items/466715f6dabe7374d545
 =2017-03-30T08:10:22+09:00 Computer/トピック/ツール/クラウド/その他/A3RT/画像の人気度、校正支援、チャットボットなど：リクルートが社内で育てたDeep Learning／機械学習API群「A3RT」を無料で公開した理由 - ＠IT
 URL=http://www.atmarkit.co.jp/ait/articles/1703/30/news007.html
 
+=2017-06-06T07:57:49+09:00 Computer/トピック/ツール/クラウド/その他/api.ai/API.AIを試す - 偏った言語信者の垂れ流し
+URL=http://tokibito.hatenablog.com/entry/2017/06/06/213548
+
 =2017-05-10T10:50:20+09:00 Computer/トピック/ツール/クラウド/その他/api.ai/チャットボットの簡単な作り方 AI入門ブログ（人工知能の作り方など人工知能に関する情報を公開）
 URL=http://ai-kenkyujo.com/2017/05/10/chat-bot/
 
@@ -6909,6 +6924,9 @@ URL=http://codezine.jp/article/detail/9954
 
 =2016-05-06T09:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/C#/ASP.NET MVC 3%3a Validating model when information external to the model is required
 URL=http://stackoverflow.com/questions/7743854/asp-net-mvc-3-validating-model-when-information-external-to-the-model-is-requir
+
+=2017-06-07T07:28:30+09:00 Computer/トピック/ツール/ソフトウェア言語/C#/C#でTensorFlowのCNNを動かす。 - Qiita
+URL=http://qiita.com/Tama_maru/items/6e50edfd8f8dea184d18
 
 =2017-03-21T07:36:27+09:00 Computer/トピック/ツール/ソフトウェア言語/C#/C#でTensorFlowを動かす。 - Qiita
 URL=http://qiita.com/Tama_maru/items/9ce0e7f88ae4f00cb18f
@@ -8854,6 +8872,9 @@ URL=http://qiita.com/piyo7/items/d897d7156d87d29cad19
 =2017-06-06T07:53:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Scala/ScalaでDeeplearning4jを使い自動運転で峠を攻める！ - Septeni Engineer's Blog
 URL=http://labs.septeni.co.jp/entry/2017/06/06/100423
 
+=2017-06-08T08:04:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Scala/Scalaは（便利な）オブジェクト指向言語です - Qiita
+URL=http://qiita.com/kmizu/items/cfaabdbfe3d3b4ef0640
+
 =2017-05-11T08:14:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Scala/Scala製の機械学習サーバApache PredictionIOを使ってみよう - たけぞう瀕死ブログ
 URL=http://takezoe.hatenablog.com/entry/2017/05/11/132410
 
@@ -9736,6 +9757,9 @@ URL=http://monoist.atmarkit.co.jp/mn/articles/1705/24/news024.html
 =2017-05-10T11:10:10+09:00 Computer/トピック/ビッグデータ/IoT/未来の農業の姿とは--ビッグデータ活用で業界を変えるForis.ioの試み - TechRepublic Japan
 URL=https://japan.techrepublic.com/article/35100730.htm
 
+=2017-06-07T07:22:36+09:00 Computer/トピック/ビッグデータ/IoT/某Dash Buttonの発展型!　「会議時間15分延長」「終業ルーティン」などを自動化：「ひっくり返す」をトリガーに　ビジネス活用と業務効率化を想定した「IoTサイコロ」が登場 - ＠IT
+URL=http://www.atmarkit.co.jp/ait/articles/1706/07/news068.html
+
 =2016-09-01T10:05:52+09:00 Computer/トピック/ビッグデータ/IoT/構築したIoTデータ分析環境が投資を大きく上回る効果--コニカミノルタ - ZDNet Japan
 URL=http://japan.zdnet.com/article/35085098/
 
@@ -9837,6 +9861,9 @@ URL=http://qiita.com/rkyymmt@github/items/4fb2002b167c88c85d55
 
 =2016-05-06T09:00:00+09:00 Computer/トピック/ビッグデータ/ShangriLa Anime APIを利用してアニメ関連のビッグデータ解析を最速で行う
 URL=http://www.slideshare.net/JunichiNoda/shangrila-anime-api
+
+=2017-06-06T07:42:55+09:00 Computer/トピック/ビッグデータ/SNS/Instagram/ホットリンク、AIによるInstagram運用支援サービスをリリース マイナビニュース
+URL=http://news.mynavi.jp/news/2017/06/06/067/
 
 =2017-04-15T09:36:52+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/Dockerで雑にMastodonを起動する方法 - Qiita
 URL=http://qiita.com/zembutsu/items/fd52a504321dd5d6f0b8
@@ -11541,6 +11568,9 @@ URL=http://www.itmedia.co.jp/enterprise/articles/1705/10/news010.html
 
 =2017-04-24T07:47:20+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/プライベートDMPを機械学習・ディープラーニングで最適化せよ　理論からレコメンド・MAの最新手法まで：MarkeZine（マーケジン）
 URL=https://markezine.jp/article/detail/26362
+
+=2017-06-07T07:45:29+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/ラーニングアナリティクス実践校が挫折しかねない「7つの課題」、その解決策は？ -TechTargetジャパン 教育IT
+URL=http://techtarget.itmedia.co.jp/tt/news/1706/07/news02.html
 
 =2017-03-09T10:40:17+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/リクルートグループの現場事例から見る　AIディープラーニング ビジネス活用の勘所
 URL=https://www.slideshare.net/recruitcojp/ai-72970223
@@ -13597,6 +13627,9 @@ URL=http://www.tokyo-np.co.jp/article/national/list/201603/CK2016032202000120.ht
 =2017-02-03T10:45:07+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/人工知能はWebサイト作成の夢を見るか？Wix ADIを実際に試してみた。 ｜ SiTest (サイテスト) ブログ
 URL=http://sitest.jp/blog/?p=7771
 
+=2016-05-19T07:46:40+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/人工知能は「詩人」になれるのか - グーグルの試み｜WIRED.jp
+URL=http://wired.jp/2016/05/19/google-artificial-intelligence-poetry/
+
 =2016-12-15T09:16:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/作家ロボットが執筆！人工知能を活用したフィクション創作プラットフォーム「Literai」 Techable(テッカブル)
 URL=http://techable.jp/archives/50964
 
@@ -13848,6 +13881,9 @@ URL=http://hakobe932.hatenablog.com/entry/2016/04/15/142756
 
 =2017-02-10T08:20:03+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/健康的な食生活をサポートする人工知能アシスタント「CALNA」に『作り置きプログラム』を搭載！100名限定で2月10日からβ版を先行リリース - SankeiBiz（サンケイビズ）
 URL=http://www.sankeibiz.jp/business/news/170210/prl1702101502104-n1.htm
+
+=2017-06-07T07:50:18+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/口コミのdoc2vecを用いたリコメンデーションシステムの構築 - Qiita
+URL=http://qiita.com/bokeneko/items/36a549b1eb3f22a58c3f
 
 =2017-05-25T07:29:36+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/国内外の提携工場の相見積もりが一気に取れるカブク、オンライン見積もり自動化も計画 - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1705/25/news089.html
@@ -15784,6 +15820,9 @@ URL=http://qiita.com/HirofumiYashima/items/09699f63d3129deb0314
 =2017-04-05T07:59:11+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/無料DMPの「Juicer」にリードナーチャリング機能が追加 - ITmedia マーケティング
 URL=http://marketing.itmedia.co.jp/mm/articles/1704/05/news044.html
 
+=2017-06-07T07:25:22+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/製造業のための“すべらない”コンテンツマーケティング、成果を挙げるポイントは？- ITmedia マーケティング
+URL=http://marketing.itmedia.co.jp/mm/articles/1706/07/news033.html
+
 =2017-05-25T09:20:06+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/集英社、スタートアップと組んでインフルエンサーマーケティング事業に参入 TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/05/25/shueisha-influencer-marketing/
 
@@ -16017,6 +16056,9 @@ URL=http://www.digimonostation.jp/0000077712/
 
 =2017-05-08T07:10:48+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/「消防ロボット戦隊」都内に現る！　AIで連携も - ITmedia NEWS
 URL=http://www.itmedia.co.jp/news/articles/1705/08/news047.html
+
+=2017-06-05T07:10:52+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/「脳波でロボットを動かす技術」「背骨のあるロボット」――東京農工大学が研究中の技術を公開 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1706/05/news087.html
 
 =2017-04-18T08:52:17+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/【やじうまPC Watch】2丁拳銃で目標を撃ち抜くロシア製人型ロボットが登場 ～ロシア政府は“ターミネーター”ではないと否定 - PC Watch
 URL=http://pc.watch.impress.co.jp/docs/news/yajiuma/1055474.html
@@ -17499,6 +17541,9 @@ URL=http://itpro.nikkeibp.co.jp/atcl/news/16/101803031/101900075/?itp_side_recen
 
 =2017-05-31T08:52:33+09:00 Computer/トピック/機械学習/機械学習応用/教育/パチンコのような機械式コンピュータ「Turing Tumble」--演算原理を学べるSTEM教材 - CNET Japan
 URL=https://japan.cnet.com/article/35102034/
+
+=2017-06-07T07:45:29+09:00 Computer/トピック/機械学習/機械学習応用/教育/ラーニングアナリティクス実践校が挫折しかねない「7つの課題」、その解決策は？ -TechTargetジャパン 教育IT
+URL=http://techtarget.itmedia.co.jp/tt/news/1706/07/news02.html
 
 =2016-09-28T14:35:29+09:00 Computer/トピック/機械学習/機械学習応用/教育/リアルグローブ、人工知能ソリューション実現に向けてODKソリューションズと業務・資本提携｜プレスリリース配信サービス【＠Press：アットプレス】
 URL=https://www.atpress.ne.jp/news/112814
@@ -19728,6 +19773,9 @@ URL=http://qiita.com/ryo_grid/items/0c18513ae42778248a9f
 
 =2017-05-30T08:52:01+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/単語分散表現のためのダウンローダを作りました - Qiita
 URL=http://qiita.com/Hironsan/items/85b281270671dde3555d
+
+=2017-06-07T07:50:18+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/口コミのdoc2vecを用いたリコメンデーションシステムの構築 - Qiita
+URL=http://qiita.com/bokeneko/items/36a549b1eb3f22a58c3f
 
 =2017-01-06T09:44:16+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/基礎的な文章のベクトル化を考える - Qiita
 URL=http://qiita.com/NoriakiOshita/items/6423b5a16ca5e90ab15c
@@ -21997,6 +22045,9 @@ URL=http://qiita.com/gomi-kuzu/items/9ee1fe6c20f6175f3a15
 =2016-12-24T09:07:51+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/RNNにおけるDropoutの適用について - Qiita
 URL=http://qiita.com/yoh_okuno/items/4bcfbc10dd4d03e19690
 
+=2017-06-07T07:31:56+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/RNNやLSTMは入力データのどこに着目しているのか？-Attentionのアラインメント重み or 時系列隠れ層の活性度合いをヒートマップ画像で可視化する手法 - Qiita
+URL=http://qiita.com/HirofumiYashima/items/cc6479191580dac6e729
+
 =2016-05-18T07:45:21+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/ROC曲線とPR曲線の違いについての考察 - Qiita
 URL=http://qiita.com/skyshk/items/016cd1820650ea78d101
 
@@ -22204,8 +22255,14 @@ URL=http://qiita.com/HirofumiYashima/items/b8dfa68cc9234e4bbb35
 =2017-06-06T08:13:39+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/【 論文読み 】Multi-GANモデル-discriminator が複数いる GANモデル - Qiita
 URL=http://qiita.com/HirofumiYashima/items/da93413b5034699c791d
 
+=2017-06-07T07:34:19+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/【 論文読み 】Target Propagation - Back-propagation法が持つ「制約」を人間脳モデルに近づけて緩和する人工知能モデル - Qiita
+URL=http://qiita.com/HirofumiYashima/items/23f3a56a0aeca9b66d3b
+
 =2016-09-20T08:03:47+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/【 論文読み 】静止画から動画を自動生成 ～ 動画版 GANモデル（Generative Adversarial Networks Model）論文群 - Qiita
 URL=http://qiita.com/HirofumiYashima/items/37d978bc98e1b31f2b11
+
+=2017-06-07T07:35:07+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/【 論文読み 】非同期ニューラルネットワーク-上位層からの「誤差」逆伝播を待たずに、各層レイヤ間の演算処理が非同期に進行する Neural Network モデル - Qiita
+URL=http://qiita.com/HirofumiYashima/items/202cdf93a20e6719e191
 
 =2016-12-18T08:12:07+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/【かんたん解説付き】深層ボルツマンマシンをPythonでスクラッチ実装する① - Qiita
 URL=http://qiita.com/yutaitatsu/items/a9478841357b10789514
@@ -22830,6 +22887,9 @@ URL=http://qiita.com/HirofumiYashima/items/eae3f570436e24ab61b4
 
 =2017-06-01T09:51:09+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/（備忘録）Baysian VAR (Vector Auto regression) モデル の 理論 と 実行環境（EViews, R, Python) - Qiita
 URL=http://qiita.com/HirofumiYashima/items/8d937ebaec8dfe265147
+
+=2017-06-07T07:55:11+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/（手法調査）Deep learning で 階層ベイズモデリング Hierarchical Bayesian Neural Network モデル研究史とデータ解析での活用事例 - Qiita
+URL=http://qiita.com/HirofumiYashima/items/9ac24f6a945c99d209f6
 
 =2017-05-21T09:10:45+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/（論文読み）Why does deep and cheap learning work so well 深層ニューラルネットワークが上手くいく理由- Qiita
 URL=http://qiita.com/HirofumiYashima/items/62ac3aec852ec8d17535
@@ -27955,6 +28015,9 @@ URL=https://news.yahoo.co.jp/byline/taromatsumura/20170520-00071137/
 =2017-05-01T08:52:04+09:00 Computer/トピック/社会動向/企業/Google/人工知能の「人手いらずの学習」がついに実現する？ グーグルによる「AI対AIの訓練」という挑戦｜WIRED.jp
 URL=http://wired.jp/2017/05/01/googles-dueling-neural-networks/
 
+=2016-05-19T07:46:40+09:00 Computer/トピック/社会動向/企業/Google/人工知能は「詩人」になれるのか - グーグルの試み｜WIRED.jp
+URL=http://wired.jp/2016/05/19/google-artificial-intelligence-poetry/
+
 =2016-12-14T09:48:26+09:00 Computer/トピック/社会動向/企業/Google/人工知能サービス「Google アシスタント」が日本語に対応！AndroidとiPhoneなどのiOS向け新世代のメッセンジャーアプリ「Allo」で利用可能 - S-MAX
 URL=http://s-max.jp/archives/1707421.html
 
@@ -28413,6 +28476,9 @@ URL=http://www.atmarkit.co.jp/ait/articles/1702/10/news082.html
 
 =2017-03-10T07:48:22+09:00 Computer/トピック/社会動向/企業/Intel/Intel FPGAで使用されるIPライブラリも提供：インテル、OCP向けの第2世代「RSD」をリリース - ＠IT
 URL=http://www.atmarkit.co.jp/ait/articles/1703/10/news082.html
+
+=2017-06-05T07:29:19+09:00 Computer/トピック/社会動向/企業/Intel/Intel Named to DARPA Project Focused on Machine Learning and Artificial Intelligence Intel Newsroom
+URL=https://newsroom.intel.com/news/intel-named-darpa-project-focused-machine-learning-artificial-intelligence/
 
 =2017-02-15T07:39:38+09:00 Computer/トピック/社会動向/企業/Intel/Intel、アリゾナのFab 42に70億ドルを投資へ- EE Times Japan
 URL=http://eetimes.jp/ee/articles/1702/15/news027.html
@@ -29959,6 +30025,9 @@ URL=http://itpro.nikkeibp.co.jp/atclact/active/17/041700058/041700002/
 =2017-03-27T07:19:42+09:00 Computer/トピック/社会動向/企業/Retty/グルメサイトRettyのAI舞台裏 - Rettyが50万円で作った儲かるAI：ITpro
 URL=http://itpro.nikkeibp.co.jp/atcl/column/17/032300097/032400001/?rt=nocnt
 
+=2017-06-07T07:50:18+09:00 Computer/トピック/社会動向/企業/Retty/口コミのdoc2vecを用いたリコメンデーションシステムの構築 - Qiita
+URL=http://qiita.com/bokeneko/items/36a549b1eb3f22a58c3f
+
 =2017-02-01T08:31:23+09:00 Computer/トピック/社会動向/企業/Rist/Ristが人工知能技術であるDeep Learningを用いた画像解析・検査・分類ソリューション『Deep Inspection』を提供開始 - 産経ニュース
 URL=http://www.sankei.com/economy/news/170201/prl1702010382-n1.html
 
@@ -30129,6 +30198,9 @@ URL=https://digitalpr.jp/r/21035
 
 =2016-05-10T08:11:25+09:00 Computer/トピック/社会動向/企業/SAS/ビジネスアナリティクス、ビッグデータの文脈（1）：ビジネスアナリティクス、機械学習の進化とSASの新アーキテクチャ - ＠IT
 URL=http://www.atmarkit.co.jp/ait/articles/1605/10/news031.html
+
+=2017-06-06T07:41:36+09:00 Computer/トピック/社会動向/企業/SAS/ブリヂストンのデジタル変革、「サービスとしてのタイヤ」に向けた取り組みとは？-TechTargetジャパン データ分析
+URL=http://techtarget.itmedia.co.jp/tt/news/1706/02/news07.html
 
 =2016-04-07T09:08:26+09:00 Computer/トピック/社会動向/企業/SAS/塩野義製薬、SASの機械学習ツールを活用した人工知能技術による臨床試験解析のセミオートメーション化に着手 SAS
 URL=http://www.sas.com/ja_jp/news/press-releases/2016/april/2016-04-07-shionogi-use-sas-to-develop-ai-application-jp.html
@@ -30379,6 +30451,9 @@ URL=http://blog.livedoor.jp/takosaburou/archives/50770705.html
 =2016-09-14T07:46:29+09:00 Computer/トピック/社会動向/企業/U-NEXT/AIがコールバック、人工知能活用でコールセンターを低価格に - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1609/14/news111.html
 
+=2017-06-07T07:10:52+09:00 Computer/トピック/社会動向/企業/Uber/Apple Music責任者のボゾマさん、トラブル続きのUberのCBOに - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1706/07/news052.html
+
 =2017-03-29T07:29:48+09:00 Computer/トピック/社会動向/企業/Uber/ASCII.jp：自動運転は非現実的　人工知能バブルをウーバーのAI顧問が批判
 URL=http://ascii.jp/elem/000/001/461/1461999/
 
@@ -30582,6 +30657,9 @@ URL=http://www.nikkei.com/article/DGXMZO14986680W7A400C1000000/
 
 =2017-05-29T07:57:59+09:00 Computer/トピック/社会動向/企業/アイシン/テラデータとNTTデータに見るAI市場へのアプローチ IT Leaders
 URL=http://it.impressbm.co.jp/articles/-/14583
+
+=2017-06-07T07:25:22+09:00 Computer/トピック/社会動向/企業/アイティメディア/製造業のための“すべらない”コンテンツマーケティング、成果を挙げるポイントは？- ITmedia マーケティング
+URL=http://marketing.itmedia.co.jp/mm/articles/1706/07/news033.html
 
 =2017-04-18T09:42:43+09:00 Computer/トピック/社会動向/企業/アイワード/人工知能搭載の印刷機で残業減｜NHK 北海道のニュース
 URL=http://www3.nhk.or.jp/sapporo-news/20170418/5492281.html
@@ -30975,6 +31053,9 @@ URL=http://markezine.jp/article/detail/26438
 
 =2016-08-12T07:17:18+09:00 Computer/トピック/社会動向/企業/オラクル/ニュース - 日本オラクル、農業IoTアプリをデモ、畑を“擬人化”してLINEで会話する「畑bot」を紹介：ITpro
 URL=http://itpro.nikkeibp.co.jp/atcl/news/16/081202410/?rt=nocnt
+
+=2017-06-07T07:20:22+09:00 Computer/トピック/社会動向/企業/オラクル/新世代の「Identity SOC」、Oracle SaaS対応CASBサービスなど：Oracle、一連のクラウドセキュリティサービス群を強化 - ＠IT
+URL=http://www.atmarkit.co.jp/ait/articles/1706/07/news075.html
 
 =2017-01-05T08:16:16+09:00 Computer/トピック/社会動向/企業/オラクル/日本オラクル、ＡＩのビジネス分析ツール提供　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLZO11366990V00C17A1TI5000/
@@ -31576,6 +31657,9 @@ URL=http://www.news2u.net/releases/145373
 =2017-04-14T07:14:02+09:00 Computer/トピック/社会動向/企業/ゼンリン/AIが「対話」で道案内　ドコモとゼンリンが新サービス - ITmedia ビジネスオンライン
 URL=http://www.itmedia.co.jp/business/articles/1704/14/news083.html
 
+=2017-06-07T07:22:36+09:00 Computer/トピック/社会動向/企業/ソニックス/某Dash Buttonの発展型!　「会議時間15分延長」「終業ルーティン」などを自動化：「ひっくり返す」をトリガーに　ビジネス活用と業務効率化を想定した「IoTサイコロ」が登場 - ＠IT
+URL=http://www.atmarkit.co.jp/ait/articles/1706/07/news068.html
+
 =2017-03-10T08:13:22+09:00 Computer/トピック/社会動向/企業/ソニー/AIの魅力アップの秘策は「キャラクター性」--MS、シャープ、ソニーの開発者が語る - CNET Japan
 URL=https://japan.cnet.com/article/35097759/
 
@@ -31935,6 +32019,9 @@ URL=http://www.nikkei.com/article/DGXLZO08182470Z01C16A0TJE000/
 
 =2017-05-22T08:48:59+09:00 Computer/トピック/社会動向/企業/ティファナ・ドットコム/増加する窓口業務に人工知能で対応、担当者の負担を軽減するチャットボット-Japan IT WEEK春-３ IoTニュース：IoT NEWS
 URL=https://iotnews.jp/archives/56132
+
+=2017-06-06T07:33:30+09:00 Computer/トピック/社会動向/企業/テクノス/TDSE、人工知能「scorobo for Marketing」シリーズ「scorobo for SNS」を提供開始：ITpro Active
+URL=http://itpro.nikkeibp.co.jp/atclact/activer/nkpr/RSP447234_06062017/
 
 =2016-12-27T09:22:19+09:00 Computer/トピック/社会動向/企業/テクノス/TDSEとフィスコによるFinTech業務提携第一弾『Scorobo@ for Fintech（人工知能）による銘柄選択レポート提供開始』：時事ドットコム
 URL=http://www.jiji.com/jc/article?k=000000017.000011506&g=prt
@@ -32538,6 +32625,9 @@ URL=http://www.atmarkit.co.jp/ait/articles/1610/14/news051.html
 
 =2017-04-17T08:02:46+09:00 Computer/トピック/社会動向/企業/ベルシステム24/質問内容に応じて、対応をAIか人かを自動切り替え：ベルシステム24、LINEを使う顧客対応システムへWatson搭載の新ソリューション「BellCloud AI for SNS」を追加 - ＠IT
 URL=http://www.atmarkit.co.jp/ait/articles/1704/17/news070.html
+
+=2017-06-06T07:42:55+09:00 Computer/トピック/社会動向/企業/ホットリンク/ホットリンク、AIによるInstagram運用支援サービスをリリース マイナビニュース
+URL=http://news.mynavi.jp/news/2017/06/06/067/
 
 =2017-05-10T10:42:48+09:00 Computer/トピック/社会動向/企業/ホテルおかだ/『ＡＩが旅館予約の課題を解決できるか？』箱根湯本の温泉旅館「ホテルおかだ」公式サイトに人工知能を用いたFAQシステムを導入
 URL=https://prtimes.jp/main/html/rd/p/000000001.000025719.html
@@ -34003,6 +34093,9 @@ URL=http://www.itmedia.co.jp/business/articles/1704/25/news049.html
 =2017-05-30T07:11:05+09:00 Computer/トピック/社会動向/企業/東芝/東芝メモリの理想的な買い手　　編集委員　西條都夫　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXMZO16999700Z20C17A5000000/
 
+=2017-06-07T12:10:42+09:00 Computer/トピック/社会動向/企業/東芝/東芝半導体買収、２陣営に絞られる　米ＷＤとブロードコムの一騎打ちに - SankeiBiz（サンケイビズ）
+URL=http://www.sankeibiz.jp/business/news/170607/bsb1706071050005-n1.htm
+
 =2017-05-11T07:33:14+09:00 Computer/トピック/社会動向/企業/東芝/東芝問題は日本の製造業に共通し得る課題なのか - EE Times Japan
 URL=http://eetimes.jp/ee/articles/1705/11/news018.html
 
@@ -34389,6 +34482,9 @@ URL=http://monoist.atmarkit.co.jp/mn/articles/1611/02/news053.html
 
 =2017-05-19T07:24:05+09:00 Computer/トピック/社会動向/企業/自動車/トヨタとNVIDIAの協業から見えてきた、ボッシュとコンチネンタルの戦争 - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1705/19/news032.html
+
+=2017-06-06T07:41:36+09:00 Computer/トピック/社会動向/企業/自動車/ブリヂストン/ブリヂストンのデジタル変革、「サービスとしてのタイヤ」に向けた取り組みとは？-TechTargetジャパン データ分析
+URL=http://techtarget.itmedia.co.jp/tt/news/1706/02/news07.html
 
 =2017-01-10T07:47:07+09:00 Computer/トピック/社会動向/企業/自動車/ブリヂストン/伸び縮みするゴムを最適管理、ブリヂストンが日産2万本のタイヤをAIで生産へ - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1701/10/news035.html
@@ -35391,6 +35487,9 @@ URL=http://www.nikkei.com/article/DGXLZO17288800U7A600C1TJM000/
 
 =2016-10-27T09:34:24+09:00 Computer/トピック/社会動向/大学/東京工科大学/人工知能を用いて遺伝子とその機能の相互関係を見つける手法を開発 -- ゲノム創薬への応用に向け学外研究機関と共同研究を開始 -- 東京工科大学応用生物学部 - SankeiBiz（サンケイビズ）
 URL=http://www.sankeibiz.jp/business/news/161027/prl1610270914013-n1.htm
+
+=2017-06-05T07:10:52+09:00 Computer/トピック/社会動向/大学/東京農工大学/「脳波でロボットを動かす技術」「背骨のあるロボット」――東京農工大学が研究中の技術を公開 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1706/05/news087.html
 
 =2016-11-08T07:53:32+09:00 Computer/トピック/社会動向/大学/東京都市大学/大学倶楽部・東京都市大：人工知能を活用し楽曲自動創作　大谷教授が研究 - 毎日新聞
 URL=http://mainichi.jp/univ/articles/20161108/org/00m/100/015000c
@@ -36526,6 +36625,9 @@ URL=http://www.dhbr.net/articles/-/4630
 =2016-09-18T07:31:15+09:00 Computer/トピック/社会動向/結婚相手をコンピューターが決定する未来――その正解は　人工知能の専門学者座談会（2） - Ameba News [アメーバニュース]
 URL=http://news.ameba.jp/20160918-735/
 
+=2017-06-07T07:58:51+09:00 Computer/トピック/社会動向/結局、人工知能の「本当の脅威」とは何なのか？（金井 良太） 現代ビジネス 講談社
+URL=http://gendai.ismedia.jp/articles/-/51744
+
 =2017-05-26T08:29:52+09:00 Computer/トピック/社会動向/統計学者は人工知能ブームをどのように見ているのか？ 岩崎学×西内啓（後篇）｜待望の新刊『統計学が最強の学問である［ビジネス編］』無料公開｜ダイヤモンド・オンライン
 URL=http://diamond.jp/articles/-/129201
 
@@ -36909,6 +37011,9 @@ URL=http://www.dreamnews.jp/press/0000151652/
 
 =2016-07-20T07:40:17+09:00 Computer/トピック/社会動向/調査/【マインドコマース調査報告】ビッグデータとモノのインターネット（IoT）における人工知能（AI）と機械学習 株式会社データリソース
 URL=http://www.dreamnews.jp/press/0000135613/
+
+=2017-06-07T07:39:11+09:00 Computer/トピック/社会動向/調査/【マインドコマース調査報告】ビッグデータ解析とモノのインターネット（IoT）における人工知能（AI） 株式会社データリソース プレスリリース
+URL=http://www.dreamnews.jp/press/0000154245/
 
 =2016-08-23T07:22:23+09:00 Computer/トピック/社会動向/調査/【マインドコマース調査報告】モノのインターネット（IoT）のセキュリティと詐欺防止における人工知能（AI）の市場 StartHome
 URL=http://home.kingsoft.jp/news/pr/dreamnews/0000137644.html
