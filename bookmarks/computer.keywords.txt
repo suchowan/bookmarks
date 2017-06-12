@@ -352,7 +352,7 @@ Googleペナルティー
 求職
 職種
 
-=2017-04-13T10:24:07+09:00 Computer/トピック/機械学習/機械学習応用/医療/keywords
+=2017-04-13T10:24:07+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 心臓
 製薬
 臨床
@@ -623,6 +623,9 @@ AMY
 =2017-04-03T08:28:46+09:00 Computer/トピック/社会動向/企業/Baidu/keywords
 Baidu,百度
 
+=2017-06-12T07:25:11+09:00 Computer/トピック/社会動向/企業/C Channel/keywords
+C CHANNEL
+
 =2017-03-28T14:48:47+09:00 Computer/トピック/社会動向/企業/CEVA/keywords
 CDNN
 
@@ -806,6 +809,9 @@ Money Data Bank,MDB
 Fleksy
 KDDI AI翻訳
 KDDI TV通訳
+
+=2017-06-12T09:01:36+09:00 Computer/トピック/社会動向/企業/KDDI/Supership/keywords
+Ad Generation,アドジェネ
 
 =2017-03-29T11:44:01+09:00 Computer/トピック/社会動向/企業/LINE/keywords
 Clova
@@ -1195,6 +1201,9 @@ Optimal Remote
 オリックス,Orix
 Test Car ソリューション
 
+=2017-06-12T07:23:11+09:00 Computer/トピック/社会動向/企業/オークローンマーケティング/keywords
+ショップジャパン
+
 =2017-03-30T12:00:39+09:00 Computer/トピック/社会動向/企業/オープンウェブ・テクノロジー/keywords
 オープンウェブ・テクノロジー,OpenWeb Technology
 TechFeed
@@ -1267,6 +1276,9 @@ SiTest
 
 =2017-03-30T14:23:53+09:00 Computer/トピック/社会動向/企業/グリッド/keywords
 ReNom
+
+=2017-06-12T09:07:34+09:00 Computer/トピック/社会動向/企業/グルコース/keywords
+Naumanni,ナウマン
 
 =2017-03-30T14:25:05+09:00 Computer/トピック/社会動向/企業/グルーヴノーツ/keywords
 MAGELLAN BLOCKS
@@ -1458,6 +1470,9 @@ scorobo
 
 =2017-04-10T14:32:08+09:00 Computer/トピック/社会動向/企業/テンセント・ホールディングス/keywords
 テンセント・ホールディングス,騰訊HD
+
+=2017-06-12T08:37:33+09:00 Computer/トピック/社会動向/企業/テンプホールディングス/IBS/keywords
+IBS,インテリジェンス ビジネスソリューションズ
 
 =2017-04-21T10:38:02+09:00 Computer/トピック/社会動向/企業/テンプホールディングス/keywords
 PERSOL,パーソル
@@ -1840,12 +1855,13 @@ SOLASAT,ソラサット
 =2017-04-11T13:54:11+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
 
-=2017-05-15T10:05:57+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2017-06-12T07:58:17+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
 HiPAMPS
 Racrew,ラックル
+Hitachi AI Technology/H
 
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
