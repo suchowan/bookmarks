@@ -922,10 +922,12 @@ amblate
 =2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
 
-=2017-03-29T15:01:01+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
+=2017-06-20T08:32:21+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
 Salesforce,セールスフォース
 Salesforce Einstein,Einstein
 Salesforceコマースクラウド
+Salesforce DMP
+Krux
 
 =2017-03-30T07:21:55+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
@@ -1714,6 +1716,9 @@ AIポジショニングマップMr.DATA
 メトロプライシング for 民泊
 メトロエンジン
 
+=2017-06-20T08:36:03+09:00 Computer/トピック/社会動向/企業/ヤフー/keywords
+kukai,クウカイ
+
 =2017-06-07T07:38:20+09:00 Computer/トピック/社会動向/企業/ヤマハ/keywords
 HEAR Talk
 
@@ -1851,6 +1856,9 @@ COLMINA,コルミナ
 DataRobot
 absonne,アブソンヌ
 
+=2017-06-20T08:49:00+09:00 Computer/トピック/社会動向/企業/日建設計/keywords
+NSRI,日建設計,日建設計総合研究所
+
 =2017-04-13T10:31:18+09:00 Computer/トピック/社会動向/企業/日本システムウエア/keywords
 日本システムウエア,NSW
 Toami
@@ -1955,6 +1963,9 @@ JCB,ジェーシービー
 
 =2017-04-11T11:07:05+09:00 Computer/トピック/社会動向/企業/金融・保険/JPX/keywords
 JPX,日本取引所グループ
+
+=2017-06-20T10:02:27+09:00 Computer/トピック/社会動向/企業/金融・保険/Morgan Stanley/keywords
+Morgan Stanley,モルガン・スタンレー
 
 =2017-04-11T11:11:41+09:00 Computer/トピック/社会動向/企業/金融・保険/みずほ/keywords
 エムズサロン
