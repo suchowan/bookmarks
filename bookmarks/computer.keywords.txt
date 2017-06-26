@@ -880,15 +880,18 @@ COTOHA
 テクノマーク クラウド＋
 NATESAS
 
-=2017-05-25T07:36:12+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
+=2017-06-26T08:04:03+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ
 petoco
+beyond宣言
+東京2020推進室
 
 =2017-04-18T07:25:05+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
 Oshi-el,オシエル
 
-=2017-03-29T14:27:20+09:00 Computer/トピック/社会動向/企業/Nuance/keywords
+=2017-06-26T08:24:55+09:00 Computer/トピック/社会動向/企業/Nuance/keywords
 Nuance,ニュアンス・コミュニケーションズ・ジャパン,ニュアンス・コミュニケーションズ
+Dragon Drive
 
 =2017-03-29T14:33:28+09:00 Computer/トピック/社会動向/企業/NVIDIA/keywords
 NVIDIA,エヌビディア
@@ -935,6 +938,9 @@ Krux
 =2017-03-30T07:21:55+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
 Bixby
+
+=2017-06-26T07:58:41+09:00 Computer/トピック/社会動向/企業/Sansan/keywords
+Eight
 
 =2017-05-22T08:32:45+09:00 Computer/トピック/社会動向/企業/SAP/keywords
 S/4HANA Cloud
@@ -1172,6 +1178,9 @@ Wantedly People
 =2017-03-30T11:51:45+09:00 Computer/トピック/社会動向/企業/エアロセンス/keywords
 エアロセンス,AeroSense
 
+=2017-06-26T09:30:15+09:00 Computer/トピック/社会動向/企業/エイシング/keywors
+エイシング,AI Sing
+
 =2017-03-30T11:52:53+09:00 Computer/トピック/社会動向/企業/エキサイト/keywords
 wisteria
 
@@ -1274,6 +1283,9 @@ CANON
 =2017-03-30T10:52:05+09:00 Computer/トピック/社会動向/企業/クラスキャット/keywords
 ClassCat,クラスキャット
 ClassCat DeepLearning Appliance for TensorFlow
+
+=2017-06-26T10:02:03+09:00 Computer/トピック/社会動向/企業/クリムゾンテクノロジー/keywords
+リアチェンvoice
 
 =2017-03-30T14:20:07+09:00 Computer/トピック/社会動向/企業/クリーク・アンド・リバー/keywords
 Reaction Monitor,リアクションモニター
@@ -1562,10 +1574,12 @@ Butler
 ニフティ,nifty
 スマフロ
 
-=2017-04-18T07:42:47+09:00 Computer/トピック/社会動向/企業/ニューロープ/keywords
+=2017-06-26T09:14:26+09:00 Computer/トピック/社会動向/企業/ニューロープ/keywords
 AI-CATCHER
 #CBK scnnr,カブキスキャナー
 ファッションおじさん
+Riko
+Mika
 
 =2017-04-10T14:41:24+09:00 Computer/トピック/社会動向/企業/ネイバー/keywords
 ネイバー,NAVER
@@ -1844,9 +1858,10 @@ PALRO,パルロ
 =2017-04-11T14:38:27+09:00 Computer/トピック/社会動向/企業/富士フィルム/keywords
 SYNAPSE Case Match
 
-=2017-05-15T09:47:15+09:00 Computer/トピック/社会動向/企業/富士通/keywords
+=2017-06-26T09:44:23+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
 COLMINA,コルミナ
+Akisai
 
 =2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工/keywords
 川崎重工業,川崎重工,Kawasaki
