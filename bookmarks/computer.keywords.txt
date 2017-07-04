@@ -623,6 +623,9 @@ AMY
 =2017-04-03T08:28:46+09:00 Computer/トピック/社会動向/企業/Baidu/keywords
 Baidu,百度
 
+=2017-07-04T07:33:01+09:00 Computer/トピック/社会動向/企業/bitFlyer/keywords
+miyabi
+
 =2017-06-12T07:25:11+09:00 Computer/トピック/社会動向/企業/C Channel/keywords
 C CHANNEL
 
@@ -725,6 +728,9 @@ GE,ゼネラル・エレクトリック
 Predix
 C by GE
 
+=2017-07-04T10:31:24+09:00 Computer/トピック/社会動向/企業/Gemalto/keywords
+Gemalto,ジェムアルト
+
 =2017-03-29T10:05:14+09:00 Computer/トピック/社会動向/企業/GMOメイクショップ/keywords
 MakeShop
 MakeRepeater
@@ -763,9 +769,10 @@ HISホテル,H.I.S.,H.I.S.ホテルホールディングス
 HPE,Hewlett Packard Enterprise,ヒューレット・パッカード
 Haven OnDemand
 
-=2017-03-29T11:15:56+09:00 Computer/トピック/社会動向/企業/IBM/keywords
+=2017-07-04T07:38:31+09:00 Computer/トピック/社会動向/企業/IBM/keywords
 Watson
 Bluemix
+IBM TrueNorth
 
 =2017-03-29T11:17:46+09:00 Computer/トピック/社会動向/企業/IDCF/keywords
 IDCF,IDCフロンティア
@@ -902,6 +909,9 @@ NVIDIA,エヌビディア
 =2017-03-29T14:39:55+09:00 Computer/トピック/社会動向/企業/ONE ACT/keywords
 piece
 
+=2017-07-04T07:43:24+09:00 Computer/トピック/社会動向/企業/PAL/keywords
+AI CROSTA
+
 =2017-03-29T14:40:25+09:00 Computer/トピック/社会動向/企業/PALTEK/keywords
 DATA BRICK
 
@@ -919,8 +929,14 @@ PFN,Preferred Networks,プリファード・ネットワークス
 Chainer
 Jubatus
 
+=2017-07-04T11:14:38+09:00 Computer/トピック/社会動向/企業/Phybbit/keywords
+SpiderAF
+
 =2017-04-10T07:59:33+09:00 Computer/トピック/社会動向/企業/PLAN-B/keywords
 Juicer
+
+=2017-07-04T10:18:27+09:00 Computer/トピック/社会動向/企業/PLENGoerRobotics/keywords
+PLEN Cube
 
 =2017-04-05T07:48:52+09:00 Computer/トピック/社会動向/企業/PROPELa/keywords
 amblate
@@ -1201,8 +1217,10 @@ ConyacDATA
 AI Operation Analytics
 AI Activity Analytics
 
-=2017-03-30T11:57:53+09:00 Computer/トピック/社会動向/企業/エルピクセル/keywords
+=2017-07-04T09:36:32+09:00 Computer/トピック/社会動向/企業/エルピクセル/keywords
+エルピクセル,LPixel
 LP-tech
+IMACEL,イマセル
 
 =2017-03-30T11:58:23+09:00 Computer/トピック/社会動向/企業/エン・ジャパン/keywords
 エン転職
@@ -1442,12 +1460,13 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2017-05-31T07:03:17+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2017-07-04T08:14:52+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO
 KOOV
 CSLAIER
 CALC
+NNabla
 
 =2017-04-10T13:46:04+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -1907,6 +1926,9 @@ Hitachi AI Technology/H
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
 
+=2017-07-04T08:52:02+09:00 Computer/トピック/社会動向/企業/東洋ビジネスエンジニアリング/keywords
+Business b-ridge
+
 =2017-05-22T07:47:17+09:00 Computer/トピック/社会動向/企業/東芝/keywords
 RECAIUS,リカイアス
 Visconti
@@ -1954,6 +1976,9 @@ SUBARU,スバル,富士重工業
 
 =2017-04-10T14:24:34+09:00 Computer/トピック/社会動向/企業/自動車/Tesla/keywords
 Tesla,テスラ
+
+=2017-07-04T08:41:54+09:00 Computer/トピック/社会動向/企業/自動車/Volvo/keywords
+Volvo,ボルボ
 
 =2017-04-11T11:50:14+09:00 Computer/トピック/社会動向/企業/自動車/VW/keywords
 VW,フォルクスワーゲン
