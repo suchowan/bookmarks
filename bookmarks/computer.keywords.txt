@@ -92,6 +92,9 @@ Microsoft
 =2017-03-21T13:39:23+09:00 Computer/トピック/ツール/オンプレミス/その他/botbuilder/keywords
 Microsoft
 
+=2017-07-10T08:39:52+09:00 Computer/トピック/ツール/オンプレミス/その他/H2O.ai/keywords
+Driverless AI
+
 =2017-03-21T13:40:11+09:00 Computer/トピック/ツール/オンプレミス/その他/Mathematica/keywords
 Wolfram
 
@@ -610,8 +613,9 @@ Amper Music,Amper
 =2017-03-28T14:43:25+09:00 Computer/トピック/社会動向/企業/Anki/keywords
 Cozmo
 
-=2017-05-22T08:17:03+09:00 Computer/トピック/社会動向/企業/Appier/keywords
+=2017-07-10T07:18:19+09:00 Computer/トピック/社会動向/企業/Appier/keywords
 Cross X AIソリューション
+AIXON
 
 =2017-03-28T14:45:14+09:00 Computer/トピック/社会動向/企業/Apple/keywords
 Apple,アップル
@@ -706,7 +710,7 @@ cloud.config
 =2017-05-29T08:01:04+09:00 Computer/トピック/社会動向/企業/Fringe81/keywords
 Columva,コルンバ
 
-=2017-03-29T09:40:49+09:00 Computer/トピック/社会動向/企業/FRONTEO(旧UBIC)/keywords
+=2017-03-29T09:40:49+09:00 Computer/トピック/社会動向/企業/FRONTEO/keywords
 FRONTEO,UBIC
 KIBIT
 Kibiro
@@ -716,6 +720,9 @@ Renosy
 
 =2017-03-29T09:56:38+09:00 Computer/トピック/社会動向/企業/Gamalon/keywords
 Gamalon,ガマロン
+
+=2017-07-10T07:26:50+09:00 Computer/トピック/社会動向/企業/Gatebox/keywords
+ウィンクル
 
 =2017-04-13T10:26:20+09:00 Computer/トピック/社会動向/企業/GDEP/keywords
 GDEPグループ,GDEP
@@ -1182,9 +1189,6 @@ Watson Knowledge Studio,WKSサービス
 イー・ガーディアン,E-Guardian
 E-Trident
 
-=2017-03-30T11:45:28+09:00 Computer/トピック/社会動向/企業/ウィンクル/keywords
-Gatebox
-
 =2017-03-29T09:25:33+09:00 Computer/トピック/社会動向/企業/ウェザーニューズ/keywords
 ウェザーニューズ,Weathernews
 ウェザーロイド Airi
@@ -1478,10 +1482,11 @@ So-net
 Logicad
 VALIS-Engine
 
-=2017-04-10T13:50:10+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2017-07-10T07:33:55+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
+Airblock
 
 =2017-04-04T07:24:28+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
