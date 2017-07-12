@@ -850,13 +850,14 @@ SWAG for Personal
 =2017-03-29T11:45:56+09:00 Computer/トピック/社会動向/企業/meuron/keywords
 CALNA
 
-=2017-07-06T08:21:03+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2017-07-13T07:10:05+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト
 Azure
 Cortana
 Microsoft Concept Graph
 MyAnalytics,マイアナリティクス
 ELL,Embedded Learning Library
+Azure Cosmos DB
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -1400,6 +1401,9 @@ SI Object Browser
 
 =2017-03-30T14:48:42+09:00 Computer/トピック/社会動向/企業/システムリサーチ/keywords
 イージーマイショップ
+
+=2017-07-13T07:19:08+09:00 Computer/トピック/社会動向/企業/シノプシス/keywords
+DesignWare EV6x Vision Processors
 
 =2017-03-30T14:49:12+09:00 Computer/トピック/社会動向/企業/シミュラティオ/keywords
 LAND,Logic and Arithmetic Network Database
