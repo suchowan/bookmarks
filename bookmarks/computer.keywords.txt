@@ -123,9 +123,11 @@ GCP,Google Cloud Platform
 機械学習API,Machine Learning API
 深層学習API,Deep Learning API
 
-=2017-03-21T13:54:50+09:00 Computer/トピック/ツール/クラウド/Microsoft/keywords
+=2017-07-24T10:31:27+09:00 Computer/トピック/ツール/クラウド/Microsoft/keywords
 QnAMaker
 Azure
+Babylon.js
+LUIS,Language Understanding Intelligent Service
 
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/クラウド/その他/Haven OnDemand/keywords
 HPE,Hewlett Packard Enterprise
@@ -198,6 +200,9 @@ MAGELLAN BLOCKS
 ビジネス2.0
 LoRaWAN,ローラワン
 Fog Computing,フォグコンピューティング
+
+=2017-07-24T13:09:39+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
+Raspberry Pi,ラズベリーパイ,ラズパイ
 
 =2017-04-13T10:22:15+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -356,7 +361,8 @@ Googleペナルティー
 職種
 HR
 
-=2017-04-13T10:24:07+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2017-07-24T12:46:40+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+HealthTech
 心臓
 製薬
 臨床
@@ -705,6 +711,9 @@ WazzUp！,ワズアップ
 Fitbit Alta
 Fitbit Alta HR,Alta HR
 
+=2017-07-24T11:07:28+09:00 Computer/トピック/社会動向/企業/FIVE/keywords
+Moments by FIVE
+
 =2017-03-29T09:34:56+09:00 Computer/トピック/社会動向/企業/FIXER/keywords
 cloud.config
 
@@ -783,10 +792,11 @@ HISホテル,H.I.S.,H.I.S.ホテルホールディングス
 HPE,Hewlett Packard Enterprise,ヒューレット・パッカード
 Haven OnDemand
 
-=2017-07-04T07:38:31+09:00 Computer/トピック/社会動向/企業/IBM/keywords
+=2017-07-24T08:43:00+09:00 Computer/トピック/社会動向/企業/IBM/keywords
 Watson
 Bluemix
 IBM TrueNorth
+IBM Data Science Experience with HDP
 
 =2017-03-29T11:17:46+09:00 Computer/トピック/社会動向/企業/IDCF/keywords
 IDCF,IDCフロンティア
@@ -829,6 +839,10 @@ TrueText,トゥルーテキスト
 =2017-03-29T11:34:57+09:00 Computer/トピック/社会動向/企業/JIS-SAW/keywords
 megaro
 
+=2017-07-24T07:42:57+09:00 Computer/トピック/社会動向/企業/JX通信社/keywords
+FASTALERT,ファストアラート
+ビーコ
+
 =2017-03-29T11:37:54+09:00 Computer/トピック/社会動向/企業/KAG/keywords
 Money Data Bank,MDB
 
@@ -843,6 +857,9 @@ Ad Generation,アドジェネ
 =2017-03-29T11:44:01+09:00 Computer/トピック/社会動向/企業/LINE/keywords
 Clova
 LINE Customer Connect
+
+=2017-07-24T12:43:40+09:00 Computer/トピック/社会動向/企業/M-SOLUTIONS/keywords
+Smart at robo
 
 =2017-07-18T08:27:51+09:00 Computer/トピック/社会動向/企業/MateLabs/keywords
 MateVerse
@@ -880,10 +897,11 @@ LanScope Cat
 ビットコイン
 マイクロペイメント
 
-=2017-07-21T09:13:00+09:00 Computer/トピック/社会動向/企業/NEC/keywords
+=2017-07-24T09:09:50+09:00 Computer/トピック/社会動向/企業/NEC/keywords
 RAPID機械学習
 RAPID WORKS
 plusbenlly,プラスベンリー
+NEC Software Robot Solution
 
 =2017-04-11T09:35:05+09:00 Computer/トピック/社会動向/企業/Nextremer/keywords
 AI Samurai
@@ -1096,6 +1114,10 @@ WD,ウエスタンデジタル
 =2017-03-30T10:53:26+09:00 Computer/トピック/社会動向/企業/Xilinx/keywords
 Xilinx,ザイリンクス
 
+=2017-07-24T10:01:31+09:00 Computer/トピック/社会動向/企業/Yandex/keywords
+CatBoost
+MatrixNet
+
 =2017-03-30T10:55:14+09:00 Computer/トピック/社会動向/企業/YouAppi/keywords
 OneRun
 
@@ -1147,15 +1169,22 @@ Vertica
 LOHACO
 マナミさん
 
+=2017-07-24T10:42:40+09:00 Computer/トピック/社会動向/企業/アスラテック/keywords
+DOKA ROBO
+
+=2017-07-24T12:25:06+09:00 Computer/トピック/社会動向/企業/アタラ合同会社/keywords
+Unyoo.jp
+
 =2017-03-30T11:08:08+09:00 Computer/トピック/社会動向/企業/アップデイティット/keywords
 crossnote ML
 
 =2017-03-27T07:47:38+09:00 Computer/トピック/社会動向/企業/アップライブ/keywords
 muddica
 
-=2017-03-30T11:20:21+09:00 Computer/トピック/社会動向/企業/アトラエ/keywords
+=2017-07-24T08:26:57+09:00 Computer/トピック/社会動向/企業/アトラエ/keywords
 TalentBase,タレントベース
 JobShare,ジョブシェア
+yenta
 
 =2017-03-30T11:09:36+09:00 Computer/トピック/社会動向/企業/アドインテ/keywords
 K-now
@@ -1363,6 +1392,9 @@ Naumanni,ナウマン
 =2017-03-30T14:25:05+09:00 Computer/トピック/社会動向/企業/グルーヴノーツ/keywords
 MAGELLAN BLOCKS
 
+=2017-07-24T10:49:06+09:00 Computer/トピック/社会動向/企業/グレープシティ/keywords
+Wikitude SDK 7
+
 =2017-03-30T11:23:24+09:00 Computer/トピック/社会動向/企業/グローバル・ブレイン/keywords
 グローバル・ブレイン,Global Brain
 
@@ -1379,6 +1411,9 @@ Workplace Hub,ワークプレイスハブ
 
 =2017-05-15T08:56:54+09:00 Computer/トピック/社会動向/企業/コマースリンク/keywords
 DFO
+
+=2017-07-24T08:11:27+09:00 Computer/トピック/社会動向/企業/コムスクエア/keywords
+パトロールロボコン
 
 =2017-03-30T14:32:42+09:00 Computer/トピック/社会動向/企業/コラビット/keywords
 HowMa,ハウマ
@@ -1451,8 +1486,9 @@ C.VIEW
 =2017-03-30T14:44:10+09:00 Computer/トピック/社会動向/企業/ジェイアイエヌ/keywords
 ジェイアイエヌ,JINS
 
-=2017-04-04T07:21:39+09:00 Computer/トピック/社会動向/企業/ジェナ/keywords
+=2017-07-24T07:22:52+09:00 Computer/トピック/社会動向/企業/ジェナ/keywords
 hitTO
+Rigato,リガート
 
 =2017-03-30T14:45:05+09:00 Computer/トピック/社会動向/企業/ジェニオ/keywords
 Team AI
@@ -1464,6 +1500,11 @@ ATOK
 =2017-05-02T08:13:05+09:00 Computer/トピック/社会動向/企業/ジョリーグッド/keywords
 VRCHEL,ヴァーチェル
 VRCH,ヴァーチ
+
+=2017-07-24T11:06:29+09:00 Computer/トピック/社会動向/企業/ジーニー/keywords
+ジーニー,Geniee
+GenieeSSP
+GenieeDSP
 
 =2017-04-13T10:28:28+09:00 Computer/トピック/社会動向/企業/スクウェア・エニックス/keywords
 ファイナルファンタジー
@@ -1708,6 +1749,9 @@ TATERU Bot AI
 =2017-05-31T08:21:27+09:00 Computer/トピック/社会動向/企業/パーミッション/keywords
 MOVAL
 
+=2017-07-24T08:24:31+09:00 Computer/トピック/社会動向/企業/ビズインテグラル/keywords
+Biz∫
+
 =2017-03-29T15:02:14+09:00 Computer/トピック/社会動向/企業/ビズリーチ/keywords
 HRMOS,ハーモス
 
@@ -1883,6 +1927,9 @@ K.I.,kafun Intelligence
 
 =2017-04-11T10:45:59+09:00 Computer/トピック/社会動向/企業/ロードスターキャピタル/keywords
 AI-Checker
+
+=2017-07-24T10:46:52+09:00 Computer/トピック/社会動向/企業/ワランティ/keywords
+Warrantee
 
 =2017-05-25T07:37:19+09:00 Computer/トピック/社会動向/企業/ワークスアプリケーションズ/keywords
 HUE
