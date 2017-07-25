@@ -695,6 +695,9 @@ Elastic Stack
 emin,Emotion Intelligence
 Interest Widget
 
+=2017-07-25T08:38:11+09:00 Computer/トピック/社会動向/企業/EVERRISE/keywords
+アドレポ
+
 =2017-03-29T09:27:48+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 Facebook,フェイスブック
 Lumos
@@ -873,7 +876,7 @@ SWAG for Personal
 =2017-03-29T11:45:56+09:00 Computer/トピック/社会動向/企業/meuron/keywords
 CALNA
 
-=2017-07-13T07:10:05+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2017-07-25T08:11:38+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト
 Azure
 Cortana
@@ -881,6 +884,7 @@ Microsoft Concept Graph
 MyAnalytics,マイアナリティクス
 ELL,Embedded Learning Library
 Azure Cosmos DB
+HoloLens
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -1151,6 +1155,9 @@ Smart Cockpit
 
 =2017-06-08T07:26:05+09:00 Computer/トピック/社会動向/企業/アイティメディア/keywords
 TechFactory
+
+=2017-07-25T07:51:43+09:00 Computer/トピック/社会動向/企業/アイ・ティ・リアライズ/keywords
+地銀アプリ with CRECO
 
 =2017-04-13T10:27:11+09:00 Computer/トピック/社会動向/企業/アクセンチュア/keywords
 アクセンチュア,Accenture
@@ -1584,8 +1591,9 @@ TAMECCO
 =2017-04-04T15:10:30+09:00 Computer/トピック/社会動向/企業/タレンタ/keywords
 HireVue
 
-=2017-04-10T14:00:44+09:00 Computer/トピック/社会動向/企業/タレントアンドアセスメント/keywords
+=2017-07-25T07:31:04+09:00 Computer/トピック/社会動向/企業/タレントアンドアセスメント/keywords
 (仮)AI面接官
+SHaiN
 
 =2017-05-22T09:41:01+09:00 Computer/トピック/社会動向/企業/ダイキン工業/keywords
 ダイキン,ダイキン工業
@@ -2010,6 +2018,9 @@ Toami
 
 =2017-04-11T13:45:40+09:00 Computer/トピック/社会動向/企業/日本ユニシス/keywords
 Rinza
+
+=2017-07-25T07:28:57+09:00 Computer/トピック/社会動向/企業/日本ラッド/keywords
+NIRVANA-R
 
 =2017-04-11T13:47:07+09:00 Computer/トピック/社会動向/企業/日本ルナウェア/keywords
 LUNA
