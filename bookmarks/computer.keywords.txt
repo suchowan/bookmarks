@@ -1001,6 +1001,9 @@ amblate
 =2017-07-31T13:41:44+09:00 Computer/トピック/社会動向/企業/Qualcomm/keywords
 Qualcomm,クアルコム
 
+=2017-08-01T10:11:39+09:00 Computer/トピック/社会動向/企業/Qualtrics/keywords
+Qualtrics,クアルトリクス
+
 =2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
 
@@ -1370,6 +1373,9 @@ SENSY BOT for Biz
 =2017-03-30T13:57:00+09:00 Computer/トピック/社会動向/企業/カルチュア・コンビニエンス・クラブ/keywords
 カルチュア・コンビニエンス・クラブ,CCC
 
+=2017-08-01T08:11:50+09:00 Computer/トピック/社会動向/企業/ガネット/keywords
+G-careネット
+
 =2017-03-30T13:56:14+09:00 Computer/トピック/社会動向/企業/ガリバー/keywords
 クルマコネクト
 
@@ -1588,7 +1594,7 @@ So-net
 Logicad
 VALIS-Engine
 
-=2017-07-21T11:17:55+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2017-08-01T09:21:37+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -1597,6 +1603,7 @@ e-kakashi,イーカカシ
 NAVYA ARMA,ナビヤ アルマ
 感情エンジン
 cocoro SB
+SoftBankBrain
 
 =2017-04-04T07:24:28+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
