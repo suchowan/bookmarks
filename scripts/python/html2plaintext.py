@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# This script was written by Takashi SUGA on April-May 2017
+# This script was written by Takashi SUGA on April-August 2017
 # You may use and/or modify this file according to the license described in the MIT LICENSE.txt file https://raw.githubusercontent.com/suchowan/watson-api-client/master
 """『重要文抽出によるWebページ要約のためのHTMLテキスト分割』
     http://harp.lib.hiroshima-u.ac.jp/hiroshima-cu/metadata/5532
@@ -83,17 +83,18 @@ class Article:
         fragment = re.sub("_ANCHOR_(LEFT|RIGHT)_TAG_", ' ', fragment)
         if re.match(r"^ *$", fragment):
             return
-        if TextUnit(fragment).is_sentence():
+        text_unit = TextUnit(fragment)
+        if text_unit.is_sentence():
             # 文ユニットは“ 。”で終わる
             if self.in_sentence:
                 yield '。\n'
-            yield fragment
+            yield text_unit.separated
             yield ' 。\n'
             self.in_sentence = False
         else:
             # 非文ユニットは“―。”で終わる
             # (制約) 論文と相違し非文ユニットは結合のみ行い分割していない
-            yield fragment
+            yield text_unit.separated
             yield '―'
             self.in_sentence = True
 
@@ -112,8 +113,12 @@ class TextUnit:
     def __init__(self,fragment):
         self.fragment   = fragment
         self.categories = defaultdict(int)
+        separated  = []
         for token in self.tokenizer.tokenize(self.preprocess(self.fragment)):
             self.categories[self.categorize(token.part_of_speech)] += 1
+            separated.append(token.surface)
+        separated.append('')
+        self.separated = '/'.join(separated)
 
     def categorize(self,part_of_speech):
         if re.match("^名詞,(一般|代名詞|固有名詞|サ変接続|[^,]+語幹)", part_of_speech):
