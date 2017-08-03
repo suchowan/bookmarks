@@ -39,7 +39,9 @@ http://hosi.org:4000/bookmarks が参照しているブックマークです。
 
 ![データフロー](https://github.com/suchowan/bookmarks/raw/master/scripts/data_flow.png)
 
-詳細はこちらの[pdf](https://github.com/suchowan/bookmarks/tree/master/scripts/tools.pdf)をご覧ください。
+[機械学習関連情報の収集と分類(構想)](http://qiita.com/suchowan/items/459062590f7134dfc138)作成時点とはかなり変わっているのでご注意ください。
+
+詳細はこちらの[pdf](https://github.com/suchowan/bookmarks/raw/master/scripts/tools.pdf)をご覧ください。
 
 # LICENCE
 
