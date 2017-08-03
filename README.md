@@ -41,7 +41,13 @@ http://hosi.org:4000/bookmarks が参照しているブックマークです。
 
 [機械学習関連情報の収集と分類(構想)](http://qiita.com/suchowan/items/459062590f7134dfc138)作成時点とはかなり変わっているのでご注意ください。
 
-詳細はこちらの[pdf](https://github.com/suchowan/bookmarks/raw/master/scripts/tools.pdf)をご覧ください。
+・❻ crawl が ⒺElasticsearch を参照しないのは、Fess が古いコンテンツを Expire さてしまう仕様のためです。
+
+・❼～❾の処理が細分化されているのは、ハイパーパラメータのチューニング時に逐次中間成果物を残す方が効率が良いからです。
+
+・❾ digest はまだうまく動きません。扱う形態素の最少出現頻度を20にしないとメモリが足りないのですが、そうすると扱う形態素を含まない文が大量に出てしまうからです。
+
+各ツールの詳細はこちらの[pdf](https://github.com/suchowan/bookmarks/raw/master/scripts/tools.pdf)をご覧ください。
 
 # LICENCE
 
