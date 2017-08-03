@@ -1,6 +1,6 @@
 # スクリプト
 
-ブックマークファイルを扱う Python スクリプトを GitHub の [scripts/ruby](https://github.com/suchowan/bookmarks/tree/master/scripts/python) 以下に置きました。
+ブックマークファイルを扱う Python スクリプトを GitHub の [scripts/python](https://github.com/suchowan/bookmarks/tree/master/scripts/python) 以下に置きました。
 
 ## html2plaintext.py
 

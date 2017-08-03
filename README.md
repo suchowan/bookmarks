@@ -37,7 +37,7 @@ http://hosi.org:4000/bookmarks が参照しているブックマークです。
 
 下記のようなデータフローで情報を加工していくツール群です。
 
-![データフロー](https://github.com/suchowan/bookmarks/tree/master/scripts/data_flow.png)
+![データフロー](https://github.com/suchowan/bookmarks/raw/master/scripts/data_flow.png)
 
 詳細はこちらの[pdf](https://github.com/suchowan/bookmarks/tree/master/scripts/tools.pdf)をご覧ください。
 
