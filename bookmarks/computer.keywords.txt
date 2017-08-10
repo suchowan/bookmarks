@@ -875,8 +875,13 @@ FraudAlert
 TrueTALK,トゥルートーク
 TrueText,トゥルーテキスト
 
-=2017-03-29T11:34:57+09:00 Computer/トピック/社会動向/企業/JIS-SAW/keywords
+=2017-08-10T07:35:12+09:00 Computer/トピック/社会動向/企業/JIG-SAW/keywords
 megaro
+puzzle
+マネージドAzure
+
+=2017-08-10T08:04:47+09:00 Computer/トピック/社会動向/企業/JPNEAZY/keywords
+JPNEAZY,ジャパニージー
 
 =2017-07-24T07:42:57+09:00 Computer/トピック/社会動向/企業/JX通信社/keywords
 FASTALERT,ファストアラート
@@ -1372,6 +1377,9 @@ IMACEL,イマセル
 =2017-03-30T11:58:23+09:00 Computer/トピック/社会動向/企業/エン・ジャパン/keywords
 エン転職
 
+=2017-08-10T09:09:43+09:00 Computer/トピック/社会動向/企業/エージェンテック/keywords
+ABookSee
+
 =2017-03-30T11:59:11+09:00 Computer/トピック/社会動向/企業/オウケイウェイヴ/keywords
 OKBIZ
 
@@ -1705,6 +1713,9 @@ KIZUNA
 テクノスデータサイエンス・エンジニアリング,TDSE
 scorobo
 
+=2017-08-10T08:39:34+09:00 Computer/トピック/社会動向/企業/テクマトリックス/keywords
+MSIP,Menlo Security Isolation Platform
+
 =2017-04-10T14:26:42+09:00 Computer/トピック/社会動向/企業/テックファーム/keywords
 テックファーム,Techfirm
 
@@ -1952,6 +1963,10 @@ MFクラウド確定申告
 =2017-04-11T10:09:57+09:00 Computer/トピック/社会動向/企業/マージェリック/keywords
 バンブーシュート,bambooshoot
 
+=2017-08-10T07:19:01+09:00 Computer/トピック/社会動向/企業/ミックスネットワーク/keywords
+SITE PUBLIS,サイトパブリス
+MediaPack,メディアパック
+
 =2017-07-21T12:10:50+09:00 Computer/トピック/社会動向/企業/ミデア/keywords
 ミデア,美的,Midea
 
@@ -2063,8 +2078,10 @@ Maisart,マイサート
 =2017-08-04T08:43:07+09:00 Computer/トピック/社会動向/企業/三越伊勢丹/keywords
 ZUKKU,ズック
 
-=2017-04-03T07:51:18+09:00 Computer/トピック/社会動向/企業/丸紅/keywords
+=2017-08-10T08:08:51+09:00 Computer/トピック/社会動向/企業/丸紅/keywords
+丸紅情報システムズ,MSYS
 TRASCOPE,トラスコープ
+OpShield
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
@@ -2155,6 +2172,9 @@ Hitachi AI Technology/H
 
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
+
+=2017-08-10T07:32:16+09:00 Computer/トピック/社会動向/企業/東京エレクトロンデバイス/keywords
+東京エレクトロンデバイス,TED
 
 =2017-07-31T09:37:14+09:00 Computer/トピック/社会動向/企業/東洋ビジネスエンジニアリング/keywords
 東洋ビジネスエンジニアリング,B-EN-G
