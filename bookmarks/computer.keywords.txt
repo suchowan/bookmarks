@@ -189,7 +189,7 @@ Fess
 Anemone
 キーワードフォルダ
 
-=2017-05-15T08:30:33+09:00 Computer/トピック/ビッグデータ/IoT/keywords
+=2017-08-14T11:37:17+09:00 Computer/トピック/ビッグデータ/IoT/keywords
 インダストリー4.0,第４次産業革命
 エクスペリエンス4.0
 スマート
@@ -200,6 +200,7 @@ MAGELLAN BLOCKS
 ビジネス2.0
 LoRaWAN,ローラワン
 Fog Computing,フォグコンピューティング
+LPWA
 
 =2017-07-24T13:09:39+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ
@@ -832,9 +833,10 @@ IBM Data Science Experience with HDP
 =2017-03-29T11:17:46+09:00 Computer/トピック/社会動向/企業/IDCF/keywords
 IDCF,IDCフロンティア
 
-=2017-08-08T08:30:32+09:00 Computer/トピック/社会動向/企業/IDOM/keywords
+=2017-08-14T10:23:54+09:00 Computer/トピック/社会動向/企業/IDOM/keywords
 ガリバー
 ユーザグラム
+クルマコネクト
 
 =2017-06-05T08:10:06+09:00 Computer/トピック/社会動向/企業/IGS/keywords
 IGS,Institution for a Global Society
@@ -1340,6 +1342,9 @@ WealthNavi,ウェルスナビ
 ウォンテッドリー,Wantedly
 Wantedly People
 
+=2017-08-14T12:34:25+09:00 Computer/トピック/社会動向/企業/ウォーターセル/keywords
+アグリノート
+
 =2017-03-30T11:48:18+09:00 Computer/トピック/社会動向/企業/ウフル/keywords
 ウフル,uhuru
 
@@ -1348,6 +1353,9 @@ Wantedly People
 
 =2017-06-26T09:30:15+09:00 Computer/トピック/社会動向/企業/エイシング/keywors
 エイシング,AI Sing
+
+=2017-08-14T10:52:03+09:00 Computer/トピック/社会動向/企業/エウレカ/keywords
+Pairs
 
 =2017-03-30T11:52:53+09:00 Computer/トピック/社会動向/企業/エキサイト/keywords
 wisteria
@@ -1444,9 +1452,6 @@ SENSY BOT for Biz
 
 =2017-08-01T08:11:50+09:00 Computer/トピック/社会動向/企業/ガネット/keywords
 G-careネット
-
-=2017-03-30T13:56:14+09:00 Computer/トピック/社会動向/企業/ガリバー/keywords
-クルマコネクト
 
 =2017-03-30T14:01:28+09:00 Computer/トピック/社会動向/企業/キャスレーコンサルティング/keywords
 キャスレーコンサルティング,Casley Consulting
@@ -2007,6 +2012,9 @@ SPEEDA
 =2017-07-18T07:31:28+09:00 Computer/トピック/社会動向/企業/ライドオン・エクスプレス/keywords
 銀のさら
 
+=2017-08-14T13:27:01+09:00 Computer/トピック/社会動向/企業/ライフログテクノロジー/keywords
+カロミル
+
 =2017-04-24T07:27:17+09:00 Computer/トピック/社会動向/企業/ランサーズ/keywords
 ランサーズ,LANCERS
 pook
@@ -2093,10 +2101,11 @@ KANADE DSP
 AiLingual,アイリンガル
 ヤラクゼン
 
-=2017-04-11T14:19:22+09:00 Computer/トピック/社会動向/企業/博報堂/keywords
+=2017-08-14T11:36:40+09:00 Computer/トピック/社会動向/企業/博報堂/keywords
 ラジオプリント
 スダラボ
 Face Targeting AD
+TREK TRACK
 
 =2017-04-03T08:01:45+09:00 Computer/トピック/社会動向/企業/吉野家/keywords
 CORO
@@ -2121,10 +2130,11 @@ PALRO,パルロ
 =2017-04-11T14:38:27+09:00 Computer/トピック/社会動向/企業/富士フィルム/keywords
 SYNAPSE Case Match
 
-=2017-06-26T09:44:23+09:00 Computer/トピック/社会動向/企業/富士通/keywords
+=2017-08-14T07:46:29+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
 COLMINA,コルミナ
 Akisai
+Sitebooster
 
 =2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工/keywords
 川崎重工業,川崎重工,Kawasaki
