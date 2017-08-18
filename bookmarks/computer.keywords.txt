@@ -101,6 +101,9 @@ Driverless AI
 =2017-03-21T13:40:11+09:00 Computer/トピック/ツール/オンプレミス/その他/Mathematica/keywords
 Wolfram
 
+=2017-08-18T11:55:20+09:00 Computer/トピック/ツール/オンプレミス/その他/NNabla/keywords
+Neural Network Console
+
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/オンプレミス/その他/Vertica/keywords
 HPE,Hewlett Packard Enterprise
 
@@ -604,6 +607,9 @@ Albert,アルバート
 =2017-04-10T08:13:52+09:00 Computer/トピック/社会動向/企業/Adobe/keywords
 Adobe,アドビ
 
+=2017-08-18T11:28:23+09:00 Computer/トピック/社会動向/企業/AirSelfie/keywords
+AirSelfie,エアセルフィー
+
 =2017-07-26T09:24:44+09:00 Computer/トピック/社会動向/企業/AISSY/keywords
 味覚センサーレオ
 
@@ -661,6 +667,9 @@ C CHANNEL
 FIREX
 CAMPFIRE レンディング
 polca,ポルカ
+
+=2017-08-18T07:41:05+09:00 Computer/トピック/社会動向/企業/Carat/keywords
+GLIT,グリット
 
 =2017-03-28T14:48:47+09:00 Computer/トピック/社会動向/企業/CEVA/keywords
 CDNN
@@ -911,6 +920,9 @@ KDDI TV通訳
 =2017-06-12T09:01:36+09:00 Computer/トピック/社会動向/企業/KDDI/Supership/keywords
 Ad Generation,アドジェネ
 
+=2017-08-18T08:18:11+09:00 Computer/トピック/社会動向/企業/KDK/keywords
+ペットの窓口
+
 =2017-08-04T10:23:31+09:00 Computer/トピック/社会動向/企業/Linden Lab/keywords
 セカンドライフ
 Sansar
@@ -918,6 +930,9 @@ Sansar
 =2017-03-29T11:44:01+09:00 Computer/トピック/社会動向/企業/LINE/keywords
 Clova
 LINE Customer Connect
+
+=2017-08-18T07:51:55+09:00 Computer/トピック/社会動向/企業/Lisfee/keywords
+FLOWERY
 
 =2017-07-24T12:43:40+09:00 Computer/トピック/社会動向/企業/M-SOLUTIONS/keywords
 Smart at robo
@@ -952,6 +967,9 @@ MKT METAL
 
 =2017-08-08T10:52:43+09:00 Computer/トピック/社会動向/企業/mofmof/keywords
 My-ope office
+
+=2017-08-18T08:24:00+09:00 Computer/トピック/社会動向/企業/MongoDB/keywords
+Atlas DBaaS
 
 =2017-05-10T08:10:55+09:00 Computer/トピック/社会動向/企業/MOTEX/keywords
 MOTEX,エムオーテックス
@@ -1047,6 +1065,9 @@ PFI,Preferred Infrastructure,プリファードインフラストラクチャー
 PFN,Preferred Networks,プリファード・ネットワークス
 Chainer
 Jubatus
+
+=2017-08-18T08:06:42+09:00 Computer/トピック/社会動向/企業/PFU/keywords
+DynaEye EX
 
 =2017-07-04T11:14:38+09:00 Computer/トピック/社会動向/企業/Phybbit/keywords
 SpiderAF
@@ -1566,6 +1587,9 @@ PASHALYパシャリィ
 =2017-03-30T14:41:17+09:00 Computer/トピック/社会動向/企業/サンダーソフト/keywords
 サンダーソフト,ThunderSoft
 
+=2017-08-18T08:34:37+09:00 Computer/トピック/社会動向/企業/サンブリッジ/keywords
+SmartVisca
+
 =2017-05-09T08:30:08+09:00 Computer/トピック/社会動向/企業/サークルイン/keywords
 shippio
 
@@ -1645,6 +1669,9 @@ DialogOneメディカルパッケージ
 =2017-04-04T14:56:19+09:00 Computer/トピック/社会動向/企業/スピーシーズ/keywords
 高坂ここな
 
+=2017-08-18T08:21:52+09:00 Computer/トピック/社会動向/企業/スプリームシステム/keywords
+Moptar
+
 =2017-07-21T12:17:22+09:00 Computer/トピック/社会動向/企業/スペイシー/keywords
 Akerun
 
@@ -1722,6 +1749,9 @@ SHaiN
 ダイキン,ダイキン工業
 Smart Innovator
 
+=2017-08-18T08:33:03+09:00 Computer/トピック/社会動向/企業/チームスピリット/keywords
+チームスピリット,TeamSpirit
+
 =2017-04-13T10:29:04+09:00 Computer/トピック/社会動向/企業/ティアフォー/keywords
 ティアフォー,Tier IV
 
@@ -1737,6 +1767,9 @@ MSIP,Menlo Security Isolation Platform
 
 =2017-04-10T14:26:42+09:00 Computer/トピック/社会動向/企業/テックファーム/keywords
 テックファーム,Techfirm
+
+=2017-08-18T08:30:51+09:00 Computer/トピック/社会動向/企業/テラスカイ/keywords
+mitoco
 
 =2017-04-10T14:32:08+09:00 Computer/トピック/社会動向/企業/テンセント・ホールディングス/keywords
 テンセント・ホールディングス,騰訊HD
@@ -2144,11 +2177,12 @@ PALRO,パルロ
 =2017-04-11T14:38:27+09:00 Computer/トピック/社会動向/企業/富士フィルム/keywords
 SYNAPSE Case Match
 
-=2017-08-14T07:46:29+09:00 Computer/トピック/社会動向/企業/富士通/keywords
+=2017-08-18T08:37:37+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
 COLMINA,コルミナ
 Akisai
 Sitebooster
+GLOVIA OM
 
 =2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工/keywords
 川崎重工業,川崎重工,Kawasaki
