@@ -1005,12 +1005,13 @@ Firefox
 ビットコイン
 マイクロペイメント
 
-=2017-08-04T09:52:36+09:00 Computer/トピック/社会動向/企業/NEC/keywords
+=2017-08-29T09:34:36+09:00 Computer/トピック/社会動向/企業/NEC/keywords
 RAPID機械学習
 RAPID WORKS
 plusbenlly,プラスベンリー
 NEC Software Robot Solution
 NeoFace Watch
+NCore
 
 =2017-04-11T09:35:05+09:00 Computer/トピック/社会動向/企業/Nextremer/keywords
 AI Samurai
@@ -1256,6 +1257,10 @@ WD,ウエスタンデジタル
 =2017-08-23T07:27:59+09:00 Computer/トピック/社会動向/企業/White Motion/keywords
 White Motion,ホワイトモーション
 
+=2017-08-29T09:43:11+09:00 Computer/トピック/社会動向/企業/Wind River/keywords
+VxWorks
+AXON Predict Analytics
+
 =2017-03-30T10:53:26+09:00 Computer/トピック/社会動向/企業/Xilinx/keywords
 Xilinx,ザイリンクス
 
@@ -1356,9 +1361,11 @@ K-now
 =2017-08-21T08:52:35+09:00 Computer/トピック/社会動向/企業/アドトロンテクノロジー/keywords
 foop
 
-=2017-03-30T10:46:37+09:00 Computer/トピック/社会動向/企業/アドバンスト・メディア/keywords
+=2017-08-29T10:10:03+09:00 Computer/トピック/社会動向/企業/アドバンスト・メディア/keywords
+AmiVoiceスーパーインスペクションプラットフォーム
 AmiVoice
 AmiAgent
+スーパーインスペクター
 
 =2017-03-30T11:21:38+09:00 Computer/トピック/社会動向/企業/アビームコンサルティング/keywords
 IoT Data-Driven Manufacturing Solution
@@ -1822,6 +1829,9 @@ scorobo
 =2017-08-10T08:39:34+09:00 Computer/トピック/社会動向/企業/テクマトリックス/keywords
 MSIP,Menlo Security Isolation Platform
 
+=2017-08-29T08:52:58+09:00 Computer/トピック/社会動向/企業/テックビューロ/keywords
+mijin
+
 =2017-04-10T14:26:42+09:00 Computer/トピック/社会動向/企業/テックファーム/keywords
 テックファーム,Techfirm
 
@@ -1949,6 +1959,10 @@ Simeji
 =2017-04-10T14:56:04+09:00 Computer/トピック/社会動向/企業/バリュークリエーション/keywords
 Vasta,ヴァスタ
 
+=2017-08-29T09:15:25+09:00 Computer/トピック/社会動向/企業/バンク/keywords
+STORES.jp
+CASH
+
 =2017-04-10T15:00:15+09:00 Computer/トピック/社会動向/企業/バンダイナムコ/keywords
 バンダイナムコ,バンナム
 
@@ -2007,6 +2021,9 @@ cakes
 =2017-04-11T09:44:06+09:00 Computer/トピック/社会動向/企業/フィリップス/keywords
 フィリップス,Philips
 
+=2017-08-29T09:28:41+09:00 Computer/トピック/社会動向/企業/フィードフォース/keywords
+ソーシャルPLUS
+
 =2017-04-11T09:46:03+09:00 Computer/トピック/社会動向/企業/フォースター/keywords
 マイクロサービスアーキテクチャF
 
@@ -2020,9 +2037,6 @@ ClearBox Cloud
 
 =2017-04-11T09:55:24+09:00 Computer/トピック/社会動向/企業/フロムスクラッチ/keywords
 B→Dash
-
-=2017-05-09T07:45:43+09:00 Computer/トピック/社会動向/企業/ブラケット/keywords
-STORES.jp
 
 =2017-04-11T09:50:44+09:00 Computer/トピック/社会動向/企業/ブレインズテクノロジー/keywords
 Impulse
@@ -2396,11 +2410,17 @@ Ava
 =2017-06-20T10:02:27+09:00 Computer/トピック/社会動向/企業/金融・保険/Morgan Stanley/keywords
 Morgan Stanley,モルガン・スタンレー
 
+=2017-08-29T08:59:38+09:00 Computer/トピック/社会動向/企業/金融・保険/ふくおかフィナンシャルグループ/keywords
+ふくおかフィナンシャルグループ,FFG
+
 =2017-04-11T11:11:41+09:00 Computer/トピック/社会動向/企業/金融・保険/みずほ/keywords
 エムズサロン
 
 =2017-04-11T11:12:52+09:00 Computer/トピック/社会動向/企業/金融・保険/メットライフ/keywords
 Khushi
+
+=2017-08-29T09:35:47+09:00 Computer/トピック/社会動向/企業/金融・保険/三井住友/keywords
+NCore
 
 =2017-04-11T11:28:02+09:00 Computer/トピック/社会動向/企業/金融・保険/日本生命/keywords
 日本生命,日生
