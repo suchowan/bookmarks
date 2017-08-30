@@ -1123,12 +1123,13 @@ Qualtrics,クアルトリクス
 =2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
 
-=2017-06-20T08:32:21+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
+=2017-08-30T08:39:19+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
 Salesforce,セールスフォース
 Salesforce Einstein,Einstein
 Salesforceコマースクラウド
 Salesforce DMP
 Krux
+Einstein Vision for Social Studio
 
 =2017-08-04T11:07:45+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
@@ -1150,6 +1151,9 @@ Viya
 
 =2017-05-15T08:26:29+09:00 Computer/トピック/社会動向/企業/seak/keywords
 LEAP
+
+=2017-08-30T08:27:09+09:00 Computer/トピック/社会動向/企業/Secual/keywords
+Secual,セキュアル
 
 =2017-03-30T09:55:29+09:00 Computer/トピック/社会動向/企業/SELF/keywords
 タルるートくん
@@ -1772,7 +1776,7 @@ So-net
 Logicad
 VALIS-Engine
 
-=2017-08-01T09:21:37+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2017-08-30T08:41:07+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -1782,6 +1786,7 @@ NAVYA ARMA,ナビヤ アルマ
 感情エンジン
 cocoro SB
 SoftBankBrain
+IMAoS,イマオス
 
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
@@ -2118,6 +2123,9 @@ AIポジショニングマップMr.DATA
 メトロプライシング for 民泊
 メトロエンジン
 
+=2017-08-30T08:55:46+09:00 Computer/トピック/社会動向/企業/メトロリー/keywords
+メトロリー,metroly
+
 =2017-06-20T08:36:03+09:00 Computer/トピック/社会動向/企業/ヤフー/keywords
 kukai,クウカイ
 
@@ -2191,6 +2199,9 @@ INFLUENCER ONE
 
 =2017-04-11T10:48:48+09:00 Computer/トピック/社会動向/企業/ロゼッタ/keywords
 T-4OO
+
+=2017-08-30T07:21:30+09:00 Computer/トピック/社会動向/企業/ロボケン/keywords
+epRobo,エピロボ
 
 =2017-04-11T10:46:55+09:00 Computer/トピック/社会動向/企業/ロート製薬/keywords
 K.I.,kafun Intelligence
