@@ -104,6 +104,9 @@ Wolfram
 =2017-08-18T11:55:20+09:00 Computer/トピック/ツール/オンプレミス/その他/NNabla/keywords
 Neural Network Console
 
+=2017-09-11T08:38:15+09:00 Computer/トピック/ツール/オンプレミス/その他/ONNX/keywords
+ONNX,Open Neural Network Exchange
+
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/オンプレミス/その他/Vertica/keywords
 HPE,Hewlett Packard Enterprise
 
@@ -820,7 +823,13 @@ Gemalto,ジェムアルト
 Genpact,ジェンパクト
 Genpact Cora
 
-=2017-03-29T10:05:14+09:00 Computer/トピック/社会動向/企業/GMOメイクショップ/keywords
+=2017-09-11T08:40:32+09:00 Computer/トピック/社会動向/企業/GIコンサルティングパートナーズ/keywords
+UPXEED
+
+=2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/GMO/GMOペパボ/keywords
+ペパボ研究所
+
+=2017-03-29T10:05:14+09:00 Computer/トピック/社会動向/企業/GMO/GMOメイクショップ/keywords
 MakeShop
 MakeRepeater
 
@@ -863,11 +872,12 @@ HPE Aruba
 ClearPass
 IceWall MFA
 
-=2017-07-24T08:43:00+09:00 Computer/トピック/社会動向/企業/IBM/keywords
+=2017-09-11T10:26:57+09:00 Computer/トピック/社会動向/企業/IBM/keywords
 Watson
 Bluemix
 IBM TrueNorth
 IBM Data Science Experience with HDP
+IBM Blockchain Platform
 
 =2017-03-29T11:17:46+09:00 Computer/トピック/社会動向/企業/IDCF/keywords
 IDCF,IDCフロンティア
@@ -1286,6 +1296,9 @@ Vector,ベクター
 AirWatch
 AppDefense
 
+=2017-09-11T07:17:51+09:00 Computer/トピック/社会動向/企業/Voiceitt/keywords
+Talkitt
+
 =2017-03-30T10:49:17+09:00 Computer/トピック/社会動向/企業/WACUL/keywords
 AIアナリスト
 
@@ -1506,6 +1519,9 @@ Paidy
 Conyac
 ConyacDATA
 
+=2017-09-11T09:45:48+09:00 Computer/トピック/社会動向/企業/エボラブルアジア/keywords
+hachidori
+
 =2017-03-30T11:57:15+09:00 Computer/トピック/社会動向/企業/エルテス/keywords
 AI Operation Analytics
 AI Activity Analytics
@@ -1607,6 +1623,9 @@ AnyBot
 ClassCat,クラスキャット
 ClassCat DeepLearning Appliance for TensorFlow
 
+=2017-09-11T07:30:04+09:00 Computer/トピック/社会動向/企業/クリプトン・フューチャー・メディア/keywords
+初音ミク
+
 =2017-06-26T10:02:03+09:00 Computer/トピック/社会動向/企業/クリムゾンテクノロジー/keywords
 リアチェンvoice
 
@@ -1667,6 +1686,9 @@ POST365
 
 =2017-03-30T14:32:42+09:00 Computer/トピック/社会動向/企業/コラビット/keywords
 HowMa,ハウマ
+
+=2017-09-11T09:24:42+09:00 Computer/トピック/社会動向/企業/コンカー/keywords
+Concur Expense
 
 =2017-03-30T14:34:45+09:00 Computer/トピック/社会動向/企業/コンビーズ/keywords
 コンビーズレコ
@@ -2014,6 +2036,9 @@ SolidFire
 =2017-06-16T07:17:48+09:00 Computer/トピック/社会動向/企業/バイドゥ/keywords
 Simeji
 
+=2017-09-11T07:26:42+09:00 Computer/トピック/社会動向/企業/バイバイワールド/keywords
+ビッグクラッピー
+
 =2017-04-10T08:26:37+09:00 Computer/トピック/社会動向/企業/バカン/keywords
 バカン,VACAN
 
@@ -2285,6 +2310,10 @@ AIすだちくん
 =2017-09-04T10:11:28+09:00 Computer/トピック/社会動向/企業/ワークスモバイルジャパン/keywords
 LINE WORKS
 
+=2017-09-11T09:24:04+09:00 Computer/トピック/社会動向/企業/ヴァル研究所/keywords
+RODEM
+駅すぱあと
+
 =2017-04-11T11:35:22+09:00 Computer/トピック/社会動向/企業/三井不動産/keywords
 toppi!,トッピ
 
@@ -2387,7 +2416,7 @@ SOLASAT,ソラサット
 =2017-04-11T13:54:11+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
 
-=2017-09-07T07:36:16+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2017-09-11T08:49:11+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -2396,6 +2425,8 @@ Racrew,ラックル
 Hitachi AI Technology/H
 秘文
 HAF/EDC,Hitachi Application Framework/Event Driven Computing
+ExTOPE
+Web電話帳ソリューションII
 
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
@@ -2459,8 +2490,9 @@ Sayer
 =2017-04-11T11:49:27+09:00 Computer/トピック/社会動向/企業/自動車/Mercedes-Benz/keywords
 Mercedes-Benz,メルセデス・ベンツ,ベンツ
 
-=2017-05-25T07:31:13+09:00 Computer/トピック/社会動向/企業/自動車/SUBARU/keywords
+=2017-09-11T09:57:06+09:00 Computer/トピック/社会動向/企業/自動車/SUBARU/keywords
 SUBARU,スバル,富士重工業
+アイサイト
 
 =2017-04-10T14:24:34+09:00 Computer/トピック/社会動向/企業/自動車/Tesla/keywords
 Tesla,テスラ
@@ -2546,9 +2578,6 @@ People Driven Marketing
 
 =2017-05-25T07:19:39+09:00 Computer/トピック/社会動向/企業/電通国際情報サービス/keywords
 電通国際情報サービス,ISID
-
-=2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/ＧＭＯペパボ/keywords
-ペパボ研究所
 
 =2017-03-30T11:09:36+09:00 Computer/トピック/社会動向/大学/九州大学/keywords
 K-now
