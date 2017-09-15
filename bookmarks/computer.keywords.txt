@@ -219,6 +219,9 @@ P-SIRT
 =2017-07-24T13:09:39+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ
 
+=2017-09-15T10:36:34+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+コネクティッドホーム アライアンス
+
 =2017-04-13T10:22:15+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
 製造業,マニュファクチャリング
@@ -669,6 +672,9 @@ iPhone
 =2017-03-28T14:46:31+09:00 Computer/トピック/社会動向/企業/Automagi/keywords
 AMY
 
+=2017-09-15T11:11:54+09:00 Computer/トピック/社会動向/企業/AZAPA/keywords
+DBT,Deep Binary Tree
+
 =2017-04-03T08:28:46+09:00 Computer/トピック/社会動向/企業/Baidu/keywords
 Baidu,百度
 
@@ -713,6 +719,9 @@ Comma One
 =2017-04-03T08:22:37+09:00 Computer/トピック/社会動向/企業/COMPASS/keywords
 Qubena,キュビナ
 
+=2017-09-15T08:53:14+09:00 Computer/トピック/社会動向/企業/Crevo/keywords
+Collet
+
 =2017-03-28T14:54:36+09:00 Computer/トピック/社会動向/企業/CTC/keywords
 伊藤忠テクノソリューションズ,CTC
 
@@ -725,6 +734,9 @@ Zinnia
 =2017-03-29T08:33:05+09:00 Computer/トピック/社会動向/企業/Cylance/keywords
 Cylance,サイランス
 CylancePROTECT
+
+=2017-09-15T10:04:31+09:00 Computer/トピック/社会動向/企業/DAC/keywords
+Kaltura
 
 =2017-03-29T08:38:23+09:00 Computer/トピック/社会動向/企業/Darktrace/keywords
 Darktrace,ダークトレース
@@ -745,6 +757,11 @@ DELL,デル
 
 =2017-09-07T11:46:32+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
 AIコンシェルジュ
+
+=2017-09-15T10:17:35+09:00 Computer/トピック/社会動向/企業/DMM/ピックアップ/keywords
+TELLER
+POOL
+CHIPS
 
 =2017-03-29T08:48:55+09:00 Computer/トピック/社会動向/企業/Doog/keywords
 Doog,ドーグ
@@ -1108,6 +1125,9 @@ Ladadie
 =2017-03-29T14:39:55+09:00 Computer/トピック/社会動向/企業/ONE ACT/keywords
 piece
 
+=2017-03-30T13:31:37+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
+オラクル,Oracle
+
 =2017-07-04T07:43:24+09:00 Computer/トピック/社会動向/企業/PAL/keywords
 AI CROSTA
 
@@ -1148,6 +1168,9 @@ PLEN Cube
 
 =2017-07-21T11:41:55+09:00 Computer/トピック/社会動向/企業/POLYGLOTS/keywords
 POLYGLOTS,ポリグロッツ
+
+=2017-09-15T07:33:15+09:00 Computer/トピック/社会動向/企業/popIn/keywords
+popIn,ポップイン
 
 =2017-09-04T10:39:30+09:00 Computer/トピック/社会動向/企業/Popshoot/keywords
 よろペイ
@@ -1571,9 +1594,6 @@ Optimal Remote
 =2017-03-30T13:30:08+09:00 Computer/トピック/社会動向/企業/オムロン/keywords
 オムロン,OMRON
 
-=2017-03-30T13:31:37+09:00 Computer/トピック/社会動向/企業/オラクル/keywords
-オラクル,Oracle
-
 =2017-04-13T10:27:49+09:00 Computer/トピック/社会動向/企業/オリックス/keywords
 オリックス,Orix
 Test Car ソリューション
@@ -1666,6 +1686,9 @@ QuACS
 
 =2017-07-12T07:36:08+09:00 Computer/トピック/社会動向/企業/グノシー/keywords
 グノシー,Gunosy
+
+=2017-09-15T07:34:08+09:00 Computer/トピック/社会動向/企業/グライダーアソシエイツ/keywords
+antenna*
 
 =2017-09-14T10:57:10+09:00 Computer/トピック/社会動向/企業/グラッドキューブ/keywords
 SiTest
@@ -2098,10 +2121,11 @@ Educational Partner
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
 
-=2017-04-10T14:59:39+09:00 Computer/トピック/社会動向/企業/パロアルト/keywords
+=2017-09-15T09:25:10+09:00 Computer/トピック/社会動向/企業/パロアルト/keywords
 Aperture
 AutoFocus
 WildFire
+Traps
 
 =2017-04-10T14:45:08+09:00 Computer/トピック/社会動向/企業/パークシャテクノロジー/keywords
 TATERU Bot AI
@@ -2250,6 +2274,9 @@ AIポジショニングマップMr.DATA
 =2017-08-30T08:55:46+09:00 Computer/トピック/社会動向/企業/メトロリー/keywords
 メトロリー,metroly
 
+=2017-09-15T11:01:33+09:00 Computer/トピック/社会動向/企業/メリービズ/keywords
+バーチャル経理アシスタント
+
 =2017-06-20T08:36:03+09:00 Computer/トピック/社会動向/企業/ヤフー/keywords
 kukai,クウカイ
 
@@ -2295,6 +2322,10 @@ pook
 A3RT
 ワーカメ
 Amenities
+
+=2017-09-15T07:38:40+09:00 Computer/トピック/社会動向/企業/リゲイン/keywords
+ShowTalk
+ShowTALK+ASSIST
 
 =2017-04-11T10:38:59+09:00 Computer/トピック/社会動向/企業/リブセンス/keywords
 IESHIL,イエシル
