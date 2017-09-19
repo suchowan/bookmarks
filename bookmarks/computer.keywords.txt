@@ -669,6 +669,13 @@ AIXON
 Apple,アップル
 iPhone
 
+=2017-09-19T07:47:12+09:00 Computer/トピック/社会動向/企業/ARアドバンストテクノロジ/keywords
+LOOGUE
+
+=2017-09-19T08:24:36+09:00 Computer/トピック/社会動向/企業/Atlassian/keywords
+Atlassian,アトラシアン
+Stride
+
 =2017-03-28T14:46:31+09:00 Computer/トピック/社会動向/企業/Automagi/keywords
 AMY
 
@@ -703,6 +710,10 @@ GLIT,グリット
 
 =2017-03-28T14:48:47+09:00 Computer/トピック/社会動向/企業/CEVA/keywords
 CDNN
+
+=2017-03-30T14:46:38+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
+シスコ,シスコシステムズ,CISCO
+Tetration Analytics,テトレーション アナリティックス
 
 =2017-08-21T10:37:35+09:00 Computer/トピック/社会動向/企業/Cobalt/keywords
 コバルト,cobalt
@@ -783,6 +794,9 @@ Interest Widget
 
 =2017-08-08T07:14:25+09:00 Computer/トピック/社会動向/企業/exiii/keywords
 exiii,イクシー
+
+=2017-09-19T11:22:49+09:00 Computer/トピック/社会動向/企業/F5ネットワークス/keywords
+Access Policy Manager,APM
 
 =2017-03-29T09:27:48+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 Facebook,フェイスブック
@@ -949,6 +963,10 @@ flick
 =2017-03-30T13:47:35+09:00 Computer/トピック/社会動向/企業/ISID/keywords
 ISID,電通国際情報サービス
 FraudAlert
+
+=2017-09-19T10:15:26+09:00 Computer/トピック/社会動向/企業/ITFOR/keywords
+ITFOR,アイティフォー
+ナイス・デスクトップオートメーション
 
 =2017-03-29T11:34:08+09:00 Computer/トピック/社会動向/企業/Jetrunテクノロジ/keywords
 TrueTALK,トゥルートーク
@@ -1128,6 +1146,9 @@ piece
 =2017-03-30T13:31:37+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
 オラクル,Oracle
 
+=2017-09-19T08:17:38+09:00 Computer/トピック/社会動向/企業/OSK/keywords
+eValue NS
+
 =2017-07-04T07:43:24+09:00 Computer/トピック/社会動向/企業/PAL/keywords
 AI CROSTA
 
@@ -1174,6 +1195,9 @@ popIn,ポップイン
 
 =2017-09-04T10:39:30+09:00 Computer/トピック/社会動向/企業/Popshoot/keywords
 よろペイ
+
+=2017-09-19T09:01:39+09:00 Computer/トピック/社会動向/企業/Progress Software/keywords
+Progress Corticon
 
 =2017-04-05T07:48:52+09:00 Computer/トピック/社会動向/企業/PROPELa/keywords
 amblate
@@ -1418,8 +1442,9 @@ CROSS POINT
 アクティブコア,activecore
 activecore marketing cloud,アクティブコア マーケティングクラウド
 
-=2017-03-21T14:26:56+09:00 Computer/トピック/社会動向/企業/アシスト/keywords
+=2017-09-19T12:52:24+09:00 Computer/トピック/社会動向/企業/アシスト/keywords
 Vertica
+AEDAN内製パックWebアプリケーション開発版
 
 =2017-08-21T09:28:24+09:00 Computer/トピック/社会動向/企業/アシスト/のれん/keywords
 NOREN,ノレン
@@ -1647,8 +1672,10 @@ G-careネット
 キャスレーコンサルティング,Casley Consulting
 Gmail HR tech
 
-=2017-03-30T14:02:41+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
+=2017-09-19T09:12:17+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
 CANON
+Web Performer
+GUARDIANWALL Mail
 
 =2017-09-07T10:26:59+09:00 Computer/トピック/社会動向/企業/ギークス/keywords
 ギークス,geechs
@@ -1764,6 +1791,10 @@ AIR TRACK
 サイバーダイン,CYBERDYNE
 ロボットスーツHAL
 
+=2017-09-19T09:18:34+09:00 Computer/トピック/社会動向/企業/サイボウズ/keywords
+kintone
+cybozu
+
 =2017-05-08T11:41:26+09:00 Computer/トピック/社会動向/企業/サインポスト/keywords
 ワンダーレジ
 
@@ -1775,10 +1806,6 @@ SmartVisca
 
 =2017-05-09T08:30:08+09:00 Computer/トピック/社会動向/企業/サークルイン/keywords
 shippio
-
-=2017-03-30T14:46:38+09:00 Computer/トピック/社会動向/企業/シスコ/keywords
-シスコ,シスコシステムズ,CISCO
-Tetration Analytics,テトレーション アナリティックス
 
 =2017-03-30T14:47:50+09:00 Computer/トピック/社会動向/企業/システムインテグレータ/keywords
 SI Web Shopping
@@ -1844,6 +1871,9 @@ VRCH,ヴァーチ
 ジーニー,Geniee
 GenieeSSP
 GenieeDSP
+
+=2017-09-19T11:35:58+09:00 Computer/トピック/社会動向/企業/スカイロボット/keywords
+SKY ANIMALS
 
 =2017-04-13T10:28:28+09:00 Computer/トピック/社会動向/企業/スクウェア・エニックス/keywords
 ファイナルファンタジー
@@ -1947,6 +1977,9 @@ Smart Innovator
 
 =2017-08-21T08:32:10+09:00 Computer/トピック/社会動向/企業/ダイドードリンコ/keywords
 ダイドードリンコ,DyDo
+
+=2017-09-19T10:42:55+09:00 Computer/トピック/社会動向/企業/ダッソー/keywords
+BIOVIA
 
 =2017-09-14T09:32:28+09:00 Computer/トピック/社会動向/企業/チェックポイントシステムジャパン/keywords
 Seed ID
@@ -2225,8 +2258,10 @@ BellCloud AI for SNS
 =2017-06-08T07:43:55+09:00 Computer/トピック/社会動向/企業/ホットリンク/keywords
 BuzzSpreader,バズスプレッダー
 
-=2017-09-14T09:09:18+09:00 Computer/トピック/社会動向/企業/ホートンワークス/keywords
+=2017-09-19T07:49:30+09:00 Computer/トピック/社会動向/企業/ホートンワークス/keywords
 ホートンワークス,Hortonworks
+Hortonworks DataFlow,HDF
+Hortonworks Data Platform,HDP
 
 =2017-07-21T11:06:08+09:00 Computer/トピック/社会動向/企業/ポピンズ/keywords
 スマートシッター
@@ -2473,8 +2508,10 @@ NSRI,日建設計,日建設計総合研究所
 日本システムウエア,NSW
 Toami
 
-=2017-04-11T13:45:40+09:00 Computer/トピック/社会動向/企業/日本ユニシス/keywords
+=2017-09-19T10:34:51+09:00 Computer/トピック/社会動向/企業/日本ユニシス/keywords
 Rinza
+RinzaTalk PoC支援サービス
+RinzaTalkプロトタイプ開発キット
 
 =2017-07-25T07:28:57+09:00 Computer/トピック/社会動向/企業/日本ラッド/keywords
 NIRVANA-R
@@ -2491,7 +2528,7 @@ SOLASAT,ソラサット
 =2017-04-11T13:54:11+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
 
-=2017-09-11T08:49:11+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2017-09-19T09:13:52+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -2502,6 +2539,7 @@ Hitachi AI Technology/H
 HAF/EDC,Hitachi Application Framework/Event Driven Computing
 ExTOPE
 Web電話帳ソリューションII
+ハイパーコンバージド・ソリューション トークナイゼーションモデル
 
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
