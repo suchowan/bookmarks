@@ -711,6 +711,9 @@ GLIT,グリット
 =2017-03-28T14:48:47+09:00 Computer/トピック/社会動向/企業/CEVA/keywords
 CDNN
 
+=2017-09-25T07:12:04+09:00 Computer/トピック/社会動向/企業/Champion Technology Company/keywords
+DarkLight
+
 =2017-03-30T14:46:38+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
 シスコ,シスコシステムズ,CISCO
 Tetration Analytics,テトレーション アナリティックス
@@ -914,12 +917,13 @@ IceWall MFA
 =2017-09-14T08:40:49+09:00 Computer/トピック/社会動向/企業/Huawei/keywords
 Enterprise Intelligence
 
-=2017-09-11T10:26:57+09:00 Computer/トピック/社会動向/企業/IBM/keywords
+=2017-09-25T10:25:53+09:00 Computer/トピック/社会動向/企業/IBM/keywords
 Watson
 Bluemix
 IBM TrueNorth
 IBM Data Science Experience with HDP
 IBM Blockchain Platform
+IBM Integrated Analytics System
 
 =2017-03-29T11:17:46+09:00 Computer/トピック/社会動向/企業/IDCF/keywords
 IDCF,IDCフロンティア
@@ -1195,6 +1199,9 @@ popIn,ポップイン
 
 =2017-09-04T10:39:30+09:00 Computer/トピック/社会動向/企業/Popshoot/keywords
 よろペイ
+
+=2017-09-25T08:02:22+09:00 Computer/トピック/社会動向/企業/PR TIMES/keywords
+Jooto,ジョートー
 
 =2017-09-19T09:01:39+09:00 Computer/トピック/社会動向/企業/Progress Software/keywords
 Progress Corticon
@@ -1492,6 +1499,9 @@ AmiVoice
 AmiAgent
 スーパーインスペクター
 
+=2017-09-25T07:41:17+09:00 Computer/トピック/社会動向/企業/アドバンテック/keywords
+アドバンテック,Advantech
+
 =2017-03-30T11:21:38+09:00 Computer/トピック/社会動向/企業/アビームコンサルティング/keywords
 IoT Data-Driven Manufacturing Solution
 
@@ -1694,6 +1704,9 @@ AnyBot
 ClassCat,クラスキャット
 ClassCat DeepLearning Appliance for TensorFlow
 
+=2017-09-25T10:04:46+09:00 Computer/トピック/社会動向/企業/クリエイティブテクノロジー/keywords
+synco,シンコー
+
 =2017-09-11T07:30:04+09:00 Computer/トピック/社会動向/企業/クリプトン・フューチャー・メディア/keywords
 初音ミク
 
@@ -1882,6 +1895,10 @@ SKY ANIMALS
 ファイナルファンタジー
 FFXV
 
+=2017-09-25T10:32:00+09:00 Computer/トピック/社会動向/企業/スタイラー/keywords
+スタイラー,STYLER
+FACY,フェイシー
+
 =2017-07-31T10:37:11+09:00 Computer/トピック/社会動向/企業/スタディスト/keywords
 Teachme Biz
 
@@ -1938,7 +1955,7 @@ So-net
 Logicad
 VALIS-Engine
 
-=2017-08-30T08:41:07+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2017-09-25T10:20:43+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -1949,6 +1966,7 @@ NAVYA ARMA,ナビヤ アルマ
 cocoro SB
 SoftBankBrain
 IMAoS,イマオス
+APTWARE,アプトウェア
 
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
@@ -2021,6 +2039,10 @@ IBS,インテリジェンス ビジネスソリューションズ
 =2017-04-21T10:38:02+09:00 Computer/トピック/社会動向/企業/テンプホールディングス/keywords
 PERSOL,パーソル
 
+=2017-09-25T11:25:30+09:00 Computer/トピック/社会動向/企業/デアゴスティーニ/keywords
+Robi
+Robi2
+
 =2017-04-10T14:06:49+09:00 Computer/トピック/社会動向/企業/デアゴスティーニ・ジャパン/keywords
 デアゴスティーニ・ジャパン,デアゴスティーニ,DeAGOSTINI
 ロビ2
@@ -2064,6 +2086,9 @@ AI-PR
 
 =2017-04-10T14:37:45+09:00 Computer/トピック/社会動向/企業/トライバルメディアハウス/keywords
 Engage Manager,エンゲージマネージャー
+
+=2017-09-25T07:31:38+09:00 Computer/トピック/社会動向/企業/トランスコスモス/keywords
+AIコピーライター 言葉 匠
 
 =2017-07-21T11:15:03+09:00 Computer/トピック/社会動向/企業/トレジャーデータ/keywords
 TREASURE DMP
@@ -2239,6 +2264,9 @@ brain insight matching
 =2017-03-30T09:58:06+09:00 Computer/トピック/社会動向/企業/プラネット・テーブル/keywords
 プラネット・テーブル,Planet Table
 SEND
+
+=2017-09-25T09:35:28+09:00 Computer/トピック/社会動向/企業/プリンスホテル/keywords
+Relay
 
 =2017-08-04T09:26:05+09:00 Computer/トピック/社会動向/企業/プレイド/keywords
 KARTE,カルテ
@@ -2488,12 +2516,13 @@ PALRO,パルロ
 =2017-04-11T14:38:27+09:00 Computer/トピック/社会動向/企業/富士フィルム/keywords
 SYNAPSE Case Match
 
-=2017-08-18T08:37:37+09:00 Computer/トピック/社会動向/企業/富士通/keywords
+=2017-09-25T11:52:00+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
 COLMINA,コルミナ
 Akisai
 Sitebooster
 GLOVIA OM
+Deep Tensor
 
 =2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工/keywords
 川崎重工業,川崎重工,Kawasaki
