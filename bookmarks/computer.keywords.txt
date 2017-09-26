@@ -783,6 +783,9 @@ Doog,ドーグ
 =2017-03-29T08:50:59+09:00 Computer/トピック/社会動向/企業/DYSON/keywords
 ダイソン,DYSON
 
+=2017-09-26T09:11:21+09:00 Computer/トピック/社会動向/企業/ECC/keywords
+おもてなCityへようこそ
+
 =2017-05-15T07:58:33+09:00 Computer/トピック/社会動向/企業/Elastic/keywords
 Elasticsearch
 Kibana
@@ -941,8 +944,9 @@ e-Spire,イースパイア
 =2017-04-11T09:51:24+09:00 Computer/トピック/社会動向/企業/IIJ/keywords
 IIJ GIOサービス
 
-=2017-06-21T07:28:46+09:00 Computer/トピック/社会動向/企業/Imagination/keywords
-Imagination,Imagination Technologies Group
+=2017-09-26T07:36:28+09:00 Computer/トピック/社会動向/企業/Imagination/keywords
+Imagination,Imagination Technologies Group,イマジネーションテクノロジーズ
+PowerVR
 
 =2017-03-29T11:22:03+09:00 Computer/トピック/社会動向/企業/IMJ/keywords
 IMJ,アイ・エム・ジェイ
@@ -1150,8 +1154,14 @@ piece
 =2017-03-30T13:31:37+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
 オラクル,Oracle
 
+=2017-09-26T08:27:03+09:00 Computer/トピック/社会動向/企業/Orb/keywords
+Orb DLT
+
 =2017-09-19T08:17:38+09:00 Computer/トピック/社会動向/企業/OSK/keywords
 eValue NS
+
+=2017-09-26T08:52:01+09:00 Computer/トピック/社会動向/企業/pactera/keywords
+pactera,パクテラ・コンサルティング・ジャパン
 
 =2017-07-04T07:43:24+09:00 Computer/トピック/社会動向/企業/PAL/keywords
 AI CROSTA
@@ -1332,6 +1342,9 @@ Teradata,テラデータ
 =2017-03-30T10:34:05+09:00 Computer/トピック/社会動向/企業/The North Face/keywords
 The North Face,ノースフェイス,ノース・フェイス
 
+=2017-09-26T08:34:12+09:00 Computer/トピック/社会動向/企業/TIS/keywords
+AISonar
+
 =2017-03-30T10:39:04+09:00 Computer/トピック/社会動向/企業/TMJ/keywords
 ベネッセグループ,ベネッセ
 
@@ -1451,6 +1464,9 @@ CROSS POINT
 =2017-03-30T11:06:23+09:00 Computer/トピック/社会動向/企業/アクティブコア/keywords
 アクティブコア,activecore
 activecore marketing cloud,アクティブコア マーケティングクラウド
+
+=2017-09-26T08:44:14+09:00 Computer/トピック/社会動向/企業/アクトコール/keywords
+アクト安心ライフ
 
 =2017-09-19T12:52:24+09:00 Computer/トピック/社会動向/企業/アシスト/keywords
 Vertica
@@ -1689,6 +1705,9 @@ Gmail HR tech
 CANON
 Web Performer
 GUARDIANWALL Mail
+
+=2017-09-26T08:41:45+09:00 Computer/トピック/社会動向/企業/キーウォーカー/keywords
+キーウォーカーWEBクローラ
 
 =2017-09-07T10:26:59+09:00 Computer/トピック/社会動向/企業/ギークス/keywords
 ギークス,geechs
@@ -1955,7 +1974,7 @@ So-net
 Logicad
 VALIS-Engine
 
-=2017-09-25T10:20:43+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2017-09-26T07:19:48+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -1967,6 +1986,7 @@ cocoro SB
 SoftBankBrain
 IMAoS,イマオス
 APTWARE,アプトウェア
+AIスコア・レンディング
 
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
@@ -2208,6 +2228,9 @@ Mobile Reach MAX
 =2017-04-10T15:00:44+09:00 Computer/トピック/社会動向/企業/ビースポーク/keywords
 Bebot
 
+=2017-09-26T07:28:54+09:00 Computer/トピック/社会動向/企業/ピケ/keywords
+Frasco
+
 =2017-03-30T11:31:55+09:00 Computer/トピック/社会動向/企業/ピースオブケイク/keywords
 cakes
 
@@ -2243,8 +2266,9 @@ ClearBox Cloud
 =2017-04-11T09:55:24+09:00 Computer/トピック/社会動向/企業/フロムスクラッチ/keywords
 B→Dash
 
-=2017-09-14T11:03:05+09:00 Computer/トピック/社会動向/企業/ブラニュー/keywords
+=2017-09-26T09:39:06+09:00 Computer/トピック/社会動向/企業/ブラニュー/keywords
 Parabola
+eat
 
 =2017-04-11T09:50:44+09:00 Computer/トピック/社会動向/企業/ブレインズテクノロジー/keywords
 Impulse
@@ -2542,6 +2566,10 @@ NSRI,日建設計,日建設計総合研究所
 日本システムウエア,NSW
 Toami
 
+=2017-09-26T09:35:56+09:00 Computer/トピック/社会動向/企業/日本デジタル・プロセシング・システムズ/keywords
+日本デジタル・プロセシング・システムズ株式会社,DPSJ
+Videogram,ビデオグラム
+
 =2017-09-19T10:34:51+09:00 Computer/トピック/社会動向/企業/日本ユニシス/keywords
 Rinza
 RinzaTalk PoC支援サービス
@@ -2562,7 +2590,7 @@ SOLASAT,ソラサット
 =2017-04-11T13:54:11+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
 
-=2017-09-19T09:13:52+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2017-09-26T09:21:42+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -2574,6 +2602,7 @@ HAF/EDC,Hitachi Application Framework/Event Driven Computing
 ExTOPE
 Web電話帳ソリューションII
 ハイパーコンバージド・ソリューション トークナイゼーションモデル
+システム稼働リスク可視化ソリューション
 
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
@@ -2686,8 +2715,9 @@ Morgan Stanley,モルガン・スタンレー
 =2017-08-29T08:59:38+09:00 Computer/トピック/社会動向/企業/金融・保険/ふくおかフィナンシャルグループ/keywords
 ふくおかフィナンシャルグループ,FFG
 
-=2017-04-11T11:11:41+09:00 Computer/トピック/社会動向/企業/金融・保険/みずほ/keywords
+=2017-09-26T07:19:38+09:00 Computer/トピック/社会動向/企業/金融・保険/みずほ/keywords
 エムズサロン
+AIスコア・レンディング
 
 =2017-04-11T11:12:52+09:00 Computer/トピック/社会動向/企業/金融・保険/メットライフ/keywords
 Khushi
