@@ -714,9 +714,10 @@ CDNN
 =2017-09-25T07:12:04+09:00 Computer/トピック/社会動向/企業/Champion Technology Company/keywords
 DarkLight
 
-=2017-03-30T14:46:38+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
+=2017-09-27T08:12:37+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
 シスコ,シスコシステムズ,CISCO
 Tetration Analytics,テトレーション アナリティックス
+Cisco Intersight
 
 =2017-08-21T10:37:35+09:00 Computer/トピック/社会動向/企業/Cobalt/keywords
 コバルト,cobalt
@@ -794,6 +795,9 @@ Elastic Stack
 =2017-03-29T09:11:45+09:00 Computer/トピック/社会動向/企業/emin/keywords
 emin,Emotion Intelligence
 Interest Widget
+
+=2017-09-27T09:06:23+09:00 Computer/トピック/社会動向/企業/Emrec Technologies/keywords
+Engazify
 
 =2017-07-25T08:38:11+09:00 Computer/トピック/社会動向/企業/EVERRISE/keywords
 アドレポ
@@ -956,8 +960,9 @@ IMJ,アイ・エム・ジェイ
 Infor CloudSuite
 Coleman
 
-=2017-03-29T11:24:34+09:00 Computer/トピック/社会動向/企業/Intel/keywords
+=2017-09-27T09:16:35+09:00 Computer/トピック/社会動向/企業/Intel/keywords
 Intel,インテル
+Loihi
 
 =2017-04-10T08:10:37+09:00 Computer/トピック/社会動向/企業/IO Inc/keywords
 IO Inc.,IO Inc,アイオーインク,IO株式会社
@@ -1037,6 +1042,9 @@ massive stay
 
 =2017-07-18T08:27:51+09:00 Computer/トピック/社会動向/企業/MateLabs/keywords
 MateVerse
+
+=2017-09-27T08:41:50+09:00 Computer/トピック/社会動向/企業/McAfee/keywords
+McAfee,マカフィー
 
 =2017-04-24T07:57:22+09:00 Computer/トピック/社会動向/企業/Megvii/keywords
 Face++,フェイス++,フェイスプラスプラス
@@ -1601,8 +1609,9 @@ Pairs
 =2017-03-30T11:52:53+09:00 Computer/トピック/社会動向/企業/エキサイト/keywords
 wisteria
 
-=2017-03-29T08:46:22+09:00 Computer/トピック/社会動向/企業/エクサインテリジェンス/keywords
+=2017-09-27T08:48:57+09:00 Computer/トピック/社会動向/企業/エクサインテリジェンス/keywords
 エクサインテリジェンス,ExaIntelligence
+exaBase
 
 =2017-03-30T11:53:26+09:00 Computer/トピック/社会動向/企業/エクスウェア/keywords
 TalkQA
