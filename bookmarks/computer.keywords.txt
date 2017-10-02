@@ -627,6 +627,9 @@ Adobe,アドビ
 =2017-08-18T11:28:23+09:00 Computer/トピック/社会動向/企業/AirSelfie/keywords
 AirSelfie,エアセルフィー
 
+=2017-10-02T08:06:11+09:00 Computer/トピック/社会動向/企業/AIS/keywords
+AIS,オートモーティブ＆インダストリアルシステムズ
+
 =2017-07-26T09:24:44+09:00 Computer/トピック/社会動向/企業/AISSY/keywords
 味覚センサーレオ
 
@@ -1384,6 +1387,10 @@ SNAP by IQON
 =2017-09-04T09:01:36+09:00 Computer/トピック/社会動向/企業/Vector/keywords
 Vector,ベクター
 
+=2017-10-02T08:40:22+09:00 Computer/トピック/社会動向/企業/Veritone/keywords
+aiWARE
+Xcellis
+
 =2017-09-04T09:45:53+09:00 Computer/トピック/社会動向/企業/VMware/keywords
 AirWatch
 AppDefense
@@ -1970,13 +1977,14 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2017-07-04T13:59:34+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2017-10-02T08:53:44+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO
 KOOV
 CSLAIER
 CALC
 NNabla
+FAIT,Fit with AI Trainer,ファイト
 
 =2017-04-10T13:46:04+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -2381,8 +2389,9 @@ AIポジショニングマップMr.DATA
 =2017-06-20T08:36:03+09:00 Computer/トピック/社会動向/企業/ヤフー/keywords
 kukai,クウカイ
 
-=2017-06-07T07:38:20+09:00 Computer/トピック/社会動向/企業/ヤマハ/keywords
+=2017-10-02T09:25:57+09:00 Computer/トピック/社会動向/企業/ヤマハ/keywords
 HEAR Talk
+ViReal
 
 =2017-08-28T11:30:55+09:00 Computer/トピック/社会動向/企業/ユカイ工学/keywords
 BOCCO
@@ -2419,10 +2428,11 @@ pook
 =2017-03-29T14:39:10+09:00 Computer/トピック/社会動向/企業/リアルグローブ/keywords
 パーソナルアシスタントコアエンジン
 
-=2017-03-27T10:17:45+09:00 Computer/トピック/社会動向/企業/リクルート/keywords
+=2017-10-02T09:02:37+09:00 Computer/トピック/社会動向/企業/リクルート/keywords
 A3RT
 ワーカメ
 Amenities
+iNORTH KEY
 
 =2017-09-15T07:38:40+09:00 Computer/トピック/社会動向/企業/リゲイン/keywords
 ShowTalk
@@ -2487,6 +2497,9 @@ RODEM
 
 =2017-04-11T11:35:22+09:00 Computer/トピック/社会動向/企業/三井不動産/keywords
 toppi!,トッピ
+
+=2017-10-02T09:45:33+09:00 Computer/トピック/社会動向/企業/三井物産/keywords
+SAIVS,Spider Artificial Intelligence Vulnerability Scanner
 
 =2017-04-11T11:37:08+09:00 Computer/トピック/社会動向/企業/三菱重工業/keywords
 TOMONI
