@@ -1228,6 +1228,9 @@ URL=http://www.mugendai-web.jp/archives/2628
 =2016-05-06T09:00:00+09:00 Computer/トピック/社会動向/「表現を獲得」した人工知能――50年来のブレークスルーで、いま人工知能は急速な進化を始めた（後編） 
 URL=http://www.mugendai-web.jp/archives/2630
 
+=2017-09-27T14:06:17+09:00 Computer/トピック/社会動向/「課題はハードウェア・ボトルネックと人間の知に対する過小評価」玉川大学工学部 情報通信工学科 キックオフ ロボスタ
+URL=https://robotstart.info/2017/09/27/moriyama_mikata-no32.html
+
 =2017-08-03T09:11:21+09:00 Computer/トピック/社会動向/「議員の仕事が99% AIに取って代わられる！？」　政治の未来はどうなるのか。現職議員に聞いてきた。 人工知能ニュースメディア AINOW
 URL=http://ainow.ai/2017/08/03/118663/
 
@@ -3568,6 +3571,9 @@ URL=http://ebook.itmedia.co.jp/ebook/articles/1410/29/news081.html
 =2016-09-25T08:04:37+09:00 Computer/トピック/社会動向/企業/Amazon/Amazon「第四の収益の柱」は2020年までに110億ドル稼ぐーー人工知能アシスタント「Alexa」と音声コントローラーの「Echo」 - THE BRIDGE（ザ・ブリッジ）
 URL=http://thebridge.jp/2016/09/amazon-echo-alexa-add-11-billion-in-revenue-by-2020-2016-9-pickupnews
 
+=2017-09-28T13:52:33+09:00 Computer/トピック/社会動向/企業/Amazon/AmazonがEchoを電話機に変える周辺機器「Echo Connect」を発表！ ロボスタ
+URL=https://robotstart.info/2017/09/28/amazon-echo-connect.html
+
 =2017-08-18T08:14:11+09:00 Computer/トピック/社会動向/企業/Amazon/AmazonがあらゆるサードパーティデバイスにAlexa機能を持たせるべくSDKを無料オープンソースで公開 TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/08/18/20170817amazon-opens-up-access-to-developer-tools-for-adding-alexa-to-commercial-products/
 
@@ -3633,6 +3639,9 @@ URL=http://japan.zdnet.com/article/35093020/
 
 =2016-12-13T10:33:34+09:00 Computer/トピック/社会動向/企業/Amazon/AWSのアナリティクスとAIの新サービスが大ヒットする理由 - ZDNet Japan
 URL=http://japan.zdnet.com/article/35093274/
+
+=2017-09-27T14:03:34+09:00 Computer/トピック/社会動向/企業/Amazon/GoogleがAmazonのEcho ShowからYouTubeを突然取り去る、サービス規約への違反だそうだ TechCrunch Japan
+URL=http://jp.techcrunch.com/2017/09/27/20170926google-suddenly-removes-youtube-access-from-the-amazon-echo-show/
 
 =2016-07-27T11:17:46+09:00 Computer/トピック/社会動向/企業/Amazon/IoTと製造業の深イイ関係（1）：アマゾンと電化製品の連携にみる、IoT時代のサービスの在り方 (14) - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1607/26/news005.html
@@ -4041,6 +4050,9 @@ URL=http://jp.techcrunch.com/2017/09/15/20170914apples-face-id-will-support-only
 
 =2017-05-29T07:12:30+09:00 Computer/トピック/社会動向/企業/Apple/AppleはAI専用チップ「Apple Neural Engine」を開発して自動運転技術やAR分野を拡充の動き - GIGAZINE
 URL=http://gigazine.net/news/20170529-apple-ai-chip/
+
+=2017-09-26T13:53:31+09:00 Computer/トピック/社会動向/企業/Apple/Appleは差分プライバシー技術を利用して個人データに触らずにSafariの閲覧データを収集 TechCrunch Japan
+URL=http://jp.techcrunch.com/2017/09/26/20170925apple-starts-collecting-browsing-data-in-safari-using-its-differential-privacy-tech/
 
 =2017-09-15T07:37:39+09:00 Computer/トピック/社会動向/企業/Apple/Appleよ、ロレックスに勝つのは難しくない TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/09/15/20170913its-not-hard-to-beat-rolex/
@@ -6475,6 +6487,9 @@ URL=http://gigazine.net/news/20161005-google-pixel-hands-on/
 =2016-12-04T08:21:23+09:00 Computer/トピック/社会動向/企業/Google/GoogleはAIを使って検索機能を改良しているのではなく、検索機能を使ってAIを改良している フジイユウジドットネット
 URL=http://fujii-yuji.net/2016/12/deeplearning.html
 
+=2017-09-27T14:04:04+09:00 Computer/トピック/社会動向/企業/Google/GoogleはCloud等の企業顧客のセキュリティの便宜のためアイデンティティ管理のBitiumを買収 TechCrunch Japan
+URL=http://jp.techcrunch.com/2017/09/27/20170926google-cloud-acquires-cloud-identity-management-company-bitium/
+
 =2016-08-20T07:17:18+09:00 Computer/トピック/社会動向/企業/Google/GoogleはWindows, Mac, Linux用のChromeアプリを徐々に廃止へ、Webへの移行ツールを提供 TechCrunch Japan
 URL=http://jp.techcrunch.com/2016/08/20/20160819chrome-apps/
 
@@ -6627,6 +6642,9 @@ URL=https://japan.cnet.com/article/35105772/
 
 =2017-06-19T08:13:09+09:00 Computer/トピック/社会動向/企業/Google/YouTube/Google、YouTubeなどでのテロ対策強化を説明 - ITmedia NEWS
 URL=http://www.itmedia.co.jp/news/articles/1706/19/news060.html
+
+=2017-09-27T14:03:34+09:00 Computer/トピック/社会動向/企業/Google/YouTube/GoogleがAmazonのEcho ShowからYouTubeを突然取り去る、サービス規約への違反だそうだ TechCrunch Japan
+URL=http://jp.techcrunch.com/2017/09/27/20170926google-suddenly-removes-youtube-access-from-the-amazon-echo-show/
 
 =2017-07-01T14:06:35+09:00 Computer/トピック/社会動向/企業/Google/YouTube/iOSからデフォルトのYouTubeアプリが消えたのは、Google側の要求だった - iPhone Mania
 URL=http://iphone-mania.jp/news-173797/
@@ -7927,6 +7945,9 @@ URL=http://marketing.itmedia.co.jp/mm/articles/1607/12/news090.html
 =2017-07-20T11:40:25+09:00 Computer/トピック/社会動向/企業/Infervision/中国の医療系スタートアップ、Infervisionが日本進出へ――機械学習と画像認識をがん診断に適用 TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/07/20/20170508chinese-startup-infervision-emerges-from-stealth-with-an-ai-tool-for-diagnosing-lung-cancer/
 
+=2017-09-27T13:51:40+09:00 Computer/トピック/社会動向/企業/Infineon Technologies/強力なセキュリティをハードウェアで実現 - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1709/27/news075.html
+
 =2017-08-01T08:57:27+09:00 Computer/トピック/社会動向/企業/Infor/クラウドアプリケーションに業界特化型AIプラットフォームを導入 - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1708/01/news043.html
 
@@ -8244,6 +8265,9 @@ URL=https://roboteer-tokyo.com/archives/9821
 
 =2017-08-28T08:13:29+09:00 Computer/トピック/社会動向/企業/KDDI/IoT時代のインフラ技術者を育成する社団法人AITAC-NTTコムなど6社が設立 IT Leaders
 URL=http://it.impressbm.co.jp/articles/-/14902
+
+=2017-09-28T14:04:25+09:00 Computer/トピック/社会動向/企業/KDDI/KDDI、AR空間上のAIキャラクタと対話できるシステム開発--CEATECで展示 - CNET Japan
+URL=https://japan.cnet.com/article/35107957/
 
 =2017-09-08T08:28:32+09:00 Computer/トピック/社会動向/企業/KDDI/KDDI、エリクソンと共同で4.5GHz帯を用いた5G実証実験、年度内に国内複数都市で実施 - ケータイ Watch
 URL=http://k-tai.watch.impress.co.jp/docs/news/1079877.html
@@ -9321,6 +9345,9 @@ URL=https://japan.zdnet.com/article/35088810/
 
 =2017-05-30T07:33:55+09:00 Computer/トピック/社会動向/企業/Microsoft/現実世界で動作するAIに必要な3要素とは - Microsoft Research マイナビニュース
 URL=http://news.mynavi.jp/news/2017/05/30/176/
+
+=2017-09-27T14:11:25+09:00 Computer/トピック/社会動向/企業/Microsoft/米Microsoft、「Office 2019」を発表、永続ライセンス版を来年後半に提供 マイナビニュース
+URL=http://news.mynavi.jp/news/2017/09/27/162/
 
 =2017-01-14T07:32:10+09:00 Computer/トピック/社会動向/企業/Microsoft/米マイクロソフト、カナダのＡＩベンチャー買収　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLASGN14H0T_U7A110C1000000/
@@ -10461,6 +10488,9 @@ URL=http://pc.watch.impress.co.jp/docs/news/1073443.html
 
 =2017-05-14T07:25:42+09:00 Computer/トピック/社会動向/企業/NVIDIA/NVIDIA、AIアーキテクチャー「Volta」を発表。ムーアの法則４倍超で人工知能開発を牽引 MOTOR CARS
 URL=http://motorcars.jp/nvidia-ai-architecture-volta-announced-moores-law-leads-artificial-intelligence-development-more-than-4-times20170514
+
+=2017-09-28T13:46:37+09:00 Computer/トピック/社会動向/企業/NVIDIA/NVIDIA、AI推論ソフト「TensorRT 3」を発表 - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1709/28/news071.html
 
 =2017-07-28T10:14:10+09:00 Computer/トピック/社会動向/企業/NVIDIA/NVIDIA、JetsonのAIパフォーマンスを向上させるソフトウェアリリース「JetPack3.1」を発表 IoTニュース：IoT NEWS
 URL=https://iotnews.jp/archives/64615
@@ -12546,6 +12576,9 @@ URL=http://it.impressbm.co.jp/articles/-/14583
 
 =2017-06-15T08:24:39+09:00 Computer/トピック/社会動向/企業/アイズファクトリー/凸版印刷とアイズファクトリー、機械学習で顧客分析を自動化するサービス開始　DMや電話に活用 - ライブドアニュース
 URL=http://news.livedoor.com/article/detail/13205300/
+
+=2017-09-24T13:49:33+09:00 Computer/トピック/社会動向/企業/アイティメディア/土に直接埋め込むセンサーが農業のIoT化を支える - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1709/24/news001.html
 
 =2017-06-07T07:25:22+09:00 Computer/トピック/社会動向/企業/アイティメディア/製造業のための“すべらない”コンテンツマーケティング、成果を挙げるポイントは？- ITmedia マーケティング
 URL=http://marketing.itmedia.co.jp/mm/articles/1706/07/news033.html
@@ -16243,6 +16276,9 @@ URL=http://ainow.ai/2017/07/07/116864/
 =2017-08-08T09:58:03+09:00 Computer/トピック/社会動向/企業/ヘッドウォータース/らーめん山頭火 University Village店にAIサイネージ連携おもてなしロボット - CNET Japan
 URL=https://japan.cnet.com/article/35105425/
 
+=2017-09-28T14:10:34+09:00 Computer/トピック/社会動向/企業/ヘッドウォータース/会話やオーダー、決済もPepperひとりにおまかせ！ヘッドウォータースが「Pepper App Challenge 2017」で提示したロボットの未来 ロボスタ
+URL=https://robotstart.info/2017/09/28/pac-finalist-hw.html
+
 =2017-04-28T10:12:17+09:00 Computer/トピック/社会動向/企業/ベクトル/データセクション、総合PR会社ベクトルとの共同開発プロジェクト　PRコンテンツ制作サポートツール『AI-PR』が始動 データセクション株式会社
 URL=http://www.datasection.co.jp/news/pressrelease-2017042801
 
@@ -16716,6 +16752,9 @@ URL=https://www.nikkan.co.jp/articles/view/00429454
 
 =2017-09-26T08:58:28+09:00 Computer/トピック/社会動向/企業/ユカイ工学/ユカイ工学×東芝映像ソリューション、次世代型ロボットの開発で連携！従来のロボットが抱える２つのストレスの解消へ ロボスタ
 URL=https://robotstart.info/2017/09/26/yukai-toshiba.html
+
+=2017-09-27T14:07:02+09:00 Computer/トピック/社会動向/企業/ユカイ工学/ユカイ工学、猫のようなしっぽをもつロボット「Qoobo（クーボ）」のティザーサイトを公開 ロボスタ
+URL=https://robotstart.info/2017/09/27/qoobo.html
 
 =2017-08-26T11:30:22+09:00 Computer/トピック/社会動向/企業/ユカイ工学/ロボットとの暮らしを光回線とセットで提供開始！ユカイ工学とNTTのコラボレーション「光BOCCO」 ロボスタ - ロボット情報WEBマガジン
 URL=https://robotstart.info/2017/08/26/bocco-ntt.html
@@ -19078,6 +19117,9 @@ URL=http://response.jp/article/2016/11/26/285955.html
 =2017-03-19T07:00:13+09:00 Computer/トピック/社会動向/企業/自動車/BMW/BMWが2021年までに投入する自動運転車はレベル5の自律性能を目指す TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/03/19/20170316bmws-self-driving-car-will-aim-for-full-level-5-autonomy-by-2021/
 
+=2017-09-28T13:54:06+09:00 Computer/トピック/社会動向/企業/自動車/BMW/BMWグループ、2018年中旬よりBMWとMINIに「Amazon Alexa」搭載へ ロボスタ
+URL=https://robotstart.info/2017/09/28/bmw-group-amazon-alexa.html
+
 =2017-04-18T07:31:51+09:00 Computer/トピック/社会動向/企業/自動車/BMW/BMW純正の音声入力機能、スマートフォンの音声エージェントと何が違う？ - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1704/18/news043.html
 
@@ -21309,6 +21351,9 @@ URL=http://pepper.is.sci.toho-u.ac.jp/index.php?%A5%CE%A1%BC%A5%C8%2F%A5%C6%A5%A
 
 =2017-08-06T08:44:09+09:00 Computer/トピック/社会動向/大学/玉川大学/「World Robot Summit」の概要がわかった！玉川大学でトライアル大会開催、国内外のジュニアチームが参加 ロボスタ - ロボット情報WEBマガジン
 URL=https://robotstart.info/2017/08/06/wrs-jr-schoolrobot.html
+
+=2017-09-27T14:06:17+09:00 Computer/トピック/社会動向/大学/玉川大学/「課題はハードウェア・ボトルネックと人間の知に対する過小評価」玉川大学工学部 情報通信工学科 キックオフ ロボスタ
+URL=https://robotstart.info/2017/09/27/moriyama_mikata-no32.html
 
 =2017-09-25T09:39:23+09:00 Computer/トピック/社会動向/大学/玉川大学/玉川大、シンポジウム-未来の社会-シンギュラリティは来る？来ない？ ICT教育ニュース
 URL=http://ict-enews.net/2017/09/25tamagawa/

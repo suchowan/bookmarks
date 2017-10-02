@@ -94,6 +94,9 @@ URL=https://headlines.yahoo.co.jp/hl?a=20170921-00000042-zdn_ait-sci
 =2017-09-20T09:12:45+09:00 Computer/トピック/VR・AR・MR/iOS11ですぐに試せるARKitアプリ6選 TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/09/20/galleryhere-are-the-best-arkit-apps-for-ios-11-you-should-try-right-now/
 
+=2017-09-28T14:04:25+09:00 Computer/トピック/VR・AR・MR/KDDI、AR空間上のAIキャラクタと対話できるシステム開発--CEATECで展示 - CNET Japan
+URL=https://japan.cnet.com/article/35107957/
+
 =2017-09-05T08:41:03+09:00 Computer/トピック/VR・AR・MR/KDDIやJALら4社、機内でのVRサービスの実証実験 - CNET Japan
 URL=https://japan.cnet.com/article/35106829/
 
@@ -3249,6 +3252,9 @@ URL=https://japan.zdnet.com/article/35107363/
 
 =2017-07-15T10:43:28+09:00 Computer/トピック/セキュリティ/量子コンピュータ耐性があるランポート署名について解説&シェルスクリプトで実装してみた - Qiita
 URL=http://qiita.com/onokatio/items/689965fa484d40d851ce
+
+=2017-09-29T14:12:03+09:00 Computer/トピック/セキュリティ/顔認証はパスワードよりも安全？スマートフォンを安全に保つ最善の方法 - CNET Japan
+URL=https://japan.cnet.com/article/35107895/
 
 =2017-05-12T10:20:01+09:00 Computer/トピック/セキュリティ/ＡＩへの攻撃を検知　東大、画像の誤認防ぐ技術開発 - SankeiBiz（サンケイビズ）
 URL=http://www.sankeibiz.jp/business/news/170512/bsj1705120724007-n1.htm
@@ -14239,6 +14245,9 @@ URL=http://www.itmedia.co.jp/enterprise/articles/1610/03/news047.html
 =2017-05-12T07:05:31+09:00 Computer/トピック/ビッグデータ/IoT/Windows 10 IoTに新機能、IoTデバイスのワイヤレスUSB接続が可能に - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1705/12/news041.html
 
+=2017-09-22T13:49:02+09:00 Computer/トピック/ビッグデータ/IoT/“技術以外”で勝負どころを見極める、デファクト・スタンダードの重要性 - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1709/22/news011.html
+
 =2017-06-05T07:27:30+09:00 Computer/トピック/ビッグデータ/IoT/“街灯のスマート化”は何を変えるか、シスコの実証 - スマートジャパン
 URL=http://www.itmedia.co.jp/smartjapan/articles/1706/03/news009.html
 
@@ -14656,6 +14665,9 @@ URL=https://japan.zdnet.com/article/35098597/
 =2016-11-30T11:41:27+09:00 Computer/トピック/ビッグデータ/IoT/国家IT戦略がIoTに注力すべき理由 - WirelessWire News（ワイヤレスワイヤーニュース）
 URL=https://wirelesswire.jp/2016/11/57962/
 
+=2017-09-24T13:49:33+09:00 Computer/トピック/ビッグデータ/IoT/土に直接埋め込むセンサーが農業のIoT化を支える - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1709/24/news001.html
+
 =2017-06-29T08:30:09+09:00 Computer/トピック/ビッグデータ/IoT/地域課題ドリブンのIoTが「受け身」の自治体を変えるかもしれない、大分県IoT推進ラボの可能性 - WirelessWire News（ワイヤレスワイヤーニュース）
 URL=https://wirelesswire.jp/2017/06/60343/
 
@@ -14955,6 +14967,9 @@ URL=http://www.itmedia.co.jp/smartjapan/articles/1706/19/news044.html
 
 =2017-06-09T07:52:28+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/高効率な個別大量生産に対応する日立大みかのノウハウ、IoTプラットフォームから提供 - MONOist（モノイスト）
 URL=http://monoist.atmarkit.co.jp/mn/articles/1706/09/news024.html
+
+=2017-09-27T13:51:40+09:00 Computer/トピック/ビッグデータ/IoT/強力なセキュリティをハードウェアで実現 - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1709/27/news075.html
 
 =2017-09-11T11:11:14+09:00 Computer/トピック/ビッグデータ/IoT/御社、まだクラウドAIだけですか？　Microsoft, NVIDIAも注力してる“エッジAIコンピューティング”まとめ - BITA デジマラボ
 URL=https://bita.jp/dml/edge-ai-computing-trend
@@ -15345,6 +15360,9 @@ URL=http://dotnsf.blog.jp/archives/1011811296.html
 
 =2017-09-29T10:11:46+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Twitter、スパム対策を説明　「問題ないアカウントを巻き込む可能性もあるが……」 - ITmedia NEWS
 URL=http://www.itmedia.co.jp/news/articles/1709/29/news068.html
+
+=2017-09-28T14:05:13+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Twitter、英語上限280字の実験開始-文字数拡大は日本語のせいだった TechCrunch Japan
+URL=http://jp.techcrunch.com/2017/09/28/20170927so-why-oh-why-is-twitter-doing-280/
 
 =2017-09-04T07:06:12+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Twitterから効率よく情報収集できるかもしれない「node-twatch」というCLIツールをNode.jsでつくりました - Qiita
 URL=http://qiita.com/kokushin/items/95576cd2e3ebe9e906b6
@@ -18250,6 +18268,9 @@ URL=https://www.businessinsider.jp/post-104247
 =2017-08-23T09:06:14+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/AmazonがAlexa対応ハードウェアの開発用に「AVS(Alexa Voice Service) Device SDK」をリリース！ ロボスタ - ロボット情報WEBマガジン
 URL=https://robotstart.info/2017/08/23/alexa_voice_service_device_sdk.html
 
+=2017-09-28T13:52:33+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/AmazonがEchoを電話機に変える周辺機器「Echo Connect」を発表！ ロボスタ
+URL=https://robotstart.info/2017/09/28/amazon-echo-connect.html
+
 =2017-08-18T08:14:11+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/AmazonがあらゆるサードパーティデバイスにAlexa機能を持たせるべくSDKを無料オープンソースで公開 TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/08/18/20170817amazon-opens-up-access-to-developer-tools-for-adding-alexa-to-commercial-products/
 
@@ -18279,6 +18300,9 @@ URL=http://ascii.jp/elem/000/001/484/1484790/
 
 =2016-06-06T07:38:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/ASCII.jp：国内販売は？音声認識＆人工知能のAlexaで生まれる未来
 URL=http://ascii.jp/elem/000/001/172/1172120/
+
+=2017-09-28T13:54:06+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/BMWグループ、2018年中旬よりBMWとMINIに「Amazon Alexa」搭載へ ロボスタ
+URL=https://robotstart.info/2017/09/28/bmw-group-amazon-alexa.html
 
 =2017-09-01T08:04:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/Bragi｢The Dash｣がアマゾンの音声AIアシスタントAlexaに対応。10月にアップデート提供 - Engadget 日本版
 URL=http://japanese.engadget.com/2017/09/01/bragi-the-dash-ai-alexa-10/
@@ -18714,6 +18738,9 @@ URL=http://www.sbbit.jp/article/cont1/33867
 
 =2017-04-25T07:26:51+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/JR東、顧客対応に人工知能を導入--大手鉄道で世界初、回答候補を提示 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35100316/
+
+=2017-09-28T14:04:25+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/KDDI、AR空間上のAIキャラクタと対話できるシステム開発--CEATECで展示 - CNET Japan
+URL=https://japan.cnet.com/article/35107957/
 
 =2016-05-24T07:18:12+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/kenjiさんのツイート とりあえずヤバそうな事は分かった。 Lineの応答 httpst.coqlPP0xW0yu
 URL=https://twitter.com/kenjinote/status/734294382413676544
@@ -24783,6 +24810,9 @@ URL=http://www.sbbit.jp/article/cont1/33451
 
 =2017-01-04T14:18:23+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Pepper/介護施設で働く「Pepper」--血圧測定、個人データ管理ができるシステム開発の背景は - CNET Japan
 URL=http://japan.cnet.com/sp/ai2017/35094027/
+
+=2017-09-28T14:10:34+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Pepper/会話やオーダー、決済もPepperひとりにおまかせ！ヘッドウォータースが「Pepper App Challenge 2017」で提示したロボットの未来 ロボスタ
+URL=https://robotstart.info/2017/09/28/pac-finalist-hw.html
 
 =2017-06-01T09:18:44+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Pepper/埼玉西武ライオンズの「モノマネするPepper」の舞台裏--選手らしさとエンタメ性の工夫 - CNET Japan
 URL=https://japan.cnet.com/article/35101441/
@@ -32455,8 +32485,8 @@ URL=http://newswitch.jp/p/10212
 =2017-01-28T07:39:39+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/北大やシンクタンク、農業の経営力向上プロジェクト始動　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLASFB27HDY_X20C17A1L41000/
 
-=2016-12-22T10:03:27+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/土に直接埋め込むセンサーが農業のIoT化を支える - EE Times Japan
-URL=http://eetimes.jp/ee/articles/1612/22/news054.html
+=2017-09-24T13:49:33+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/土に直接埋め込むセンサーが農業のIoT化を支える - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1709/24/news001.html
 
 =2017-01-13T08:28:58+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/地方農家が「AI活用」をする時代に、知っておきたい人工知能のこと HRナビ by リクルート
 URL=http://hrnabi.com/2017/01/13/13199/
