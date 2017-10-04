@@ -697,6 +697,9 @@ Blabo!
 =2017-09-08T10:11:06+09:00 Computer/トピック/社会動向/企業/Box/keywords
 Box Relay
 
+=2017-10-03T07:45:52+09:00 Computer/トピック/社会動向/企業/BRAIN/keywords
+SMART INTELLIGENCE NETWORK
+
 =2017-08-21T09:22:28+09:00 Computer/トピック/社会動向/企業/Bulbit/keywords
 UNICORN
 
@@ -1006,10 +1009,11 @@ FASTALERT,ファストアラート
 =2017-03-29T11:37:54+09:00 Computer/トピック/社会動向/企業/KAG/keywords
 Money Data Bank,MDB
 
-=2017-03-29T11:39:23+09:00 Computer/トピック/社会動向/企業/KDDI/keywords
+=2017-10-04T08:14:56+09:00 Computer/トピック/社会動向/企業/KDDI/keywords
 Fleksy
 KDDI AI翻訳
 KDDI TV通訳
+cloudpack with KDDI
 
 =2017-06-12T09:01:36+09:00 Computer/トピック/社会動向/企業/KDDI/Supership/keywords
 Ad Generation,アドジェネ
@@ -1093,7 +1097,7 @@ Firefox
 ビットコイン
 マイクロペイメント
 
-=2017-09-08T11:37:37+09:00 Computer/トピック/社会動向/企業/NEC/keywords
+=2017-10-03T07:40:23+09:00 Computer/トピック/社会動向/企業/NEC/keywords
 RAPID機械学習
 RAPID WORKS
 plusbenlly,プラスベンリー
@@ -1101,6 +1105,7 @@ NEC Software Robot Solution
 NeoFace Watch
 NCore
 働き方見える化サービス
+SystemDirector Enterprise
 
 =2017-04-11T09:35:05+09:00 Computer/トピック/社会動向/企業/Nextremer/keywords
 AI Samurai
@@ -1163,8 +1168,9 @@ Ladadie
 =2017-03-29T14:39:55+09:00 Computer/トピック/社会動向/企業/ONE ACT/keywords
 piece
 
-=2017-03-30T13:31:37+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
+=2017-10-03T08:17:41+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
 オラクル,Oracle
+Live Experience Cloud
 
 =2017-09-26T08:27:03+09:00 Computer/トピック/社会動向/企業/Orb/keywords
 Orb DLT
@@ -1201,8 +1207,9 @@ PFN,Preferred Networks,プリファード・ネットワークス
 Chainer
 Jubatus
 
-=2017-08-18T08:06:42+09:00 Computer/トピック/社会動向/企業/PFU/keywords
+=2017-10-04T08:40:50+09:00 Computer/トピック/社会動向/企業/PFU/keywords
 DynaEye EX
+iNetSec
 
 =2017-07-04T11:14:38+09:00 Computer/トピック/社会動向/企業/Phybbit/keywords
 SpiderAF
@@ -1617,8 +1624,10 @@ Pairs
 =2017-03-30T11:52:53+09:00 Computer/トピック/社会動向/企業/エキサイト/keywords
 wisteria
 
-=2017-09-27T08:48:57+09:00 Computer/トピック/社会動向/企業/エクサインテリジェンス/keywords
+=2017-10-03T09:21:03+09:00 Computer/トピック/社会動向/企業/エクサイウィザーズ/keywords
+エクサウィザーズ,ExaWizards
 エクサインテリジェンス,ExaIntelligence
+デジタルセンセーション
 exaBase
 
 =2017-03-30T11:53:26+09:00 Computer/トピック/社会動向/企業/エクスウェア/keywords
@@ -1633,6 +1642,9 @@ Paidy
 =2017-03-30T11:55:14+09:00 Computer/トピック/社会動向/企業/エニドア/keywords
 Conyac
 ConyacDATA
+
+=2017-10-04T09:14:11+09:00 Computer/トピック/社会動向/企業/エフセキュア/keywords
+F-Secure Computer Protection
 
 =2017-09-11T09:45:48+09:00 Computer/トピック/社会動向/企業/エボラブルアジア/keywords
 hachidori
@@ -1729,6 +1741,9 @@ GUARDIANWALL Mail
 =2017-09-07T10:26:59+09:00 Computer/トピック/社会動向/企業/ギークス/keywords
 ギークス,geechs
 AnyBot
+
+=2017-10-03T08:20:27+09:00 Computer/トピック/社会動向/企業/クオリカ/keywords
+TimeManagementQUBE
 
 =2017-03-30T14:08:42+09:00 Computer/トピック/社会動向/企業/クックパッド/keywords
 クックパッド,Cookpad
@@ -1880,8 +1895,9 @@ LAND,Logic and Arithmetic Network Database
 COCOROBO
 Saya
 
-=2017-03-30T14:52:27+09:00 Computer/トピック/社会動向/企業/シュナイダーエレクトリック/keywors
+=2017-10-04T08:19:42+09:00 Computer/トピック/社会動向/企業/シュナイダーエレクトリック/keywors
 Avantis PRiSM
+EcoStruxure Machine
 
 =2017-09-08T11:10:02+09:00 Computer/トピック/社会動向/企業/シリコンスタジオ/keywords
 YOKOZUNA data
@@ -2043,6 +2059,9 @@ BIOVIA
 =2017-09-14T09:32:28+09:00 Computer/トピック/社会動向/企業/チェックポイントシステムジャパン/keywords
 Seed ID
 
+=2017-10-04T10:18:51+09:00 Computer/トピック/社会動向/企業/チェンジ/keywords
+VoX,VOICE OF EXPERIENCE
+
 =2017-08-18T08:33:03+09:00 Computer/トピック/社会動向/企業/チームスピリット/keywords
 チームスピリット,TeamSpirit
 
@@ -2199,8 +2218,9 @@ Vasta,ヴァスタ
 STORES.jp
 CASH
 
-=2017-04-10T15:00:15+09:00 Computer/トピック/社会動向/企業/バンダイナムコ/keywords
+=2017-10-03T08:01:09+09:00 Computer/トピック/社会動向/企業/バンダイナムコ/keywords
 バンダイナムコ,バンナム
+ガンシェルジュ ハロ
 
 =2017-04-10T14:45:54+09:00 Computer/トピック/社会動向/企業/バーチャレクス/keywords
 バーチャレクス,virtualex
@@ -2342,6 +2362,9 @@ Hortonworks Data Platform,HDP
 
 =2017-08-23T08:31:42+09:00 Computer/トピック/社会動向/企業/マウスコンピューター/keywords
 mouse スマートホーム
+
+=2017-10-04T10:10:56+09:00 Computer/トピック/社会動向/企業/マクニカ/マクニカネットワークス/keywords
+Menlo Security
 
 =2017-03-30T10:02:24+09:00 Computer/トピック/社会動向/企業/マツリカ/keywords
 マツリカ
@@ -2486,9 +2509,11 @@ AI-Checker
 =2017-07-24T10:46:52+09:00 Computer/トピック/社会動向/企業/ワランティ/keywords
 Warrantee
 
-=2017-05-25T07:37:19+09:00 Computer/トピック/社会動向/企業/ワークスアプリケーションズ/keywords
+=2017-10-03T08:55:07+09:00 Computer/トピック/社会動向/企業/ワークスアプリケーションズ/keywords
 HUE
 AIすだちくん
+COMPANY 人事・給与
+COMPANY 就労・プロジェクト管理
 
 =2017-09-04T10:11:28+09:00 Computer/トピック/社会動向/企業/ワークスモバイルジャパン/keywords
 LINE WORKS
@@ -2544,9 +2569,10 @@ MMS Connect
 =2017-04-03T08:01:45+09:00 Computer/トピック/社会動向/企業/吉野家/keywords
 CORO
 
-=2017-05-29T08:22:36+09:00 Computer/トピック/社会動向/企業/大日本印刷/keywords
+=2017-10-04T08:03:42+09:00 Computer/トピック/社会動向/企業/大日本印刷/keywords
 大日本印刷,DNP
 diip,ディープ
+CommerceLineSP
 
 =2017-04-11T10:54:24+09:00 Computer/トピック/社会動向/企業/安川情報システム/keywords
 MMPredict
@@ -2614,7 +2640,7 @@ SOLASAT,ソラサット
 =2017-04-11T13:54:11+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
 
-=2017-09-26T09:21:42+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2017-10-03T09:11:06+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -2627,6 +2653,7 @@ ExTOPE
 Web電話帳ソリューションII
 ハイパーコンバージド・ソリューション トークナイゼーションモデル
 システム稼働リスク可視化ソリューション
+Hitachi Anomaly Detector
 
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
@@ -2645,6 +2672,10 @@ Visconti
 =2017-04-11T10:58:54+09:00 Computer/トピック/社会動向/企業/楽天/keywords
 Viber
 
+=2017-10-03T09:18:45+09:00 Computer/トピック/社会動向/企業/構造計画研究所/keywords
+RemoteLock
+HubSpot
+
 =2017-04-11T10:57:28+09:00 Computer/トピック/社会動向/企業/横河ソリューションサービス/keywords
 設備異常予兆監視ソリューション
 
@@ -2662,9 +2693,10 @@ GAIA
 =2017-04-11T14:45:24+09:00 Computer/トピック/社会動向/企業/福田道路/keywords
 舗装損傷診断システム
 
-=2017-04-11T11:29:29+09:00 Computer/トピック/社会動向/企業/空/keywords
+=2017-10-04T09:48:24+09:00 Computer/トピック/社会動向/企業/空/keywords
 空,SORA
 MagicPrice
+ホテル番付
 
 =2017-04-04T07:22:59+09:00 Computer/トピック/社会動向/企業/空色/keywords
 OK SKY
@@ -2706,9 +2738,10 @@ VW,フォルクスワーゲン
 =2017-09-07T10:33:01+09:00 Computer/トピック/社会動向/企業/自動車/コンチネンタル/keywords
 eHorizon
 
-=2017-04-11T11:53:03+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
+=2017-10-03T08:47:38+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
 トヨタ,Toyota
 プリウス,PRIUS
+Ha:mo RIDE,ハーモ・ライド
 
 =2017-04-11T11:53:45+09:00 Computer/トピック/社会動向/企業/自動車/ホンダ/keywords
 ホンダ,Honda
