@@ -702,8 +702,9 @@ miyabi
 =2017-08-07T09:58:49+09:00 Computer/トピック/社会動向/企業/Blabo/keywords
 Blabo!
 
-=2017-09-08T10:11:06+09:00 Computer/トピック/社会動向/企業/Box/keywords
+=2017-10-16T08:34:32+09:00 Computer/トピック/社会動向/企業/Box/keywords
 Box Relay
+Box Skills
 
 =2017-10-03T07:45:52+09:00 Computer/トピック/社会動向/企業/BRAIN/keywords
 SMART INTELLIGENCE NETWORK
@@ -961,6 +962,9 @@ IceWall MFA
 =2017-09-14T08:40:49+09:00 Computer/トピック/社会動向/企業/Huawei/keywords
 Enterprise Intelligence
 
+=2017-10-16T10:30:52+09:00 Computer/トピック/社会動向/企業/HybridBlock/keywords
+HybridBlock,ハイブリッドブロック
+
 =2017-09-25T10:25:53+09:00 Computer/トピック/社会動向/企業/IBM/keywords
 Watson
 Bluemix
@@ -1084,6 +1088,9 @@ massive stay
 =2017-07-18T08:27:51+09:00 Computer/トピック/社会動向/企業/MateLabs/keywords
 MateVerse
 
+=2017-10-16T10:38:27+09:00 Computer/トピック/社会動向/企業/Mattel/keywords
+Kamigami
+
 =2017-09-27T08:41:50+09:00 Computer/トピック/社会動向/企業/McAfee/keywords
 McAfee,マカフィー
 
@@ -1119,6 +1126,9 @@ Mirantis,ミランティス
 =2017-03-29T11:54:06+09:00 Computer/トピック/社会動向/企業/MKTインターナショナル/keywords
 MKT METAL
 
+=2017-10-16T08:57:33+09:00 Computer/トピック/社会動向/企業/Moff/keywords
+モフ測
+
 =2017-08-08T10:52:43+09:00 Computer/トピック/社会動向/企業/mofmof/keywords
 My-ope office
 
@@ -1137,7 +1147,7 @@ Firefox
 ビットコイン
 マイクロペイメント
 
-=2017-10-10T10:43:18+09:00 Computer/トピック/社会動向/企業/NEC/keywords
+=2017-10-16T08:54:39+09:00 Computer/トピック/社会動向/企業/NEC/keywords
 RAPID機械学習
 RAPID WORKS
 plusbenlly,プラスベンリー
@@ -1147,6 +1157,10 @@ NCore
 働き方見える化サービス
 SystemDirector Enterprise
 ActSecureサイバー攻撃初動対応支援サービス
+InfoCage FileShell
+Application Platform for File Protection
+SecureWare／Credential Lifecycle Manager
+軽量暗号 開発キット
 
 =2017-04-11T09:35:05+09:00 Computer/トピック/社会動向/企業/Nextremer/keywords
 AI Samurai
@@ -1299,13 +1313,14 @@ Qualtrics,クアルトリクス
 =2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
 
-=2017-08-30T08:39:19+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
+=2017-10-16T09:12:09+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
 Salesforce,セールスフォース
 Salesforce Einstein,Einstein
 Salesforceコマースクラウド
 Salesforce DMP
 Krux
 Einstein Vision for Social Studio
+IoT Explorer Edition
 
 =2017-08-04T11:07:45+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
@@ -1536,9 +1551,10 @@ activecore marketing cloud,アクティブコア マーケティングクラウ�
 =2017-09-26T08:44:14+09:00 Computer/トピック/社会動向/企業/アクトコール/keywords
 アクト安心ライフ
 
-=2017-09-19T12:52:24+09:00 Computer/トピック/社会動向/企業/アシスト/keywords
+=2017-10-16T09:52:13+09:00 Computer/トピック/社会動向/企業/アシスト/keywords
 Vertica
 AEDAN内製パックWebアプリケーション開発版
+AEDAN自動化パック
 
 =2017-08-21T09:28:24+09:00 Computer/トピック/社会動向/企業/アシスト/のれん/keywords
 NOREN,ノレン
@@ -1852,6 +1868,9 @@ Wikitude SDK 7
 =2017-09-14T10:26:12+09:00 Computer/トピック/社会動向/企業/コア/keywords
 察知くん-G
 
+=2017-10-16T10:05:54+09:00 Computer/トピック/社会動向/企業/コクヨ/keywords
+カウネット
+
 =2017-03-30T14:30:39+09:00 Computer/トピック/社会動向/企業/コグニティ/keywords
 UpSighter,アップ・サイター
 
@@ -2023,6 +2042,9 @@ Akerun
 =2017-10-10T13:15:07+09:00 Computer/トピック/社会動向/企業/スペクトラム・テクノロジー/keywords
 ホワイトハッカ育成ツール
 
+=2017-10-16T10:13:04+09:00 Computer/トピック/社会動向/企業/スマートキャンプ/keywords
+BoID
+
 =2017-04-04T15:01:21+09:00 Computer/トピック/社会動向/企業/スリーアイズ/keywords
 CANDY
 
@@ -2086,7 +2108,7 @@ eセールスマネージャーRemix Cloud
 =2017-05-02T07:58:34+09:00 Computer/トピック/社会動向/企業/ソースネクスト/keywords
 ロゼッタストーン
 
-=2017-09-04T08:43:22+09:00 Computer/トピック/社会動向/企業/ゾーホージャパン/keywords
+=2017-10-16T09:26:10+09:00 Computer/トピック/社会動向/企業/ゾーホージャパン/keywords
 ManageEngine OpManager,OpManager
 Zohoピープル
 
@@ -2229,6 +2251,9 @@ INSUITE,インスイート
 =2017-04-10T14:38:18+09:00 Computer/トピック/社会動向/企業/ナカバヤシ/keywords
 CUTPEN
 
+=2017-10-16T10:27:05+09:00 Computer/トピック/社会動向/企業/ナーブ/keywords
+VR内見
+
 =2017-05-15T10:07:15+09:00 Computer/トピック/社会動向/企業/ニトリ/keywords
 Butler
 
@@ -2314,6 +2339,9 @@ TATERU Bot AI
 =2017-05-31T08:21:27+09:00 Computer/トピック/社会動向/企業/パーミッション/keywords
 MOVAL
 
+=2017-10-16T11:14:14+09:00 Computer/トピック/社会動向/企業/ヒューマンテクノロジーズ/keywords
+KING OF TIME
+
 =2017-07-24T08:24:31+09:00 Computer/トピック/社会動向/企業/ビズインテグラル/keywords
 Biz∫
 
@@ -2333,8 +2361,8 @@ Frasco
 =2017-03-30T11:31:55+09:00 Computer/トピック/社会動向/企業/ピースオブケイク/keywords
 cakes
 
-=2017-10-10T09:03:53+09:00 Computer/トピック/社会動向/企業/ファナック/keywords
-フィールド・システム
+=2017-10-16T07:42:54+09:00 Computer/トピック/社会動向/企業/ファナック/keywords
+フィールド・システム,FIELD system
 
 =2017-04-11T09:30:16+09:00 Computer/トピック/社会動向/企業/ファミマ・ドット・コム/keywords
 ラジオプリント
@@ -2353,6 +2381,12 @@ cakes
 
 =2017-08-29T09:28:41+09:00 Computer/トピック/社会動向/企業/フィードフォース/keywords
 ソーシャルPLUS
+
+=2017-10-16T10:54:43+09:00 Computer/トピック/社会動向/企業/フェアリーデバイセズ/keywords
+mimi
+
+=2017-10-16T11:15:12+09:00 Computer/トピック/社会動向/企業/フォトシンス/keywords
+Akerun Pro
 
 =2017-04-11T09:46:03+09:00 Computer/トピック/社会動向/企業/フォースター/keywords
 マイクロサービスアーキテクチャF
@@ -2451,6 +2485,9 @@ MediaPack,メディアパック
 
 =2017-07-21T12:10:50+09:00 Computer/トピック/社会動向/企業/ミデア/keywords
 ミデア,美的,Midea
+
+=2017-10-16T09:22:18+09:00 Computer/トピック/社会動向/企業/ミニマル・テクノロジーズ/keywords
+WOVN.io,ウォーブンドットアイオー
 
 =2017-04-11T10:17:06+09:00 Computer/トピック/社会動向/企業/ミライセルフ/keywords
 mitsucari
@@ -2570,8 +2607,9 @@ VoC Analyzer
 =2017-05-29T09:21:33+09:00 Computer/トピック/社会動向/企業/レモネード/keywords
 INFLUENCER ONE
 
-=2017-04-11T10:48:48+09:00 Computer/トピック/社会動向/企業/ロゼッタ/keywords
+=2017-10-16T09:23:49+09:00 Computer/トピック/社会動向/企業/ロゼッタ/keywords
 T-4OO
+１円翻訳【AI & CROWD】
 
 =2017-08-30T07:21:30+09:00 Computer/トピック/社会動向/企業/ロボケン/keywords
 epRobo,エピロボ
@@ -2603,6 +2641,9 @@ toppi!,トッピ
 
 =2017-10-02T09:45:33+09:00 Computer/トピック/社会動向/企業/三井物産/keywords
 SAIVS,Spider Artificial Intelligence Vulnerability Scanner
+
+=2017-10-16T08:58:29+09:00 Computer/トピック/社会動向/企業/三菱総合研究所/keywords
+三菱総合研究所,MRI
 
 =2017-04-11T11:37:08+09:00 Computer/トピック/社会動向/企業/三菱重工業/keywords
 TOMONI
@@ -2930,15 +2971,19 @@ TSUBAME
 =2017-04-11T15:04:39+09:00 Computer/トピック/社会動向/大学/東京都市大学/keywords
 東京都市大学,東京都市大
 
+=2017-10-16T11:25:37+09:00 Computer/トピック/社会動向/大学/沖縄科学技術大学院大学/keywords
+沖縄科学技術大学院大学,OIST
+
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
 =2017-05-30T07:28:39+09:00 Computer/トピック/社会動向/研究機関/NEDO/keywords
 NEDO,新エネルギー・産業技術総合開発機構
 
-=2017-07-18T07:40:54+09:00 Computer/トピック/社会動向/研究機関/NICT/keywords
+=2017-10-16T09:55:46+09:00 Computer/トピック/社会動向/研究機関/NICT/keywords
 NICT,情報通信研究機構
 VoiceTra
+WISDOM X
 
 =2017-05-25T07:58:05+09:00 Computer/トピック/社会動向/研究機関/NII/keywords
 情報・システム研究機構国立情報学研究所,NII
