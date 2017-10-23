@@ -67,7 +67,8 @@ Blazegraph
 DBpedia
 LOD,Linked Open Data
 
-=2017-03-17T13:55:49+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2017-10-23T16:26:27+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+Processor,プロセッサ
 GPU
 FPGA
 ASIC
@@ -762,9 +763,11 @@ Qubena,キュビナ
 =2017-09-15T08:53:14+09:00 Computer/トピック/社会動向/企業/Crevo/keywords
 Collet
 
-=2017-10-20T08:27:03+09:00 Computer/トピック/社会動向/企業/CTC/keywords
+=2017-10-23T12:01:16+09:00 Computer/トピック/社会動向/企業/CTC/keywords
 伊藤忠テクノソリューションズ,CTC
 UiPath
+CarLA
+CINAPS,CTC Integrated AI Platform Stack
 
 =2017-03-28T14:55:22+09:00 Computer/トピック/社会動向/企業/Curious Edge/keywords
 Commu
@@ -886,11 +889,12 @@ freebit cloud IoT Platform
 =2017-05-29T08:01:04+09:00 Computer/トピック/社会動向/企業/Fringe81/keywords
 Columva,コルンバ
 
-=2017-08-21T08:24:01+09:00 Computer/トピック/社会動向/企業/FRONTEO/keywords
+=2017-10-23T13:19:29+09:00 Computer/トピック/社会動向/企業/FRONTEO/keywords
 FRONTEO,UBIC
 KIBIT
 Kibiro
 Kibiro for Biz
+KIBIT Patent Explorer
 
 =2017-03-29T09:44:37+09:00 Computer/トピック/社会動向/企業/GA technologies/keywords
 Renosy
@@ -1015,10 +1019,11 @@ IMJ,アイ・エム・ジェイ
 Infor CloudSuite
 Coleman
 
-=2017-10-20T08:36:46+09:00 Computer/トピック/社会動向/企業/Intel/keywords
+=2017-10-23T15:37:09+09:00 Computer/トピック/社会動向/企業/Intel/keywords
 Intel,インテル
 Loihi
 Nervana
+Intel HAP
 
 =2017-04-10T08:10:37+09:00 Computer/トピック/社会動向/企業/IO Inc/keywords
 IO Inc.,IO Inc,アイオーインク,IO株式会社
@@ -1077,10 +1082,11 @@ Ad Generation,アドジェネ
 =2017-09-07T11:33:29+09:00 Computer/トピック/社会動向/企業/Kofax/keywords
 Kapow10,カパゥテン
 
-=2017-09-04T08:30:53+09:00 Computer/トピック/社会動向/企業/LIFULL/keywords
+=2017-10-23T14:08:08+09:00 Computer/トピック/社会動向/企業/LIFULL/keywords
 LIFULL,ネクスト
 HOME'S
 リッテルラボラトリー
+AIXON,アイソン
 
 =2017-08-04T10:23:31+09:00 Computer/トピック/社会動向/企業/Linden Lab/keywords
 セカンドライフ
@@ -1114,6 +1120,9 @@ Face++,フェイス++,フェイスプラスプラス
 
 =2017-10-10T14:18:50+09:00 Computer/トピック/社会動向/企業/Meta Anchor/keywords
 INOBER
+
+=2017-10-23T13:25:51+09:00 Computer/トピック/社会動向/企業/MetaMoji/keywords
+GEMBA Note
 
 =2017-04-10T08:03:24+09:00 Computer/トピック/社会動向/企業/METHOD/keywords
 SWAG for Personal
@@ -1157,6 +1166,9 @@ SQUEEZE MUSIC
 MOTEX,エムオーテックス
 LanScope Cat
 プロテクトキャット
+
+=2017-10-23T15:03:35+09:00 Computer/トピック/社会動向/企業/Motorola/keywords
+moto Smart Speaker with Amazon Alexa
 
 =2017-08-16T08:35:21+09:00 Computer/トピック/社会動向/企業/Mozilla/keywords
 Firefox
@@ -1362,6 +1374,9 @@ SAS,SAS Institute Japan
 SAS Enterprise Miner
 Viya
 
+=2017-10-23T11:58:40+09:00 Computer/トピック/社会動向/企業/SCSK/keywords
+PrimeDashBoard
+
 =2017-05-15T08:26:29+09:00 Computer/トピック/社会動向/企業/seak/keywords
 LEAP
 
@@ -1403,12 +1418,19 @@ Sophos,ソフォス
 =2017-03-30T10:16:56+09:00 Computer/トピック/社会動向/企業/Sota Tek/keywords
 SotaTek,Sota Tek,ソタテック
 
+=2017-10-23T15:16:40+09:00 Computer/トピック/社会動向/企業/Sphero/keywords
+Sphero,スフィロ
+Sphero mini,スフィロ ミニ
+
 =2017-03-30T10:19:40+09:00 Computer/トピック/社会動向/企業/Splunk/keywords
 Splunk,スプランク
 
 =2017-05-17T08:08:45+09:00 Computer/トピック/社会動向/企業/Sprocket/keywords
 Sprocket,スプロケット
 Autosegment
+
+=2017-10-23T14:23:54+09:00 Computer/トピック/社会動向/企業/SQUEEZE/keywords
+suitebook
 
 =2017-09-14T10:41:13+09:00 Computer/トピック/社会動向/企業/ST Booking/keywords
 カケコム
@@ -1826,10 +1848,11 @@ G-careネット
 キャスレーコンサルティング,Casley Consulting
 Gmail HR tech
 
-=2017-09-19T09:12:17+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
+=2017-10-23T15:41:57+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
 CANON
 Web Performer
 GUARDIANWALL Mail
+GUARDIANWALL WebFilter
 
 =2017-09-26T08:41:45+09:00 Computer/トピック/社会動向/企業/キーウォーカー/keywords
 キーウォーカーWEBクローラ
@@ -2121,7 +2144,7 @@ Logicad
 VALIS-Engine
 VALIS-Cockpit
 
-=2017-09-26T07:19:48+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2017-10-23T15:56:30+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -2134,6 +2157,7 @@ SoftBankBrain
 IMAoS,イマオス
 APTWARE,アプトウェア
 AIスコア・レンディング
+SynchRoid
 
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
@@ -2679,6 +2703,9 @@ LINE WORKS
 RODEM
 駅すぱあと
 
+=2017-10-23T14:32:08+09:00 Computer/トピック/社会動向/企業/ヴイストン/keywords
+Sota
+
 =2017-04-11T11:35:22+09:00 Computer/トピック/社会動向/企業/三井不動産/keywords
 toppi!,トッピ
 
@@ -2924,10 +2951,11 @@ Ha:mo RIDE,ハーモ・ライド
 =2017-04-11T14:51:10+09:00 Computer/トピック/社会動向/企業/野村不動産/keywords
 住まいの AI ANSWER
 
-=2017-05-15T09:55:26+09:00 Computer/トピック/社会動向/企業/野村総研/keywords
+=2017-10-23T11:53:22+09:00 Computer/トピック/社会動向/企業/野村総研/keywords
 野村総研,野村総合研究所,NRI
 TRAINA,トレイナ
 TRUE TELLER,トゥルーテラー
+aslead
 
 =2017-04-11T11:03:06+09:00 Computer/トピック/社会動向/企業/金融・保険/Goldman Sachs/keywords
 Goldman Sachs,ゴールドマン・サックス,ゴールドマン
