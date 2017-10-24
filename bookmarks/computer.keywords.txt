@@ -276,6 +276,9 @@ DMP
 =2017-03-22T09:31:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/りんな/keywords
 りんな,Rinna
 
+=2017-10-24T08:41:42+09:00 Computer/トピック/機械学習/機械学習応用/RPA/keywords
+RPA,Robotic Process Automation
+
 =2017-03-22T11:23:52+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
 自動生成
 自動編集
@@ -731,6 +734,9 @@ polca,ポルカ
 =2017-08-18T07:41:05+09:00 Computer/トピック/社会動向/企業/Carat/keywords
 GLIT,グリット
 
+=2017-10-24T07:35:21+09:00 Computer/トピック/社会動向/企業/CEC/keywords
+CEC,シーイーシー
+
 =2017-03-28T14:48:47+09:00 Computer/トピック/社会動向/企業/CEVA/keywords
 CDNN
 
@@ -804,6 +810,9 @@ DELL,デル
 
 =2017-09-07T11:46:32+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
 AIコンシェルジュ
+
+=2017-10-24T07:34:38+09:00 Computer/トピック/社会動向/企業/Disney/keywords
+Disney,ディズニー
 
 =2017-10-20T09:13:15+09:00 Computer/トピック/社会動向/企業/DJI/keywords
 MATRICE
@@ -1102,6 +1111,9 @@ FLOWERY
 
 =2017-07-24T12:43:40+09:00 Computer/トピック/社会動向/企業/M-SOLUTIONS/keywords
 Smart at robo
+
+=2017-10-24T08:05:51+09:00 Computer/トピック/社会動向/企業/Magic Software/keywords
+MSE,Magic Software,マジックソフトウェア
 
 =2017-08-21T08:04:48+09:00 Computer/トピック/社会動向/企業/massive lngg/keywords
 massive stay
@@ -1686,6 +1698,9 @@ iKnow Japanese
 =2017-03-30T11:40:30+09:00 Computer/トピック/社会動向/企業/インフォディオ/keywords
 文字スキャン
 
+=2017-10-24T07:58:47+09:00 Computer/トピック/社会動向/企業/インフォマティカ/keywords
+Informatica Intelligent Cloud Services
+
 =2017-03-30T11:42:23+09:00 Computer/トピック/社会動向/企業/インフラトップ/keywords
 WALS
 
@@ -2144,7 +2159,7 @@ Logicad
 VALIS-Engine
 VALIS-Cockpit
 
-=2017-10-23T15:56:30+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2017-10-24T08:25:26+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -2158,6 +2173,7 @@ IMAoS,イマオス
 APTWARE,アプトウェア
 AIスコア・レンディング
 SynchRoid
+Planme
 
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
@@ -2247,9 +2263,6 @@ Robi2
 
 =2017-04-10T14:12:12+09:00 Computer/トピック/社会動向/企業/ディジタルメディアプロフェッショナル/keywords
 ZIA,ジア
-
-=2017-04-10T14:12:56+09:00 Computer/トピック/社会動向/企業/ディズニー/keywords
-ディズニー,Disney
 
 =2017-04-10T14:14:31+09:00 Computer/トピック/社会動向/企業/ディップ/keywords
 AI.Accelerator
