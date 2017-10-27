@@ -1441,6 +1441,9 @@ URL=http://blog.tokoproject.com/entry/2016/10/09/%E5%B0%8F%E8%A6%8F%E6%A8%A1%E3%
 =2016-09-10T07:33:46+09:00 Computer/トピック/まとめ/強化学習で参考になったサイトまとめ - Qiita
 URL=http://qiita.com/eve_yk/items/2ace6d4c1dad7e912df1
 
+=2017-10-25T20:50:31+09:00 Computer/トピック/まとめ/強化学習事例集 by Team AI - Qiita
+URL=https://qiita.com/daisuke-team-ai/items/ace0e1b098ee0bced127
+
 =2017-09-11T11:11:14+09:00 Computer/トピック/まとめ/御社、まだクラウドAIだけですか？　Microsoft, NVIDIAも注力してる“エッジAIコンピューティング”まとめ - BITA デジマラボ
 URL=https://bita.jp/dml/edge-ai-computing-trend
 
@@ -2938,6 +2941,9 @@ URL=http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092501132/?rt=nocnt
 =2016-10-18T10:40:58+09:00 Computer/トピック/セキュリティ/ニュース解説 - 予定価格9億円が15万円、大阪府の自治体情報セキュリティクラウドで超安値落札：ITpro
 URL=http://itpro.nikkeibp.co.jp/atcl/column/14/346926/101300662/?itp_side_ranking
 
+=2017-10-27T14:33:31+09:00 Computer/トピック/セキュリティ/ネットのグニャグニャ文字認証、ＡＩが楽々突破：朝日新聞デジタル
+URL=http://www.asahi.com/articles/ASKBR6QG4KBRULBJ009.html
+
 =2017-03-16T08:58:31+09:00 Computer/トピック/セキュリティ/ネットワンシステムズ、ワークスタイル変革をテーマにAIXに参画 - 生産性向上など人工知能の産学連携 マイナビニュース
 URL=http://news.mynavi.jp/news/2017/03/16/313/
 
@@ -3619,6 +3625,9 @@ URL=http://www.atmarkit.co.jp/ait/articles/1608/12/news035.html
 =2016-08-24T07:51:07+09:00 Computer/トピック/セキュリティ/自動運転にサイバー対策　国連機関、１１月にも指針採択一面中日新聞(CHUNICHI Web)
 URL=http://www.chunichi.co.jp/article/front/list/CK2016082302000252.html
 
+=2017-10-24T11:00:00+09:00 Computer/トピック/セキュリティ/自宅のIoT、セキュリティは大丈夫？：自宅をハッカーから守る　ホームルーターの安全を確保する4つのステップ――ESET - ＠IT
+URL=http://www.atmarkit.co.jp/ait/articles/1710/24/news051.html
+
 =2017-10-05T14:52:29+09:00 Computer/トピック/セキュリティ/行政サービスで導入進む生体認証　動画分析は日本が先行　強化されるセキュリティ NewSphere
 URL=https://newsphere.jp/technology/20171005-1/
 
@@ -3684,6 +3693,9 @@ URL=https://jena.apache.org/documentation/serving_data/
 
 =2016-05-06T09:00:00+09:00 Computer/トピック/セマンティックウェブ/DCプロパティと定義域、値域一覧
 URL=http://www.kanzaki.com/docs/sw/dc-domain-range.html
+
+=2017-10-26T14:26:19+09:00 Computer/トピック/セマンティックウェブ/Distributed Semantic Analytics using the SANSA Stack - iswc2017.semanticweb.orgpaper-348
+URL=https://iswc2017.semanticweb.org/paper-348/
 
 =2015-11-27T00:00:00+09:00 Computer/トピック/セマンティックウェブ/Dublin Core
 URL=http://www.kanzaki.com/docs/sw/dublin-core.html
@@ -3798,6 +3810,9 @@ URL=http://linkeddata.uriburner.com/about/html/http/portlandcashloan.com/publish
 
 =2014-11-30T00:00:00+09:00 Computer/トピック/セマンティックウェブ/SPARQL
 URL=https://ja.wikipedia.org/wiki/SPARQL
+
+=2017-10-25T14:27:19+09:00 Computer/トピック/セマンティックウェブ/Take away's from Jamie Taylor's (of Google) keynote at ISWC2017 today - dase.cs.wright.edunode645
+URL=http://dase.cs.wright.edu/node/645
 
 =2017-10-19T12:55:05+09:00 Computer/トピック/セマンティックウェブ/Time Ontology in OWL
 URL=https://www.w3.org/TR/2017/REC-owl-time-20171019/
@@ -7591,6 +7606,9 @@ URL=http://www.sonynetwork.co.jp/corporation/release/2017/pr20170331_00161.html
 =2017-09-16T10:50:08+09:00 Computer/トピック/ツール/オンプレミス/その他/NNabla/機械学習用に大量のオリジナル画像データを作成する方法：ニューラルネットワークコンソール用 - アラカンBOKUのITな日常
 URL=http://arakan-pgm-ai.hatenablog.com/entry/2017/09/16/003000
 
+=2017-10-26T09:54:39+09:00 Computer/トピック/ツール/オンプレミス/その他/NNabla/誰でもAI開発できる時代の到来。SONY Neural Network Console誕生秘話 BITA デジマラボ
+URL=https://bita.jp/dml/sony-neural-network-console-interview
+
 =2017-09-10T08:38:37+09:00 Computer/トピック/ツール/オンプレミス/その他/ONNX/onnx-GitHub
 URL=https://github.com/onnx
 
@@ -9045,6 +9063,9 @@ URL=https://robotstart.info/2017/09/11/minervae-vibot.html
 
 =2016-12-18T08:33:22+09:00 Computer/トピック/ツール/クラウド/Bluemix/画像認識対決 ~Microsoft VS Google VS IBM~ - Qiita
 URL=http://qiita.com/tomoki-n/items/7b503d64c03cace51197
+
+=2017-10-26T19:53:40+09:00 Computer/トピック/ツール/クラウド/Bluemix/米IBM、ＡＩ「ワトソン」無料に　アマゾンに対抗　　：日本経済新聞
+URL=https://www.nikkei.com/article/DGXMZO22747480W7A021C1MM8000/
 
 =2016-07-29T13:38:28+09:00 Computer/トピック/ツール/クラウド/Bluemix/結局IBM Watsonって何ができるの？ - Qiita
 URL=http://qiita.com/ykensuke/items/f85eca0bfd6615d0261b
@@ -12199,6 +12220,9 @@ URL=https://deepage.net/machine_learning/2017/01/08/doc2vec.html
 =2016-02-26T07:21:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/DockerでJupyter Notebook環境をお手軽に準備する(TensorflowやGraphvizもあるよ） - Qiita
 URL=http://qiita.com/mokemokechicken/items/18a760f4d7fe8a26351c
 
+=2017-10-16T22:41:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/f-strings の使用例
+URL=http://qiita.com/QUANON/items/77ce3a9e7e33dbed489b
+
 =2016-08-30T07:29:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/for文を使わずに、15文字だけでpandasのDataFrameを上下反転させる - Qiita
 URL=http://qiita.com/kAhn/items/3b092989d93f8872b67f
 
@@ -12711,6 +12735,9 @@ URL=http://alfredplpl.hatenablog.com/entry/2014/02/25/003808
 
 =2016-08-01T09:09:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/Rの密度比推定パッケージdensratioをPythonから利用する - Qiita
 URL=http://qiita.com/kenmatsu4/items/0a7a3ef71d4e8bb53da0
+
+=2017-10-20T11:06:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/Rユーザー向け Python・Pandasデータ処理入門（自分用メモ）
+URL=http://qiita.com/takaiyuk/items/4cb1708a3f886b3d2043
 
 =2016-08-16T08:05:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/scikit learn のアルゴリズムチートシート - Qiita
 URL=http://qiita.com/SE96UoC5AfUt7uY/items/e9521e8b87be45318a04
@@ -13672,6 +13699,9 @@ URL=https://rubygems.org/gems/tzinfo
 =2016-05-06T09:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Ubuntu 14.04 に apt-get で Ruby 2.1 をインストールする方法
 URL=http://www.oiax.jp/rails/zakkan/apt-get-install-ruby2-1.html
 
+=2017-10-17T19:09:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Unicode から求めることができないレガシーエンコーディングのコードポイントを調べる
+URL=http://qiita.com/masakielastic/items/dd98af4be0968441bc03
+
 =2014-07-17T00:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Windows7 + Ruby + google-api-clientで、GoogleAPI向けOAuth認証用のYAMLファイルを取得する - メモ的な思考的な
 URL=http://thinkami.hatenablog.com/entry/20131218/1387317778
 
@@ -14283,6 +14313,9 @@ URL=http://news.livedoor.com/article/detail/12469209/
 
 =2016-12-08T08:15:04+09:00 Computer/トピック/ツール/ソフトウェア言語/止まらないC言語の下落 - 12月言語ランキング マイナビニュース
 URL=http://news.mynavi.jp/news/2016/12/08/031/
+
+=2017-10-20T11:06:39+09:00 Computer/トピック/ツール/ソフトウェア言語/言語/Rユーザー向け Python・Pandasデータ処理入門（自分用メモ）
+URL=http://qiita.com/takaiyuk/items/4cb1708a3f886b3d2043
 
 =2013-12-23T00:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/軽量プログラミング言語
 URL=https://ja.wikipedia.org/wiki/%E8%BB%BD%E9%87%8F%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E
@@ -15621,6 +15654,9 @@ URL=https://prtimes.jp/main/html/rd/p/000000021.000019590.html
 
 =2017-10-18T10:15:10+09:00 Computer/トピック/ビッグデータ/IoT/位置情報分析スタートアップのタップアラウンド、第三者割当増資による資金調達のお知らせ｜株式会社タップアラウンドのプレスリリース
 URL=https://prtimes.jp/main/html/rd/p/000000001.000029186.html
+
+=2017-10-24T11:00:00+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホー/自宅のIoT、セキュリティは大丈夫？：自宅をハッカーから守る　ホームルーターの安全を確保する4つのステップ――ESET - ＠IT
+URL=http://www.atmarkit.co.jp/ait/articles/1710/24/news051.html
 
 =2017-05-18T07:17:51+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/500円で始める見守り、東電と渋谷区がIoT活用で実証へ- スマートジャパン
 URL=http://www.itmedia.co.jp/smartjapan/articles/1705/18/news043.html
@@ -20263,6 +20299,9 @@ URL=https://bot-market.sonicmoov.com/line-idol-picture/
 =2016-08-09T07:28:59+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/LINEに投稿するとラップで返す「ラップbot」誕生　人間 VS botのフリースタイルバトル始まる! - ITmedia ニュース
 URL=http://www.itmedia.co.jp/news/articles/1608/08/news001.html
 
+=2017-10-10T14:34:25+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/LINEのAI進化しすぎじゃない？銀魂キャラが相談にのってくれるキャンペーンで中の人の存在を疑う #万事屋AI - Togetterまとめ
+URL=https://togetter.com/li/1163975
+
 =2017-07-10T08:42:53+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/LINEのChatbot開発 超入門（前編） Botの稼働開始 - Qiita
 URL=http://qiita.com/nkjm/items/38808bbc97d6927837cd
 
@@ -20433,6 +20472,9 @@ URL=https://news.biglobe.ne.jp/trend/1223/rct_161223_5902906653.html
 
 =2016-11-08T08:06:45+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/アップルPickUp！：Siriさんに2016年の流行ネタを振ってみると - ITmedia PC USER
 URL=http://www.itmedia.co.jp/pcuser/articles/1611/08/news045.html
+
+=2017-10-25T19:53:17+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/アップルの「Siri」は、なぜアマゾンやGoogleの人工知能に後れをとってしまったのか｜WIRED.jp
+URL=https://wired.jp/2017/10/25/siri-why-have-you-fallen/
 
 =2017-07-19T11:23:27+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/パイオニア、イヤホン「RAYZRAYZ Plus」のアプリをアップデート--Siri利用簡単に - CNET Japan
 URL=https://japan.cnet.com/article/35104470/
@@ -20664,6 +20706,9 @@ URL=http://jp.techcrunch.com/2016/09/28/20160919voice-is-chats-next-battleground
 
 =2016-07-25T08:25:35+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/「高度な会話ではなく、単純で楽しい会話からCVが生まれる可能性を検証したい」-リクルート×NTT共同開発ロボット向け人工無脳 開発者インタビュー-｜ferret [フェレット]
 URL=https://ferret-plus.com/4629
+
+=2017-10-25T14:34:36+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/『俺妹』新垣あやせと会話ができるAIを開発中のNTT主任研究員に色々聞いてみた「キャラを愛する人が多い場所でないとデータが集まらない」
+URL=http://originalnews.nico/56342
 
 =2017-09-25T08:05:00+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/【 A.I. × BlockChain 】Botchain A.I. 自律稼動エージェント（bot）どうしが相互コミュニケーションして、bot間で smart contract しあう生態系-Qiita
 URL=https://qiita.com/HirofumiYashima/items/8a5cd8cc96f44f61f971
@@ -22540,6 +22585,9 @@ URL=http://tjo.hatenablog.com/entry/2016/11/08/190000
 =2017-07-31T07:23:58+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/DeepLearningで アイドルグループの歌詞を自動生成してみる - Qiita
 URL=http://qiita.com/yuxio/items/5569ce0af72570a5d33d
 
+=2017-10-24T17:46:41+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/Facebookが写真から自動的にアバターを生成する研究結果を発表 TechCrunch Japan
+URL=http://jp.techcrunch.com/2017/10/24/20171023facebook-research-automatically-creates-an-avatar-from-a-photo/
+
 =2017-05-30T07:27:41+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/GUIのスクリーンショットを読み込むと必要なコードを生成する仕組みでスタートアップが人工知能を活用 - GIGAZINE
 URL=http://gigazine.net/news/20170530-pix2code/
 
@@ -24396,6 +24444,9 @@ URL=https://thinkit.co.jp/article/10010
 
 =2017-03-08T08:08:42+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/AI（人工知能）で思い出す『レイフォース』の設定 ゲームミュージックなブログ
 URL=http://gmdisc.com/archives/5762
+
+=2017-10-25T10:35:59+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/AlphaGo Zeroの手法でリバーシの強化学習をやってみる - Qiita
+URL=https://qiita.com/mokemokechicken/items/a5803b4280751848e36b
 
 =2017-02-24T07:53:57+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/ASCII.jp：人工知能はゲームで世界と身体を学ぶ
 URL=http://ascii.jp/elem/000/001/438/1438404/
@@ -34177,6 +34228,9 @@ URL=http://cloud.watch.impress.co.jp/docs/news/1071883.html
 =2017-09-06T11:13:38+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/ディープラーニングに基づく人工知能(AI)を活用し 住所、名前等の手書きの複数文字(日本語)認識率93.5％を実現 【プレスリリース】 ライフ 読売新聞
 URL=http://www.yomiuri.co.jp/adv/life/release/detail/00045089.html
 
+=2017-10-27T14:33:31+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/ネットのグニャグニャ文字認証、ＡＩが楽々突破：朝日新聞デジタル
+URL=http://www.asahi.com/articles/ASKBR6QG4KBRULBJ009.html
+
 =2017-08-09T10:46:04+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/ベトナムのAI開発ラボで優秀な技術者を獲得！99.2%の文字認識技術を誇るAI開発企業「Cinnamon」 人工知能ニュースメディア AINOW
 URL=http://ainow.ai/2017/08/09/119543/
 
@@ -34689,6 +34743,9 @@ URL=http://thebridge.jp/2017/08/toutiao-said-to-raise-2-billion-in-new-funding-r
 
 =2017-10-18T11:08:44+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/大自然言語時代のための、文章要約 - Qiita
 URL=https://qiita.com/icoxfog417/items/d06651db10e27220c819
+
+=2017-10-20T18:15:16+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/大自然言語時代のための、文章要約
+URL=http://qiita.com/icoxfog417/items/d06651db10e27220c819
 
 =2016-12-15T13:29:02+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/自動要約アルゴリズムLexRankでドナルド・トランプ氏の演説を3行に要約してみる - Qiita
 URL=http://qiita.com/riverwell/items/310e0a31f2e5097df7ff
@@ -35367,6 +35424,9 @@ URL=http://itpro.nikkeibp.co.jp/atcl/watcher/14/334361/020600773/?rt=nocnt
 
 =2017-04-27T11:28:42+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/農協の未来(離農とＡＩ・ロボット)｜コラム｜JAcom 農業協同組合新聞
 URL=http://www.jacom.or.jp/column/2017/04/170427-32574.php
+
+=2017-10-26T14:34:01+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/農家の孫が考案、「オーガニックは儲からない」を変える農産物直販サイト 消費インサイド ダイヤモンド・オンライン
+URL=http://diamond.jp/articles/-/147049
 
 =2017-07-10T08:29:06+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/農業 4.0 - 古巣のシステムを使わない、元富士通SE「第二の人生」：ITpro
 URL=http://itpro.nikkeibp.co.jp/atcl/column/17/063000269/063000001/?rt=nocnt
@@ -38121,6 +38181,9 @@ URL=http://qiita.com/yu4u/items/4a35b47d5cab8463a4cb
 
 =2016-09-28T09:25:53+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/強化学習(DQN) - Qiita
 URL=http://qiita.com/kamito300/items/8ffc7f4a6c7c9534a15c
+
+=2017-10-25T20:50:31+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/強化学習事例集 by Team AI - Qiita
+URL=https://qiita.com/daisuke-team-ai/items/ace0e1b098ee0bced127
 
 =2017-09-23T09:15:53+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/怠け者のためのディープラーニング入門 - ハイパーパラメータのチューニング - Qiita
 URL=https://qiita.com/akimach/items/a10154e0f0e6dcaafdd0
