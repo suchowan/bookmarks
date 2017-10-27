@@ -51,6 +51,10 @@ http://hosi.org:4000/bookmarks が参照しているブックマークです。
 
 各ツールの詳細はこちらの[pdf](https://github.com/suchowan/bookmarks/raw/master/scripts/tools.pdf)をご覧ください。
 
+[2017-10-27 追記]
+
+・図の「半自動化」記載の通り、手動で行っていたⓃ→Ⓐの振り分け処理を半自動化しました。
+
 # LICENCE
 
   ブックマークファイルは CC0 1.0 Universal、スクリプトは MIT Licence です。
