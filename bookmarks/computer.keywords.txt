@@ -15,7 +15,7 @@ Magic Leap
 ODG
 ウェアラブル
 
-=2017-10-30T10:18:35+09:00 Computer/トピック/セキュリティ/keywords
+=2017-11-15T15:42:53+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -48,6 +48,7 @@ ODG
 不正
 マルウェア
 ランサムウェア
+フィッシング
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -83,6 +84,9 @@ cuDNN
 AMD
 Ryzen
 
+=2017-11-15T14:52:48+09:00 Computer/トピック/ツール/オンプレミス/Chainer/keywords
+ChainerMN
+
 =2017-03-17T14:36:57+09:00 Computer/トピック/ツール/オンプレミス/keywords
 機械学習ライブラリ,Machine Learning Library
 機械学習フレームワーク,Machine Learning Framework
@@ -107,13 +111,13 @@ ONNX,Open Neural Network Exchange
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/オンプレミス/その他/Vertica/keywords
 HPE,Hewlett Packard Enterprise
 
-=2017-08-28T08:19:12+09:00 Computer/トピック/ツール/クラウド/Amazon/keywords
+=2017-11-15T15:37:31+09:00 Computer/トピック/ツール/クラウド/Amazon/keywords
 Alexa
 AWS
-Amazon Echo
 Greengrass
 Redshift
 Amazon Connect
+Amazon S3
 
 =2017-03-21T13:56:57+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
@@ -230,12 +234,13 @@ FIELD system
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
 
-=2017-11-11T09:12:35+09:00 Computer/トピック/ブロックチェーン/keywords
+=2017-11-15T17:12:47+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,Blockchain
 仮想通貨
 暗号通貨
-ビットコイン,Bit Coin
+ビットコイン,Bit Coin,Bitcoin
 Ethereum
+ICO
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -267,8 +272,9 @@ DMP
 失敗例
 経営者
 
-=2017-10-30T11:47:03+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
+=2017-11-15T15:55:01+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
 Alexa,アレクサ
+Amazon Echo
 
 =2017-11-11T07:56:20+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
@@ -541,7 +547,7 @@ AYA
 =2017-05-02T10:45:36+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 
-=2017-03-23T11:35:25+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2017-11-15T17:18:55+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -549,6 +555,7 @@ AYA
 栽培
 農家
 漁師
+家畜
 
 =2017-03-23T09:21:55+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -642,6 +649,9 @@ Active.Ai
 =2017-04-13T10:24:45+09:00 Computer/トピック/社会動向/企業/Adgorithms/keywords
 Adgorithms,アドゴリズム
 Albert,アルバート
+
+=2017-11-15T15:58:47+09:00 Computer/トピック/社会動向/企業/Adidas/keywords
+Adidas,アディダス
 
 =2017-10-20T09:32:20+09:00 Computer/トピック/社会動向/企業/Adobe/keywords
 Adobe,アドビ
@@ -975,7 +985,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2017-10-12T07:27:54+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2017-11-15T16:03:25+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -992,6 +1002,7 @@ SyntaxNet
 Facets
 AutoML
 Tango
+Files Go
 
 =2017-11-11T06:45:43+09:00 Computer/トピック/社会動向/企業/hackjpn/keywords
 hunterbook
@@ -1420,6 +1431,9 @@ amblate
 =2017-08-08T10:57:16+09:00 Computer/トピック/社会動向/企業/PSソリューションズ/keywords
 e-kakashi
 
+=2017-11-15T15:24:07+09:00 Computer/トピック/社会動向/企業/PTC/keywords
+ThingWorx
+
 =2017-11-11T08:37:47+09:00 Computer/トピック/社会動向/企業/Qrio/keywords
 Qrio Smart Lock
 
@@ -1492,6 +1506,10 @@ AICO,アイコ
 
 =2017-04-17T09:13:30+09:00 Computer/トピック/社会動向/企業/Sisense/keywords
 Sisense Pulse
+
+=2017-11-15T16:06:52+09:00 Computer/トピック/社会動向/企業/Sitecore/keywords
+Sitecore,サイトコア
+Sitecore Experience Cloud
 
 =2017-03-30T10:08:08+09:00 Computer/トピック/社会動向/企業/SKT/keywords
 SKT,SKテレコム
@@ -1594,8 +1612,9 @@ Twitter,ツイッター
 =2017-11-11T15:08:05+09:00 Computer/トピック/社会動向/企業/Tyffon/keywords
 TYFFONIUM,ティフォニウム
 
-=2017-04-13T10:30:42+09:00 Computer/トピック/社会動向/企業/Uber/keywords
+=2017-11-15T15:26:28+09:00 Computer/トピック/社会動向/企業/Uber/keywords
 Uber,ウーバー
+Pyro
 
 =2017-04-26T07:39:53+09:00 Computer/トピック/社会動向/企業/UEI/keywords
 清水亮
@@ -2095,8 +2114,9 @@ AI Chat Supporter
 =2017-03-30T14:36:23+09:00 Computer/トピック/社会動向/企業/サイジニア/keywords
 PASHALYパシャリィ
 
-=2017-03-30T11:15:28+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/AIメッセンジャー/keywords
+=2017-11-15T17:02:47+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/AIメッセンジャー/keywords
 AIメッセンジャー,AI Messenger
+AI アウトバウンド
 
 =2017-11-11T10:32:47+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/keywords
 サイバーエージェント,CyberAgent,Cyber Agent
@@ -2365,8 +2385,8 @@ mijin
 mitoco
 厚切りジェイソン,ジェイソン・デイヴィッド・ダニエルソン
 
-=2017-10-25T14:14:18+09:00 Computer/トピック/社会動向/企業/テンセント・ホールディングス/keywords
-テンセント・ホールディングス,騰訊HD,Tencent
+=2017-11-15T16:20:10+09:00 Computer/トピック/社会動向/企業/テンセント・ホールディングス/keywords
+テンセント・ホールディングス,騰訊HD,Tencent,テンセント
 
 =2017-06-12T08:37:33+09:00 Computer/トピック/社会動向/企業/テンプホールディングス/IBS/keywords
 IBS,インテリジェンス ビジネスソリューションズ
@@ -3221,6 +3241,9 @@ TSUBAME
 
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
+
+=2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
+科学技術振興機構,JST
 
 =2017-05-30T07:28:39+09:00 Computer/トピック/社会動向/研究機関/NEDO/keywords
 NEDO,新エネルギー・産業技術総合開発機構
