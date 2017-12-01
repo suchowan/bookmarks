@@ -119,8 +119,9 @@ Redshift
 Amazon Connect
 Amazon S3
 
-=2017-03-21T13:56:57+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
+=2017-12-01T11:08:07+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
+Google AppEngine
 
 =2017-11-10T09:37:37+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
@@ -690,11 +691,12 @@ Gripper
 Capitalico,キャピタリコ
 Labellio,ラベリオ
 
-=2017-10-25T13:01:47+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2017-12-01T10:51:41+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
 AWS
 Alexa
 Echo Look
+GuardDuty
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -752,7 +754,8 @@ miyabi
 =2017-08-07T09:58:49+09:00 Computer/トピック/社会動向/企業/Blabo/keywords
 Blabo!
 
-=2017-11-25T08:34:50+09:00 Computer/トピック/社会動向/企業/Boston Dynamics/keywords
+=2017-12-01T13:01:39+09:00 Computer/トピック/社会動向/企業/Boston Dynamics/keywords
+Boston Dynamics,ボストン・ダイナミクス
 Atlas
 SpotMini
 
@@ -1120,6 +1123,9 @@ FraudAlert
 =2017-09-19T10:15:26+09:00 Computer/トピック/社会動向/企業/ITFOR/keywords
 ITFOR,アイティフォー
 ナイス・デスクトップオートメーション
+
+=2017-12-01T10:55:14+09:00 Computer/トピック/社会動向/企業/ITガード/keywords
+AppGuard
 
 =2017-10-10T14:43:42+09:00 Computer/トピック/社会動向/企業/iZotope/keywords
 Ozone 8
@@ -1837,6 +1843,9 @@ Smart M Talk
 アルプス システム,ALSI
 InterSafe WebFilter
 
+=2017-12-01T13:43:10+09:00 Computer/トピック/社会動向/企業/アレグロマジック/keywords
+＆ai
+
 =2017-03-30T11:01:42+09:00 Computer/トピック/社会動向/企業/アーティサン/keywords
 EMOROCO
 
@@ -2042,6 +2051,9 @@ AnyBot
 
 =2017-10-03T08:20:27+09:00 Computer/トピック/社会動向/企業/クオリカ/keywords
 TimeManagementQUBE
+
+=2017-12-01T11:23:56+09:00 Computer/トピック/社会動向/企業/クオリティソフト/keywords
+QND
 
 =2017-03-30T14:08:42+09:00 Computer/トピック/社会動向/企業/クックパッド/keywords
 クックパッド,Cookpad
@@ -2553,6 +2565,10 @@ papago
 
 =2017-04-10T14:43:56+09:00 Computer/トピック/社会動向/企業/ネオキャリア/keywords
 HRテック
+
+=2017-12-01T13:39:39+09:00 Computer/トピック/社会動向/企業/ネオジャパン/keywords
+desknet's SSS
+AppSuite
 
 =2017-08-28T11:41:57+09:00 Computer/トピック/社会動向/企業/ネクストシステム/keywords
 ARIA,アリア
@@ -3180,8 +3196,9 @@ VW,フォルクスワーゲン
 =2017-09-07T10:33:01+09:00 Computer/トピック/社会動向/企業/自動車/コンチネンタル/keywords
 eHorizon
 
-=2017-10-12T07:39:06+09:00 Computer/トピック/社会動向/企業/自動車/デンソー/keywords
+=2017-11-27T13:19:27+09:00 Computer/トピック/社会動向/企業/自動車/デンソー/keywords
 DELITA
+マルチモーダルAIロボット
 
 =2017-10-03T08:47:38+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
 トヨタ,Toyota
