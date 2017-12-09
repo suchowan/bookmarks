@@ -691,12 +691,13 @@ Gripper
 Capitalico,キャピタリコ
 Labellio,ラベリオ
 
-=2017-12-01T10:51:41+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2017-12-08T13:45:52+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
 AWS
 Alexa
 Echo Look
 GuardDuty
+SageMaker
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -861,6 +862,9 @@ DELL,デル
 =2017-09-07T11:46:32+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
 AIコンシェルジュ
 
+=2017-12-08T14:04:51+09:00 Computer/トピック/社会動向/企業/DISCOVER/keywords
+TravelMate
+
 =2017-10-24T07:34:38+09:00 Computer/トピック/社会動向/企業/Disney/keywords
 Disney,ディズニー
 
@@ -900,6 +904,10 @@ Elo
 emin,Emotion Intelligence
 Interest Widget
 
+=2017-12-08T13:23:33+09:00 Computer/トピック/社会動向/企業/Emotion Intelligence/keywords
+Emotion Intelligence,エモーションインテリジェンス
+ZenClerk
+
 =2017-09-27T09:06:23+09:00 Computer/トピック/社会動向/企業/Emrec Technologies/keywords
 Engazify
 
@@ -927,6 +935,9 @@ SharpMask
 MultiPathNet
 DeepText
 Workplace
+
+=2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
+SIGNAL
 
 =2017-06-16T08:25:47+09:00 Computer/トピック/社会動向/企業/FANATIC/keywords
 WazzUp！,ワズアップ
@@ -1011,7 +1022,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2017-11-22T17:07:01+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2017-12-08T14:13:35+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1030,6 +1041,11 @@ AutoML
 Tango
 Files Go
 Daydream
+Vision Kit
+Datally
+
+=2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
+LOVOT
 
 =2017-11-11T06:45:43+09:00 Computer/トピック/社会動向/企業/hackjpn/keywords
 hunterbook
@@ -1209,6 +1225,9 @@ MateVerse
 
 =2017-10-16T10:38:27+09:00 Computer/トピック/社会動向/企業/Mattel/keywords
 Kamigami
+
+=2017-12-08T11:59:40+09:00 Computer/トピック/社会動向/企業/Mayfield Robotics/keywords
+Kuri
 
 =2017-09-27T08:41:50+09:00 Computer/トピック/社会動向/企業/McAfee/keywords
 McAfee,マカフィー
@@ -1489,6 +1508,9 @@ Red hat,レッドハット
 
 =2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
+
+=2017-12-08T11:57:01+09:00 Computer/トピック/社会動向/企業/Robot4U/keywords
+SHUILA
 
 =2017-11-11T17:32:41+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
 Salesforce,セールスフォース
@@ -2036,6 +2058,9 @@ G-careネット
 キャスレーコンサルティング,Casley Consulting
 Gmail HR tech
 
+=2017-12-08T13:23:25+09:00 Computer/トピック/社会動向/企業/キャメル/keywords
+Edia for リクルート
+
 =2017-10-23T15:41:57+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
 CANON
 Web Performer
@@ -2474,6 +2499,9 @@ OpenMP
 
 =2017-10-20T07:18:24+09:00 Computer/トピック/社会動向/企業/ディーンモルガン/keywords
 ロゼッタストーン・ラーニングセンター
+
+=2017-12-08T13:20:18+09:00 Computer/トピック/社会動向/企業/ディー・ディー・エス/keywords
+EVE MA
 
 =2017-04-10T14:18:28+09:00 Computer/トピック/社会動向/企業/デカルト/keywords
 ＋シナプス
@@ -2992,6 +3020,9 @@ KANADE DSP
 AiLingual,アイリンガル
 ヤラクゼン
 
+=2017-12-09T10:34:13+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
+BotFriends
+
 =2017-10-12T11:36:23+09:00 Computer/トピック/社会動向/企業/千/keywords
 はいチーズ！
 
@@ -3196,9 +3227,10 @@ VW,フォルクスワーゲン
 =2017-09-07T10:33:01+09:00 Computer/トピック/社会動向/企業/自動車/コンチネンタル/keywords
 eHorizon
 
-=2017-11-27T13:19:27+09:00 Computer/トピック/社会動向/企業/自動車/デンソー/keywords
+=2017-12-09T10:52:10+09:00 Computer/トピック/社会動向/企業/自動車/デンソー/keywords
 DELITA
 マルチモーダルAIロボット
+COBOTTA
 
 =2017-10-03T08:47:38+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
 トヨタ,Toyota
