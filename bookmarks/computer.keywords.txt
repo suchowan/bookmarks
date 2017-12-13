@@ -119,9 +119,10 @@ Redshift
 Amazon Connect
 Amazon S3
 
-=2017-12-01T11:08:07+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
+=2017-12-13T10:12:28+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
 Google AppEngine
+Firebase
 
 =2017-11-10T09:37:37+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
@@ -1022,7 +1023,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2017-12-08T14:13:35+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2017-12-12T15:28:17+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1041,7 +1042,7 @@ AutoML
 Tango
 Files Go
 Daydream
-Vision Kit
+Vision Kit,AIY Vision Kit
 Datally
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
@@ -1484,6 +1485,9 @@ e-kakashi
 =2017-11-15T15:24:07+09:00 Computer/トピック/社会動向/企業/PTC/keywords
 ThingWorx
 
+=2017-12-12T13:54:24+09:00 Computer/トピック/社会動向/企業/Pulse Secure/keywords
+Pulse Secure,パルスセキュア
+
 =2017-11-22T16:30:04+09:00 Computer/トピック/社会動向/企業/PwCコンサルティング/keywords
 PwCコンサルティング,PwC
 
@@ -1648,6 +1652,9 @@ Teradata,テラデータ
 
 =2017-03-30T10:34:05+09:00 Computer/トピック/社会動向/企業/The North Face/keywords
 The North Face,ノースフェイス,ノース・フェイス
+
+=2017-12-13T10:08:23+09:00 Computer/トピック/社会動向/企業/THECOO/keywords
+fanicon,ファニコン
 
 =2017-10-30T10:05:26+09:00 Computer/トピック/社会動向/企業/TIS/keywords
 AISonar
@@ -1886,6 +1893,9 @@ iKnow Japanese
 
 =2017-11-11T07:37:24+09:00 Computer/トピック/社会動向/企業/インテリジェント ウェイブ/keywords
 CWAT
+
+=2017-12-12T15:21:11+09:00 Computer/トピック/社会動向/企業/インフォテリア/keywords
+Platio
 
 =2017-03-30T11:40:30+09:00 Computer/トピック/社会動向/企業/インフォディオ/keywords
 文字スキャン
@@ -2284,6 +2294,9 @@ ATOK
 =2017-08-28T11:52:13+09:00 Computer/トピック/社会動向/企業/ジュピターテクノロジー/keywords
 ObserveIT
 
+=2017-12-13T09:29:24+09:00 Computer/トピック/社会動向/企業/ジョイズ/keywords
+TerraTalk,テラトーク
+
 =2017-05-02T08:13:05+09:00 Computer/トピック/社会動向/企業/ジョリーグッド/keywords
 VRCHEL,ヴァーチェル
 VRCH,ヴァーチ
@@ -2357,7 +2370,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2017-11-11T06:19:31+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2017-12-12T15:33:45+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO
 aibo
@@ -2366,6 +2379,7 @@ CSLAIER
 CALC
 NNabla
 FAIT,Fit with AI Trainer,ファイト
+wena wrist
 
 =2017-10-10T09:15:03+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -2810,6 +2824,12 @@ MFクラウド確定申告
 
 =2017-04-11T10:09:57+09:00 Computer/トピック/社会動向/企業/マージェリック/keywords
 バンブーシュート,bambooshoot
+
+=2017-12-13T10:01:37+09:00 Computer/トピック/社会動向/企業/ミクシィ/keywords
+ミクシィ,mixi
+
+=2017-12-13T10:02:42+09:00 Computer/トピック/社会動向/企業/ミクシィ/フンザ/keywords
+チケットキャンプ
 
 =2017-08-10T07:19:01+09:00 Computer/トピック/社会動向/企業/ミックスネットワーク/keywords
 SITE PUBLIS,サイトパブリス
@@ -3390,6 +3410,7 @@ Shoubu
 =2017-03-28T13:45:10+09:00 Computer/トピック/社会動向/規格/ソフトウェア/keywords
 相互接続性
 
-=2017-11-11T11:47:29+09:00 Computer/トピック/量子コンピュータ/keywords
+=2017-12-13T10:36:03+09:00 Computer/トピック/量子コンピュータ/keywords
 量子コンピューティング
+Q#
 
