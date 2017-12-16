@@ -70,13 +70,13 @@ Blazegraph
 DBpedia
 LOD,Linked Open Data
 
-=2017-10-23T16:26:27+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2017-12-15T15:18:02+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
 ASIC
 Xilinx,ザイリンクス
-インテル,Intel
+Intel,インテル
 NVIDIA,エヌビディア
 PALTEK
 CUDA
@@ -656,9 +656,11 @@ Albert,アルバート
 =2017-11-15T15:58:47+09:00 Computer/トピック/社会動向/企業/Adidas/keywords
 Adidas,アディダス
 
-=2017-10-20T09:32:20+09:00 Computer/トピック/社会動向/企業/Adobe/keywords
+=2017-12-15T10:41:24+09:00 Computer/トピック/社会動向/企業/Adobe/keywords
 Adobe,アドビ
 Lightroom CC
+Lightroom Classic
+Lightroom
 
 =2017-11-23T08:22:57+09:00 Computer/トピック/社会動向/企業/Aerial Partners/keywords
 Guardian
@@ -756,6 +758,9 @@ miyabi
 =2017-08-07T09:58:49+09:00 Computer/トピック/社会動向/企業/Blabo/keywords
 Blabo!
 
+=2017-12-15T15:46:15+09:00 Computer/トピック/社会動向/企業/Booking.com/keywords
+Booking.com,ブッキング・ドットコム
+
 =2017-12-01T13:01:39+09:00 Computer/トピック/社会動向/企業/Boston Dynamics/keywords
 Boston Dynamics,ボストン・ダイナミクス
 Atlas
@@ -782,6 +787,9 @@ C CHANNEL
 FIREX
 CAMPFIRE レンディング
 polca,ポルカ
+
+=2017-12-15T11:59:09+09:00 Computer/トピック/社会動向/企業/Candee/keywords
+Live Shop!
 
 =2017-08-18T07:41:05+09:00 Computer/トピック/社会動向/企業/Carat/keywords
 GLIT,グリット
@@ -860,8 +868,9 @@ Kinza
 =2017-03-29T08:43:02+09:00 Computer/トピック/社会動向/企業/DELL/keywords
 DELL,デル
 
-=2017-09-07T11:46:32+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
+=2017-12-15T16:11:30+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
 AIコンシェルジュ
+Easy Ride
 
 =2017-12-08T14:04:51+09:00 Computer/トピック/社会動向/企業/DISCOVER/keywords
 TravelMate
@@ -927,7 +936,7 @@ EYアドバイザリー・アンド・コンサルティング,EY
 =2017-09-19T11:22:49+09:00 Computer/トピック/社会動向/企業/F5ネットワークス/keywords
 Access Policy Manager,APM
 
-=2017-10-30T09:45:55+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
+=2017-12-15T11:21:00+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 Facebook,フェイスブック
 Lumos
 Caffe2Go
@@ -936,6 +945,7 @@ SharpMask
 MultiPathNet
 DeepText
 Workplace
+World Effects
 
 =2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
 SIGNAL
@@ -1023,7 +1033,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2017-12-12T15:28:17+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2017-12-15T11:23:41+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1044,6 +1054,9 @@ Files Go
 Daydream
 Vision Kit,AIY Vision Kit
 Datally
+Storyboard
+Selfissimo!
+Scrubbies
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
@@ -1203,8 +1216,9 @@ AIXON,アイソン
 セカンドライフ
 Sansar
 
-=2017-09-04T09:12:52+09:00 Computer/トピック/社会動向/企業/LINE/keywords
+=2017-12-15T11:40:21+09:00 Computer/トピック/社会動向/企業/LINE/keywords
 Clova
+Clova Friends
 LINE Customer Connect
 Expand Video
 
@@ -1303,8 +1317,10 @@ Firefox
 Mrk & Co,マーク・アンド・コー
 Dine
 
-=2017-03-29T11:57:51+09:00 Computer/トピック/社会動向/企業/Nayuta/keywords
-ビットコイン
+=2017-12-15T11:44:38+09:00 Computer/トピック/社会動向/企業/MSCグループ/keywords
+Run-DIAS
+
+=2017-12-15T11:21:50+09:00 Computer/トピック/社会動向/企業/Nayuta/keywords
 マイクロペイメント
 
 =2017-11-11T08:28:39+09:00 Computer/トピック/社会動向/企業/NEC/keywords
@@ -1644,6 +1660,9 @@ Symantec,シマンテック
 =2017-04-11T13:19:32+09:00 Computer/トピック/社会動向/企業/Synamon/keywords
 NEUTRANS
 
+=2017-12-15T11:52:19+09:00 Computer/トピック/社会動向/企業/Synaptics/keywords
+Clear ID
+
 =2017-04-21T07:35:16+09:00 Computer/トピック/社会動向/企業/Tealium/keywords
 Universal Data Hub
 
@@ -1888,6 +1907,10 @@ ThreatARMOR
 =2017-08-04T10:44:55+09:00 Computer/トピック/社会動向/企業/イッツコム/keywords
 イッツコム,イッツ・コミュニケーションズ
 
+=2017-12-15T11:06:08+09:00 Computer/トピック/社会動向/企業/インタラクティブ・インテリジェンス/keywords
+PureCloud
+インタラクティブ・インテリジェンス,InIn
+
 =2017-03-30T11:38:04+09:00 Computer/トピック/社会動向/企業/インターシステムズ/keywords
 iKnow Japanese
 
@@ -1909,7 +1932,8 @@ WALS
 =2017-09-14T11:15:28+09:00 Computer/トピック/社会動向/企業/インベスターズクラウド/iVacation/keywords
 TRIP PHONE
 
-=2017-03-30T11:44:28+09:00 Computer/トピック/社会動向/企業/インベスターズクラウド/keywords
+=2017-12-15T15:19:33+09:00 Computer/トピック/社会動向/企業/インベスターズクラウド/keywords
+インベスターズクラウド,TATERU
 ATERU Bot AI
 
 =2017-03-30T11:30:46+09:00 Computer/トピック/社会動向/企業/イード/keywords
@@ -1978,6 +2002,9 @@ F-Secure Computer Protection
 
 =2017-09-11T09:45:48+09:00 Computer/トピック/社会動向/企業/エボラブルアジア/keywords
 hachidori
+
+=2017-12-15T10:59:20+09:00 Computer/トピック/社会動向/企業/エム・ソフト/keywords
+STag
 
 =2017-03-30T11:57:15+09:00 Computer/トピック/社会動向/企業/エルテス/keywords
 AI Operation Analytics
@@ -2637,6 +2664,10 @@ Simeji
 =2017-04-10T08:26:37+09:00 Computer/トピック/社会動向/企業/バカン/keywords
 バカン,VACAN
 
+=2017-12-15T14:58:07+09:00 Computer/トピック/社会動向/企業/バコオアー/keywords
+バコオアー,bacoor
+REAL BOOST,リアルブースト
+
 =2017-04-10T14:56:04+09:00 Computer/トピック/社会動向/企業/バリュークリエーション/keywords
 Vasta,ヴァスタ
 
@@ -2730,6 +2761,9 @@ Akerun Pro
 
 =2017-04-11T09:46:03+09:00 Computer/トピック/社会動向/企業/フォースター/keywords
 マイクロサービスアーキテクチャF
+
+=2017-12-15T15:44:01+09:00 Computer/トピック/社会動向/企業/フューチャースタンダード/keywords
+SCORER Cloud Processing,スコアラー クラウド プロセッシング
 
 =2017-08-28T11:22:53+09:00 Computer/トピック/社会動向/企業/フリーダムアーキテクツ/keywords
 DEZAMADO,デザマド
@@ -2867,6 +2901,9 @@ AIポジショニングマップMr.DATA
 
 =2017-09-15T11:01:33+09:00 Computer/トピック/社会動向/企業/メリービズ/keywords
 バーチャル経理アシスタント
+
+=2017-12-15T15:48:46+09:00 Computer/トピック/社会動向/企業/メルカリ/keywords
+teacha
 
 =2017-10-10T13:36:28+09:00 Computer/トピック/社会動向/企業/モーションポートレート/keywords
 ようこそパニックマンションへVR
@@ -3058,6 +3095,9 @@ MMS Connect
 =2017-04-03T08:01:45+09:00 Computer/トピック/社会動向/企業/吉野家/keywords
 CORO
 
+=2017-12-15T15:59:47+09:00 Computer/トピック/社会動向/企業/大京/keywords
+Renoα I-style irodori S,リノアルファ アイスタイル イロドリ エス
+
 =2017-10-04T08:03:42+09:00 Computer/トピック/社会動向/企業/大日本印刷/keywords
 大日本印刷,DNP
 diip,ディープ
@@ -3080,7 +3120,7 @@ PALRO,パルロ
 富士フィルム,富士フイルム
 SYNAPSE Case Match
 
-=2017-11-11T15:41:42+09:00 Computer/トピック/社会動向/企業/富士通/keywords
+=2017-12-15T16:07:03+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
 COLMINA,コルミナ
 Akisai
@@ -3088,6 +3128,7 @@ Sitebooster
 GLOVIA OM
 Deep Tensor
 EvaCva+,エヴァシーヴァ・プラス
+ロボットAIプラットフォーム
 
 =2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工/keywords
 川崎重工業,川崎重工,Kawasaki
@@ -3137,6 +3178,9 @@ SOLASAT,ソラサット
 
 =2017-04-11T13:54:11+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
+
+=2017-12-15T16:08:50+09:00 Computer/トピック/社会動向/企業/日本電産/keywords
+Motorize
 
 =2017-11-11T07:14:58+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
@@ -3262,6 +3306,9 @@ Ha:mo RIDE,ハーモ・ライド
 
 =2017-11-12T15:54:42+09:00 Computer/トピック/社会動向/企業/自動車/三菱自動車/keywords
 三菱自
+
+=2017-12-15T16:11:06+09:00 Computer/トピック/社会動向/企業/自動車/日産/keywords
+Easy Ride
 
 =2017-11-25T08:42:22+09:00 Computer/トピック/社会動向/企業/自動車/起亜/keywords
 起亜,KIA
