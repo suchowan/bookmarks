@@ -225,13 +225,17 @@ P-SIRT
 =2017-07-24T13:09:39+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ
 
-=2017-09-15T10:36:34+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2017-12-26T08:28:40+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
+スマートホーム
+住宅
+スマートハウス
 
-=2017-04-13T10:22:15+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
+=2017-12-26T08:28:22+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
 製造業,マニュファクチャリング
 FIELD system
+オフィス
 
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
@@ -505,6 +509,10 @@ PlantSnap
 境界線追跡
 表層品質
 
+=2017-12-26T08:27:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
+自動運転
+自動操縦
+
 =2017-03-23T10:41:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/FEP/keyword
 かな漢字変換
 ATOK
@@ -550,7 +558,7 @@ AYA
 =2017-05-02T10:45:36+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 
-=2017-11-15T17:18:55+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2017-12-26T08:29:14+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -559,6 +567,8 @@ AYA
 農家
 漁師
 家畜
+農業
+漁業
 
 =2017-03-23T09:21:55+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -936,7 +946,7 @@ EYアドバイザリー・アンド・コンサルティング,EY
 =2017-09-19T11:22:49+09:00 Computer/トピック/社会動向/企業/F5ネットワークス/keywords
 Access Policy Manager,APM
 
-=2017-12-15T11:21:00+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
+=2017-12-25T15:53:19+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 Facebook,フェイスブック
 Lumos
 Caffe2Go
@@ -946,6 +956,7 @@ MultiPathNet
 DeepText
 Workplace
 World Effects
+Prophet
 
 =2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
 SIGNAL
@@ -1033,7 +1044,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2017-12-15T11:23:41+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2017-12-25T15:52:35+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1057,6 +1068,7 @@ Datally
 Storyboard
 Selfissimo!
 Scrubbies
+NIMA
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
@@ -1229,6 +1241,9 @@ TAGGER
 =2017-07-24T12:43:40+09:00 Computer/トピック/社会動向/企業/M-SOLUTIONS/keywords
 Smart at robo
 
+=2017-12-25T16:00:24+09:00 Computer/トピック/社会動向/企業/Mafengwo/keywords
+Mafengwo,螞蜂窩
+
 =2017-10-24T08:05:51+09:00 Computer/トピック/社会動向/企業/Magic Software/keywords
 MSE,Magic Software,マジックソフトウェア
 
@@ -1379,9 +1394,10 @@ SpeechRec
 BizFront/RIC
 BioPassport
 
-=2017-04-11T13:51:19+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/keywords
+=2017-12-25T16:47:04+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/keywords
 テクノマーク クラウド＋
 NATESAS
+AICYCLE
 
 =2017-11-11T08:32:15+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ,Docomo
@@ -2133,6 +2149,9 @@ ClassCat DeepLearning Appliance for TensorFlow
 =2017-09-25T10:04:46+09:00 Computer/トピック/社会動向/企業/クリエイティブテクノロジー/keywords
 synco,シンコー
 
+=2017-12-26T07:50:45+09:00 Computer/トピック/社会動向/企業/クリックテック・ジャパン/keywords
+Qlik Sense
+
 =2017-09-11T07:30:04+09:00 Computer/トピック/社会動向/企業/クリプトン・フューチャー・メディア/keywords
 初音ミク
 
@@ -2180,6 +2199,9 @@ Wikitude SDK 7
 
 =2017-03-30T11:23:24+09:00 Computer/トピック/社会動向/企業/グローバル・ブレイン/keywords
 グローバル・ブレイン,Global Brain
+
+=2017-12-25T16:20:56+09:00 Computer/トピック/社会動向/企業/グローブライド/keywords
+ダイワ
 
 =2017-09-14T10:26:12+09:00 Computer/トピック/社会動向/企業/コア/keywords
 察知くん-G
@@ -2484,8 +2506,9 @@ VoX,VOICE OF EXPERIENCE
 =2017-08-18T08:33:03+09:00 Computer/トピック/社会動向/企業/チームスピリット/keywords
 チームスピリット,TeamSpirit
 
-=2017-04-13T10:29:04+09:00 Computer/トピック/社会動向/企業/ティアフォー/keywords
+=2017-12-25T15:57:41+09:00 Computer/トピック/社会動向/企業/ティアフォー/keywords
 ティアフォー,Tier IV
+Milee,マイリー
 
 =2017-05-23T08:52:48+09:00 Computer/トピック/社会動向/企業/ティファナ・ドットコム/keywords
 KIZUNA
@@ -2619,6 +2642,10 @@ Butler
 =2017-05-10T08:43:20+09:00 Computer/トピック/社会動向/企業/ニフティ/keywords
 ニフティ,nifty
 スマフロ
+
+=2017-12-25T16:49:22+09:00 Computer/トピック/社会動向/企業/ニューレボ/keywords
+ニューレボ,New Revo.
+ロジクラ
 
 =2017-11-11T14:49:33+09:00 Computer/トピック/社会動向/企業/ニューロープ/keywords
 AI-CATCHER
@@ -3434,6 +3461,14 @@ TSUBAME
 
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
+
+=2017-12-26T08:31:11+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+政府
+政府関連機関
+地方自治体
+通産省,通商産業省
+総務省
+文科省,文部科学省
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
