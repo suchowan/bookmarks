@@ -960,7 +960,7 @@ EYアドバイザリー・アンド・コンサルティング,EY
 =2017-09-19T11:22:49+09:00 Computer/トピック/社会動向/企業/F5ネットワークス/keywords
 Access Policy Manager,APM
 
-=2017-12-25T15:53:19+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
+=2018-01-26T11:20:45+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 Facebook,フェイスブック
 Lumos
 Caffe2Go
@@ -971,6 +971,7 @@ DeepText
 Workplace
 World Effects
 Prophet
+Detectron
 
 =2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
 SIGNAL
@@ -1297,7 +1298,7 @@ SWAG for Personal
 =2017-03-29T11:45:56+09:00 Computer/トピック/社会動向/企業/meuron/keywords
 CALNA
 
-=2018-01-17T11:44:42+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2018-01-26T10:44:49+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -1313,6 +1314,7 @@ Sonar
 Resume Assistant
 Microsoft Translator
 Enterprise Mobility + Security,EMS
+SQuAD
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -1355,6 +1357,9 @@ Dine
 
 =2017-12-15T11:44:38+09:00 Computer/トピック/社会動向/企業/MSCグループ/keywords
 Run-DIAS
+
+=2018-01-26T10:55:49+09:00 Computer/トピック/社会動向/企業/MTG/keywords
+McLEAR
 
 =2017-12-15T11:21:50+09:00 Computer/トピック/社会動向/企業/Nayuta/keywords
 マイクロペイメント
@@ -1582,7 +1587,7 @@ Roboma,ロボマ
 =2017-12-08T11:57:01+09:00 Computer/トピック/社会動向/企業/Robot4U/keywords
 SHUILA
 
-=2017-11-11T17:32:41+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
+=2018-01-26T11:11:29+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
 Salesforce,セールスフォース
 Salesforce Einstein,Einstein
 Salesforceコマースクラウド
@@ -1591,6 +1596,8 @@ Krux
 Einstein Vision for Social Studio
 IoT Explorer Edition
 myEinstein
+Trailhead
+Skills Graph
 
 =2018-01-17T14:25:15+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
@@ -2100,7 +2107,7 @@ OKBIZ
 =2017-03-30T13:22:42+09:00 Computer/トピック/社会動向/企業/オファサポート/keywords
 SDAP,スマート・ドライビング・アセスメント・プログラム
 
-=2017-11-11T10:10:24+09:00 Computer/トピック/社会動向/企業/オブティム/keywords
+=2017-11-11T10:10:24+09:00 Computer/トピック/社会動向/企業/オプティム/keywords
 オプティム,OPTiM
 Optimal Remote
 AI Predictive Maintenance Service
