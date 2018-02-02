@@ -126,11 +126,12 @@ GCP,Google Cloud Platform
 Google AppEngine
 Firebase
 
-=2017-11-10T09:37:37+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
+=2018-01-31T15:18:16+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
 Watson
 Alchemy
 Retrieve and Rank
+Mendix
 
 =2017-03-17T14:45:51+09:00 Computer/トピック/ツール/クラウド/keywords
 クラウド,Cloud
@@ -720,6 +721,9 @@ Amper Music,Amper
 =2017-10-30T11:13:19+09:00 Computer/トピック/社会動向/企業/AMPLE/keywords
 AMPLE!
 
+=2018-02-02T08:23:46+09:00 Computer/トピック/社会動向/企業/and factory/keywords
+innto
+
 =2017-03-28T14:43:00+09:00 Computer/トピック/社会動向/企業/Ankercast/keywords
 ミミヨリ
 
@@ -1016,6 +1020,9 @@ Kibiro
 Kibiro for Biz
 KIBIT Patent Explorer
 
+=2018-02-02T09:06:13+09:00 Computer/トピック/社会動向/企業/FUGU INNOVATIONS/keywords
+AUDUBE
+
 =2017-03-29T09:44:37+09:00 Computer/トピック/社会動向/企業/GA technologies/keywords
 Renosy
 
@@ -1129,6 +1136,9 @@ IBM TrueNorth
 IBM Data Science Experience with HDP
 IBM Blockchain Platform
 IBM Integrated Analytics System
+
+=2018-01-31T17:09:07+09:00 Computer/トピック/社会動向/企業/iCARE/keywords
+Carely
 
 =2017-03-29T11:17:46+09:00 Computer/トピック/社会動向/企業/IDCF/keywords
 IDCF,IDCフロンティア
@@ -1665,6 +1675,9 @@ SNAPLACE,スナップレイス
 =2017-08-21T10:24:37+09:00 Computer/トピック/社会動向/企業/SnSnap/keywords
 SnSnap,エスエヌスナップ
 
+=2018-01-31T14:39:30+09:00 Computer/トピック/社会動向/企業/SOCINNO/keywords
+sRemo-R
+
 =2017-03-30T10:11:38+09:00 Computer/トピック/社会動向/企業/Sophos/keywords
 Sophos,ソフォス
 
@@ -1768,6 +1781,9 @@ CSLAIER
 
 =2017-03-30T10:43:27+09:00 Computer/トピック/社会動向/企業/ULA/keywords
 ULA,United Launch Alliance
+
+=2018-02-02T08:23:46+09:00 Computer/トピック/社会動向/企業/USEN-NEXT/keywords
+innto
 
 =2017-10-20T09:45:14+09:00 Computer/トピック/社会動向/企業/VASILY/keywords
 SNAP by IQON
@@ -1928,6 +1944,9 @@ crossnote ML
 =2017-03-27T07:47:38+09:00 Computer/トピック/社会動向/企業/アップライブ/keywords
 muddica
 
+=2018-01-31T16:38:29+09:00 Computer/トピック/社会動向/企業/アップ・スウェル/keywords
+JouleLife,ジュールライフ
+
 =2017-07-24T08:26:57+09:00 Computer/トピック/社会動向/企業/アトラエ/keywords
 TalentBase,タレントベース
 JobShare,ジョブシェア
@@ -2033,6 +2052,9 @@ E-Trident
 
 =2017-07-21T09:32:00+09:00 Computer/トピック/社会動向/企業/ウェルスナビ/keywords
 WealthNavi,ウェルスナビ
+
+=2018-01-31T16:38:29+09:00 Computer/トピック/社会動向/企業/ウエルネスデータ/keywords
+JouleLife,ジュールライフ
 
 =2017-03-30T11:46:55+09:00 Computer/トピック/社会動向/企業/ウォンテッドリー/keywords
 ウォンテッドリー,Wantedly
@@ -3113,6 +3135,9 @@ e-AI
 =2017-04-17T08:42:01+09:00 Computer/トピック/社会動向/企業/レイ・フロンティア/keywords
 SilentLog Analytics
 
+=2018-01-31T17:17:56+09:00 Computer/トピック/社会動向/企業/レジェンダ・コーポレーション/keywords
+1st JUDGE,ファーストジャッジ
+
 =2017-05-09T07:27:20+09:00 Computer/トピック/社会動向/企業/レトリバ/keywords
 Sedue,セデュー
 Answer Finder
@@ -3344,7 +3369,7 @@ Viber
 RemoteLock
 HubSpot
 
-=2017-04-11T10:57:28+09:00 Computer/トピック/社会動向/企業/横河ソリューションサービス/keywords
+=2017-04-11T10:57:28+09:00 Computer/トピック/社会動向/企業/横河/keywords
 設備異常予兆監視ソリューション
 
 =2017-08-22T07:42:28+09:00 Computer/トピック/社会動向/企業/毎日放送/keywords
@@ -3568,6 +3593,9 @@ TSUBAME
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
+
+=2018-02-02T08:18:43+09:00 Computer/トピック/社会動向/研究機関/KEK/keywords
+KEK,高エネルギー加速器研究機構
 
 =2017-05-30T07:28:39+09:00 Computer/トピック/社会動向/研究機関/NEDO/keywords
 NEDO,新エネルギー・産業技術総合開発機構
