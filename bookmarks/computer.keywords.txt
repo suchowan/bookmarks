@@ -159,6 +159,9 @@ HPE,Hewlett Packard Enterprise
 =2017-03-21T14:00:06+09:00 Computer/トピック/ツール/クラウド/その他/HP/keywords
 HPE,Hewlett Packard Enterprise
 
+=2018-02-06T10:47:05+09:00 Computer/トピック/ツール/クラウド/その他/KDDI/keywords
+IoTクラウド API Market
+
 =2017-04-13T10:18:58+09:00 Computer/トピック/ツール/クラウド/その他/MovaTesting/keywords
 TechWave,テックウェーブ
 
@@ -721,8 +724,10 @@ Amper Music,Amper
 =2017-10-30T11:13:19+09:00 Computer/トピック/社会動向/企業/AMPLE/keywords
 AMPLE!
 
-=2018-02-02T08:23:46+09:00 Computer/トピック/社会動向/企業/and factory/keywords
+=2018-02-06T11:06:34+09:00 Computer/トピック/社会動向/企業/and factory/keywords
 innto
+＆AND HOSTEL
+＆AND INCUBATION
 
 =2017-03-28T14:43:00+09:00 Computer/トピック/社会動向/企業/Ankercast/keywords
 ミミヨリ
@@ -1792,6 +1797,9 @@ SNAP by IQON
 =2017-09-04T09:01:36+09:00 Computer/トピック/社会動向/企業/Vector/keywords
 Vector,ベクター
 
+=2018-02-06T11:11:48+09:00 Computer/トピック/社会動向/企業/Veeam/keywords
+Veeam Recovery to Microsoft Azure with Veeam PN
+
 =2018-01-10T10:33:50+09:00 Computer/トピック/社会動向/企業/Veritas/keywords
 Veritas,ベリタス
 
@@ -2042,9 +2050,10 @@ marble
 Foundational Components,FCサービス
 Watson Knowledge Studio,WKSサービス
 
-=2017-03-30T11:27:57+09:00 Computer/トピック/社会動向/企業/イー・ガーディアン/keywords
+=2018-02-06T13:41:22+09:00 Computer/トピック/社会動向/企業/イー・ガーディアン/keywords
 イー・ガーディアン,E-Guardian
 E-Trident
+TextVoice
 
 =2017-03-29T09:25:33+09:00 Computer/トピック/社会動向/企業/ウェザーニューズ/keywords
 ウェザーニューズ,Weathernews
@@ -2324,6 +2333,9 @@ POST365
 =2017-03-30T14:32:42+09:00 Computer/トピック/社会動向/企業/コラビット/keywords
 HowMa,ハウマ
 
+=2018-02-06T14:39:00+09:00 Computer/トピック/社会動向/企業/コラージュ・ゼロ/keywords
+CREATIVE BRAIN
+
 =2017-09-11T09:24:42+09:00 Computer/トピック/社会動向/企業/コンカー/keywords
 Concur Expense
 
@@ -2362,6 +2374,9 @@ cybozu
 =2017-05-08T11:41:26+09:00 Computer/トピック/社会動向/企業/サインポスト/keywords
 ワンダーレジ
 
+=2018-02-06T13:57:44+09:00 Computer/トピック/社会動向/企業/サステナ/keywords
+SUSTAINA
+
 =2018-01-22T10:50:47+09:00 Computer/トピック/社会動向/企業/サマデイ/keywords
 Feelnote
 
@@ -2374,9 +2389,10 @@ SmartVisca
 =2017-05-09T08:30:08+09:00 Computer/トピック/社会動向/企業/サークルイン/keywords
 shippio
 
-=2017-03-30T14:47:50+09:00 Computer/トピック/社会動向/企業/システムインテグレータ/keywords
+=2018-02-06T15:30:32+09:00 Computer/トピック/社会動向/企業/システムインテグレータ/keywords
 SI Web Shopping
 SI Object Browser
+AISI∀ FlowerName,この花な〜んだ？
 
 =2017-10-30T11:21:46+09:00 Computer/トピック/社会動向/企業/システムエグゼ/keywords
 テストエース
@@ -2467,6 +2483,9 @@ FACY,フェイシー
 
 =2017-07-31T10:37:11+09:00 Computer/トピック/社会動向/企業/スタディスト/keywords
 Teachme Biz
+
+=2018-02-06T14:04:43+09:00 Computer/トピック/社会動向/企業/スターコミュニケーションズ/keywords
+Pixellot
 
 =2017-07-21T13:18:08+09:00 Computer/トピック/社会動向/企業/ストックマーク/keywords
 Anews,エーニュース
@@ -2599,6 +2618,9 @@ Seed ID
 
 =2017-10-04T10:18:51+09:00 Computer/トピック/社会動向/企業/チェンジ/keywords
 VoX,VOICE OF EXPERIENCE
+
+=2018-02-06T15:44:06+09:00 Computer/トピック/社会動向/企業/チョークデジタル/keywords
+Advertising as a Service,AaaS
 
 =2017-08-18T08:33:03+09:00 Computer/トピック/社会動向/企業/チームスピリット/keywords
 チームスピリット,TeamSpirit
