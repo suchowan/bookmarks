@@ -810,6 +810,9 @@ UNICORN
 =2017-06-12T07:25:11+09:00 Computer/トピック/社会動向/企業/C Channel/keywords
 C CHANNEL
 
+=2018-02-13T12:23:28+09:00 Computer/トピック/社会動向/企業/CAC/keywords
+心sensor
+
 =2017-08-15T07:18:17+09:00 Computer/トピック/社会動向/企業/CAMPFIRE/keywords
 FIREX
 CAMPFIRE レンディング
@@ -1426,9 +1429,10 @@ MIKA
 corevo
 hitoe
 
-=2017-10-30T12:06:45+09:00 Computer/トピック/社会動向/企業/NTT/NTT-AT/keywords
+=2018-02-13T10:40:00+09:00 Computer/トピック/社会動向/企業/NTT/NTT-AT/keywords
 NTT-AT,NTTアドバンステクノロジ
 WiConductor
+WinActor
 
 =2017-03-29T14:23:49+09:00 Computer/トピック/社会動向/企業/NTT/NTTコミュニケーションズ/keywords
 NTTコミュニケーションズ,NTTコム,NTT Com
@@ -2091,7 +2095,7 @@ Pairs
 =2017-03-30T11:52:53+09:00 Computer/トピック/社会動向/企業/エキサイト/keywords
 wisteria
 
-=2017-10-03T09:21:03+09:00 Computer/トピック/社会動向/企業/エクサイウィザーズ/keywords
+=2017-10-03T09:21:03+09:00 Computer/トピック/社会動向/企業/エクサウィザーズ/keywords
 エクサウィザーズ,ExaWizards
 エクサインテリジェンス,ExaIntelligence
 デジタルセンセーション
@@ -2332,8 +2336,9 @@ DFO
 =2017-09-07T11:13:10+09:00 Computer/トピック/社会動向/企業/コムニコ/keywords
 POST365
 
-=2017-03-30T14:32:42+09:00 Computer/トピック/社会動向/企業/コラビット/keywords
+=2018-02-13T11:37:48+09:00 Computer/トピック/社会動向/企業/コラビット/keywords
 HowMa,ハウマ
+HowMaスマート不動産売却
 
 =2018-02-06T14:39:00+09:00 Computer/トピック/社会動向/企業/コラージュ・ゼロ/keywords
 CREATIVE BRAIN
@@ -2436,8 +2441,9 @@ Foodist JOB
 =2017-03-30T14:42:16+09:00 Computer/トピック/社会動向/企業/シーサイド/keywords
 C.VIEW
 
-=2017-03-30T14:43:13+09:00 Computer/トピック/社会動向/企業/シーメンス/keywords
+=2018-02-13T11:43:44+09:00 Computer/トピック/社会動向/企業/シーメンス/keywords
 シーメンス,Siemens
+MindSphere3
 
 =2017-03-30T14:44:10+09:00 Computer/トピック/社会動向/企業/ジェイアイエヌ/keywords
 ジェイアイエヌ,JINS
@@ -2538,7 +2544,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2018-01-17T10:38:54+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2018-02-13T10:47:32+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -2547,6 +2553,7 @@ CALC
 NNabla
 FAIT,Fit with AI Trainer,ファイト
 wena wrist
+toio,トイオ
 
 =2017-10-10T09:15:03+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -3352,7 +3359,7 @@ SOLASAT,ソラサット
 =2017-12-15T16:08:50+09:00 Computer/トピック/社会動向/企業/日本電産/keywords
 Motorize
 
-=2017-11-11T07:14:58+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2018-02-14T08:54:35+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -3360,6 +3367,7 @@ HiPAMPS
 Racrew,ラックル
 Hitachi AI Technology/H
 秘文
+活文
 HAF/EDC,Hitachi Application Framework/Event Driven Computing
 ExTOPE
 Web電話帳ソリューションII
