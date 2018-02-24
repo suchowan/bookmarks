@@ -808,6 +808,9 @@ ZENDESK
 =2017-08-21T09:22:28+09:00 Computer/トピック/社会動向/企業/Bulbit/keywords
 UNICORN
 
+=2018-02-23T15:15:50+09:00 Computer/トピック/社会動向/企業/BXD/keywords
+enza
+
 =2017-06-12T07:25:11+09:00 Computer/トピック/社会動向/企業/C Channel/keywords
 C CHANNEL
 
@@ -1380,6 +1383,9 @@ Run-DIAS
 =2018-01-26T10:55:49+09:00 Computer/トピック/社会動向/企業/MTG/keywords
 McLEAR
 
+=2018-02-23T17:32:51+09:00 Computer/トピック/社会動向/企業/Nature/keywords
+Nature Remo
+
 =2017-12-15T11:21:50+09:00 Computer/トピック/社会動向/企業/Nayuta/keywords
 マイクロペイメント
 
@@ -1426,9 +1432,10 @@ CloudGarage
 Nokia,ノキア
 MIKA
 
-=2017-03-29T14:28:24+09:00 Computer/トピック/社会動向/企業/NTT/keywords
+=2018-02-23T16:50:28+09:00 Computer/トピック/社会動向/企業/NTT/keywords
 corevo
 hitoe
+Kirari!
 
 =2018-02-13T10:40:00+09:00 Computer/トピック/社会動向/企業/NTT/NTT-AT/keywords
 NTT-AT,NTTアドバンステクノロジ
@@ -1722,6 +1729,9 @@ Starbucks,スターバックス
 =2017-11-11T06:12:32+09:00 Computer/トピック/社会動向/企業/Stitch Fix/keywords
 Stitch Fix,SFIX
 
+=2018-02-23T14:59:57+09:00 Computer/トピック/社会動向/企業/StockMark/keywords
+AI アルケミスト
+
 =2017-03-30T10:29:53+09:00 Computer/トピック/社会動向/企業/Stripe/keywords
 Stripe Radar
 
@@ -1886,6 +1896,10 @@ OpenBlocks
 =2017-07-21T10:12:40+09:00 Computer/トピック/社会動向/企業/アイアクト/keywords
 Cogmo Search,コグモ・サーチ
 Cogmo Attend
+
+=2018-02-23T16:16:25+09:00 Computer/トピック/社会動向/企業/アイキュー/keywords
+Object Scouter
+Live Real
 
 =2017-09-04T11:39:23+09:00 Computer/トピック/社会動向/企業/アイザック/keywords
 アイザック,aisaac
@@ -2311,8 +2325,9 @@ Wikitude SDK 7
 =2017-12-25T16:20:56+09:00 Computer/トピック/社会動向/企業/グローブライド/keywords
 ダイワ
 
-=2017-09-14T10:26:12+09:00 Computer/トピック/社会動向/企業/コア/keywords
+=2018-02-23T15:28:05+09:00 Computer/トピック/社会動向/企業/コア/keywords
 察知くん-G
+ASURA Synergy
 
 =2017-10-16T10:05:54+09:00 Computer/トピック/社会動向/企業/コクヨ/keywords
 カウネット
@@ -2930,6 +2945,9 @@ mimi
 
 =2017-10-16T11:15:12+09:00 Computer/トピック/社会動向/企業/フォトシンス/keywords
 Akerun Pro
+
+=2018-02-23T15:32:14+09:00 Computer/トピック/社会動向/企業/フォレスト/keywords
+ATLS,アトラス
 
 =2017-04-11T09:46:03+09:00 Computer/トピック/社会動向/企業/フォースター/keywords
 マイクロサービスアーキテクチャF
