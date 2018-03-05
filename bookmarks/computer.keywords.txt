@@ -126,12 +126,13 @@ GCP,Google Cloud Platform
 Google AppEngine
 Firebase
 
-=2018-01-31T15:18:16+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
+=2018-03-05T14:15:18+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
 Watson
 Alchemy
 Retrieve and Rank
 Mendix
+ワトソン
 
 =2017-03-17T14:45:51+09:00 Computer/トピック/ツール/クラウド/keywords
 クラウド,Cloud
@@ -195,6 +196,9 @@ HPE,Hewlett Packard Enterprise
 =2017-03-17T15:37:24+09:00 Computer/トピック/ツール/ソフトウェア言語/PHP/keywords
 Pukiwiki
 
+=2018-03-05T14:15:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
+pandas
+
 =2017-03-21T14:33:35+09:00 Computer/トピック/ツール/データベース/keywords
 Oracle
 Vertica
@@ -247,12 +251,12 @@ FIELD system
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
 
-=2017-11-15T17:12:47+09:00 Computer/トピック/ブロックチェーン/keywords
+=2018-03-05T13:40:57+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,Blockchain
 仮想通貨
 暗号通貨
 ビットコイン,Bit Coin,Bitcoin
-Ethereum
+イーサリウム,Ethereum
 ICO
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
@@ -418,7 +422,7 @@ AIBO,aibo
 職種
 HR
 
-=2017-10-25T14:19:45+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2018-03-05T14:15:19+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -456,6 +460,7 @@ MRI
 失明
 病理
 内視鏡
+電子カルテ
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -840,10 +845,11 @@ DarkLight
 =2017-10-12T10:26:27+09:00 Computer/トピック/社会動向/企業/Chef/keywords
 Habitat
 
-=2017-09-27T08:12:37+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
+=2018-03-05T14:15:17+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
 シスコ,シスコシステムズ,CISCO
 Tetration Analytics,テトレーション アナリティックス
 Cisco Intersight
+SD-WAN
 
 =2017-08-21T10:37:35+09:00 Computer/トピック/社会動向/企業/Cobalt/keywords
 コバルト,cobalt
@@ -1078,7 +1084,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2018-03-02T08:23:37+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2018-03-05T14:15:14+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1105,6 +1111,7 @@ Scrubbies
 NIMA
 ARCore
 Flutter
+Hangouts Chat
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
@@ -1844,6 +1851,9 @@ AIアナリスト
 
 =2017-06-19T07:14:45+09:00 Computer/トピック/社会動向/企業/WD/keywords
 WD,ウエスタンデジタル
+
+=2018-03-05T14:15:17+09:00 Computer/トピック/社会動向/企業/webintPro/keywords
+HIWIRE
 
 =2017-08-23T07:27:59+09:00 Computer/トピック/社会動向/企業/White Motion/keywords
 White Motion,ホワイトモーション
@@ -3196,8 +3206,9 @@ Opus,オーパス
 =2017-05-10T07:32:47+09:00 Computer/トピック/社会動向/企業/ルグラン/keywords
 TNQL,テンキュール
 
-=2017-05-22T07:45:58+09:00 Computer/トピック/社会動向/企業/ルネサス/keywords
+=2018-03-05T14:15:18+09:00 Computer/トピック/社会動向/企業/ルネサス/keywords
 e-AI
+R-Car V3H
 
 =2017-04-17T08:42:01+09:00 Computer/トピック/社会動向/企業/レイ・フロンティア/keywords
 SilentLog Analytics
@@ -3415,6 +3426,9 @@ Web電話帳ソリューションII
 Hitachi Anomaly Detector
 JP1
 
+=2018-03-05T14:15:21+09:00 Computer/トピック/社会動向/企業/木村情報技術/keywords
+AI-Campus
+
 =2017-10-10T08:51:13+09:00 Computer/トピック/社会動向/企業/村田製作所/keywords
 NAONA
 
@@ -3492,6 +3506,9 @@ Ford,フォード
 
 =2017-09-07T10:34:58+09:00 Computer/トピック/社会動向/企業/自動車/Jaguar/keywords
 Sayer
+
+=2018-03-05T14:15:20+09:00 Computer/トピック/社会動向/企業/自動車/keywords
+コネクテッドビークル
 
 =2017-04-11T11:49:27+09:00 Computer/トピック/社会動向/企業/自動車/Mercedes-Benz/keywords
 Mercedes-Benz,メルセデス・ベンツ,ベンツ
