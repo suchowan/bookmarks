@@ -114,13 +114,14 @@ ONNX,Open Neural Network Exchange
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/オンプレミス/その他/Vertica/keywords
 HPE,Hewlett Packard Enterprise
 
-=2017-11-15T15:37:31+09:00 Computer/トピック/ツール/クラウド/Amazon/keywords
+=2018-03-20T14:56:07+09:00 Computer/トピック/ツール/クラウド/Amazon/keywords
 Alexa
 AWS
 Greengrass
 Redshift
 Amazon Connect
 Amazon S3
+AWSJ
 
 =2018-03-08T17:56:14+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
@@ -199,6 +200,9 @@ HPE,Hewlett Packard Enterprise
 =2018-03-08T17:56:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Java/keywords
 Jakarta EE
 
+=2018-03-20T14:56:09+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/Node.js/keywords
+Node-RED
+
 =2017-03-17T15:37:24+09:00 Computer/トピック/ツール/ソフトウェア言語/PHP/keywords
 Pukiwiki
 
@@ -206,7 +210,7 @@ Pukiwiki
 pandas
 Django2.0
 
-=2017-03-21T14:33:35+09:00 Computer/トピック/ツール/データベース/keywords
+=2018-03-20T14:56:15+09:00 Computer/トピック/ツール/データベース/keywords
 Oracle
 Vertica
 ElasticSearch
@@ -216,6 +220,8 @@ DynamoDB
 Kibana
 Cloudant
 MySQL
+SQL
+プリザンター 
 
 =2017-11-11T08:35:39+09:00 Computer/トピック/ビッグデータ/Crawler・検索エンジン/keywords
 Nutch
@@ -558,11 +564,12 @@ gensim
 =2017-03-23T11:00:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/ナイーブベイズ/keywords
 ベイジアンフィルタ
 
-=2017-03-23T10:45:15+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/keywords
+=2018-03-20T14:56:11+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/keywords
 MeCab
 Kuromoji
 JUMAN
 AYA
+LUIS
 
 =2017-03-23T11:03:39+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
 手書き
@@ -1280,6 +1287,9 @@ Ad Generation,アドジェネ
 
 =2017-09-07T11:33:29+09:00 Computer/トピック/社会動向/企業/Kofax/keywords
 Kapow10,カパゥテン
+
+=2018-03-20T14:56:15+09:00 Computer/トピック/社会動向/企業/KSKアナリティクス/keywords
+RapidMiner
 
 =2017-11-11T15:43:48+09:00 Computer/トピック/社会動向/企業/Lenovo/keywords
 Lenovo,レノボ
