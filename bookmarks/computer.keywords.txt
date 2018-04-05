@@ -257,11 +257,13 @@ P-SIRT
 =2017-07-24T13:09:39+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ
 
-=2017-12-26T08:28:40+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2018-04-05T13:20:58+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
 スマートハウス
+マンション
+スマートタウン
 
 =2017-12-26T08:28:22+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -318,12 +320,13 @@ Echosim.io
 =2017-11-11T07:56:20+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
 
-=2018-03-27T17:29:01+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2018-04-05T13:20:57+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
 起業ライダーマモル
 Watson Assistant
+対話
 
 =2017-03-22T09:31:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/りんな/keywords
 りんな,Rinna
@@ -625,6 +628,9 @@ LUIS
 売買審査
 スマートプラス
 
+=2018-04-05T13:20:53+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+レジなし
+
 =2017-03-22T14:12:49+09:00 Computer/トピック/機械学習/機械学習応用/音楽/keywords
 作曲
 マスタリング
@@ -674,6 +680,9 @@ R言語
 TensorFlow
 Keras
 Chainer
+
+=2018-04-05T13:21:00+09:00 Computer/トピック/社会動向/keywords
+五反田バレー
 
 =2017-03-28T13:24:52+09:00 Computer/トピック/社会動向/シンギュラリティ/keywords
 雇用大崩壊
@@ -1373,7 +1382,7 @@ SWAG for Personal
 =2017-03-29T11:45:56+09:00 Computer/トピック/社会動向/企業/meuron/keywords
 CALNA
 
-=2018-03-16T11:48:44+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2018-04-05T13:20:50+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -1394,6 +1403,7 @@ Soundscape
 Pix
 Service Fabric
 Surface Hub
+Dynamics 365
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -2113,6 +2123,9 @@ PureCloud
 =2017-03-30T11:38:04+09:00 Computer/トピック/社会動向/企業/インターシステムズ/keywords
 iKnow Japanese
 
+=2018-04-05T13:20:54+09:00 Computer/トピック/社会動向/企業/インテグリティ・ヘルスケア/keywords
+YaDoc
+
 =2017-11-11T07:37:24+09:00 Computer/トピック/社会動向/企業/インテリジェント ウェイブ/keywords
 CWAT
 
@@ -2183,6 +2196,9 @@ enebular
 
 =2017-03-30T11:51:45+09:00 Computer/トピック/社会動向/企業/エアロセンス/keywords
 エアロセンス,AeroSense
+
+=2018-04-05T13:20:52+09:00 Computer/トピック/社会動向/企業/エアークローゼット/keywords
+pickss
 
 =2017-09-14T08:12:11+09:00 Computer/トピック/社会動向/企業/エイシング/keywors
 エイシング,AI Sing
@@ -2627,6 +2643,9 @@ BoID
 
 =2017-04-04T15:01:21+09:00 Computer/トピック/社会動向/企業/スリーアイズ/keywords
 CANDY
+
+=2018-04-05T13:20:55+09:00 Computer/トピック/社会動向/企業/セイコーエプソン/keywords
+WorkSense
 
 =2017-04-04T15:05:55+09:00 Computer/トピック/社会動向/企業/セカンドファクトリー/keywords
 クラウド海の家
@@ -3423,9 +3442,10 @@ SCQM,Supply Chain Quality Management System
 =2017-04-11T14:32:28+09:00 Computer/トピック/社会動向/企業/富士ソフト/keywords
 PALRO,パルロ
 
-=2017-10-30T12:21:49+09:00 Computer/トピック/社会動向/企業/富士フィルム/keywords
+=2018-04-05T13:20:58+09:00 Computer/トピック/社会動向/企業/富士フィルム/keywords
 富士フィルム,富士フイルム
 SYNAPSE Case Match
+ひびみっけ
 
 =2018-03-27T17:29:05+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
