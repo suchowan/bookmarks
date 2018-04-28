@@ -301,13 +301,14 @@ FIELD system
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
 
-=2018-03-05T13:40:57+09:00 Computer/トピック/ブロックチェーン/keywords
+=2018-04-28T12:27:20+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,Blockchain
 仮想通貨
 暗号通貨
 ビットコイン,Bit Coin,Bitcoin
 イーサリウム,Ethereum
 ICO
+URM
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -652,7 +653,7 @@ LUIS
 =2017-03-23T09:21:55+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
 
-=2017-11-11T07:45:25+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/投資/keywords
+=2018-04-28T12:27:20+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/投資/keywords
 資産運用
 アルゴリズム取引
 ヘッジファンド
@@ -660,6 +661,7 @@ LUIS
 証券
 売買審査
 スマートプラス
+ポートフォリオ
 
 =2018-04-05T13:20:53+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
@@ -1282,6 +1284,9 @@ IMJ,アイ・エム・ジェイ
 
 =2018-01-10T11:21:16+09:00 Computer/トピック/社会動向/企業/Impulselab/keywords
 FLUX
+
+=2018-04-28T12:27:21+09:00 Computer/トピック/社会動向/企業/Infineon Technologies/keywords
+インフィニオン
 
 =2017-08-07T08:58:07+09:00 Computer/トピック/社会動向/企業/Infor/keywords
 Infor CloudSuite
@@ -3291,6 +3296,9 @@ teacha
 =2017-11-19T15:08:32+09:00 Computer/トピック/社会動向/企業/ヤフー/keywords
 kukai,クウカイ
 AnnexML
+
+=2018-04-28T12:27:19+09:00 Computer/トピック/社会動向/企業/ヤマト運輸/keywords
+ヤマト
 
 =2017-11-11T16:19:29+09:00 Computer/トピック/社会動向/企業/ヤマハ/keywords
 HEAR Talk
