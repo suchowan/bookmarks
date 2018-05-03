@@ -242,18 +242,18 @@ WEBrick
 =2018-04-14T14:05:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rails/keywords
 Rails5
 
-=2018-04-26T10:35:15+09:00 Computer/トピック/ツール/データベース/keywords
+=2018-05-03T18:49:26+09:00 Computer/トピック/ツール/データベース/keywords
 Oracle
 Vertica
 ElasticSearch
-PostgreSQL
+PostgreSQL,posgreSQL
 Ingres
 DynamoDB
 Kibana
 Cloudant
 MySQL
 SQL
-プリザンター 
+プリザンター
 SQLite
 FoundationDB
 
@@ -301,8 +301,8 @@ FIELD system
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
 
-=2018-04-28T12:27:20+09:00 Computer/トピック/ブロックチェーン/keywords
-ブロックチェーン,Blockchain
+=2018-05-03T18:49:57+09:00 Computer/トピック/ブロックチェーン/keywords
+ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
 ビットコイン,Bit Coin,Bitcoin
@@ -379,7 +379,7 @@ RPA,Robotic Process Automation
 指南
 コンシェルジュ
 
-=2018-04-26T10:35:11+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2018-05-03T18:47:59+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -392,6 +392,7 @@ HEMS
 モニタリング,Monitoring
 メンテナンス,Maintenance
 配車
+品質保証
 
 =2017-03-22T10:55:21+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -676,7 +677,7 @@ Amper Music
 Magenta
 楽曲
 
-=2017-03-23T15:15:03+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2018-05-03T18:48:02+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -711,6 +712,7 @@ DCGAN
 VAE
 DAE
 バンディットアルゴリズム
+教師なし学習
 
 =2017-03-23T14:55:48+09:00 Computer/トピック/機械学習/機械学習理論/プログラミング/keywords
 Python
@@ -1402,6 +1404,9 @@ Mafengwo,螞蜂窩
 =2017-10-24T08:05:51+09:00 Computer/トピック/社会動向/企業/Magic Software/keywords
 MSE,Magic Software,マジックソフトウェア
 
+=2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/Marketo/keywords
+AudienceAI
+
 =2017-08-21T08:04:48+09:00 Computer/トピック/社会動向/企業/massive lngg/keywords
 massive stay
 
@@ -1434,6 +1439,9 @@ SWAG for Personal
 
 =2017-03-29T11:45:56+09:00 Computer/トピック/社会動向/企業/meuron/keywords
 CALNA
+
+=2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
+mikoto
 
 =2018-04-05T13:20:50+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
@@ -3721,10 +3729,11 @@ DELITA
 マルチモーダルAIロボット
 COBOTTA
 
-=2017-10-03T08:47:38+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
+=2018-05-03T18:47:59+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
 トヨタ,Toyota
 プリウス,PRIUS
 Ha:mo RIDE,ハーモ・ライド
+QAネットワーク
 
 =2017-04-11T11:53:45+09:00 Computer/トピック/社会動向/企業/自動車/ホンダ/keywords
 ホンダ,Honda
