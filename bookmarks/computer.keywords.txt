@@ -16,7 +16,7 @@ ODG
 ウェアラブル
 拡張現実
 
-=2018-04-06T13:38:19+09:00 Computer/トピック/セキュリティ/keywords
+=2018-05-10T09:33:15+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -53,6 +53,7 @@ ODG
 Spectre
 Meltdown
 Mirai
+パスワード,PW
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1404,7 +1405,8 @@ Mafengwo,螞蜂窩
 =2017-10-24T08:05:51+09:00 Computer/トピック/社会動向/企業/Magic Software/keywords
 MSE,Magic Software,マジックソフトウェア
 
-=2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/Marketo/keywords
+=2018-05-10T09:36:47+09:00 Computer/トピック/社会動向/企業/Marketo/keywords
+Marketo,マルケト
 AudienceAI
 
 =2017-08-21T08:04:48+09:00 Computer/トピック/社会動向/企業/massive lngg/keywords
@@ -2014,6 +2016,9 @@ fanp Biz
 
 =2017-07-18T07:33:09+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
 CarriRo Delivery
+
+=2018-05-10T09:37:52+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
+ZOZOSUIT
 
 =2017-10-20T10:28:04+09:00 Computer/トピック/社会動向/企業/ZWEISPACE JAPAN/keywords
 オートカルク
@@ -3824,6 +3829,9 @@ IoVB,Internet of Value by Blockchain
 =2018-01-17T15:05:53+09:00 Computer/トピック/社会動向/企業/飼育係/keywords
 Coin Tool,コインツール
 
+=2018-05-10T09:35:42+09:00 Computer/トピック/社会動向/企業/高島屋/keyword
+高島屋,髙島屋
+
 =2017-03-30T11:09:36+09:00 Computer/トピック/社会動向/大学/九州大学/keywords
 K-now
 
@@ -3895,6 +3903,9 @@ CYDERANGE
 
 =2017-10-12T11:11:00+09:00 Computer/トピック/社会動向/研究機関/分散技術総合研究所/keywords
 RICO,Responsible Initial Coin Offering
+
+=2018-05-10T10:36:13+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
+CERN
 
 =2017-03-29T14:43:41+09:00 Computer/トピック/社会動向/研究機関/理研/keywords
 理化学研究所,理研
