@@ -79,6 +79,9 @@ URL=http://japanese.engadget.com/2017/09/25/macos-high-sierra/
 =2017-08-25T11:15:25+09:00 Computer/OS/MacOS/パラレルス、Mac Touch BarとWindows People Barに対応した新「Parallels」 - CNET Japan
 URL=https://japan.cnet.com/article/35106332/
 
+=2018-05-10T13:41:00+09:00 Computer/OS/MacOS/主要OSに共通の脆弱性が発覚--「Windows」「macOS」「Linux」などに影響 - ...
+URL=https://japan.zdnet.com/article/35118932/
+
 =2018-03-14T12:00:00+09:00 Computer/OS/MacOS/次期iOSやmacOSが発表される「WWDC 2018」の開催時期が明らかに - GIGAZINE
 URL=https://gigazine.net/news/20180314-apple-wwdc-2018/
 
@@ -226,6 +229,9 @@ URL=http://qiita.com/Leonhard/items/188690df29fd91717c92
 =2017-08-22T09:22:00+09:00 Computer/OS/Unix/CentOS/タイムゾーンの変更あれこれ（時代は変わったのだよ・・・） - ウィリアムのいたずらの開発日記
 URL=http://blog.goo.ne.jp/xmldtp/e/f69694f2d2100dd3f6717619e3f00b83
 
+=2018-05-09T12:00:00+09:00 Computer/OS/Unix/Chrome OSがLinuxアプリケーションの実行を可能にするアップデートを準備中 - GI...
+URL=https://gigazine.net/news/20180509-chrome-os-update-linux-apps/
+
 =2016-07-09T09:01:13+09:00 Computer/OS/Unix/Dockerで作る機械学習研究開発環境
 URL=https://hyt-sasaki.github.io/docker_slides/#1
 
@@ -352,6 +358,9 @@ URL=https://www.publickey1.jp/blog/18/azureaidockerwindowslinuxbuild_2018.html
 =2018-04-20T06:30:00+09:00 Computer/OS/Unix/マイクロソフト、「Azure Sphere OS」に独自Linuxカーネル採用までの道のり -...
 URL=https://japan.zdnet.com/article/35117951/
 
+=2018-05-10T13:41:00+09:00 Computer/OS/Unix/主要OSに共通の脆弱性が発覚--「Windows」「macOS」「Linux」などに影響 - ...
+URL=https://japan.zdnet.com/article/35118932/
+
 =2018-02-20T07:00:00+09:00 Computer/OS/Unix/人気Linuxソフトウェア最新ランキング--意外なあの製品もランクイン - ZDNet Japan
 URL=https://japan.zdnet.com/article/35114833/
 
@@ -408,6 +417,9 @@ URL=https://www.infoq.com/jp/news/2018/04/microsoft-ai-windows10
 
 =2018-02-20T10:47:00+09:00 Computer/OS/Windows/MS、Arm版「Windows 10」の制約について公開するも、数日で削除 - ZDNet J...
 URL=https://japan.zdnet.com/article/35114931/
+
+=2018-05-08T10:37:00+09:00 Computer/OS/Windows/MS、「Windows 10」からスマホにアクセスできる「Your Phone」を公開へ - ...
+URL=https://japan.zdnet.com/article/35118779/
 
 =2017-07-21T08:13:40+09:00 Computer/OS/Windows/MS、新サーモスタット「GLAS」の動画公開--「Windows 10 IoT Core」「Corana」利用 - CNET Japan
 URL=https://japan.cnet.com/article/35104550/
@@ -739,17 +751,26 @@ URL=https://japan.cnet.com/article/35106332/
 =2017-08-10T09:11:07+09:00 Computer/OS/Windows/マイクロソフト、Windows 10 Pro for Workstationsを発表 TechCrunch Japan
 URL=http://jp.techcrunch.com/2017/08/11/20170810microsoft-announces-windows-10-pro-for-workstations/
 
+=2018-05-09T11:31:00+09:00 Computer/OS/Windows/マイクロソフト、「Windows 10」と「iOS」「Android」の連携を強化 - ZD...
+URL=https://japan.zdnet.com/article/35118850/
+
 =2017-08-02T08:37:51+09:00 Computer/OS/Windows/マイクロソフト、「Windows 10」にアイトラッキング機能を追加へ - ZDNet Japan
 URL=https://japan.zdnet.com/article/35105158/
 
 =2018-02-28T10:18:00+09:00 Computer/OS/Windows/リリース近づく「Windows 10 Redstone 4」最新テストビルド公開 - ZDNe...
 URL=https://japan.zdnet.com/article/35115355/
 
+=2018-05-10T13:41:00+09:00 Computer/OS/Windows/主要OSに共通の脆弱性が発覚--「Windows」「macOS」「Linux」などに影響 - ...
+URL=https://japan.zdnet.com/article/35118932/
+
 =2018-05-01T09:16:04+09:00 Computer/OS/Windows/予期せぬWindows10の強制アップデートを防いでくれるソフトウェア「StopUpdates...
 URL=https://gunosy.com/articles/R37ab
 
 =2016-05-09T12:13:10+09:00 Computer/OS/Windows/今ならまだ無料！Windows 10を昔のPCに入れる手順をおさらい - 窓の杜
 URL=http://www.forest.impress.co.jp/docs/special/20160509_756237.html
+
+=2018-05-09T10:26:00+09:00 Computer/OS/Windows/今日は毎月恒例「Windows Update」の日 - GIGAZINE
+URL=https://gigazine.net/news/20180509-windows-update/
 
 =2014-10-20T05:08:38+09:00 Computer/OS/Windows/元号改正に伴う西暦-和暦変換の動作をPowerShellで試す - Qiita
 URL=https://qiita.com/kazinoue/items/f42f231e42d85af6004a
@@ -1813,6 +1834,9 @@ URL=http://www.itmedia.co.jp/smartjapan/articles/1704/12/news009.html
 =2017-03-13T08:06:01+09:00 Computer/ハードウェア/大手メディアが伝えない、世界のハードウェア市場を席巻する「フランス勢」の実態 MUFG Innovation Hub
 URL=https://innovation.mufg.jp/iot/583
 
+=2018-05-08T21:26:29+09:00 Computer/ハードウェア/天体望遠鏡の映像をパソコンに取り込めるCMOSカメラ　ケンコー「デジアイピースDX」｜株式会社...
+URL=https://prtimes.jp/main/html/rd/p/000000667.000008859.html
+
 =2016-10-17T12:27:26+09:00 Computer/ハードウェア/安定性と耐久性ならNAS用HDD、人気の「WD Red」の特性を調べてみた - AKIBA PC Hotline!
 URL=http://akiba-pc.watch.impress.co.jp/docs/column/wdhdd/1022309.html
 
@@ -2071,6 +2095,9 @@ URL=http://nge.jp/2016/08/01/post-133713
 =2018-01-24T19:15:00+09:00 Computer/ハードウェア/高画質を追求してきたカメラは今後「見えない物を撮る」方向へと進化していく - GIGAZINE
 URL=https://gigazine.net/news/20180124-next-generation-camera/
 
+=2018-05-08T08:30:00+09:00 Computer/ハードウェア/麻倉怜士の新デジタル時評--MQA-CD登場の意味。「MQA」はなぜすごいのか - CNET ...
+URL=https://japan.cnet.com/article/35118646/
+
 =2016-10-31T12:57:38+09:00 Computer/ハードウェア/ＫＤＤＩの格安スマホ　「負の遺産」に苦心　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXMZO08898700Y6A021C1000000/
 
@@ -2088,6 +2115,9 @@ URL=https://www.washingtonpost.com/news/the-switch/wp/2016/07/10/police-pokemon-
 
 =2018-04-21T10:30:00+09:00 Entertainment/ゲーム/その他/VR ZONE「ドラゴンクエストVR」アクティビティ予約受付を開始--概要も公開 - CNET...
 URL=https://japan.cnet.com/article/35118113/
+
+=2018-05-09T07:30:00+09:00 Entertainment/ゲーム/その他/「チェスのプレイヤーは短命」という都市伝説は本当なのかを研究者が調査してわかったこととは？ -...
+URL=https://gigazine.net/news/20180509-chess-players-live-longer/
 
 =2018-04-08T23:00:00+09:00 Entertainment/ゲーム/その他/「トラックの下にミュウがいる」という20年前のウワサが現実に - GIGAZINE
 URL=https://gigazine.net/news/20180408-pokemon-go-mews-under-trucks/
@@ -2641,6 +2671,9 @@ URL=http://seki.webmasters.gr.jp/chess/variant/
 =2016-05-29T14:37:19+09:00 Entertainment/ゲーム/将棋/大発見！宋代の墓から青銅製の将棋1セット現る＝「2枚足りな... - Record China
 URL=http://www.recordchina.co.jp/a139740.html
 
+=2018-05-07T06:28:34+09:00 Entertainment/ゲーム/将棋/大阪商業大学 商業史博物館 日本商業史 近世大阪の商業 将棋のあゆみ 1
+URL=http://moch.daishodai.ac.jp/kikakuten/shougi_zuhan1_01.html
+
 =2017-12-30T14:34:52+09:00 Entertainment/ゲーム/将棋/天才中学生、藤井聡太四段と張本智和が対談！「五輪で金メダル」「将棋界のトップに」 （スポーツ報知） - Yahoo!ニュース
 URL=https://headlines.yahoo.co.jp/hl?a=20171230-00010000-spht-spo
 
@@ -2877,6 +2910,9 @@ URL=https://toyokeizai.net/articles/-/217571
 
 =2018-01-02T15:50:22+09:00 Entertainment/ゲーム/将棋/藤井聡太くん頭の回転速すぎるやろ哲学ニュースnwk
 URL=http://blog.livedoor.jp/nwknews/archives/5313995.html
+
+=2018-05-09T20:48:33+09:00 Entertainment/ゲーム/将棋/藤井聡太と「羽生世代」の違うポイント｜日経BizGate
+URL=https://bizgate.nikkei.co.jp/article/DGXMZO3014505007052018000000?page=3
 
 =2017-07-14T13:08:50+09:00 Entertainment/ゲーム/将棋/藤井聡太のもう一つの数値目標～棋士レーティングとカルマンフィルタ
 URL=http://yappaw.com/1715/
@@ -3196,6 +3232,9 @@ URL=http://d.hatena.ne.jp/Zellij/20140613
 =2016-05-15T08:27:36+09:00 Science/トンデモ/∞ホタルさんの目∞ ■驚異の放射線,約94%滅染!! 無害化達成!!
 URL=http://fairfly1092.blog24.fc2.com/blog-entry-307.html
 
+=2017-09-29T00:00:00+09:00 Science/トンデモ/「EM菌　好転反応」でグーグル検索して見たら… - 左巻健男＆理科の探検’s blog
+URL=http://samakita.hatenablog.com/entry/20170929
+
 =2018-03-17T12:45:00+09:00 Science/トンデモ/「おじい様」と叫ばれてもだまされぬ 偽のサプリ販売会潜入記、重慶の70歳　写真2枚　国際ニュース：AFPBB News
 URL=http://www.afpbb.com/articles/-/3167720
 
@@ -3247,8 +3286,8 @@ URL=http://www.buzzfeed.com/satoruishido/mext-edoshigusa?utm_term=.ekl9jqK01
 =2018-01-24T18:12:24+09:00 Science/トンデモ/「砂糖は茶色の方が体に良い」派に激震？　「あさイチ」が示した「白」との差は... J-CASTニュース
 URL=https://www.j-cast.com/2018/01/24319381.html
 
-=2016-10-07T19:57:34+09:00 Science/トンデモ/「科学的根拠・検証の乏しいＥＭ菌について、環境省の正式な見解を求める意見書」が鎌倉市議会本会議にて否決 - Togetterまとめ
-URL=http://togetter.com/li/1033450
+=2016-10-06T21:31:47+09:00 Science/トンデモ/「科学的根拠・検証の乏しいＥＭ菌について、環境省の正式な見解を求める意見書」が鎌倉市議会本会議にて否決 - Togetter
+URL=https://togetter.com/li/1033450
 
 =2016-07-14T17:49:13+09:00 Science/トンデモ/「結論ありき」の非専門家ブログが社会を混乱させている：世界三大不正STAP事件の正しい理解を社会に広める会
 URL=http://blog.livedoor.jp/peter_cetera/
@@ -3862,6 +3901,9 @@ URL=http://kenko100.jp/articles/170201004236/
 =2016-08-31T12:38:24+09:00 Science/医学/【子宮頸がんワクチン特集】ワクチンで防げる悲劇を見過ごしていいの？ yomiDr. ヨミドクター（読売新聞）
 URL=https://yomidr.yomiuri.co.jp/article/20160823-OYTET50014/
 
+=2018-05-10T12:48:47+09:00 Science/医学/【査読】スウェーデンの子宮頸癌の発症率増加は、HPVワクチンと関連している可能性はあるのか？ - ドクター・キッド
+URL=http://www.dr-kid.net/entry/2018/05/10/%E3%80%90%E6%9F%BB%E8%AA%AD%E3%80%91%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E5%AD%90%E5%AE%AE%E9%A0%B8%E7%99%8C%E3%81%AE%E7%99%BA%E7%97%87%E7%8E%87%E5%A2%97%E5%8A%A0%E3%81%AF%E3%80%81HPV
+
 =2018-04-28T20:05:14+09:00 Science/医学/【湿布の副作用で「一生治りません」と診断される】 ようこのブログ
 URL=https://ameblo.jp/0163533544/entry-12372008709.html
 
@@ -4473,6 +4515,9 @@ URL=http://togetter.com/li/1041924
 
 =2018-04-20T22:38:46+09:00 Science/地学・地理学/リアルタイムで表示が変わる地球儀「SPHERE」登場。過去から未来、AR機能も sorae：宇宙（そら）へのポータルサイト
 URL=http://sorae.info/030201/2018_04_20_sphere.html
+
+=2018-05-08T20:00:00+09:00 Science/地学・地理学/世界の都市名の由来が何なのかわかる地図が公開中 - GIGAZINE
+URL=https://gigazine.net/news/20180508-literal-translations-of-cities/
 
 =2017-01-07T14:49:46+09:00 Science/地学・地理学/世界地図っていうか今の大陸の配置ってバランスいいよな
 URL=http://anond.hatelabo.jp/20170107182650
@@ -5238,6 +5283,9 @@ URL=http://headlines.yahoo.co.jp/hl?a=20160405-00010001-sorae_jp-sctch
 
 =2018-03-21T01:22:40+09:00 Science/天文学/トピック/太陽の位置の季節変化「アナレンマ」を計算 - Qiita
 URL=https://qiita.com/HMMNRST/items/ec0c3a9e8e5deeac8aa6
+
+=2018-05-09T08:00:00+09:00 Science/天文学/トピック/太陽の寿命が尽きた姿は「惑星状星雲」であると研究者が再確認 - GIGAZINE
+URL=https://gigazine.net/news/20180509-sun-planetary-nebula/
 
 =2018-04-27T07:34:50+09:00 Science/天文学/トピック/太陽の自転周期が雷の発生に影響している ～江戸時代の日記の分析で判明～│研究成果│国立極地研究所
 URL=http://www.nipr.ac.jp/info/notice/20180427.html#QqObMQt.twitter_tweet_count_m
@@ -6619,6 +6667,9 @@ URL=https://twitter.com/hayano/status/962625888687828992
 =2014-04-02T05:52:33+09:00 Science/数学/Squares in Squares
 URL=http://www2.stetson.edu/~efriedma/squinsqu/
 
+=2016-02-14T08:19:48+09:00 Science/数学/Taketo Sanoさんのツイート .@Hyrodium さんと「ぬるぬる動くメビウス変換」というものを作りました！リーマン球面上のメビウス変換を可視化し、
+URL=https://twitter.com/taketo1024/status/698704721486356480
+
 =2018-02-19T07:18:45+09:00 Science/数学/Vsauceさんのツイート 1 = 1! 2 = 2! 145 = 1! + 4! + 5! 40,585 = 4! + 0! + 5! + 8! + 5! These are the only four numbers with this pro
 URL=https://twitter.com/tweetsauce/status/965259567322943490
 
@@ -7462,6 +7513,9 @@ URL=https://www.amazon.co.jp/%E9%87%8F%E5%AD%90%E7%B3%BB%E3%81%AE%E3%82%A8%E3%83
 =2014-05-25T07:45:23+09:00 Science/物理学/長年にわたって謎だったヤカンの「ピー音」、そのメカニズムがついに解明される - Technity
 URL=http://ggsoku.com/tech/scientists-finally-unravel-mechanism-of-kettles-whistling/
 
+=2018-05-08T13:30:00+09:00 Science/物理学/阪大など、逆時空間で光と電子の接触・反発を観測 - EE Times Japan
+URL=http://eetimes.jp/ee/articles/1805/08/news026.html
+
 =2017-12-24T03:00:33+09:00 Science/物理学/雷から「反物質」が生成されるメカニズム、ついに解明へ──京都大学の研究チームが発表｜WIRED.jp
 URL=https://wired.jp/2017/12/23/antimatter-and-thunder/
 
@@ -7587,6 +7641,9 @@ URL=http://www.sciencemag.org/news/2018/04/peregrine-falcons-maneuver-best-when-
 
 =2018-03-10T05:19:26+09:00 Science/生物学/Psymourさんのツイート the blue lines and black lines remain the same length!…
 URL=https://twitter.com/seymiotics/status/971657723204063232
+
+=2018-05-11T08:00:05+09:00 Science/生物学/Retraction Murine hypothalamic destruction with vascular cell apoptosis subsequent to combined administration of human papil
+URL=https://www.nature.com/articles/srep46971
 
 =2018-03-22T11:28:03+09:00 Science/生物学/Robot Microscopes Demystify Plankton, the Sea's...
 URL=https://www.wired.com/story/robot-microscopes-demystify-plankton-the-seas-most-vital-residents/
@@ -8161,11 +8218,17 @@ URL=http://www.tohoku.ac.jp/japanese/2017/11/press20171109-01.html
 =2016-05-06T09:00:00+09:00 Science/生物学/尾が頭だった、ハルキゲニア化石に目と口を発見 研究
 URL=http://www.afpbb.com/articles/-/3052710
 
+=2018-05-10T12:50:33+09:00 Science/生物学/巨大翼竜は飛べなかった？ 島で独自に進化か ナショナルジオグラフィック日本版サイト
+URL=http://natgeo.nikkeibp.co.jp/atcl/news/18/051000208/?n_cid=nbpnng_twed
+
 =2018-04-16T06:17:47+09:00 Science/生物学/年間150以上の野生動物を保護、沖縄 動物のお医者さん（オルタナ） - Yahoo!ニュース
 URL=https://headlines.yahoo.co.jp/article?a=20180416-00010001-alterna-soci
 
 =2018-03-16T11:05:56+09:00 Science/生物学/広葉樹は草？　針葉樹とはまったく違う植物だった(田中淳夫) - 個人 - Yahoo!ニュース
 URL=https://news.yahoo.co.jp/byline/tanakaatsuo/20180316-00082799/
+
+=2018-05-09T12:48:22+09:00 Science/生物学/後ろも見る眼　無意識に周囲を捉えるすぐれた視覚能力 研究成果 受賞・成果等 東北大学 -TOHOKU UNIVERSITY-
+URL=http://www.tohoku.ac.jp/japanese/2018/05/press20180509-01-ushiromomirume.html
 
 =2018-04-30T22:00:15+09:00 Science/生物学/急速に進む海の酸性化が、一部の海洋生物には「有益」だった？ 実験結果から明らかに｜WIRED.jp
 URL=https://wired.jp/2018/04/30/ocean-acidification/
@@ -8346,6 +8409,9 @@ URL=http://gigazine.net/news/20170408-brain-ten-times-more-active/
 
 =2018-01-23T23:00:00+09:00 Science/生物学/脳は体を「支配」しているのではなく「調整」している - GIGAZINE
 URL=https://gigazine.net/news/20180123-evolution-of-pleasure-and-pain/
+
+=2018-05-09T08:30:00+09:00 Science/生物学/脳は時間をどのように記憶するのか？ - GIGAZINE
+URL=https://gigazine.net/news/20180509-how-brain-maps-time/
 
 =2018-01-29T23:10:09+09:00 Science/生物学/脳波がどのようにワーキングメモリをコントロールしているかが最新の研究で明らかに - グノシー
 URL=https://gunosy.com/articles/RNFOA
@@ -9220,6 +9286,9 @@ URL=https://wiki.suikawiki.org/n/qreki
 =2018-03-02T20:03:23+09:00 SIG/暦/トピック/Radiowecker und Herduhren gehen ploetzlich nach - warum - SPIEGEL ONLINE
 URL=http://www.spiegel.de/wissenschaft/technik/radiowecker-und-herduhren-gehen-ploetzlich-nach-warum-a-1196146.html
 
+=2018-05-09T20:02:48+09:00 SIG/暦/トピック/Reem Mohamedさんのツイート もうすぐラマダーンが始まりますが、生活に困窮しているムスリムの方、こちらでラマダーンギフトパックを受けることができます。
+URL=https://twitter.com/ReemMohamed_A/status/994199600843046912
+
 =2013-12-11T13:28:35+09:00 SIG/暦/トピック/ROG_The First Sunrise of the Year 2000 and the New Millennium
 URL=http://www.rog.nmm.ac.uk/leaflets/new_mill.html
 
@@ -9451,6 +9520,9 @@ URL=https://gigazine.net/news/20171226-winter-solstice-illuminations-spanish-mis
 =2013-07-24T00:00:00+09:00 SIG/暦/トピック/ネブラ・ディスク
 URL=https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%96%E3%83%A9%E3%83%BB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF
 
+=2018-05-10T21:32:37+09:00 SIG/暦/トピック/ネーミングバラエティー 日本人のおなまえっ！【元号ってどうやって決めるの？】 - NHK
+URL=http://www4.nhk.or.jp/onamae/x/2018-05-10/21/8626/2291042/
+
 =2014-02-12T00:00:00+09:00 SIG/暦/トピック/ハイビジョン特集　万年時計
 URL=https://www.nhk-ondemand.jp/goods/G2011029196SA000/
 
@@ -9531,6 +9603,9 @@ URL=https://twitter.com/starfeelroom/status/990511299875373056
 
 =2012-09-23T00:00:00+09:00 SIG/暦/トピック/天地明察-「みよこ」さんのスレッド
 URL=http://koyomi.vis.ne.jp/doc/bbs_0112.htm
+
+=2018-05-05T12:56:18+09:00 SIG/暦/トピック/天文学者 麻田剛立の若き日描く　劇団真紅組「幾望」 - 大阪日日新聞
+URL=http://www.nnn.co.jp/dainichi/news/180505/20180505032.html
 
 =2013-09-27T18:13:32+09:00 SIG/暦/トピック/天文将軍 徳川吉宗 …発見！驚異の大宇宙 NHK コズミックフロントより｜「不動産投資と旅」現役大家さん、現役投資家の生の声を聞かせます。
 URL=https://ameblo.jp/e-fh/entry-11622679802.html
@@ -14254,6 +14329,9 @@ URL=http://bylines.news.yahoo.co.jp/tachibanaakira/20160322-00055724/
 =2018-01-01T09:00:34+09:00 Social/思想・宗教/神々のスイートルーム（日枝神社）-連載・漫画家、座二郎が建築と想像の狭間を描く｜WIRED.jp
 URL=https://wired.jp/series/the-superfluous-city/09_hie-jinja/
 
+=2018-05-08T18:17:02+09:00 Social/思想・宗教/神社専門のクラウドファンディングサイト『すうけい』が5月9日正式スタート｜すうけい 一般社団法...
+URL=https://prtimes.jp/main/html/rd/p/000000013.000025662.html
+
 =2017-03-01T14:28:31+09:00 Social/思想・宗教/神話の進化 日経サイエンス
 URL=http://www.nikkei-science.com/201704_046.html
 
@@ -14343,6 +14421,9 @@ URL=http://dentsu-ho.com/articles/3465
 
 =2006-10-02T09:42:30+09:00 Social/教育・研究/6号：日米仏の思考表現スタイルを比較する
 URL=http://berd.benesse.jp/berd/center/open/berd/backnumber/2006_06/fea_watanabe_01.html
+
+=2018-05-09T06:00:00+09:00 Social/教育・研究/6歳の子どもに「関数型プログラミング」を教える方法 - GIGAZINE
+URL=https://gigazine.net/news/20180509-functional-programming-for-6-years-old/
 
 =2018-03-24T19:26:49+09:00 Social/教育・研究/88歳女性が博士号 国内最高齢の取得か 布文化の論文で NHKニュース
 URL=https://www3.nhk.or.jp/news/html/20180324/k10011377561000.html
@@ -15520,6 +15601,9 @@ URL=http://www.ndl.go.jp/jp/2018renewal/index.html
 =2017-02-22T09:08:17+09:00 Social/教育・研究/図書館/広島大学図書館、教科書コレクション画像データベースで全文画像を公開 カレントアウェアネス・ポータル
 URL=http://current.ndl.go.jp/node/33514
 
+=2018-05-09T21:32:47+09:00 Social/教育・研究/図書館/庫ノ林さんのツイート 地方公務員の友人知人。 職場のネット規制が厳し過ぎて。 「googleって何？」 「国会図書館のサイトを理由するのに、いくら費用がかかりますか？」
+URL=https://twitter.com/konobayashi/status/994150940520284160
+
 =2017-03-03T10:23:42+09:00 Social/教育・研究/図書館/探検・国立公文書館 東京人 2017年 04 月号 [雑誌] 本 通販 Amazon
 URL=https://www.amazon.co.jp/%E6%9D%B1%E4%BA%AC%E4%BA%BA-2017%E5%B9%B4-04-%E6%9C%88%E5%8F%B7-%E9%9B%91%E8%AA%8C/dp/B01N7VXU23/ref=as_li_ss_tl?ie=UTF8&qid=1488534137&sr=8-1&keywords=%E6%9D%B1%E4%BA%AC%E4%BA%BA&linkCode=sl1&tag=jshiratori-22&linkId=0db27434a1e817b9e51912c9c3ab2222
 
@@ -15621,6 +15705,9 @@ URL=https://thepage.jp/detail/20161007-00000003-wordleaf
 
 =2017-08-01T07:08:19+09:00 Social/教育・研究/国立大の教員養成縮小を　文科省「公立小中の需要半減へ」　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLASDG01H6Z_R00C17A8CR8000/
+
+=2018-05-10T12:49:01+09:00 Social/教育・研究/国立大は規模縮小、学部再編を＝自民部会が提言案（時事通信） - Yahoo!ニュース
+URL=https://headlines.yahoo.co.jp/hl?a=20180510-00000088-jij-soci
 
 =2016-05-06T09:00:00+09:00 Social/教育・研究/国立大学の人文系学部・大学院、規模縮小へ転換　文科省が素案提示
 URL=http://news.livedoor.com/article/detail/10163518/
@@ -15895,6 +15982,9 @@ URL=https://twitter.com/Yam_eye/status/941142841769594880
 =2014-02-21T00:00:00+09:00 Social/教育・研究/山口晃 - 技術とは、なぜ、磨かれなければならないか。- ほぼ日刊イトイ新聞
 URL=http://www.1101.com/yamaguchi_akira/2013-04-19.html
 
+=2018-05-10T21:30:45+09:00 Social/教育・研究/山本大作さんのツイート 研究者だけじゃなく、高校時代に中国語の授業を取ってれば、4年間授業料、寮費無料で生活費支給してもらえる「中国政府奨学生」に応募できる。
+URL=https://twitter.com/badjoe2015/status/994331823281815552
+
 =2017-06-27T06:34:25+09:00 Social/教育・研究/工学の学部・修士6年一貫制導入　文科省、制度設計へ - 共同通信 47NEWS
 URL=https://this.kiji.is/252263359938217465
 
@@ -16048,6 +16138,9 @@ URL=http://www.asahi.com/articles/ASJ8K43SXJ8KUSPT00B.html
 =2016-06-08T09:44:28+09:00 Social/教育・研究/新井博士は、人工知能開発の過程で、中高生の読解力低下を発見します。知識がなくとも、読解力だけで解ける、... - asianplastic
 URL=http://asianplastic.tumblr.com/post/145533503049
 
+=2018-05-10T08:20:59+09:00 Social/教育・研究/新井紀子 Noriko Araiさんのツイート 物理や化学も（自動採点できる範囲で）選択式ではなく「式そのものを書かせる」に改革したらよい。
+URL=https://twitter.com/noricoco/status/994375787598888960
+
 =2016-06-22T13:12:20+09:00 Social/教育・研究/新連載・意外と知らない教育現場のいま：小学校のプログラミング必修化は本当に必要か - ITmedia ビジネスオンライン
 URL=http://www.itmedia.co.jp/business/articles/1606/21/news017.html
 
@@ -16170,6 +16263,9 @@ URL=http://www.yomiuri.co.jp/fukayomi/ichiran/20161221-OYT8T50120.html?from=y10
 
 =2017-07-01T12:35:32+09:00 Social/教育・研究/東京23区の定員抑制で怒る私大、不甲斐ない文科省
 URL=http://newswitch.jp/p/9552
+
+=2018-05-09T01:00:01+09:00 Social/教育・研究/東京が魅力的な留学先都市の世界第2位に選ばれました - QS Best Student Cit...
+URL=https://prtimes.jp/main/html/rd/p/000000017.000020963.html
 
 =2016-11-18T14:30:27+09:00 Social/教育・研究/東京新聞不登校対策法案　漂う差別的なまなざし社説・コラム(TOKYO Web)
 URL=http://www.tokyo-np.co.jp/article/column/editorial/CK2016111802000136.html
@@ -17166,6 +17262,9 @@ URL=http://nlab.itmedia.co.jp/nl/articles/1707/14/news113.html
 
 =2017-11-29T15:11:37+09:00 Social/発明・知財/JASRACの値上げ方針に映画館団体が反論　「不当に低廉ではない」
 URL=https://www.buzzfeed.com/jp/ryosukekamba/zenkoren?utm_term=.osYeWMvlW
+
+=2018-05-09T21:36:27+09:00 Social/発明・知財/kawango2525さん、「通信の最適化／通信の秘密」について高木浩光さんにケンカを売りいろいろ言われる - Togetter
+URL=https://togetter.com/li/1225871
 
 =2018-04-26T22:01:00+09:00 Social/発明・知財/Kindleストアに「自衛隊イラク日報」電子書籍版が登場　個人ユーザーが出版、データは朝日新聞から抽出……これはアリ! - ねとらぼ
 URL=http://nlab.itmedia.co.jp/nl/articles/1804/26/news141.html
@@ -18223,6 +18322,9 @@ URL=http://agora-web.jp/archives/2030369.html
 =2017-02-10T07:31:12+09:00 Social/経済/三菱ＵＦＪとみずほ銀、ついに預金利回「0.00％」－マイナス金利１年 （Bloomberg） - Yahoo!ニュース
 URL=http://headlines.yahoo.co.jp/hl?a=20170210-66707050-bloom_st-bus_all
 
+=2018-05-09T07:29:01+09:00 Social/経済/世帯所得が低い世帯は乳児の体重増加不良が1.3倍　～約55,000人の調査から～　（北里大学）...
+URL=https://japan.cnet.com/release/30246791/
+
 =2018-02-21T20:49:51+09:00 Social/経済/世界が報じた「日本品質の劣化」は大きな誤解、不祥事招いた日本企業の3つの弱み BUSINESS INSIDER JAPAN
 URL=https://www.businessinsider.jp/post-162452
 
@@ -18610,8 +18712,14 @@ URL=http://www.l.u-tokyo.ac.jp/2015SSM-PJ/08_02.pdf
 =2013-12-11T13:28:37+09:00 Social/経済/現在有効なお金
 URL=http://www.boj.or.jp/about/okane.htm
 
+=2018-05-09T07:30:00+09:00 Social/経済/現金が消える日は来るのか--キャッシュレス化の道のりを探る - CNET Japan
+URL=https://japan.cnet.com/article/35118637/
+
 =2017-12-24T22:00:00+09:00 Social/経済/現金大国日本に重いコスト　ＡＴＭ維持に年２兆円　　：日本経済新聞
 URL=https://www.nikkei.com/article/DGXMZO25018690U7A221C1NN1000/
+
+=2018-05-11T05:00:00+09:00 Social/経済/理系学生が選ぶ就職人気ランキング100社 TOP10のうち5社が食品業界 人工知能ニュ...
+URL=http://news.livedoor.com/article/detail/14697536/
 
 =2016-09-27T12:24:58+09:00 Social/経済/異色の経済書の著者は、日銀の「総括的な検証」をどう読んだか？｜日本人が知らない本当の世界経済の授業｜ダイヤモンド・オンライン
 URL=http://diamond.jp/articles/-/103009
@@ -18744,6 +18852,9 @@ URL=http://www.nikkei.com/article/DGXMZO19552690S7A800C1000000/
 
 =2018-02-10T16:02:39+09:00 Social/経済/韓国や中国製品は既に「日本製より安いので売れる」でなく「断然高いのに売れている」（音楽の話も） - Togetter
 URL=https://togetter.com/li/1198454
+
+=2018-05-07T07:58:24+09:00 Social/経済/食い物先生（積極財政派）さんのツイート 自分が世代間対立を煽る発言を支持しないのは、橋本内閣以降の間違った経済政策が原因で国民が貧しくなったのに、
+URL=https://twitter.com/k3125ctj/status/993486266585923587
 
 =2017-11-09T08:52:22+09:00 Social/経済/首相３％賃上げ要請 政策の後押しが欠かせぬ 論説 福井新聞ONLINE
 URL=http://www.fukuishimbun.co.jp/articles/-/258635
@@ -19608,6 +19719,9 @@ URL=http://www.anyouji.or.jp/Tate1_Hannya.html
 
 =2013-12-11T13:28:38+09:00 Social/言語・文字/珍名字展覧会
 URL=http://www.bekkoame.ne.jp/~osapie/Myouji/rarefra.htm
+
+=2018-05-07T21:33:27+09:00 Social/言語・文字/現代文字を入力するだけで古典籍や古文書の文字に変換できる「くずし字ジェネレーター」 - MdN Design Interactive - デザインとグラフィックの総合情報サイト
+URL=https://www.mdn.co.jp/di/newstopics/58630/
 
 =2014-10-16T00:00:00+09:00 Social/言語・文字/琉球語#日本語との対応関係
 URL=https://ja.wikipedia.org/wiki/%E7%90%89%E7%90%83%E8%AA%9E#.E6.97.A5.E6.9C.AC.E8.AA.9E.E3.81.A8.E3.81.AE.E5.AF.BE.E5.BF.9C.E9.96.A2.E4.BF.82
