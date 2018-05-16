@@ -16,7 +16,7 @@ ODG
 ウェアラブル
 拡張現実
 
-=2018-05-10T09:33:15+09:00 Computer/トピック/セキュリティ/keywords
+=2018-05-16T10:45:33+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -54,6 +54,8 @@ Spectre
 Meltdown
 Mirai
 パスワード,PW
+スパイ
+ダークウェブ
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -466,16 +468,17 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2018-03-08T17:56:17+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2018-05-16T10:45:35+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
 OpenCat
+Comi Kuma
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
 
-=2017-11-11T08:43:19+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2018-05-16T10:45:30+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -486,6 +489,7 @@ OpenCat
 求職
 職種
 HR
+HRテック
 
 =2018-03-27T17:29:06+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -595,6 +599,9 @@ MNIST
 自動運転
 自動操縦
 
+=2018-05-16T10:45:30+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
+無人運転車
+
 =2017-03-23T10:41:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/FEP/keyword
 かな漢字変換
 ATOK
@@ -642,8 +649,9 @@ LUIS
 議事録
 秘書
 
-=2018-05-13T08:06:15+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
+=2018-05-16T10:45:29+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
 音声処理
+ヨミ子さん
 
 =2017-05-02T10:45:36+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
@@ -1364,11 +1372,12 @@ Money Data Bank,MDB
 =2017-10-25T14:26:42+09:00 Computer/トピック/社会動向/企業/Kaspersky/keywords
 Kaspersky,カスペルスキー
 
-=2017-10-04T08:14:56+09:00 Computer/トピック/社会動向/企業/KDDI/keywords
+=2018-05-16T10:45:35+09:00 Computer/トピック/社会動向/企業/KDDI/keywords
 Fleksy
 KDDI AI翻訳
 KDDI TV通訳
 cloudpack with KDDI
+au未来研究所
 
 =2017-06-12T09:01:36+09:00 Computer/トピック/社会動向/企業/KDDI/Supership/keywords
 Ad Generation,アドジェネ
@@ -3600,6 +3609,9 @@ LUNA
 
 =2017-04-11T13:51:03+09:00 Computer/トピック/社会動向/企業/日本光電工業/keywords
 NATESAS
+
+=2018-05-16T10:45:34+09:00 Computer/トピック/社会動向/企業/日本出版販売/keywords
+日販
 
 =2017-11-12T15:53:59+09:00 Computer/トピック/社会動向/企業/日本技術貿易/keywords
 日本技術貿易,NGB
