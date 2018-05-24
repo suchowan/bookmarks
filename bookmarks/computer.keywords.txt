@@ -16,6 +16,9 @@ ODG
 ウェアラブル
 拡張現実
 
+=2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
+WEEKLY人工無脳
+
 =2018-05-16T10:45:33+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
@@ -158,7 +161,7 @@ Xignite API
 機械学習API,Machine Learning API
 深層学習API,Deep Learning API
 
-=2018-03-16T11:48:42+09:00 Computer/トピック/ツール/クラウド/Microsoft/keywords
+=2018-05-24T10:25:29+09:00 Computer/トピック/ツール/クラウド/Microsoft/keywords
 QnAMaker
 Azure
 Babylon.js
@@ -166,6 +169,7 @@ LUIS,Language Understanding Intelligent Service
 Azure Container Service,ACS
 Video Indexer
 Service Fabric
+Cognitive Search
 
 =2017-08-21T12:36:00+09:00 Computer/トピック/ツール/クラウド/その他/AIエージェントAPI/keywords
 横浜市のごみ分別AI
@@ -247,7 +251,7 @@ WEBrick
 =2018-04-14T14:05:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rails/keywords
 Rails5
 
-=2018-05-03T18:49:26+09:00 Computer/トピック/ツール/データベース/keywords
+=2018-05-24T10:25:26+09:00 Computer/トピック/ツール/データベース/keywords
 Oracle
 Vertica
 ElasticSearch
@@ -261,6 +265,7 @@ SQL
 プリザンター
 SQLite
 FoundationDB
+NoSQL
 
 =2017-11-11T08:35:39+09:00 Computer/トピック/ビッグデータ/Crawler・検索エンジン/keywords
 Nutch
@@ -354,19 +359,21 @@ Echosim.io
 =2017-11-11T07:56:20+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
 
-=2018-04-05T13:20:57+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2018-05-24T10:25:26+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
 起業ライダーマモル
 Watson Assistant
 対話
+spot
 
 =2017-03-22T09:31:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/りんな/keywords
 りんな,Rinna
 
-=2017-10-24T08:41:42+09:00 Computer/トピック/機械学習/機械学習応用/RPA/keywords
+=2018-05-24T10:25:37+09:00 Computer/トピック/機械学習/機械学習応用/RPA/keywords
 RPA,Robotic Process Automation
+自動化
 
 =2017-03-22T11:23:52+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
 自動生成
@@ -468,12 +475,13 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2018-05-16T10:45:35+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2018-05-24T10:25:28+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
 OpenCat
 Comi Kuma
+robot
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -1167,6 +1175,9 @@ Gamalon,ガマロン
 =2017-07-10T07:26:50+09:00 Computer/トピック/社会動向/企業/Gatebox/keywords
 ウィンクル
 
+=2018-05-24T10:25:39+09:00 Computer/トピック/社会動向/企業/GAUSS/keywords
+SIVA
+
 =2017-04-13T10:26:20+09:00 Computer/トピック/社会動向/企業/GDEP/keywords
 GDEPグループ,GDEP
 GDEPアドバンス
@@ -1397,6 +1408,9 @@ RapidMiner
 
 =2017-11-11T15:43:48+09:00 Computer/トピック/社会動向/企業/Lenovo/keywords
 Lenovo,レノボ
+
+=2018-05-24T10:25:30+09:00 Computer/トピック/社会動向/企業/LG/keywords
+ThinQ AI
 
 =2018-03-02T10:53:28+09:00 Computer/トピック/社会動向/企業/LiB/keywords
 LiBzCAREER
@@ -3904,7 +3918,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2018-05-19T11:12:04+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2018-05-24T10:25:45+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -3915,6 +3929,7 @@ TSUBAME
 石狩市
 兵庫県
 つくば市
+広島県
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
