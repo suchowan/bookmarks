@@ -1,4 +1,4 @@
-=2018-04-26T10:35:19+09:00 Computer/トピック/VR・AR・MR/keywords
+=2018-05-30T13:31:27+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -15,11 +15,12 @@ Magic Leap
 ODG
 ウェアラブル
 拡張現実
+複合現実
 
 =2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
 WEEKLY人工無脳
 
-=2018-05-16T10:45:33+09:00 Computer/トピック/セキュリティ/keywords
+=2018-05-30T13:31:27+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -59,6 +60,7 @@ Mirai
 パスワード,PW
 スパイ
 ダークウェブ
+VPNFilter
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -105,6 +107,9 @@ chainer
 機械学習フレームワーク,Machine Learning Framework
 深層学習ライブラリ,Deep Learning Library
 深層学習フレームワーク,Deep Learning Framework
+
+=2018-05-30T13:31:31+09:00 Computer/トピック/ツール/オンプレミス/OpenAI/keywords
+Gym Retro
 
 =2017-08-16T10:05:00+09:00 Computer/トピック/ツール/オンプレミス/PowerAI/keywords
 DDL,Distributed Deep Learning
@@ -350,9 +355,9 @@ DMP
 失敗例
 経営者
 
-=2018-04-26T10:35:15+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
+=2018-05-30T14:34:04+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
 Alexa,アレクサ
-Amazon Echo
+Amazon Echo,AmazonEcho
 Echosim.io
 アマゾン・エコー
 
@@ -486,7 +491,7 @@ robot
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
 
-=2018-05-16T10:45:30+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2018-05-30T13:31:33+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -498,6 +503,7 @@ robot
 職種
 HR
 HRテック
+Smart HR
 
 =2018-03-27T17:29:06+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -1039,6 +1045,9 @@ TravelMate
 =2017-10-24T07:34:38+09:00 Computer/トピック/社会動向/企業/Disney/keywords
 Disney,ディズニー
 
+=2018-05-30T13:31:34+09:00 Computer/トピック/社会動向/企業/Diver Down/keywords
+マシュマロ
+
 =2017-10-20T09:13:15+09:00 Computer/トピック/社会動向/企業/DJI/keywords
 MATRICE
 
@@ -1093,6 +1102,9 @@ Engazify
 
 =2017-11-22T17:06:34+09:00 Computer/トピック/社会動向/企業/Enhance Games/keywords
 Rez Infinite
+
+=2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Essential Products/keywords
+Essential Phone
 
 =2017-07-25T08:38:11+09:00 Computer/トピック/社会動向/企業/EVERRISE/keywords
 アドレポ
@@ -1153,6 +1165,9 @@ Freebit,フリービット
 Freebit Cloud HANABI
 freebit cloud IoT Platform
 
+=2018-05-30T13:31:33+09:00 Computer/トピック/社会動向/企業/freee/keywords
+cyzen
+
 =2017-05-29T08:01:04+09:00 Computer/トピック/社会動向/企業/Fringe81/keywords
 Columva,コルンバ
 
@@ -1212,7 +1227,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2018-05-19T11:12:06+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2018-05-30T13:31:30+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1245,6 +1260,7 @@ SONG MAKER
 Google Lens
 Google Colaboratory
 Project Shield
+Google Duplex
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
@@ -1484,7 +1500,7 @@ CALNA
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
 
-=2018-04-05T13:20:50+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2018-05-30T13:31:27+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -1506,6 +1522,7 @@ Pix
 Service Fabric
 Surface Hub
 Dynamics 365
+SharePoint
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -1819,10 +1836,10 @@ SmartThings
 =2017-06-26T07:58:41+09:00 Computer/トピック/社会動向/企業/Sansan/keywords
 Eight
 
-=2018-03-12T11:00:25+09:00 Computer/トピック/社会動向/企業/SAP/keywords
+=2018-05-30T14:35:15+09:00 Computer/トピック/社会動向/企業/SAP/keywords
 S/4HANA Cloud
 SAP Integrated Business Planning
-SAP Leonardo
+SAP Leonardo,Leonardo
 Data Hub
 Big Data Margin Assurance
 
@@ -1871,6 +1888,9 @@ SKT,SKテレコム
 
 =2017-03-30T10:09:21+09:00 Computer/トピック/社会動向/企業/Skymind/keywords
 Deeplearning4j,DL4J
+
+=2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Slack/keywords
+Actions
 
 =2017-04-10T09:20:29+09:00 Computer/トピック/社会動向/企業/Snap/keywords
 Snapchat
@@ -2058,6 +2078,9 @@ CarriRo Delivery
 
 =2018-05-10T09:37:52+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
 ZOZOSUIT
+
+=2018-05-30T14:35:55+09:00 Computer/トピック/社会動向/企業/Zscaler/keywords
+Zscaler,ゼットスケーラー
 
 =2017-10-20T10:28:04+09:00 Computer/トピック/社会動向/企業/ZWEISPACE JAPAN/keywords
 オートカルク
@@ -3059,6 +3082,9 @@ AppSuite
 ARIA,アリア
 Virtual Fashion
 
+=2018-05-30T14:36:31+09:00 Computer/トピック/社会動向/企業/ネスレ日本/keywords
+ネスレ日本,ネスレ
+
 =2017-04-21T09:09:43+09:00 Computer/トピック/社会動向/企業/ネットアップ/keywords
 SolidFire
 
@@ -3189,6 +3215,9 @@ ATLS,アトラス
 
 =2017-04-11T09:46:03+09:00 Computer/トピック/社会動向/企業/フォースター/keywords
 マイクロサービスアーキテクチャF
+
+=2018-05-30T13:31:26+09:00 Computer/トピック/社会動向/企業/フォーティネット/keywords
+FortiOS
 
 =2017-12-15T15:44:01+09:00 Computer/トピック/社会動向/企業/フューチャースタンダード/keywords
 SCORER Cloud Processing,スコアラー クラウド プロセッシング
@@ -3611,9 +3640,9 @@ NSRI,日建設計,日建設計総合研究所
 =2017-10-10T10:46:36+09:00 Computer/トピック/社会動向/企業/日本カーソリューションズ/keywords
 日本カーソリューションズ,NCS
 
-=2017-04-13T10:31:18+09:00 Computer/トピック/社会動向/企業/日本システムウエア/keywords
+=2018-05-30T14:37:12+09:00 Computer/トピック/社会動向/企業/日本システムウエア/keywords
 日本システムウエア,NSW
-Toami
+Toami,Toami Analytics for 予知保全
 
 =2017-09-26T09:35:56+09:00 Computer/トピック/社会動向/企業/日本デジタル・プロセシング・システムズ/keywords
 日本デジタル・プロセシング・システムズ株式会社,DPSJ
