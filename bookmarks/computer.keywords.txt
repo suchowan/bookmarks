@@ -21,7 +21,7 @@ OculusGo
 =2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
 WEEKLY人工無脳
 
-=2018-05-30T13:31:27+09:00 Computer/トピック/セキュリティ/keywords
+=2018-06-06T15:56:07+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -62,6 +62,7 @@ Mirai
 スパイ
 ダークウェブ
 VPNFilter
+スパム
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -153,7 +154,7 @@ Google Cloud
 GAE
 Cloud Speech-to-Text
 
-=2018-04-22T06:48:54+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
+=2018-06-06T15:56:06+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
 Watson
 Alchemy
@@ -161,6 +162,7 @@ Retrieve and Rank
 Mendix
 ワトソン
 Xignite API
+Cloud Private for Data
 
 =2017-03-17T14:45:51+09:00 Computer/トピック/ツール/クラウド/keywords
 クラウド,Cloud
@@ -1304,7 +1306,7 @@ Huawei,ファーウェイ
 =2017-10-16T10:30:52+09:00 Computer/トピック/社会動向/企業/HybridBlock/keywords
 HybridBlock,ハイブリッドブロック
 
-=2018-03-08T17:56:12+09:00 Computer/トピック/社会動向/企業/IBM/keywords
+=2018-06-06T15:56:06+09:00 Computer/トピック/社会動向/企業/IBM/keywords
 Watson
 Bluemix
 IBM TrueNorth
@@ -1312,6 +1314,7 @@ IBM Data Science Experience with HDP
 IBM Blockchain Platform
 IBM Integrated Analytics System
 PAIRS Geoscope
+Cloud Private for Data
 
 =2018-01-31T17:09:07+09:00 Computer/トピック/社会動向/企業/iCARE/keywords
 Carely
@@ -1660,11 +1663,12 @@ AICYCLE
 Hinemos
 AI.Studio
 
-=2017-11-11T08:32:15+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
+=2018-06-06T15:56:08+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ,Docomo
 petoco
 beyond宣言
 東京2020推進室
+my daiz
 
 =2017-04-18T07:25:05+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
 Oshi-el,オシエル
@@ -2833,7 +2837,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2018-02-13T10:47:32+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2018-06-06T15:56:07+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -2843,6 +2847,7 @@ NNabla
 FAIT,Fit with AI Trainer,ファイト
 wena wrist
 toio,トイオ
+MESH
 
 =2017-10-10T09:15:03+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -3039,9 +3044,10 @@ TREASURE CDP
 =2017-11-11T08:57:43+09:00 Computer/トピック/社会動向/企業/トーマツ/keywords
 WellMe
 
-=2017-11-23T08:12:25+09:00 Computer/トピック/社会動向/企業/ドリーム・アーツ/keywords
+=2018-06-06T15:56:07+09:00 Computer/トピック/社会動向/企業/ドリーム・アーツ/keywords
 INSUITE,インスイート
 知話輪
+hibiki
 
 =2017-05-02T07:51:49+09:00 Computer/トピック/社会動向/企業/ドワンゴ/keywords
 ドワンゴ,DWANGO
