@@ -136,7 +136,7 @@ ONNX,Open Neural Network Exchange
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/オンプレミス/その他/Vertica/keywords
 HPE,Hewlett Packard Enterprise
 
-=2018-06-16T17:22:18+09:00 Computer/トピック/ツール/クラウド/Amazon/keywords
+=2018-06-23T16:28:50+09:00 Computer/トピック/ツール/クラウド/Amazon/keywords
 Alexa
 AWS
 Greengrass
@@ -146,6 +146,7 @@ Amazon S3
 AWSJ
 Sumerian
 Amazon EMR
+DeepLens
 
 =2018-04-22T06:48:54+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
@@ -172,7 +173,7 @@ Cloud Private for Data
 機械学習API,Machine Learning API
 深層学習API,Deep Learning API
 
-=2018-05-24T10:25:29+09:00 Computer/トピック/ツール/クラウド/Microsoft/keywords
+=2018-06-23T16:28:50+09:00 Computer/トピック/ツール/クラウド/Microsoft/keywords
 QnAMaker
 Azure
 Babylon.js
@@ -181,6 +182,7 @@ Azure Container Service,ACS
 Video Indexer
 Service Fabric
 Cognitive Search
+BingWebSearchAPI
 
 =2017-08-21T12:36:00+09:00 Computer/トピック/ツール/クラウド/その他/AIエージェントAPI/keywords
 横浜市のごみ分別AI
@@ -222,6 +224,9 @@ Stepsize
 =2017-04-13T10:20:00+09:00 Computer/トピック/ツール/ソフトウェアシステム/ソフトウェアツール/Superset/keywords
 Airbnb
 データ可視化
+
+=2018-06-23T16:28:54+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Git・GitHub・GitLab/keywords
+git
 
 =2017-03-21T14:00:06+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/HP Codar/keywords
 HPE,Hewlett Packard Enterprise
@@ -323,7 +328,7 @@ FIELD system
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
 
-=2018-05-03T18:49:57+09:00 Computer/トピック/ブロックチェーン/keywords
+=2018-06-23T16:28:54+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -331,6 +336,7 @@ Mastodon,マストドン
 イーサリウム,Ethereum
 ICO
 URM
+CoinHive
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -371,7 +377,7 @@ Echosim.io
 =2017-11-11T07:56:20+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
 
-=2018-05-24T10:25:26+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2018-06-23T16:28:51+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -379,6 +385,7 @@ Google Home
 Watson Assistant
 対話
 spot
+Project Debater
 
 =2017-03-22T09:31:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/りんな/keywords
 りんな,Rinna
@@ -502,7 +509,7 @@ robot
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
 
-=2018-05-30T13:31:33+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2018-06-23T16:28:52+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -515,6 +522,7 @@ robot
 HR
 HRテック
 Smart HR
+Hire
 
 =2018-03-27T17:29:06+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -845,13 +853,14 @@ Gripper
 Capitalico,キャピタリコ
 Labellio,ラベリオ
 
-=2017-12-08T13:45:52+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2018-06-23T16:28:54+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
 AWS
 Alexa
 Echo Look
 GuardDuty
 SageMaker
+Hub by Amazon
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -4051,8 +4060,9 @@ Shoubu
 =2017-03-28T13:45:10+09:00 Computer/トピック/社会動向/規格/ソフトウェア/keywords
 相互接続性
 
-=2018-03-08T17:56:12+09:00 Computer/トピック/量子コンピュータ/keywords
+=2018-06-23T16:28:54+09:00 Computer/トピック/量子コンピュータ/keywords
 量子コンピューティング
 Q#
 Bristlecone
+アニーリング
 
