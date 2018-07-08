@@ -1183,6 +1183,9 @@ cloud.config
 =2017-10-10T11:26:54+09:00 Computer/トピック/社会動向/企業/Flatt/keywords
 PinQul
 
+=2018-07-07T10:02:03+09:00 Computer/トピック/社会動向/企業/Flow Solutions/keywords
+InSight
+
 =2017-08-16T09:38:39+09:00 Computer/トピック/社会動向/企業/Foxconn/keywords
 Foxconn,鴻海
 
@@ -1372,6 +1375,9 @@ FLUX
 =2017-08-07T08:58:07+09:00 Computer/トピック/社会動向/企業/Infor/keywords
 Infor CloudSuite
 Coleman
+
+=2018-07-07T10:02:02+09:00 Computer/トピック/社会動向/企業/INJUS/keywords
+ChatFielder
 
 =2018-06-02T14:32:05+09:00 Computer/トピック/社会動向/企業/Intel/keywords
 Intel,インテル
@@ -2004,6 +2010,9 @@ NEUTRANS
 =2017-12-15T11:52:19+09:00 Computer/トピック/社会動向/企業/Synaptics/keywords
 Clear ID
 
+=2018-07-07T10:02:01+09:00 Computer/トピック/社会動向/企業/TalenTa/keywords
+HireVue
+
 =2018-03-12T11:00:25+09:00 Computer/トピック/社会動向/企業/TDK/keywords
 Chirp
 
@@ -2119,8 +2128,9 @@ OneRun
 fanp
 fanp Biz
 
-=2017-07-18T07:33:09+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
+=2018-07-07T10:02:03+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
 CarriRo Delivery
+CarriRo
 
 =2018-05-10T09:37:52+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
 ZOZOSUIT
@@ -3981,6 +3991,9 @@ K-now
 
 =2017-03-28T13:55:08+09:00 Computer/トピック/社会動向/大学/京都大学/keywords
 京都大学,京大
+
+=2018-07-07T10:02:04+09:00 Computer/トピック/社会動向/大学/千葉工業大学/keywords
+CanguRo
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
