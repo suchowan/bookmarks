@@ -84,7 +84,7 @@ Blazegraph
 DBpedia
 LOD,Linked Open Data
 
-=2018-06-02T14:32:05+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2018-07-14T13:23:39+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
@@ -101,6 +101,7 @@ Bristlecone
 Project Trillium
 FPGAaaS
 Spring Crest
+TPU
 
 =2018-05-13T08:06:18+09:00 Computer/トピック/ツール/オンプレミス/Chainer/keywords
 ChainerMN
@@ -498,13 +499,14 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2018-05-24T10:25:28+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2018-07-14T13:23:39+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
 OpenCat
 Comi Kuma
 robot
+ROS
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -1311,7 +1313,7 @@ Kishin
 HISホテル,H.I.S.,H.I.S.ホテルホールディングス
 変なホテル
 
-=2017-11-11T06:13:50+09:00 Computer/トピック/社会動向/企業/HPE/keywords
+=2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/HPE/keywords
 HPE,Hewlett Packard Enterprise,ヒューレット・パッカード
 Haven OnDemand
 HPE Aruba
@@ -1321,6 +1323,7 @@ HPE Rapid Software Installation for AI
 HPE Deep Learning Cookbook
 HPE AI Innovation Center
 Enhanced HPE Center of Excellence,CoE
+Blue Brain
 
 =2017-11-11T06:15:29+09:00 Computer/トピック/社会動向/企業/Huawei/keywords
 Enterprise Intelligence
@@ -1711,8 +1714,8 @@ Oshi-el,オシエル
 Nuance,ニュアンス・コミュニケーションズ・ジャパン,ニュアンス・コミュニケーションズ
 Dragon Drive
 
-=2017-10-02T13:47:33+09:00 Computer/トピック/社会動向/企業/NVIDIA/keywords
-NVIDIA,エヌビディア
+=2018-07-14T13:49:54+09:00 Computer/トピック/社会動向/企業/NVIDIA/keywords
+NVIDIA,Nvidia,エヌビディア
 TensorRT
 
 =2017-08-08T09:30:53+09:00 Computer/トピック/社会動向/企業/Oculus/keywords
@@ -1792,6 +1795,9 @@ Juicer
 
 =2017-07-04T10:18:27+09:00 Computer/トピック/社会動向/企業/PLENGoerRobotics/keywords
 PLEN Cube
+
+=2018-07-14T13:23:40+09:00 Computer/トピック/社会動向/企業/Polar/keywords
+Polar Flow
 
 =2017-07-21T11:41:55+09:00 Computer/トピック/社会動向/企業/POLYGLOTS/keywords
 POLYGLOTS,ポリグロッツ
@@ -2071,6 +2077,9 @@ ULA,United Launch Alliance
 =2018-02-02T08:23:46+09:00 Computer/トピック/社会動向/企業/USEN-NEXT/keywords
 innto
 
+=2018-07-14T13:23:40+09:00 Computer/トピック/社会動向/企業/VACAN/keywords
+Throne
+
 =2018-06-15T17:13:16+09:00 Computer/トピック/社会動向/企業/Valve/keywords
 Steam
 
@@ -2086,6 +2095,9 @@ Veritas,ベリタス
 =2017-10-02T08:40:22+09:00 Computer/トピック/社会動向/企業/Veritone/keywords
 aiWARE
 Xcellis
+
+=2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/VISITS Technologies/keywords
+ideagram
 
 =2017-09-04T09:45:53+09:00 Computer/トピック/社会動向/企業/VMware/keywords
 AirWatch
@@ -2106,7 +2118,8 @@ HIWIRE
 =2017-08-23T07:27:59+09:00 Computer/トピック/社会動向/企業/White Motion/keywords
 White Motion,ホワイトモーション
 
-=2017-08-29T09:43:11+09:00 Computer/トピック/社会動向/企業/Wind River/keywords
+=2018-07-14T13:49:10+09:00 Computer/トピック/社会動向/企業/Wind River/keywords
+Wind River,ウインドリバー
 VxWorks
 AXON Predict Analytics
 
@@ -3207,11 +3220,12 @@ AppGuard
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2017-09-20T08:30:31+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
 感情認識 SDK/API
+100BANCH
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
@@ -3457,6 +3471,9 @@ teacha
 kukai,クウカイ
 AnnexML
 
+=2018-07-14T13:23:40+09:00 Computer/トピック/社会動向/企業/ヤプリ/keywords
+yappli
+
 =2018-04-28T12:27:19+09:00 Computer/トピック/社会動向/企業/ヤマト運輸/keywords
 ヤマト
 
@@ -3670,8 +3687,9 @@ MMCloud
 =2017-04-11T10:56:07+09:00 Computer/トピック/社会動向/企業/安藤ハザマ/keywords
 AHSES,Adjusting to Human Smart Energy System
 
-=2017-04-11T14:26:38+09:00 Computer/トピック/社会動向/企業/富士ゼロックス/keywords
+=2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/富士ゼロックス/keywords
 SCQM,Supply Chain Quality Management System
+Smart Data Entry
 
 =2017-04-11T14:32:28+09:00 Computer/トピック/社会動向/企業/富士ソフト/keywords
 PALRO,パルロ
