@@ -21,7 +21,7 @@ OculusGo
 =2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
 WEEKLY人工無脳
 
-=2018-07-30T09:22:31+09:00 Computer/トピック/セキュリティ/keywords
+=2018-08-04T07:26:22+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -64,6 +64,7 @@ Mirai
 VPNFilter
 スパム
 Titan Security Key
+ランサムウエア
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -151,13 +152,15 @@ Sumerian
 Amazon EMR
 DeepLens
 
-=2018-04-22T06:48:54+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
+=2018-08-04T07:26:25+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
 Google AppEngine
 Firebase
 Google Cloud
 GAE
 Cloud Speech-to-Text
+Bigquery
+Cloud Services Platform
 
 =2018-06-06T15:56:06+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
@@ -369,11 +372,12 @@ TensorFlow
 Keras
 Chainer
 
-=2017-04-13T10:22:38+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
+=2018-08-04T07:26:23+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
 DMP
 情シス,情報システム部
 失敗例
 経営者
+導入
 
 =2018-05-30T14:34:04+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
 Alexa,アレクサ
@@ -400,6 +404,9 @@ Project Debater
 =2018-05-24T10:25:37+09:00 Computer/トピック/機械学習/機械学習応用/RPA/keywords
 RPA,Robotic Process Automation
 自動化
+
+=2018-08-04T07:26:28+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/故障/keywords
+危険検知
 
 =2017-03-22T11:23:52+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
 自動生成
@@ -1600,6 +1607,9 @@ MKT METAL
 =2017-08-08T10:52:43+09:00 Computer/トピック/社会動向/企業/mofmof/keywords
 My-ope office
 
+=2018-08-04T07:26:22+09:00 Computer/トピック/社会動向/企業/Momentum/keywords
+BlackSwan
+
 =2017-08-18T08:24:00+09:00 Computer/トピック/社会動向/企業/MongoDB/keywords
 Atlas DBaaS
 
@@ -1840,6 +1850,9 @@ Pulse Secure,パルスセキュア
 
 =2017-11-22T16:30:04+09:00 Computer/トピック/社会動向/企業/PwCコンサルティング/keywords
 PwCコンサルティング,PwC
+
+=2018-08-04T07:26:29+09:00 Computer/トピック/社会動向/企業/QDレーザ/keywords
+RETISSA Display
 
 =2017-11-11T08:37:47+09:00 Computer/トピック/社会動向/企業/Qrio/keywords
 Qrio Smart Lock
@@ -3588,6 +3601,9 @@ SilentLog Analytics
 =2018-01-31T17:17:56+09:00 Computer/トピック/社会動向/企業/レジェンダ・コーポレーション/keywords
 1st JUDGE,ファーストジャッジ
 
+=2018-08-04T07:26:23+09:00 Computer/トピック/社会動向/企業/レッジ/keywords
+Ledge.ai
+
 =2017-05-09T07:27:20+09:00 Computer/トピック/社会動向/企業/レトリバ/keywords
 Sedue,セデュー
 Answer Finder
@@ -3714,7 +3730,7 @@ Smart Data Entry
 =2017-04-11T14:32:28+09:00 Computer/トピック/社会動向/企業/富士ソフト/keywords
 PALRO,パルロ
 
-=2018-04-05T13:20:58+09:00 Computer/トピック/社会動向/企業/富士フィルム/keywords
+=2018-04-05T13:20:58+09:00 Computer/トピック/社会動向/企業/富士フイルム/keywords
 富士フィルム,富士フイルム
 SYNAPSE Case Match
 ひびみっけ
