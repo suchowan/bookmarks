@@ -21,7 +21,7 @@ OculusGo
 =2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
 WEEKLY人工無脳
 
-=2018-08-04T07:26:22+09:00 Computer/トピック/セキュリティ/keywords
+=2018-08-14T15:27:35+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -65,6 +65,7 @@ VPNFilter
 スパム
 Titan Security Key
 ランサムウエア
+算師
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -231,8 +232,9 @@ Stepsize
 Airbnb
 データ可視化
 
-=2018-06-23T16:28:54+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Git・GitHub・GitLab/keywords
+=2018-08-14T15:30:41+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Git・GitHub・GitLab/keywords
 git
+ギットハブ,GitHub
 
 =2017-03-21T14:00:06+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/HP Codar/keywords
 HPE,Hewlett Packard Enterprise
@@ -299,7 +301,7 @@ Anemone
 キーワードフォルダ
 スクレイピング
 
-=2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/keywords
+=2018-08-14T15:27:44+09:00 Computer/トピック/ビッグデータ/IoT/keywords
 インダストリー4.0,第４次産業革命
 エクスペリエンス4.0
 スマート
@@ -313,6 +315,7 @@ Fog Computing,フォグコンピューティング
 LPWA
 P-SIRT
 Android Things
+LIDAR
 
 =2017-07-24T13:09:39+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ
@@ -419,11 +422,14 @@ RPA,Robotic Process Automation
 脚本,シナリオ
 物語
 
-=2017-03-22T11:15:56+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
+=2018-08-14T15:27:43+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
 ピッタリ
 指南
 コンシェルジュ
+オススメ
+おすすめ
+意志決定
 
 =2018-05-03T18:47:59+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
@@ -900,8 +906,9 @@ tabii
 =2017-03-28T14:43:00+09:00 Computer/トピック/社会動向/企業/Ankercast/keywords
 ミミヨリ
 
-=2017-03-28T14:43:25+09:00 Computer/トピック/社会動向/企業/Anki/keywords
+=2018-08-14T15:27:36+09:00 Computer/トピック/社会動向/企業/Anki/keywords
 Cozmo
+COZMO
 
 =2017-09-14T08:53:43+09:00 Computer/トピック/社会動向/企業/AnyPay/keywords
 ANGOプロジェクト
@@ -1223,12 +1230,13 @@ cyzen
 =2017-05-29T08:01:04+09:00 Computer/トピック/社会動向/企業/Fringe81/keywords
 Columva,コルンバ
 
-=2017-10-23T13:19:29+09:00 Computer/トピック/社会動向/企業/FRONTEO/keywords
+=2018-08-14T15:27:37+09:00 Computer/トピック/社会動向/企業/FRONTEO/keywords
 FRONTEO,UBIC
 KIBIT
 Kibiro
 Kibiro for Biz
 KIBIT Patent Explorer
+Concept Encoder Articles
 
 =2018-02-02T09:06:13+09:00 Computer/トピック/社会動向/企業/FUGU INNOVATIONS/keywords
 AUDUBE
@@ -1262,6 +1270,9 @@ Gemalto,ジェムアルト
 =2017-07-05T07:23:30+09:00 Computer/トピック/社会動向/企業/Genpact/keywords
 Genpact,ジェンパクト
 Genpact Cora
+
+=2018-08-14T15:27:32+09:00 Computer/トピック/社会動向/企業/GINKAN/keywords
+シンクロライフ
 
 =2017-09-11T08:40:32+09:00 Computer/トピック/社会動向/企業/GIコンサルティングパートナーズ/keywords
 UPXEED
@@ -1691,10 +1702,11 @@ CloudGarage
 Nokia,ノキア
 MIKA
 
-=2018-02-23T16:50:28+09:00 Computer/トピック/社会動向/企業/NTT/keywords
+=2018-08-14T15:27:35+09:00 Computer/トピック/社会動向/企業/NTT/keywords
 corevo
 hitoe
 Kirari!
+算師
 
 =2018-02-13T10:40:00+09:00 Computer/トピック/社会動向/企業/NTT/NTT-AT/keywords
 NTT-AT,NTTアドバンステクノロジ
@@ -1987,6 +1999,9 @@ LIVEO
 
 =2018-01-31T14:39:30+09:00 Computer/トピック/社会動向/企業/SOCINNO/keywords
 sRemo-R
+
+=2018-08-14T15:29:47+09:00 Computer/トピック/社会動向/企業/Sonos/keywords
+SONOS,sonos
 
 =2017-03-30T10:11:38+09:00 Computer/トピック/社会動向/企業/Sophos/keywords
 Sophos,ソフォス
@@ -2310,6 +2325,9 @@ yenta
 
 =2017-03-30T11:09:36+09:00 Computer/トピック/社会動向/企業/アドインテ/keywords
 K-now
+
+=2018-08-14T15:27:38+09:00 Computer/トピック/社会動向/企業/アドウェイズ/keywords
+STROBELIGHTS 4A
 
 =2017-08-21T08:52:35+09:00 Computer/トピック/社会動向/企業/アドトロンテクノロジー/keywords
 foop
@@ -2954,7 +2972,7 @@ VALIS-Cockpit
 PSA
 Kigen
 
-=2018-04-26T10:35:15+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2018-08-14T15:27:32+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -2970,6 +2988,7 @@ AIスコア・レンディング
 SynchRoid
 Planme
 ディープコア
+KARNEL HONGO
 
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
@@ -3773,6 +3792,9 @@ NSRI,日建設計,日建設計総合研究所
 =2018-05-30T14:37:12+09:00 Computer/トピック/社会動向/企業/日本システムウエア/keywords
 日本システムウエア,NSW
 Toami,Toami Analytics for 予知保全
+
+=2018-08-14T15:31:32+09:00 Computer/トピック/社会動向/企業/日本テレビ/keywords
+日テレ,日本テレビ
 
 =2017-09-26T09:35:56+09:00 Computer/トピック/社会動向/企業/日本デジタル・プロセシング・システムズ/keywords
 日本デジタル・プロセシング・システムズ株式会社,DPSJ
