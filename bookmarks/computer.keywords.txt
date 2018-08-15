@@ -668,8 +668,9 @@ Google日本語入力
 =2018-04-26T10:35:13+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/keywords
 NLP
 
-=2017-03-23T10:42:05+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/keywords
+=2018-08-16T08:00:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/keywords
 コーパス
+wikipedia
 
 =2017-11-11T09:49:06+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
 Word2Vec
@@ -1847,6 +1848,9 @@ popIn,ポップイン
 
 =2017-09-25T08:02:22+09:00 Computer/トピック/社会動向/企業/PR TIMES/keywords
 Jooto,ジョートー
+
+=2018-08-16T08:00:07+09:00 Computer/トピック/社会動向/企業/Primer/keywords
+Quicksilver
 
 =2017-09-19T09:01:39+09:00 Computer/トピック/社会動向/企業/Progress Software/keywords
 Progress Corticon
