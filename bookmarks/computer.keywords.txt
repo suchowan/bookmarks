@@ -257,7 +257,7 @@ Node-RED
 Pukiwiki
 PHP7
 
-=2018-04-22T07:46:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
+=2018-08-19T12:24:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
 pandas
 NumPy
 Flask
@@ -268,6 +268,7 @@ Anaconda3
 microPython
 Django2
 Jupyter
+PyCall
 
 =2018-04-26T10:35:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
 Rubyist
@@ -2697,6 +2698,9 @@ Wikitude SDK 7
 =2017-12-25T16:20:56+09:00 Computer/トピック/社会動向/企業/グローブライド/keywords
 ダイワ
 
+=2018-08-19T12:24:35+09:00 Computer/トピック/社会動向/企業/ケイ・オプティコム/keywords
+mineo
+
 =2018-02-23T15:28:05+09:00 Computer/トピック/社会動向/企業/コア/keywords
 察知くん-G
 ASURA Synergy
@@ -3647,6 +3651,9 @@ T-4OO
 
 =2017-08-30T07:21:30+09:00 Computer/トピック/社会動向/企業/ロボケン/keywords
 epRobo,エピロボ
+
+=2018-08-19T12:24:35+09:00 Computer/トピック/社会動向/企業/ローイット/keywords
+AI行政書士 マルット
 
 =2017-04-11T10:46:55+09:00 Computer/トピック/社会動向/企業/ロート製薬/keywords
 K.I.,kafun Intelligence
