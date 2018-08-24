@@ -21,7 +21,7 @@ OculusGo
 =2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
 WEEKLY人工無脳
 
-=2018-08-14T15:27:35+09:00 Computer/トピック/セキュリティ/keywords
+=2018-08-24T11:07:28+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -66,6 +66,7 @@ VPNFilter
 Titan Security Key
 ランサムウエア
 算師
+データ収集
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -138,6 +139,9 @@ Neural Network Console
 =2017-09-11T08:38:15+09:00 Computer/トピック/ツール/オンプレミス/その他/ONNX/keywords
 ONNX,Open Neural Network Exchange
 
+=2018-08-24T11:07:27+09:00 Computer/トピック/ツール/オンプレミス/その他/React/keywords
+React16
+
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/オンプレミス/その他/Vertica/keywords
 HPE,Hewlett Packard Enterprise
 
@@ -163,7 +167,7 @@ Cloud Speech-to-Text
 Bigquery
 Cloud Services Platform
 
-=2018-06-06T15:56:06+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
+=2018-08-24T11:07:27+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
 Watson
 Alchemy
@@ -172,13 +176,15 @@ Mendix
 ワトソン
 Xignite API
 Cloud Private for Data
+Visual Recognition
 
-=2017-03-17T14:45:51+09:00 Computer/トピック/ツール/クラウド/keywords
+=2018-08-24T11:07:28+09:00 Computer/トピック/ツール/クラウド/keywords
 クラウド,Cloud
 機械学習フレームワーク,Machine Learning Service
 深層学習ライブラリ,Deep Learning Service
 機械学習API,Machine Learning API
 深層学習API,Deep Learning API
+クリーンアーキテクチャ
 
 =2018-06-23T16:28:50+09:00 Computer/トピック/ツール/クラウド/Microsoft/keywords
 QnAMaker
@@ -277,14 +283,16 @@ WEBrick
 =2018-04-14T14:05:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rails/keywords
 Rails5
 
-=2018-05-24T10:25:26+09:00 Computer/トピック/ツール/データベース/keywords
+=2018-08-23T08:15:16+09:00 Computer/トピック/ツール/データベース/Elasticsearch/keywords
+Kibana
+
+=2018-08-23T08:14:56+09:00 Computer/トピック/ツール/データベース/keywords
 Oracle
 Vertica
 ElasticSearch
 PostgreSQL,posgreSQL
 Ingres
 DynamoDB
-Kibana
 Cloudant
 MySQL
 SQL
@@ -548,7 +556,7 @@ HRテック
 Smart HR
 Hire
 
-=2018-08-06T18:57:40+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2018-08-24T11:07:25+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -590,6 +598,7 @@ MRI
 不整脈
 鎮痛剤
 アレルギー
+大腸
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -760,7 +769,7 @@ Amper Music
 Magenta
 楽曲
 
-=2018-05-03T18:48:02+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2018-08-24T11:07:29+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -796,6 +805,8 @@ VAE
 DAE
 バンディットアルゴリズム
 教師なし学習
+強化学習
+CycleGAN
 
 =2017-03-23T14:55:48+09:00 Computer/トピック/機械学習/機械学習理論/プログラミング/keywords
 Python
@@ -2023,6 +2034,9 @@ Sophos,ソフォス
 
 =2017-03-30T10:16:56+09:00 Computer/トピック/社会動向/企業/Sota Tek/keywords
 SotaTek,Sota Tek,ソタテック
+
+=2018-08-24T11:07:28+09:00 Computer/トピック/社会動向/企業/SpaceX/keywords
+イーロン・マスク
 
 =2017-11-12T15:52:58+09:00 Computer/トピック/社会動向/企業/Spectee/keywords
 荒木ゆい
@@ -4130,7 +4144,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2018-08-06T18:57:40+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2018-08-24T11:07:30+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4144,6 +4158,7 @@ TSUBAME
 広島県
 福岡市
 神戸市
+宇城市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
