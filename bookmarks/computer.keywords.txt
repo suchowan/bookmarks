@@ -21,7 +21,7 @@ OculusGo
 =2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
 WEEKLY人工無脳
 
-=2018-08-24T11:07:28+09:00 Computer/トピック/セキュリティ/keywords
+=2018-09-03T14:28:16+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -67,6 +67,7 @@ Titan Security Key
 ランサムウエア
 算師
 データ収集
+Black Hat
 
 =2017-03-17T13:06:27+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -421,6 +422,9 @@ RPA,Robotic Process Automation
 =2018-08-04T07:26:28+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/故障/keywords
 危険検知
 
+=2018-09-03T14:27:58+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/災害/keywords
+地震
+
 =2017-03-22T11:23:52+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
 自動生成
 自動編集
@@ -541,7 +545,7 @@ ROS
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
 
-=2018-06-23T16:28:52+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2018-09-03T14:27:57+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -555,6 +559,7 @@ HR
 HRテック
 Smart HR
 Hire
+エンジニア
 
 =2018-08-24T11:07:25+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -703,11 +708,12 @@ JUMAN
 AYA
 LUIS
 
-=2018-04-26T14:49:29+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
+=2018-09-03T14:28:04+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
 手書き
 古文書
 くずし字
 文字おこし
+自動文字起こし
 
 =2017-03-23T10:47:49+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/特徴語/keywords
 専門用語
@@ -729,7 +735,7 @@ ezcommu
 =2017-05-02T10:45:36+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 
-=2017-12-26T08:29:14+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2018-09-03T14:28:12+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -740,6 +746,7 @@ ezcommu
 家畜
 農業
 漁業
+養殖
 
 =2018-06-09T10:33:18+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -985,10 +992,11 @@ SpotMini
 =2017-10-20T07:43:58+09:00 Computer/トピック/社会動向/企業/BoT/keywords
 CASPAR
 
-=2018-03-16T11:48:43+09:00 Computer/トピック/社会動向/企業/Box/keywords
+=2018-09-03T14:27:59+09:00 Computer/トピック/社会動向/企業/Box/keywords
 Box Relay
 Box Skills
 Box Zones Japan
+Skills Kit
 
 =2017-10-30T11:33:28+09:00 Computer/トピック/社会動向/企業/BRAIN/keywords
 SMART INTELLIGENCE NETWORK
@@ -1046,6 +1054,9 @@ Tegaki
 
 =2017-08-08T10:11:14+09:00 Computer/トピック/社会動向/企業/Cognitee/keywords
 UpSighter,アップ・サイター
+
+=2018-09-03T14:28:16+09:00 Computer/トピック/社会動向/企業/CoLife/keywords
+イエコン
 
 =2017-03-28T14:50:40+09:00 Computer/トピック/社会動向/企業/Comma.ai/keywords
 Comma One
@@ -1169,6 +1180,9 @@ Engazify
 =2017-11-22T17:06:34+09:00 Computer/トピック/社会動向/企業/Enhance Games/keywords
 Rez Infinite
 
+=2018-09-03T14:28:07+09:00 Computer/トピック/社会動向/企業/ENT/keywords
+らく翻訳
+
 =2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Essential Products/keywords
 Essential Phone
 
@@ -1213,9 +1227,10 @@ STREAM
 =2017-08-08T08:08:21+09:00 Computer/トピック/社会動向/企業/FireEye/keywords
 FireEye,ファイア・アイ
 
-=2017-03-29T09:32:32+09:00 Computer/トピック/社会動向/企業/FitBit/keywords
+=2018-09-03T14:28:16+09:00 Computer/トピック/社会動向/企業/FitBit/keywords
 Fitbit Alta
 Fitbit Alta HR,Alta HR
+Fitbit
 
 =2017-07-24T11:07:28+09:00 Computer/トピック/社会動向/企業/FIVE/keywords
 Moments by FIVE
@@ -1533,11 +1548,15 @@ AIXON,アイソン
 セカンドライフ
 Sansar
 
-=2017-12-15T11:40:21+09:00 Computer/トピック/社会動向/企業/LINE/keywords
+=2018-09-04T08:50:09+09:00 Computer/トピック/社会動向/企業/LINE/keywords
 Clova
 Clova Friends
 LINE Customer Connect
 Expand Video
+myBridge
+
+=2018-09-03T14:28:10+09:00 Computer/トピック/社会動向/企業/Linne/keywords
+LINNE LENS
 
 =2017-10-24T12:07:43+09:00 Computer/トピック/社会動向/企業/Lisfee/keywords
 FLOWERY
@@ -1773,9 +1792,10 @@ Oshi-el,オシエル
 Nuance,ニュアンス・コミュニケーションズ・ジャパン,ニュアンス・コミュニケーションズ
 Dragon Drive
 
-=2018-07-14T13:49:54+09:00 Computer/トピック/社会動向/企業/NVIDIA/keywords
+=2018-09-03T14:28:05+09:00 Computer/トピック/社会動向/企業/NVIDIA/keywords
 NVIDIA,Nvidia,エヌビディア
 TensorRT
+Jetson Xavier
 
 =2017-08-08T09:30:53+09:00 Computer/トピック/社会動向/企業/Oculus/keywords
 Oculus,オキュラス
@@ -1917,6 +1937,9 @@ OpenShift
 
 =2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
+
+=2018-09-03T14:28:16+09:00 Computer/トピック/社会動向/企業/RIT/keywords
+VIREC
 
 =2018-03-08T17:56:13+09:00 Computer/トピック/社会動向/企業/Riverbed Technology/keywords
 SteelConnect
@@ -2586,9 +2609,10 @@ Onkyo AI
 オープンウェブ・テクノロジー,OpenWeb Technology
 TechFeed
 
-=2017-10-20T07:39:05+09:00 Computer/トピック/社会動向/企業/オープンエイト/keywords
+=2018-09-04T08:50:09+09:00 Computer/トピック/社会動向/企業/オープンエイト/keywords
 VIDEO TAP
 ルトロン
+VIDEO BRAIN
 
 =2017-03-30T13:20:07+09:00 Computer/トピック/社会動向/企業/オープンストリーム/keywords
 豆蔵
@@ -2687,6 +2711,9 @@ LENDY,レンディ
 =2017-03-30T14:25:50+09:00 Computer/トピック/社会動向/企業/クロスリング/keywords
 SPRAY for Agency
 
+=2018-09-04T08:50:09+09:00 Computer/トピック/社会動向/企業/クロノス/keywords
+NNEF
+
 =2017-09-04T11:18:41+09:00 Computer/トピック/社会動向/企業/クーロン/keywords
 クーロン,Quelon
 QuACS
@@ -2739,6 +2766,9 @@ UpSighter,アップ・サイター
 SHARES
 SHARESΦ
 
+=2018-09-03T14:29:46+09:00 Computer/トピック/社会動向/企業/コナミ/keywords
+KONAMI,コナミ
+
 =2017-04-11T14:23:29+09:00 Computer/トピック/社会動向/企業/コニカミノルタ/keywords
 AiLingual,アイリンガル
 Workplace Hub,ワークプレイスハブ
@@ -2761,6 +2791,9 @@ CREATIVE BRAIN
 
 =2017-09-11T09:24:42+09:00 Computer/トピック/社会動向/企業/コンカー/keywords
 Concur Expense
+
+=2018-09-03T14:28:18+09:00 Computer/トピック/社会動向/企業/コンシェルジュ/keywords
+Concierge U
 
 =2017-03-30T14:34:45+09:00 Computer/トピック/社会動向/企業/コンビーズ/keywords
 コンビーズレコ
@@ -2964,6 +2997,9 @@ WorkSense
 =2017-08-08T10:20:45+09:00 Computer/トピック/社会動向/企業/セゾン/keywords
 HULFT-WebConnect
 
+=2018-09-03T14:28:11+09:00 Computer/トピック/社会動向/企業/セブン&アイ/keywords
+オムニ7
+
 =2017-04-04T15:11:21+09:00 Computer/トピック/社会動向/企業/セブンドリーマーズ/keywords
 ランドロイド1
 
@@ -3033,6 +3069,9 @@ POCKETALK
 =2017-10-16T09:26:10+09:00 Computer/トピック/社会動向/企業/ゾーホージャパン/keywords
 ManageEngine OpManager,OpManager
 Zohoピープル
+
+=2018-09-03T14:28:14+09:00 Computer/トピック/社会動向/企業/タイムズ24/keywords
+B-Times
 
 =2018-06-16T17:22:29+09:00 Computer/トピック/社会動向/企業/タカラトミー/keywords
 オムニボット
@@ -3218,6 +3257,9 @@ CUTPEN
 =2017-10-16T10:27:05+09:00 Computer/トピック/社会動向/企業/ナーブ/keywords
 VR内見
 
+=2018-09-03T14:32:09+09:00 Computer/トピック/社会動向/企業/ニチレイフーズ/keywords
+ニチレイ,ニチレイフーズ
+
 =2017-05-15T10:07:15+09:00 Computer/トピック/社会動向/企業/ニトリ/keywords
 Butler
 
@@ -3307,12 +3349,13 @@ AppGuard
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2018-09-03T14:28:12+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
 感情認識 SDK/API
 100BANCH
+ストラーダ
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
@@ -3395,6 +3438,9 @@ FortiOS
 
 =2017-12-15T15:44:01+09:00 Computer/トピック/社会動向/企業/フューチャースタンダード/keywords
 SCORER Cloud Processing,スコアラー クラウド プロセッシング
+
+=2018-09-03T14:27:58+09:00 Computer/トピック/社会動向/企業/フューチャーモデル/keywords
+PERARK
 
 =2017-08-28T11:22:53+09:00 Computer/トピック/社会動向/企業/フリーダムアーキテクツ/keywords
 DEZAMADO,デザマド
@@ -3828,12 +3874,15 @@ NSRI,日建設計,日建設計総合研究所
 =2017-10-10T10:46:36+09:00 Computer/トピック/社会動向/企業/日本カーソリューションズ/keywords
 日本カーソリューションズ,NCS
 
+=2018-09-03T14:27:58+09:00 Computer/トピック/社会動向/企業/日本サイトラインシステムズ/keywords
+Sightline EDM
+
 =2018-05-30T14:37:12+09:00 Computer/トピック/社会動向/企業/日本システムウエア/keywords
 日本システムウエア,NSW
 Toami,Toami Analytics for 予知保全
 
-=2018-08-14T15:31:32+09:00 Computer/トピック/社会動向/企業/日本テレビ/keywords
-日テレ,日本テレビ
+=2018-09-03T14:30:27+09:00 Computer/トピック/社会動向/企業/日本テレビ/keywords
+日本テレビ放送網,日テレ,日本テレビ
 
 =2017-09-26T09:35:56+09:00 Computer/トピック/社会動向/企業/日本デジタル・プロセシング・システムズ/keywords
 日本デジタル・プロセシング・システムズ株式会社,DPSJ
@@ -3898,8 +3947,9 @@ NAONA
 =2017-03-29T14:29:01+09:00 Computer/トピック/社会動向/企業/東レ/keywords
 hitoe
 
-=2017-08-10T07:32:16+09:00 Computer/トピック/社会動向/企業/東京エレクトロンデバイス/keywords
+=2018-09-03T14:28:04+09:00 Computer/トピック/社会動向/企業/東京エレクトロンデバイス/keywords
 東京エレクトロンデバイス,TED
+CX-M
 
 =2018-03-08T17:56:18+09:00 Computer/トピック/社会動向/企業/東急不動産/keywords
 Taskus
@@ -3913,8 +3963,9 @@ RECAIUS,リカイアス
 Visconti
 コエステーション
 
-=2017-04-11T10:58:54+09:00 Computer/トピック/社会動向/企業/楽天/keywords
+=2018-09-03T14:28:16+09:00 Computer/トピック/社会動向/企業/楽天/keywords
 Viber
+みんなのビットコイン
 
 =2017-10-03T09:18:45+09:00 Computer/トピック/社会動向/企業/構造計画研究所/keywords
 RemoteLock
@@ -4115,6 +4166,9 @@ CanguRo
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
+
+=2018-09-03T14:31:33+09:00 Computer/トピック/社会動向/大学/慶応大学/keywords
+慶應義塾大学,慶応大学
 
 =2017-11-11T15:56:42+09:00 Computer/トピック/社会動向/大学/慶応大学/kyewords
 慶応大学,慶應義塾大学,慶大,慶應
