@@ -311,7 +311,7 @@ Anemone
 キーワードフォルダ
 スクレイピング
 
-=2018-08-14T15:27:44+09:00 Computer/トピック/ビッグデータ/IoT/keywords
+=2018-09-07T11:38:45+09:00 Computer/トピック/ビッグデータ/IoT/keywords
 インダストリー4.0,第４次産業革命
 エクスペリエンス4.0
 スマート
@@ -326,9 +326,10 @@ LPWA
 P-SIRT
 Android Things
 LIDAR
+組み込み
 
-=2017-07-24T13:09:39+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
-Raspberry Pi,ラズベリーパイ,ラズパイ
+=2018-09-07T11:39:11+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
+Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
 =2018-04-14T14:05:31+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
@@ -3714,6 +3715,9 @@ INFLUENCER ONE
 
 =2017-10-30T12:24:04+09:00 Computer/トピック/社会動向/企業/ログバー/keywords
 ili,イリー
+
+=2018-09-07T11:38:45+09:00 Computer/トピック/社会動向/企業/ロジクール/keywords
+ASTRO Gaming
 
 =2017-10-16T09:23:49+09:00 Computer/トピック/社会動向/企業/ロゼッタ/keywords
 T-4OO
