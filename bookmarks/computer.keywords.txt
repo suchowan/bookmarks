@@ -1,4 +1,4 @@
-=2018-06-02T14:32:05+09:00 Computer/トピック/VR・AR・MR/keywords
+=2018-09-10T11:46:52+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -17,6 +17,7 @@ ODG
 拡張現実
 複合現実
 OculusGo
+VRChat
 
 =2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
 WEEKLY人工無脳
@@ -403,7 +404,7 @@ Echosim.io
 =2017-11-11T07:56:20+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
 
-=2018-06-23T16:28:51+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2018-09-10T11:46:52+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -412,6 +413,7 @@ Watson Assistant
 対話
 spot
 Project Debater
+VRChat
 
 =2017-03-22T09:31:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/りんな/keywords
 りんな,Rinna
@@ -546,7 +548,7 @@ ROS
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
 
-=2018-09-03T14:27:57+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2018-09-10T11:46:54+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -561,6 +563,7 @@ HRテック
 Smart HR
 Hire
 エンジニア
+人財テック
 
 =2018-08-24T11:07:25+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -1047,6 +1050,9 @@ Tetration Analytics,テトレーション アナリティックス
 Cisco Intersight
 SD-WAN
 
+=2018-09-10T11:46:54+09:00 Computer/トピック/社会動向/企業/CMR Surgical/keywords
+Versius
+
 =2017-08-21T10:37:35+09:00 Computer/トピック/社会動向/企業/Cobalt/keywords
 コバルト,cobalt
 
@@ -1456,6 +1462,9 @@ Nervana
 Intel HAP
 Spring Crest
 Optane
+
+=2018-09-10T11:46:54+09:00 Computer/トピック/社会動向/企業/Intuitive Surgical/keywords
+da Vinci
 
 =2017-04-10T08:10:37+09:00 Computer/トピック/社会動向/企業/IO Inc/keywords
 IO Inc.,IO Inc,アイオーインク,IO株式会社
