@@ -1595,6 +1595,9 @@ Mafengwo,螞蜂窩
 =2017-10-24T08:05:51+09:00 Computer/トピック/社会動向/企業/Magic Software/keywords
 MSE,Magic Software,マジックソフトウェア
 
+=2018-09-23T14:49:24+09:00 Computer/トピック/社会動向/企業/MARIANA OCEAN JAPAN/keywords
+ObotAI
+
 =2018-05-10T09:36:47+09:00 Computer/トピック/社会動向/企業/Marketo/keywords
 Marketo,マルケト
 AudienceAI
@@ -1972,7 +1975,7 @@ SHUILA
 =2018-04-22T06:48:56+09:00 Computer/トピック/社会動向/企業/RPAテクノロジーズ/keywords
 BizRobo!
 
-=2018-01-26T11:11:29+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
+=2018-09-23T14:49:27+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
 Salesforce,セールスフォース
 Salesforce Einstein,Einstein
 Salesforceコマースクラウド
@@ -1983,6 +1986,7 @@ IoT Explorer Edition
 myEinstein
 Trailhead
 Skills Graph
+Quip
 
 =2018-06-09T10:33:18+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
@@ -2673,11 +2677,12 @@ Gmail HR tech
 =2017-12-08T13:23:25+09:00 Computer/トピック/社会動向/企業/キャメル/keywords
 Edia for リクルート
 
-=2017-10-23T15:41:57+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
+=2018-09-23T14:49:24+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
 CANON
 Web Performer
 GUARDIANWALL Mail
 GUARDIANWALL WebFilter
+LaiGHT
 
 =2017-09-26T08:41:45+09:00 Computer/トピック/社会動向/企業/キーウォーカー/keywords
 キーウォーカーWEBクローラ
@@ -3137,6 +3142,9 @@ Seed ID
 =2017-10-04T10:18:51+09:00 Computer/トピック/社会動向/企業/チェンジ/keywords
 VoX,VOICE OF EXPERIENCE
 
+=2018-09-23T14:49:28+09:00 Computer/トピック/社会動向/企業/チャプターエイト/keywords
+ABCチェックイン
+
 =2018-02-06T15:44:06+09:00 Computer/トピック/社会動向/企業/チョークデジタル/keywords
 Advertising as a Service,AaaS
 
@@ -3186,8 +3194,8 @@ Robi,ロビ
 WADJET reinvent
 WADJET
 
-=2017-04-10T14:12:12+09:00 Computer/トピック/社会動向/企業/ディジタルメディアプロフェッショナル/keywords
-ZIA,ジア
+=2018-09-23T14:51:54+09:00 Computer/トピック/社会動向/企業/ディジタルメディアプロフェッショナル/keywords
+DMP,ディジタルメディアプロフェッショナル
 
 =2017-04-10T14:14:31+09:00 Computer/トピック/社会動向/企業/ディップ/keywords
 AI.Accelerator
@@ -3224,6 +3232,9 @@ AI Training+
 =2017-04-10T14:28:57+09:00 Computer/トピック/社会動向/企業/デベルアップ・ジャパン/keywords
 デベルアップ・ジャパン,DevelUpJapan
 Sonarman
+
+=2018-09-23T14:49:27+09:00 Computer/トピック/社会動向/企業/デルタ電子/keywords
+CONSCIOUS
 
 =2017-04-10T14:16:01+09:00 Computer/トピック/社会動向/企業/データアーティスト/keywords
 DLPO
@@ -3644,8 +3655,8 @@ MOTOBOT
 BOCCO
 Qoobo,クーボ
 
-=2017-09-14T09:41:44+09:00 Computer/トピック/社会動向/企業/ユニクロ/keywors
-ユニクロ,UNIQLO,ファーストリテイリング
+=2018-09-23T14:52:59+09:00 Computer/トピック/社会動向/企業/ユニクロ/keywords
+ユニクロ,UNIQLO,ファーストリテイリング,ファストリ
 UNIQLO IQ
 
 =2017-09-04T11:23:03+09:00 Computer/トピック/社会動向/企業/ユニコーン/keywords
@@ -4283,9 +4294,10 @@ Shoubu
 =2017-04-11T14:53:14+09:00 Computer/トピック/社会動向/研究機関/産総研/keywords
 産総研,産業技術総合研究所
 
-=2017-03-28T13:44:04+09:00 Computer/トピック/社会動向/規格/keywords
+=2018-09-23T14:49:27+09:00 Computer/トピック/社会動向/規格/keywords
 著作権
 倫理
+DECT
 
 =2017-03-28T13:45:10+09:00 Computer/トピック/社会動向/規格/ソフトウェア/keywords
 相互接続性
