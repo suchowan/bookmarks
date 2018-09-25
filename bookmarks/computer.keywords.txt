@@ -267,7 +267,7 @@ Node-RED
 Pukiwiki
 PHP7
 
-=2018-08-19T12:24:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
+=2018-09-25T10:16:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
 pandas
 NumPy
 Flask
@@ -279,6 +279,8 @@ microPython
 Django2
 Jupyter
 PyCall
+SymPy
+PyCon
 
 =2018-04-26T10:35:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
 Rubyist
@@ -335,7 +337,7 @@ OpenVINO
 =2018-09-07T11:39:11+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
-=2018-04-14T14:05:31+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2018-09-25T10:16:02+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
@@ -343,6 +345,7 @@ Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 マンション
 スマートタウン
 Amazon Key
+家電
 
 =2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -444,7 +447,7 @@ RPA,Robotic Process Automation
 脚本,シナリオ
 物語
 
-=2018-08-14T15:27:43+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
+=2018-09-25T10:16:02+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
 ピッタリ
 指南
@@ -452,6 +455,7 @@ RPA,Robotic Process Automation
 オススメ
 おすすめ
 意志決定
+Quicksilver
 
 =2018-05-03T18:47:59+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
@@ -693,15 +697,19 @@ Google日本語入力
 =2018-04-26T10:35:13+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/keywords
 NLP
 
-=2018-08-16T08:00:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/keywords
+=2018-09-25T10:16:02+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/keywords
 コーパス
 wikipedia
+Wikipedia
 
 =2017-11-11T09:49:06+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
 Word2Vec
 word2vec
 Doc2Vec
 fastText
+
+=2018-09-25T10:16:05+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/keywords
+クソリプ
 
 =2017-03-23T10:29:30+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/LDA/keywords
 トピックモデル
@@ -1391,7 +1399,7 @@ Kishin
 HISホテル,H.I.S.,H.I.S.ホテルホールディングス
 変なホテル
 
-=2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/HPE/keywords
+=2018-09-25T10:16:00+09:00 Computer/トピック/社会動向/企業/HPE/keywords
 HPE,Hewlett Packard Enterprise,ヒューレット・パッカード
 Haven OnDemand
 HPE Aruba
@@ -1402,6 +1410,7 @@ HPE Deep Learning Cookbook
 HPE AI Innovation Center
 Enhanced HPE Center of Excellence,CoE
 Blue Brain
+Aruba Networks
 
 =2018-08-21T11:30:02+09:00 Computer/トピック/社会動向/企業/HTC/keywords
 Viveport
