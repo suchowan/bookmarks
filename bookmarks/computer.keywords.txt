@@ -20,6 +20,9 @@ OculusGo
 VRChat
 MICA
 
+=2018-10-15T10:16:58+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
+バーチャルキャスト
+
 =2018-05-24T10:25:34+09:00 Computer/トピック/まとめ/keywords
 WEEKLY人工無脳
 
@@ -328,7 +331,7 @@ Anemone
 キーワードフォルダ
 スクレイピング
 
-=2018-10-05T11:35:48+09:00 Computer/トピック/ビッグデータ/IoT/keywords
+=2018-10-15T10:17:00+09:00 Computer/トピック/ビッグデータ/IoT/keywords
 インダストリー4.0,第４次産業革命
 エクスペリエンス4.0
 スマート
@@ -346,6 +349,7 @@ LIDAR
 組み込み
 OpenVINO
 NIDD
+センサ
 
 =2018-09-07T11:39:11+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
@@ -815,7 +819,7 @@ Amper Music
 Magenta
 楽曲
 
-=2018-10-09T13:47:42+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2018-10-15T10:16:57+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -854,6 +858,7 @@ DAE
 強化学習
 CycleGAN
 スパースモデリング
+学習済モデル
 
 =2017-03-23T14:55:48+09:00 Computer/トピック/機械学習/機械学習理論/プログラミング/keywords
 Python
@@ -1739,7 +1744,8 @@ LanScope Cat
 =2017-10-23T15:03:35+09:00 Computer/トピック/社会動向/企業/Motorola/keywords
 moto Smart Speaker with Amazon Alexa
 
-=2017-08-16T08:35:21+09:00 Computer/トピック/社会動向/企業/Mozilla/keywords
+=2018-10-15T10:17:45+09:00 Computer/トピック/社会動向/企業/Mozilla/keywords
+モジラ,Mozilla
 Firefox
 
 =2017-11-11T11:26:41+09:00 Computer/トピック/社会動向/企業/Mrk & Co/keywords
@@ -2131,8 +2137,9 @@ SotaTek,Sota Tek,ソタテック
 Sphero,スフィロ
 Sphero mini,スフィロ ミニ
 
-=2017-03-30T10:19:40+09:00 Computer/トピック/社会動向/企業/Splunk/keywords
+=2018-10-15T10:16:55+09:00 Computer/トピック/社会動向/企業/Splunk/keywords
 Splunk,スプランク
+.conf18
 
 =2017-05-17T08:08:45+09:00 Computer/トピック/社会動向/企業/Sprocket/keywords
 Sprocket,スプロケット
@@ -3432,13 +3439,14 @@ AppGuard
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2018-09-03T14:28:12+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2018-10-15T10:16:58+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
 感情認識 SDK/API
 100BANCH
 ストラーダ
+HDコム
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
