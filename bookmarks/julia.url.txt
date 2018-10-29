@@ -1,0 +1,330 @@
+=2018-09-03T11:26:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/bicycle1885Julia-Tutorial 高速でJuliaを学ぶチュートリアル
+URL=https://github.com/bicycle1885/Julia-Tutorial
+
+=2018-10-20T05:01:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/DataFrames and Types with Julia - Speaker Deck
+URL=https://speakerdeck.com/ki_chi/dataframes-and-types-with-julia
+
+=2018-08-04T21:42:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juialang print 入門 - Hello World から pretty-print まで -Qiita
+URL=https://qiita.com/goropikari/items/c5ae799d3ff2e789ee20
+
+=2018-10-20T17:27:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Julia_no_MakimonosREADME.md at master-yuyamashiroJulia_no_Makimonos
+URL=https://github.com/yuyamashiro/Julia_no_Makimonos/blob/master/README.md
+
+=2018-09-24T08:13:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaで数値計算　その1：コードサンプル-基本的計算編 - Qiita
+URL=https://qiita.com/cometscome_phys/items/31d0b811345a3e12fcef
+
+=2018-09-22T08:12:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaで数値計算　その2：コードサンプル-わかりやすい書き方編 - Qiita
+URL=https://qiita.com/cometscome_phys/items/dfd63f1f7b51bdda4ca4
+
+=2017-12-16T20:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/JuliaとPythonで擬似コードや数式を動かそうとしたときの比較 - やったことの説明
+URL=http://ksknw.hatenablog.com/entry/2017/12/16/200000
+
+=2015-12-30T20:55:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaという速くて書きやすい言語をちょっとだけ覗いてみたんだが、なにやらワクワクするものがあったので報告しようと思う
+URL=https://qiita.com/sadayuki-matsuno/items/fc5e9ec3894a4b7bfbfb
+
+=2018-09-28T05:35:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaのmodule自由自在-Qiita
+URL=https://qiita.com/cometscome_phys/items/fcf4a54d0f4d47c0fe5a
+
+=2018-10-02T07:51:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaはusingだけで良いんじゃないか説 - Qiita
+URL=https://qiita.com/bicycle1885/items/3632ea96f4e0bf6601c8
+
+=2014-12-23T17:07:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/PythonistaのためのJulia100問100答 - りんごがでている
+URL=http://bicycle1885.hatenablog.com/entry/2014/12/23/170745
+
+=2016-01-22T13:42:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/SymPy/Julia+SymPyの勝手なまとめ - たけし備忘録
+URL=http://takeshid.hatenadiary.jp/entry/2016/01/22/032053
+
+=2018-07-11T06:49:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/SymPy/黒木玄 Gen Kurokiさんのツイート #Julia言語 Python SymPyのオブジェクトに対して、Julia言語の各種演算はそのまま適用できます。
+URL=https://twitter.com/genkuroki/status/1017034790057304070
+
+=2018-10-23T18:10:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/SymPy/黒木玄 Gen Kurokiさんのツイート #Julia言語 ＋ Jupyter の環境ではSymPyによる計算結果は自動的にMathJaxで(LaTeX的に)整形されたものになるのですが、
+URL=https://twitter.com/genkuroki/status/1054654057439100929
+
+=2018-10-15T17:23:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/The Fast Track to Julia
+URL=https://juliadocs.github.io/Julia-Cheat-Sheet/
+
+=2018-10-20T17:28:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/toc-Memorandom on Julia Language v0.6.4
+URL=https://hsugawa8651.github.io/memojuliav064/
+
+=2018-09-29T06:46:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/ypresto＠潜在保育士さんのツイート Juliaという言語がRubyみたいなsyntaxにも関わらず型推論があって
+URL=https://twitter.com/yuya_presto/status/1046024067453612032
+
+=2012-02-21T20:17:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/なぜ僕らはJuliaを作ったか（翻訳） - 丸井綜研
+URL=http://marui.hatenablog.com/entry/20120221/1329823079
+
+=2017-12-26T18:51:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Juliaに触って見ようと思った時に便利なリンク集(2017年末版)-Qiita
+URL=https://qiita.com/currypurin/items/92e6f6d75cf6c587f5ef
+
+=2018-09-25T07:12:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Juliaの基本的な構文や関数についてまとめてみた - Hello world
+URL=https://ysss.hateblo.jp/entry/20180925/1537883323
+
+=2015-12-07T17:22:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Juliaの多分あまり知られてない関数達 - りんごがでている
+URL=http://bicycle1885.hatenablog.com/entry/2015/12/07/172242
+
+=2018-02-01T10:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia入門 - 入門者がまず読むべき参考サイトや本のまとめ【随時更新】 - St_Hakky’s blog
+URL=http://st-hakky.hatenablog.com/entry/2018/02/01/100000
+
+=2016-12-01T21:06:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia現状確認 (言語編) - りんごがでている
+URL=http://bicycle1885.hatenablog.com/entry/2016/12/01/210618
+
+=2018-06-10T12:48:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/黒木玄 Gen Kuroki(@genkuroki)「Julia」の検索結果 - Twilog
+URL=https://twilog.org/genkuroki/search?word=Julia&ao=a
+
+=2017-10-02T07:52:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/黒木玄 Gen Kurokiさんのツイート #Julia言語 コンピューターを使った講義をする可能性がある人がJulia言語について読んでおくべきなのは、Juliaのリポジトリで
+URL=https://twitter.com/genkuroki/status/1046966727429505024
+
+=2018-08-22T20:53:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Downloads of Julia Programming Language Surge in China-Julia Computing
+URL=https://juliacomputing.com/press/2018/08/22/china-surge.html
+
+=2018-10-20T15:09:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Juliaに向こう4年で4億円ほど突っ込まれるというニュースが httpst.co5TCGtoENrb
+URL=https://twitter.com/bicycle1885/status/1053479590297915393
+
+=2018-10-25T21:13:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Paalonさんのツイート 京大のスパコンでもJuliaを使えるようにしてもらいました。 httpst.codFGMpNfTGT #julialang #julia言語
+URL=https://twitter.com/paalonshamoji/status/1055423948664393729
+
+=2018-08-17T22:11:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/いずれPythonのライバルに？新言語「Julia」の人気が急上昇（ZDNet Japan） - Yahoo!ニュース
+URL=https://headlines.yahoo.co.jp/hl?a=20180817-35124177-zdnet-sci
+
+=2018-10-20T15:10:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/機械学習 × 名古屋 × Julia - HackMD
+URL=https://hackmd.io/p/BJ6W27hqX#/
+
+=2018-08-09T20:03:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/遂にJulia 1.0リリース！さんのツイート 感動のJulia 1.0リリースの瞬間が映像で見られる httpst.coFOVVKlVQoI
+URL=https://twitter.com/bicycle1885/status/1027404300417261569
+
+=2018-09-06T18:09:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/黒木玄 Gen Kurokiさんのツイート #Julia言語 「Julia」上昇--TIOBE httpst.co7SPUYDDd8O @zdnet_japanより
+URL=https://twitter.com/genkuroki/status/1037676923814432768
+
+=2018-10-25T06:19:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/黒木玄 Gen Kurokiさんのツイート Google Colab で #Julia言語 + TPU が正式サポートされることになればビッグニュースですね。Google側にもメリットがありそう。
+URL=https://twitter.com/genkuroki/status/1055094694470856704
+
+=2018-08-12T21:23:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/julia 0.6からjulia 1.0への移行-Qiita
+URL=https://qiita.com/Hidekazu-Karino/items/eeda08fbd6f16c735843
+
+=2018-08-12T11:37:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Julia 1.0に向けて注意していること - MyEnigma
+URL=https://myenigma.hatenablog.com/entry/2018/08/12/113739#%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB
+
+=2018-09-15T14:10:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Julia 1.0の注意点-Qiita
+URL=https://qiita.com/yatra9/items/d38833b8d4f30b921f52
+
+=2018-10-12T08:30:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/akioさんのツイート Juliaのマクロは結構変態的なことができるみたいだ。 JSExprというパッケージがあって、＠jsマクロの後ろの関数を
+URL=https://twitter.com/__akio__/status/1050541526047064064
+
+=2018-10-11T14:03:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Iaido Ruyito Chiburiさんのツイート #Julia言語 でパッケージを追加するときに「(v1.0) pkg add httpst.cogtpUWGDgeA」と直接
+URL=https://twitter.com/JikanBae/status/1050189274589454336
+
+=2018-08-17T21:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia - Julia のパッケージ作り - goropikariの備忘録
+URL=http://goropikari.hatenablog.com/entry/julia_make_package
+
+=2018-09-20T22:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia - 野良パッケージを公式パッケージにする方法 - goropikariの備忘録
+URL=http://goropikari.hatenablog.com/entry/julia_make_official_package
+
+=2018-09-05T18:26:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen Kurokiさんのツイート #Julia言語 v1.0では高速に代数計算をしてくれるNemo.jlパッケージも使えます。 httpst.coVdWZwMLdp6 このパッケージを研究に使う人が出て
+URL=https://twitter.com/genkuroki/status/1054015482624266242
+
+=2018-10-10T19:09:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/(｢・ω・)｢ｶﾞｵｰさんのツイート Juliaの微分方程式ソルバーパッケージで有名なRackauckas氏，14は日本人なのか(Slackで言ってた)。
+URL=https://twitter.com/bicycle1885/status/1049920217013542913
+
+=2018-10-12T08:30:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/akioさんのツイート Juliaのマクロは結構変態的なことができるみたいだ。 JSExprというパッケージがあって、＠jsマクロの後ろの関数を
+URL=https://twitter.com/__akio__/status/1050541526047064064
+
+=2018-08-11T08:24:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ceptree@DDEさんのツイート Juliaのシェルモード知らなかった。;を打った瞬間に切り替わって,
+URL=https://twitter.com/ceptree/status/1028199978496286720
+
+=2017-10-02T07:53:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ceptree@IEさんのツイート Juliaの任意精度浮動小数点数べんりやな
+URL=https://twitter.com/ceptree/status/1046957204992081920
+
+=2018-10-25T08:30:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia - @enum で割り当てられた番号から変数名を知る - goropikariの備忘録
+URL=https://goropikari.hatenablog.com/entry/julia_enum
+
+=2018-09-24T22:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia - 定義した method を消す方法 - goropikariの備忘録
+URL=http://goropikari.hatenablog.com/entry/julia_delete_method
+
+=2018-10-22T08:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia - 標準入力・出力・エラー出力先を変える - goropikariの備忘録
+URL=http://goropikari.hatenablog.com/entry/julia_redirect_stdio
+
+=2018-08-18T19:58:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia の reinterpret で遊んでみた。for v1.0
+URL=https://qiita.com/antimon2/items/79ede47ba271fdf555cd
+
+=2018-08-15T21:26:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia のプロンプトを変える-Qiita
+URL=https://qiita.com/goropikari/items/93b0554eb3df4bd5d758
+
+=2018-09-23T08:37:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaImagesの備忘録その４ - Qiita
+URL=https://qiita.com/Dsuke-K/items/45694e21c742f8b0e207
+
+=2018-09-27T18:37:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの数学定数【小ネタ】-Qiita
+URL=https://qiita.com//Yoshinobu-Ishizaki/items/b280913264ce7b672f44
+
+=2018-10-15T08:55:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/いのうえさんのツイート julia、approxの後にTABを押すとがでたり、sumの後にTABを押すとΣが出たりして、そのまま演算に使えて、単純に 動的言語すごいってなる。
+URL=https://twitter.com/earlylifely/status/1051810675847127041
+
+=2018-01-13T07:12:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんのツイート Juliaで $ x_1$ の入力がわからなかった飼い主にゴマちゃんが説明を書いてくれたようです．…
+URL=https://twitter.com/MathSorcerer/status/951967760585670656
+
+=2018-09-16T19:37:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゴロピカリさんのツイート あまり意識してませんでしたが、#julialang v0.6 と v1.0 で転置の扱い結構変わってたんですね。
+URL=https://twitter.com/goropikari_/status/1041245147193782272
+
+=2018-09-09T07:26:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 PythonでのClassで書かれたコードをJuliaで書き直す
+URL=https://twitter.com/genkuroki/status/1038491819791671296
+
+=2018-10-11T08:09:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 で「one(x)はxと同じ型の1になる」のような説明を何度もしているような感じがするが、
+URL=https://twitter.com/genkuroki/status/1050359433627197442
+
+=2018-01-05T10:23:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/cometscomeQM In Japanese. Juliaで学ぶ量子力学
+URL=https://github.com/cometscome/QM
+
+=2018-09-20T17:58:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/FreshAndEarlyさんのツイート Julia 1.0 でMeCabを使いたい方は下記のフォークでどうぞ。本家のchezouさんがプルリクエストに対応するかは分かりません。
+URL=https://twitter.com/snthotto/status/1042591888098779136
+
+=2018-09-14T13:41:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia 1.0でオーディオ入出力（とインパルス応答測定） - 丸井綜研
+URL=http://marui.hatenablog.com/entry/2018/09/14/134118
+
+=2018-10-12T08:32:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia Newsさんのツイート Parallel Supercomputing for Astronomy with Julia httpst.coCgSBr5pKkG #hackernews
+URL=https://twitter.com/julialang_news/status/1050450012684132352
+
+=2018-10-07T08:44:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaからPyCall経由でカメラを起動する。 - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/b1ebd844620b920e8df6
+
+=2018-09-27T06:58:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで簡単なGUIアプリを作ってみる - Qiita
+URL=https://qiita.com/goropikari/items/8b803be3ce8d36ea2fe9
+
+=2018-09-09T06:31:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/OpenMPIを使う in Julia 1.0-Qiita
+URL=https://qiita.com/yoyoyoh-yohyoh/items/fa18829a26953a7804f3
+
+=2018-08-29T08:25:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Yoshiki NAGATANIさんのツイート みなさまのご指摘を参考にさせて頂き，Julia 言語版を
+URL=https://twitter.com/nagataniyoshiki/status/1034631650410291200
+
+=2018-10-27T06:38:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Yuki Nagaiさんのツイート 数値計算で学ぶ量子力学 プログラミング言語Juliaによる数値計算入門、というPDFノートを作ってみた。まだ未完成だけど随時足す予定
+URL=https://twitter.com/cometscome_phys/status/1056139964449079298
+
+=2016-12-23T09:20:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/スパースコーディングのための辞書生成アルゴリズム，K-SVDをJuliaで実装した - Qiita
+URL=http://qiita.com/IshitaTakeshi/items/b7c319fae79f62c80319
+
+=2018-06-06T18:11:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/プログラミング言語 Julia と、ウェブフレームワーク Genie まだプログラマーですが何か？
+URL=http://dotnsf.blog.jp/archives/1071192012.html
+
+=2018-10-20T05:02:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/志位＋＋和夫さんのツイート #TSUTAYA_AI はJuliaで動いています。是非Juliaの速度を体感ください。 #JuliaTokyo
+URL=https://twitter.com/hyper0dietter/status/1053641348903919616
+
+=2018-10-20T05:02:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/海子さんのツイート juliaでアニメーションどうやって作るのかな～～～　って軽い気持ちで調べた僕を覗き込む赤い顔達…
+URL=https://twitter.com/umikoz/status/1053585984040820737
+
+=2018-10-11T04:54:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 #数楽 税を率方式ではなく、定額方式(すなわち常に同じ金額の税を徴収してランダムに
+URL=https://twitter.com/genkuroki/status/1050395040445427712
+
+=2018-09-19T06:58:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 添付動画は LASSO のパラメーター lambda を適当に調節した場合。
+URL=https://twitter.com/genkuroki/status/1042146204405182470
+
+=2018-03-16T18:04:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 添付画像の問題を「百囚人問題」と呼びます。百囚人問題は
+URL=https://twitter.com/genkuroki/status/974514909315719173
+
+=2016-02-16T08:01:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Coursera Machine LearningをJuliaでやる - Qiita
+URL=http://qiita.com/homulerdora/items/5a672f3a0d991c807a07
+
+=2018-10-20T05:01:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Deep Learning with Julia1.0 and Flux
+URL=https://www.slideshare.net/SatoshiTerasaki/deep-learning-with-julia10-and-flux
+
+=2018-10-20T06:15:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Google Colab で Julia を使ってみた - Qiita
+URL=https://qiita.com/ueuema/items/ca1b326f5df10a4203bd
+
+=2018-09-29T06:45:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia 1.0 ＋ FluxでMNIST学習-Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/0f772caba3a1bc6ceae4
+
+=2018-10-05T11:13:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia によるレコメンドアルゴリズム実装 - Speaker Deck
+URL=https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang
+
+=2016-12-03T08:43:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia のススメ　Deep Learning のための Julia - Qiita
+URL=http://qiita.com/antimon2/items/a370ed6e91d0f2764e80
+
+=2017-05-01T16:41:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/JuliaMLOpenAIGym.jl OpenAI's Gym wrapped as a Reinforce.jl environment
+URL=https://github.com/JuliaML/OpenAIGym.jl
+
+=2018-04-12T13:11:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/JuliaでTensorFlow その5 ニューラルネットワークの導入と深層学習-Qiita
+URL=https://qiita.com/cometscome_phys/items/45017aa9741c5fdc7eb9
+
+=2016-09-30T07:58:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで学ぶ画像処理-ニューラルネットワーク(Neural Network) part1-
+URL=https://lp-tech.net/articles/SEFVJ
+
+=2018-09-29T06:43:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その3：ニューラルネットとバッチ正規化編-Qiita
+URL=https://qiita.com/cometscome_phys/items/1b7ad193dc1db9b184db
+
+=2018-09-25T08:37:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その２：線形回帰編 - Qiita
+URL=https://qiita.com/cometscome_phys/items/f58174c0dad7ecb811ed
+
+=2018-06-14T09:35:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：深層学習フレームワークKnet.jlを使ってみる
+URL=https://qiita.com/cometscome_phys/items/f09e801bc5b3f57f6350
+
+=2018-10-24T17:01:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Keno Fischerさんのツイート Our new paper today httpst.coVCjosWR2zo. Compile your #julialang code straight to @Google's #CloudTPU. M
+URL=https://twitter.com/KenoFischer/status/1054893946978086912
+
+=2018-10-24T06:19:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Montreal.AIさんのツイート Automatic Full Compilation of Julia Programs and ML Models to Cloud TPUs By Keno Fischer, Elliot Saba htt
+URL=https://twitter.com/Montreal_AI/status/1055072888519319553
+
+=2018-03-12T21:25:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/PyCall.jlでPyTorch使ってDeep Learningする
+URL=https://qiita.com/yatra9/items/0a1a9a5ba19e9efe08c0#ab%E3%81%8C%E6%B0%97%E6%8C%81%E3%81%A1%E6%82%AA%E3%81%84
+
+=2018-04-04T16:01:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/StanとJuliaでベイズ統計モデリング - ゆめをみること．
+URL=https://yukota.hatenablog.com/entry/2018/04/04/160148
+
+=2018-10-14T22:08:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/いのうえさんのツイート juliaで機械学習、 純正はKnetとFluxってのがあって、ひとまずFluxでMNISTの学習とテストまで
+URL=https://twitter.com/earlylifely/status/1051350418922459136
+
+=2018-10-25T06:19:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/黒木玄 Gen Kurokiさんのツイート Google Colab で #Julia言語 + TPU が正式サポートされることになればビッグニュースですね。Google側にもメリットがありそう。
+URL=https://twitter.com/genkuroki/status/1055094694470856704
+
+=2018-09-03T23:30:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia - Jupyter notebook と Julia のソースコードの相互変換方法 - goropikariの備忘録
+URL=http://goropikari.hatenablog.com/entry/literate_code2notebook
+
+=2018-10-08T18:01:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia v1.0 でユニットテスト - Qiita
+URL=https://qiita.com/antimon2/items/5222f4f773bf1944b745
+
+=2018-09-24T16:01:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/K.B.砂糖さんのツイート Windows で Julia が Jupyter notebook 上で動かない問題、いつの間にかclose になってた。
+URL=https://twitter.com/KB_satou/status/1044079234078003201
+
+=2018-10-05T19:08:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/piqcyさんのツイート Jupyter Notebookからスクリプトを抽出してPythonRJuliaファイルにする、さらにファイルを修正してJupyterに戻す
+URL=https://twitter.com/icoxfog417/status/1048018479658352640
+
+=2018-09-28T05:33:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/PythonからJuliaを呼び出したいんだ(Julia v 0.7 および v1.0 で OK)-Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/9d775c294a10c1f2edfe
+
+=2018-09-06T07:05:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/WindowsへのJuliaのインストール.ipynb
+URL=https://gist.github.com/genkuroki/81de23edcae631a995e19a2ecf946a4f
+
+=2018-10-17T05:55:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ゴロピカリさんのツイート Aizu Online Judge はテストケースを簡単に落としてこれるので、プログラミング言語問わず気軽に楽しめるということに今更ながら気づいた。Julia 1.0 で遊べる
+URL=https://twitter.com/goropikari_/status/1052531426740994048
+
+=2018-08-29T10:09:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ゴロピカリさんのツイート Julia のソースファイルから jupyter notebook や markdown を生成できるという驚異的なパッケージだった。 httpst.coRVcP8Wefqo
+URL=https://twitter.com/goropikari_/status/1034575795723747328
+
+=2018-10-08T17:34:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/タイラー・コーエン 「ポール・ローマーがノーベル経済学賞を手にしたのはなぜ？」（2018年10月8日）-経済学101
+URL=https://econ101.jp/%e3%82%bf%e3%82%a4%e3%83%a9%e3%83%bc%e3%83%bb%e3%82%b3%e3%83%bc%e3%82%a8%e3%83%b3-%e3%80%8c%e3%83%9d%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%bc%e3%81%8c%e3%83%8e%e3%83%bc%e3%83%99/
+
+=2018-10-12T08:30:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/デバッグにはRevise.jl(httpst.co4v48ihKEOR)が便利ですよ。REPLを起動したままファイルを更新すれば自動で
+URL=https://twitter.com/bicycle1885/status/1050696387178913792
+
+=2018-09-14T19:33:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen Kurokiさんのツイート #Julia言語 httpst.coAKc40tyKD4 でMarkdownによる解説を書く場合に
+URL=https://twitter.com/genkuroki/status/1040313796235948032
+
+=2018-06-22T22:53:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen Kurokiさんのツイート #数楽 #Julia言語 数式がMathJaxで結構きれいに表示される。 Jupyter notebook + nbextensions
+URL=https://twitter.com/genkuroki/status/1010137415015493632
+
+=2018-08-03T08:55:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Juliaでforループをプロセス並列化してみる-Qiita
+URL=https://qiita.com/cometscome_phys/items/44d09a6b67bd48a1fbfb
+
+=2018-01-08T14:53:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Juliaのfor文はなぜ速い - りんごがでている
+URL=http://bicycle1885.hatenablog.com/entry/2018/01/08/145347
+
+=2018-01-09T02:56:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Juliaの速さを体感する - Qiita
+URL=https://qiita.com/ceptree/items/b5cfca180e85e61c42a8
+
+=2018-08-29T18:00:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Yoshiki NAGATANIさんのツイート ちょっとだけマトモなワークステーション（Quad-channel RAM）で Julia と C のマルチスレッド化も試してみました。
+URL=https://twitter.com/nagataniyoshiki/status/1034677570158059521
+
+=2018-10-06T08:44:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/[Julia] 多引数関数の速度比較　その２ - Qiita
+URL=https://qiita.com/Yoshinobu-Ishizaki/items/ca2aeeb1024a0cd89934
+
+=2018-09-30T19:58:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen Kurokiさんのツイート #Julia言語 のコンパイラがどういうところで頑張ろうとしているかがわかる
+URL=https://twitter.com/genkuroki/status/1046279862468542466
+
+=2018-08-19T12:03:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート #Julia言語 Julia言語ではオブジェクト指向プログラミング(のようなこと)ができないというような誤解が
+URL=https://twitter.com/genkuroki/status/987732306499584000
+
