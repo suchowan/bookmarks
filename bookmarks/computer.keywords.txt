@@ -138,9 +138,10 @@ Gym Retro
 =2017-08-16T10:05:00+09:00 Computer/トピック/ツール/オンプレミス/PowerAI/keywords
 DDL,Distributed Deep Learning
 
-=2018-10-09T13:47:42+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/keywords
+=2018-11-18T20:04:02+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/keywords
 Object Detection API
 tensorflow
+Tensorboard
 
 =2017-07-10T08:39:52+09:00 Computer/トピック/ツール/オンプレミス/その他/H2O.ai/keywords
 Driverless AI
@@ -765,12 +766,13 @@ JUMAN
 AYA
 LUIS
 
-=2018-09-03T14:28:04+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
+=2018-11-18T20:04:02+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
 手書き
 古文書
 くずし字
 文字おこし
 自動文字起こし
+OCR
 
 =2017-03-23T10:47:49+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/特徴語/keywords
 専門用語
@@ -4367,7 +4369,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2018-11-14T09:37:45+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2018-11-18T20:04:06+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4385,6 +4387,8 @@ TSUBAME
 金融庁
 徳島県
 大津市
+伊那市
+金沢市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
