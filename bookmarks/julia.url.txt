@@ -352,8 +352,14 @@ URL=https://twitter.com/nagataniyoshiki/status/1034677570158059521
 =2018-10-06T08:44:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/[Julia] 多引数関数の速度比較　その２ - Qiita
 URL=https://qiita.com/Yoshinobu-Ishizaki/items/ca2aeeb1024a0cd89934
 
+=2018-11-19T19:28:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/こうきょさんのツイート pythonで3時間かかるはずの処理がjuliaで書いたら40秒になって流石にウッソやろという気分になっている(pythonの書き方も相当工夫したつもりだったんだが...)
+URL=https://twitter.com/hiding_koukyo/status/1064198909235347456
+
 =2018-11-08T18:10:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ごまふあざらしさんのツイート gcd による円周率の計算を #RaspberryPi でPythonのコードを動かしています。 N=1000でもそれなりに時間がかかりますね。
 URL=https://twitter.com/MathSorcerer/status/1060227606828609536
+
+=2018-11-18T19:28:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/やすべぇさんのツイート httpst.coRTBFCPRyFf ``` ベンチマークなどに使えるのが実行時間とアロケートされたメモリを測る@timeマクロです。
+URL=https://twitter.com/yasubeitwi/status/1064092467216113664
 
 =2018-11-07T22:02:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen Kurokiさんのツイート #Julia言語 Jeff Bezanson - Why is Julia fast httpst.coMmZ8zhHPfZ @YouTubeより
 URL=https://twitter.com/genkuroki/status/1060097131061465089

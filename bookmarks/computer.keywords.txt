@@ -582,7 +582,7 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2018-10-19T11:10:32+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2018-11-20T19:52:27+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
@@ -592,6 +592,7 @@ robot
 ROS
 EGrobo
 ヒューマノイド
+Whiz
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -936,6 +937,9 @@ Lightroom
 
 =2017-11-23T08:22:57+09:00 Computer/トピック/社会動向/企業/Aerial Partners/keywords
 Guardian
+
+=2018-11-20T19:52:27+09:00 Computer/トピック/社会動向/企業/Affectiva/keywords
+Affdex
 
 =2017-11-11T16:10:52+09:00 Computer/トピック/社会動向/企業/AI sales/keywords
 AIクレームチェッカー
@@ -1926,6 +1930,9 @@ GraphPipe
 
 =2017-09-26T08:27:03+09:00 Computer/トピック/社会動向/企業/Orb/keywords
 Orb DLT
+
+=2018-11-20T19:52:28+09:00 Computer/トピック/社会動向/企業/Original/keywords
+Bodygram
 
 =2017-09-19T08:17:38+09:00 Computer/トピック/社会動向/企業/OSK/keywords
 eValue NS
@@ -3352,9 +3359,6 @@ AI-PR
 =2017-11-19T15:44:45+09:00 Computer/トピック/社会動向/企業/データビークル/keywords
 Data Diver
 
-=2017-04-10T14:37:40+09:00 Computer/トピック/社会動向/企業/トッパン/keywords
-トッパン,凸版
-
 =2017-04-10T14:37:45+09:00 Computer/トピック/社会動向/企業/トライバルメディアハウス/keywords
 Engage Manager,エンゲージマネージャー
 
@@ -3553,6 +3557,9 @@ cakes
 
 =2017-04-11T09:33:47+09:00 Computer/トピック/社会動向/企業/ファミリーイナダ/keywords
 ルピナス
+
+=2018-11-20T19:45:16+09:00 Computer/トピック/社会動向/企業/ファミリーマート/keywords
+ファミマ,ファミリーマート
 
 =2018-01-13T12:01:55+09:00 Computer/トピック/社会動向/企業/ファンタラクティブ/keywords
 WW checker,ダブダブチェッカー
@@ -3951,7 +3958,8 @@ KANADE DSP
 AiLingual,アイリンガル
 ヤラクゼン
 
-=2017-12-09T10:34:13+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
+=2018-11-20T19:48:50+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
+トッパン,凸版
 BotFriends
 
 =2017-10-12T11:36:23+09:00 Computer/トピック/社会動向/企業/千/keywords
