@@ -406,7 +406,7 @@ DApps
 深層学習,Deep Learning,ディープラーニング
 データサイエンティスト
 
-=2017-03-23T15:22:40+09:00 Computer/トピック/機械学習/機械学習入門/keywords
+=2018-11-22T10:25:17+09:00 Computer/トピック/機械学習/機械学習入門/keywords
 今さら聞けない
 ゼロから
 入門
@@ -417,6 +417,7 @@ Coursera
 人工知能の歴史
 初心者
 即席
+いまさら聞けない
 
 =2018-10-09T13:47:41+09:00 Computer/トピック/機械学習/機械学習入門/Qiita/keywords
 fast.ai
@@ -1035,9 +1036,6 @@ atama＋,atama plus
 =2017-09-19T08:24:36+09:00 Computer/トピック/社会動向/企業/Atlassian/keywords
 Atlassian,アトラシアン
 Stride
-
-=2017-03-28T14:46:31+09:00 Computer/トピック/社会動向/企業/Automagi/keywords
-AMY
 
 =2017-09-15T11:11:54+09:00 Computer/トピック/社会動向/企業/AZAPA/keywords
 DBT,Deep Binary Tree
@@ -2679,6 +2677,9 @@ hachidori
 =2018-03-27T17:28:59+09:00 Computer/トピック/社会動向/企業/エムオーテックス/keywords
 LanScope An
 
+=2017-03-28T14:46:31+09:00 Computer/トピック/社会動向/企業/エムティーアイ/Automagi/keywords
+AMY
+
 =2017-12-15T10:59:20+09:00 Computer/トピック/社会動向/企業/エム・ソフト/keywords
 STag
 
@@ -2808,6 +2809,9 @@ QND
 
 =2017-03-30T14:09:45+09:00 Computer/トピック/社会動向/企業/クボタ/keywords
 クボタ,Kubota
+
+=2018-11-22T10:25:17+09:00 Computer/トピック/社会動向/企業/クラウドキャスト/keywords
+Staple
 
 =2017-11-23T07:30:26+09:00 Computer/トピック/社会動向/企業/クラウドリアルティ/keywords
 クラウドリアルティ,Crowd Realty
@@ -3152,7 +3156,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2018-10-29T09:49:05+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2018-11-22T10:25:17+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -3164,6 +3168,7 @@ wena wrist
 toio,トイオ
 MESH
 MANOMA
+SPRESENSE
 
 =2017-10-10T09:15:03+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -4373,6 +4378,9 @@ TSUBAME
 
 =2017-10-16T11:25:37+09:00 Computer/トピック/社会動向/大学/沖縄科学技術大学院大学/keywords
 沖縄科学技術大学院大学,OIST
+
+=2018-11-22T10:24:23+09:00 Computer/トピック/社会動向/大学/豊橋技術科学大学/keywords
+豊橋技科大,豊橋技術科学大学
 
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
