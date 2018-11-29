@@ -483,7 +483,7 @@ RPA,Robotic Process Automation
 脚本,シナリオ
 物語
 
-=2018-09-25T10:16:02+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
+=2018-11-29T13:48:58+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
 ピッタリ
 指南
@@ -492,6 +492,7 @@ RPA,Robotic Process Automation
 おすすめ
 意志決定
 Quicksilver
+お薦め
 
 =2018-05-03T18:47:59+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
@@ -678,7 +679,7 @@ Musio
 東ロボくん
 すらら,Surala
 
-=2018-10-22T10:59:53+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
+=2018-11-29T13:48:56+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
 自動彩色,カラー化,色塗り,着彩,着色,Colorization
 画像合成
 作画
@@ -699,6 +700,7 @@ AI-CATCHER
 グリーンバック
 seaborn
 自動描画
+OpenPose
 
 =2018-03-27T17:29:03+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
@@ -1206,6 +1208,9 @@ AIコンシェルジュ
 Easy Ride
 MOV
 
+=2018-11-29T13:54:05+09:00 Computer/トピック/社会動向/企業/DigitalGlobe/keywords
+デジタルグローブ,DigitalGlobe
+
 =2017-12-08T14:04:51+09:00 Computer/トピック/社会動向/企業/DISCOVER/keywords
 TravelMate
 
@@ -1592,6 +1597,9 @@ puzzle
 
 =2017-09-04T12:24:06+09:00 Computer/トピック/社会動向/企業/JIT/keywords
 ICO MARKET
+
+=2018-11-29T13:52:57+09:00 Computer/トピック/社会動向/企業/Johnson & Johnson/keywords
+ジョンソン・エンド・ジョンソン,Johnson & Johnson
 
 =2018-08-21T11:30:01+09:00 Computer/トピック/社会動向/企業/Johnson Controls/keywords
 GLAS
@@ -2301,6 +2309,9 @@ CSLAIER
 =2017-03-30T10:43:27+09:00 Computer/トピック/社会動向/企業/ULA/keywords
 ULA,United Launch Alliance
 
+=2018-11-29T13:51:42+09:00 Computer/トピック/社会動向/企業/UNIBOT/keywords
+ユニボット,UNIBOT
+
 =2018-02-02T08:23:46+09:00 Computer/トピック/社会動向/企業/USEN-NEXT/keywords
 innto
 
@@ -2487,6 +2498,9 @@ LOHACO
 =2017-07-24T10:42:40+09:00 Computer/トピック/社会動向/企業/アスラテック/keywords
 DOKA ROBO
 
+=2018-11-29T13:53:38+09:00 Computer/トピック/社会動向/企業/アセントロボティクス/keywords
+Ascent Robotics,アセントロボティクス
+
 =2017-07-24T12:25:06+09:00 Computer/トピック/社会動向/企業/アタラ合同会社/keywords
 Unyoo.jp
 
@@ -2672,6 +2686,9 @@ TalkQA
 
 =2017-03-30T11:53:50+09:00 Computer/トピック/社会動向/企業/エクストリームデザイン/keywords
 XTREME DNA
+
+=2018-11-29T13:48:56+09:00 Computer/トピック/社会動向/企業/エクストリーム－D/keywords
+XTREME-Stargate
 
 =2017-09-08T11:53:57+09:00 Computer/トピック/社会動向/企業/エニグモ/keywords
 Paidy
@@ -3137,6 +3154,9 @@ CANDY
 
 =2018-04-05T13:20:55+09:00 Computer/トピック/社会動向/企業/セイコーエプソン/keywords
 WorkSense
+
+=2018-11-29T13:48:59+09:00 Computer/トピック/社会動向/企業/セカンドサイト/keywords
+SkyFox
 
 =2017-04-04T15:05:55+09:00 Computer/トピック/社会動向/企業/セカンドファクトリー/keywords
 クラウド海の家
@@ -4399,7 +4419,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2018-11-18T20:04:06+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2018-11-29T13:48:59+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4419,6 +4439,7 @@ TSUBAME
 大津市
 伊那市
 金沢市
+札幌市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
