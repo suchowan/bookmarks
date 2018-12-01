@@ -470,8 +470,9 @@ RPA,Robotic Process Automation
 =2018-08-04T07:26:28+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/故障/keywords
 危険検知
 
-=2018-09-03T14:27:58+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/災害/keywords
+=2018-12-01T11:50:37+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/災害/keywords
 地震
+洪水
 
 =2017-03-22T11:23:52+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
 自動生成
@@ -732,9 +733,10 @@ MNIST
 自動運転
 自動操縦
 
-=2018-06-15T17:13:15+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
+=2018-12-01T11:50:37+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
 無人運転車
 自律自動車
+DeepRacer
 
 =2017-03-23T10:41:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/FEP/keyword
 かな漢字変換
@@ -786,9 +788,10 @@ OCR
 キーワード
 固有表現
 
-=2018-07-30T09:22:31+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/翻訳/keywords
+=2018-12-01T11:50:37+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/翻訳/keywords
 ezcommu
 通訳
+STACL
 
 =2017-03-23T11:06:40+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
 議事録
@@ -1018,6 +1021,9 @@ SynCryp
 VR Insight
 VR ON AIR TEST
 
+=2018-12-01T11:51:43+09:00 Computer/トピック/社会動向/企業/Apaman Network/keywords
+アパマン,Apaman Network
+
 =2017-07-10T07:18:19+09:00 Computer/トピック/社会動向/企業/Appier/keywords
 Cross X AIソリューション
 AIXON
@@ -1121,6 +1127,9 @@ CDNN
 
 =2017-09-25T07:12:04+09:00 Computer/トピック/社会動向/企業/Champion Technology Company/keywords
 DarkLight
+
+=2018-12-01T11:52:13+09:00 Computer/トピック/社会動向/企業/Chatwork/keywords
+ChatWork,Chatwork
 
 =2017-10-12T10:26:27+09:00 Computer/トピック/社会動向/企業/Chef/keywords
 Habitat
@@ -1414,7 +1423,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2018-11-03T10:28:23+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2018-12-01T11:50:37+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1451,6 +1460,7 @@ Google Duplex
 Colaboratory
 Gboard
 Pixel 3
+Google Fi
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
@@ -1733,7 +1743,7 @@ CALNA
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
 
-=2018-10-09T13:47:42+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2018-12-01T11:50:37+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -1757,6 +1767,7 @@ Surface Hub
 Dynamics 365
 SharePoint
 ビル・ゲイツ
+Skype
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -2121,6 +2132,9 @@ LEAP
 
 =2017-08-30T08:27:09+09:00 Computer/トピック/社会動向/企業/Secual/keywords
 Secual,セキュアル
+
+=2018-12-01T11:50:36+09:00 Computer/トピック/社会動向/企業/Secureworks/keywords
+Purple Team
 
 =2018-03-12T11:00:29+09:00 Computer/トピック/社会動向/企業/SEGWAY/keywords
 SEGWAY BASE
@@ -4419,7 +4433,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2018-11-29T13:48:59+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2018-12-01T11:50:37+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4440,6 +4454,7 @@ TSUBAME
 伊那市
 金沢市
 札幌市
+消防庁
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
