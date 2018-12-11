@@ -211,11 +211,20 @@ URL=https://twitter.com/julialang_news/status/1050450012684132352
 =2018-10-07T08:44:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaからPyCall経由でカメラを起動する。 - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/b1ebd844620b920e8df6
 
+=2018-12-04T05:27:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで2次計画法 - Ki_chi@Blog
+URL=http://ki-chi.jp/?p=895
+
 =2018-10-25T18:46:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaでDiscordのbotを書く(Python使わずに) - Qiita
 URL=https://qiita.com/MunoChan/items/4e8254e43c69f3b8da2e
 
+=2018-12-08T08:22:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでバイオインフォマティクス（ゲノムデータ編） - Qiita
+URL=https://qiita.com/yuifu/items/b2031d0367da878fddae
+
 =2018-09-27T06:58:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで簡単なGUIアプリを作ってみる - Qiita
 URL=https://qiita.com/goropikari/items/8b803be3ce8d36ea2fe9
+
+=2018-10-07T08:22:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/K.B.砂糖さんのツイート 拡散希望 #julia言語…
+URL=https://twitter.com/KB_satou/status/1048769198652936193
 
 =2018-11-23T06:15:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Makoto Kawanoさんのツイート Qiitaの記事を参考にJuliaでガウス過程を書いてみたのだけど，詳しい人にレビューしてもらいたい
 URL=https://twitter.com/mkt_kwn/status/1065682194205675520
@@ -252,6 +261,9 @@ URL=https://twitter.com/genkuroki/status/974514909315719173
 
 =2018-03-16T06:11:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 添付画像の問題を「百囚人問題」と呼びます。百囚人問題は私がここ数年間のあいだに出会った数学パズルの中で最高
 URL=https://twitter.com/genkuroki/status/974514909315719173
+
+=2018-12-08T08:52:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/（Juliaで）後退差分法で修正節点法でRLC直列回路を解析する - Qiita
+URL=https://qiita.com/tatssuki/items/fb6b1cf14d261cc5d316
 
 =2016-02-16T08:01:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Coursera Machine LearningをJuliaでやる - Qiita
 URL=http://qiita.com/homulerdora/items/5a672f3a0d991c807a07
@@ -381,4 +393,7 @@ URL=https://twitter.com/genkuroki/status/1046279862468542466
 
 =2018-08-19T12:03:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート #Julia言語 Julia言語ではオブジェクト指向プログラミング(のようなこと)ができないというような誤解が
 URL=https://twitter.com/genkuroki/status/987732306499584000
+
+=2018-12-09T14:07:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート 多分、プログラミングの素人でもコードを書きやすくて、計算も速いという条件を満たしている十分に開発された道具は現時点では #Julia言語 しかない
+URL=https://twitter.com/genkuroki/status/1071619148222844928
 
