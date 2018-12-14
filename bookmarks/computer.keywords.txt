@@ -291,7 +291,7 @@ Flux.jl
 Pukiwiki
 PHP7
 
-=2018-10-13T07:44:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
+=2018-12-14T14:20:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
 pandas
 NumPy
 Flask
@@ -307,6 +307,7 @@ SymPy
 PyCon
 Cupy
 pip
+scikit-learn
 
 =2018-04-26T10:35:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
 Rubyist
@@ -804,9 +805,10 @@ ezcommu
 通訳
 STACL
 
-=2017-03-23T11:06:40+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
+=2018-12-14T14:20:00+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
 議事録
 秘書
+IMAKITA
 
 =2018-05-16T10:45:29+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
 音声処理
@@ -2031,6 +2033,9 @@ Juicer
 =2017-07-04T10:18:27+09:00 Computer/トピック/社会動向/企業/PLENGoerRobotics/keywords
 PLEN Cube
 
+=2018-12-14T14:20:02+09:00 Computer/トピック/社会動向/企業/Pliant Energy Systems/keywords
+Velox
+
 =2018-07-14T13:23:40+09:00 Computer/トピック/社会動向/企業/Polar/keywords
 Polar Flow
 
@@ -2415,6 +2420,9 @@ OneRun
 =2017-08-04T11:22:38+09:00 Computer/トピック/社会動向/企業/ZEALS/keywords
 fanp
 fanp Biz
+
+=2018-12-14T14:20:02+09:00 Computer/トピック/社会動向/企業/ZEROBILLBANK JAPAN/keywords
+ZBB,ZEROBILLBANK,ZEROBILLBANK JAPAN
 
 =2018-07-07T10:02:03+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
 CarriRo Delivery
@@ -3474,8 +3482,9 @@ hibiki
 =2017-04-10T14:38:18+09:00 Computer/トピック/社会動向/企業/ナカバヤシ/keywords
 CUTPEN
 
-=2017-10-30T10:41:52+09:00 Computer/トピック/社会動向/企業/ナレッジコミュニケーション/keywords
+=2018-12-14T14:20:02+09:00 Computer/トピック/社会動向/企業/ナレッジコミュニケーション/keywords
 ナレコムAI
+ナレコム
 
 =2017-10-16T10:27:05+09:00 Computer/トピック/社会動向/企業/ナーブ/keywords
 VR内見

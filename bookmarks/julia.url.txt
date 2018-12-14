@@ -130,6 +130,12 @@ URL=http://goropikari.hatenablog.com/entry/julia_make_package
 =2018-09-20T22:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia - 野良パッケージを公式パッケージにする方法 - goropikariの備忘録
 URL=http://goropikari.hatenablog.com/entry/julia_make_official_package
 
+=2018-12-12T11:43:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 1.0で単位付き数値の算術 - Unitful パッケージ - Qiita
+URL=https://qiita.com/tenfu2tea/items/882f539a9cf3cde1fa57
+
+=2018-12-13T12:38:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaで綺麗なプロットを作る：Makie.jlのインストールと使い方 - Qiita
+URL=https://qiita.com/cometscome_phys/items/38ac9a89b96579b6a34b
+
 =2018-10-30T11:12:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ゴロピカリさんのツイート パッケージの雛形を作ってくれる PkgTemplates.jl が Julia 1.0 に対応！#julialang httpst.coRjwQpct6J0
 URL=https://twitter.com/goropikari_/status/1057054032508796929
 
@@ -207,6 +213,9 @@ URL=http://marui.hatenablog.com/entry/2018/09/14/134118
 
 =2018-10-12T08:32:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia Newsさんのツイート Parallel Supercomputing for Astronomy with Julia httpst.coCgSBr5pKkG #hackernews
 URL=https://twitter.com/julialang_news/status/1050450012684132352
+
+=2018-12-11T15:37:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia を使ってお手軽に数学 gif を作ってみよう - Qiita
+URL=https://qiita.com/wakabame/items/7c4db07c222755349dea
 
 =2018-10-07T08:44:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaからPyCall経由でカメラを起動する。 - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/b1ebd844620b920e8df6
