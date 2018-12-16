@@ -136,6 +136,12 @@ URL=https://qiita.com/tenfu2tea/items/882f539a9cf3cde1fa57
 =2018-12-13T12:38:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaで綺麗なプロットを作る：Makie.jlのインストールと使い方 - Qiita
 URL=https://qiita.com/cometscome_phys/items/38ac9a89b96579b6a34b
 
+=2018-12-14T06:29:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/MenohのC APIを使ってJuliaバインディングを作る - Qiita
+URL=https://qiita.com/okdshin/items/60257ac8c6ecb4baf74a
+
+=2018-09-29T06:30:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Nemo
+URL=http://nemocas.org/
+
 =2018-10-30T11:12:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ゴロピカリさんのツイート パッケージの雛形を作ってくれる PkgTemplates.jl が Julia 1.0 に対応！#julialang httpst.coRjwQpct6J0
 URL=https://twitter.com/goropikari_/status/1057054032508796929
 
@@ -181,6 +187,9 @@ URL=https://twitter.com/earlylifely/status/1051810675847127041
 =2018-01-13T07:12:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんのツイート Juliaで $ x_1$ の入力がわからなかった飼い主にゴマちゃんが説明を書いてくれたようです．…
 URL=https://twitter.com/MathSorcerer/status/951967760585670656
 
+=2018-12-15T12:42:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ひぐち-ずさんのツイート OpenBLASの実装解説 httpst.coEAu8evq3AE 今年も行列積の高速化について書いてしまいました。コメント・ご指摘お願いします。
+URL=https://twitter.com/higucheese_/status/1073690085235732481
+
 =2018-09-16T19:37:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゴロピカリさんのツイート あまり意識してませんでしたが、#julialang v0.6 と v1.0 で転置の扱い結構変わってたんですね。
 URL=https://twitter.com/goropikari_/status/1041245147193782272
 
@@ -201,6 +210,9 @@ URL=https://github.com/cometscome/QM
 
 =2018-09-20T17:58:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/FreshAndEarlyさんのツイート Julia 1.0 でMeCabを使いたい方は下記のフォークでどうぞ。本家のchezouさんがプルリクエストに対応するかは分かりません。
 URL=https://twitter.com/snthotto/status/1042591888098779136
+
+=2018-06-17T18:43:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/GPU でイジングモデルを計算する - Qiita
+URL=https://qiita.com/Lirimy/items/3ecb550af79cc674e480
 
 =2018-11-22T17:22:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Haruka Ozakiさんのツイート RamDA-seqの論文でJulia、BioJuliaを使ったユースケースについての記事がJulia Computingから公開されました（内容はだいぶ生物系寄りです）
 URL=https://twitter.com/yuifu/status/1065463976257966080
