@@ -202,6 +202,9 @@ URL=https://twitter.com/higucheese_/status/1073690085235732481
 =2018-09-16T19:37:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゴロピカリさんのツイート あまり意識してませんでしたが、#julialang v0.6 と v1.0 で転置の扱い結構変わってたんですね。
 URL=https://twitter.com/goropikari_/status/1041245147193782272
 
+=2018-12-20T18:31:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 (m,n)型 → size (m,n) の Matrix{T}=Array{T,2}型 (行列) (n, )型 → 長さ1の Vector{T}=Array{T,1}型 (縦ベクトル) 
+URL=https://twitter.com/genkuroki/status/1076039976024825858
+
 =2018-09-09T07:26:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 PythonでのClassで書かれたコードをJuliaで書き直す
 URL=https://twitter.com/genkuroki/status/1038491819791671296
 
@@ -429,6 +432,9 @@ URL=https://twitter.com/genkuroki/status/1046279862468542466
 
 =2018-08-19T12:03:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート #Julia言語 Julia言語ではオブジェクト指向プログラミング(のようなこと)ができないというような誤解が
 URL=https://twitter.com/genkuroki/status/987732306499584000
+
+=2018-12-20T17:25:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート #Julia言語 そこで初心者でも困らないようにtutorial用のJupyter notebookを作成しました。以下のリンク先にあります。
+URL=https://twitter.com/genkuroki/status/1075557630892863488
 
 =2018-12-09T14:07:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート 多分、プログラミングの素人でもコードを書きやすくて、計算も速いという条件を満たしている十分に開発された道具は現時点では #Julia言語 しかない
 URL=https://twitter.com/genkuroki/status/1071619148222844928
