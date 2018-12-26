@@ -178,7 +178,7 @@ Sumerian
 Amazon EMR
 DeepLens
 
-=2018-08-04T07:26:25+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
+=2018-12-26T12:22:29+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
 Google AppEngine
 Firebase
@@ -187,6 +187,7 @@ GAE
 Cloud Speech-to-Text
 Bigquery
 Cloud Services Platform
+google colab
 
 =2018-08-24T11:07:27+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
@@ -288,6 +289,9 @@ Node-RED
 =2018-10-19T11:11:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/keywords
 julia,Julia
 Flux.jl
+
+=2018-12-26T12:23:52+09:00 Computer/トピック/ツール/ソフトウェア言語/LISP/keywords
+Lisp,LISP
 
 =2018-06-15T17:13:15+09:00 Computer/トピック/ツール/ソフトウェア言語/PHP/keywords
 Pukiwiki
@@ -720,7 +724,7 @@ seaborn
 OpenPose
 スタイル変換
 
-=2018-03-27T17:29:03+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2018-12-26T12:22:32+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -745,6 +749,7 @@ PlantSnap
 境界線追跡
 表層品質
 MNIST
+DeepSolar
 
 =2017-12-26T08:27:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -866,7 +871,7 @@ Amper Music
 Magenta
 楽曲
 
-=2018-10-15T10:16:57+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2018-12-26T12:22:29+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -906,6 +911,7 @@ DAE
 CycleGAN
 スパースモデリング
 学習済モデル
+Factorization Machines
 
 =2017-03-23T14:55:48+09:00 Computer/トピック/機械学習/機械学習理論/プログラミング/keywords
 Python
@@ -1136,6 +1142,9 @@ Live Shop!
 
 =2017-08-18T07:41:05+09:00 Computer/トピック/社会動向/企業/Carat/keywords
 GLIT,グリット
+
+=2018-12-26T12:23:21+09:00 Computer/トピック/社会動向/企業/CCC/keywords
+蔦屋,TSUTAYA,CCC
 
 =2017-10-24T07:35:21+09:00 Computer/トピック/社会動向/企業/CEC/keywords
 CEC,シーイーシー
@@ -1508,7 +1517,7 @@ Kishin
 HISホテル,H.I.S.,H.I.S.ホテルホールディングス
 変なホテル
 
-=2018-09-25T10:16:00+09:00 Computer/トピック/社会動向/企業/HPE/keywords
+=2018-12-26T12:22:29+09:00 Computer/トピック/社会動向/企業/HPE/keywords
 HPE,Hewlett Packard Enterprise,ヒューレット・パッカード
 Haven OnDemand
 HPE Aruba
@@ -1520,6 +1529,7 @@ HPE AI Innovation Center
 Enhanced HPE Center of Excellence,CoE
 Blue Brain
 Aruba Networks
+HP
 
 =2018-08-21T11:30:02+09:00 Computer/トピック/社会動向/企業/HTC/keywords
 Viveport
@@ -2922,6 +2932,9 @@ ZeeM
 =2017-05-09T07:46:32+09:00 Computer/トピック/社会動向/企業/クレジットエンジン/keywords
 LENDY,レンディ
 マエガリ
+
+=2018-12-26T12:22:31+09:00 Computer/トピック/社会動向/企業/クロスコンパス/keywords
+AI Factory
 
 =2017-03-30T14:25:50+09:00 Computer/トピック/社会動向/企業/クロスリング/keywords
 SPRAY for Agency

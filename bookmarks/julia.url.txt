@@ -205,6 +205,9 @@ URL=https://twitter.com/goropikari_/status/1041245147193782272
 =2018-12-20T18:31:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 (m,n)型 → size (m,n) の Matrix{T}=Array{T,2}型 (行列) (n, )型 → 長さ1の Vector{T}=Array{T,1}型 (縦ベクトル) 
 URL=https://twitter.com/genkuroki/status/1076039976024825858
 
+=2018-12-24T15:33:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 JuliaからPythonのライブラリを使うときのポイントは
+URL=https://twitter.com/genkuroki/status/1077067715779604480
+
 =2018-09-09T07:26:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 PythonでのClassで書かれたコードをJuliaで書き直す
 URL=https://twitter.com/genkuroki/status/1038491819791671296
 
@@ -339,6 +342,9 @@ URL=https://qiita.com/cometscome_phys/items/f58174c0dad7ecb811ed
 
 =2018-06-14T09:35:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：深層学習フレームワークKnet.jlを使ってみる
 URL=https://qiita.com/cometscome_phys/items/f09e801bc5b3f57f6350
+
+=2018-11-20T06:45:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/K.B.砂糖さんのツイート 先週の #Juliatokyo のTPUの話を聞いて、TPUを使うために初めて google colab をいじってみたけど、快適すぎてヤバイな。
+URL=https://twitter.com/KB_satou/status/1064570051586486275
 
 =2018-10-24T17:01:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Keno Fischerさんのツイート Our new paper today httpst.coVCjosWR2zo. Compile your #julialang code straight to @Google's #CloudTPU. M
 URL=https://twitter.com/KenoFischer/status/1054893946978086912
