@@ -773,11 +773,12 @@ NLP
 wikipedia
 Wikipedia
 
-=2017-11-11T09:49:06+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
+=2018-12-30T13:58:41+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
 Word2Vec
 word2vec
 Doc2Vec
 fastText
+単語ベクトル
 
 =2018-09-25T10:16:05+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/keywords
 クソリプ
@@ -1008,6 +1009,9 @@ Gripper
 =2017-10-10T08:40:34+09:00 Computer/トピック/社会動向/企業/Alpaca/keywords
 Capitalico,キャピタリコ
 Labellio,ラベリオ
+
+=2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Altan Robotech/keywords
+Giddel
 
 =2018-06-23T16:28:54+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
@@ -1247,6 +1251,9 @@ MOV
 =2018-11-29T13:54:05+09:00 Computer/トピック/社会動向/企業/DigitalGlobe/keywords
 デジタルグローブ,DigitalGlobe
 
+=2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Diligent Robotics/keywords
+Moxi
+
 =2017-12-08T14:04:51+09:00 Computer/トピック/社会動向/企業/DISCOVER/keywords
 TravelMate
 
@@ -1405,6 +1412,9 @@ AUDUBE
 =2017-03-29T09:44:37+09:00 Computer/トピック/社会動向/企業/GA technologies/keywords
 Renosy
 
+=2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Gaia/keywords
+マネコ
+
 =2017-03-29T09:56:38+09:00 Computer/トピック/社会動向/企業/Gamalon/keywords
 Gamalon,ガマロン
 
@@ -1451,7 +1461,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2018-12-04T12:34:18+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1490,6 +1500,7 @@ Gboard
 Pixel 3
 Google Fi
 magenta
+Canvas
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
@@ -1656,6 +1667,9 @@ FASTALERT,ファストアラート
 
 =2017-03-29T11:37:54+09:00 Computer/トピック/社会動向/企業/KAG/keywords
 Money Data Bank,MDB
+
+=2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/KAKUCHO/keywords
+FURNI
 
 =2017-10-25T14:26:42+09:00 Computer/トピック/社会動向/企業/Kaspersky/keywords
 Kaspersky,カスペルスキー
@@ -1832,10 +1846,11 @@ Atlas DBaaS
 =2017-10-17T08:23:58+09:00 Computer/トピック/社会動向/企業/monopo/keywords
 SQUEEZE MUSIC
 
-=2017-05-10T08:10:55+09:00 Computer/トピック/社会動向/企業/MOTEX/keywords
+=2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/MOTEX/keywords
 MOTEX,エムオーテックス
 LanScope Cat
 プロテクトキャット
+Syncpit
 
 =2017-10-23T15:03:35+09:00 Computer/トピック/社会動向/企業/Motorola/keywords
 moto Smart Speaker with Amazon Alexa
@@ -1856,6 +1871,9 @@ McLEAR
 
 =2018-02-23T17:32:51+09:00 Computer/トピック/社会動向/企業/Nature/keywords
 Nature Remo
+
+=2018-12-30T13:58:42+09:00 Computer/トピック/社会動向/企業/NAVER/SNOW/keywords
+ZEPETO
 
 =2017-12-15T11:21:50+09:00 Computer/トピック/社会動向/企業/Nayuta/keywords
 マイクロペイメント
@@ -4143,7 +4161,7 @@ EvaCva+,エヴァシーヴァ・プラス
 Systemwalker Runbook Automation
 デジタルアニーラ
 
-=2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工/keywords
+=2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工業/keywords
 川崎重工業,川崎重工,Kawasaki
 
 =2018-03-01T11:11:45+09:00 Computer/トピック/社会動向/企業/情報セキュリティ/keywords
@@ -4254,6 +4272,9 @@ RECAIUS,リカイアス
 Visconti
 コエステーション
 
+=2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/東風津梁/keywords
+PAN
+
 =2018-09-03T14:28:16+09:00 Computer/トピック/社会動向/企業/楽天/keywords
 Viber
 みんなのビットコイン
@@ -4327,6 +4348,9 @@ Porsche,ポルシェ
 
 =2017-12-20T17:09:18+09:00 Computer/トピック/社会動向/企業/自動車/Renault/keywords
 Renault,ルノー
+
+=2018-12-30T13:59:46+09:00 Computer/トピック/社会動向/企業/自動車/Rolls-Royce/keywords
+ロールス・ロイス,Rolls-Royce
 
 =2017-09-11T09:57:06+09:00 Computer/トピック/社会動向/企業/自動車/SUBARU/keywords
 SUBARU,スバル,富士重工業
@@ -4553,6 +4577,9 @@ CYDERANGE
 
 =2017-10-12T11:11:00+09:00 Computer/トピック/社会動向/研究機関/分散技術総合研究所/keywords
 RICO,Responsible Initial Coin Offering
+
+=2018-12-30T14:00:21+09:00 Computer/トピック/社会動向/研究機関/国立国語研究所/keywords
+国語研,国立国語研究所
 
 =2018-07-30T09:22:30+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
 CERN
