@@ -31,7 +31,7 @@ Vtuber,VTuber
 WEEKLY人工無脳
 カオスマップ
 
-=2018-12-11T08:01:56+09:00 Computer/トピック/セキュリティ/keywords
+=2019-01-03T11:31:48+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -79,6 +79,8 @@ Titan Security Key
 データ収集
 Black Hat
 Signature
+ファイアウォール
+抜き取り
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -165,6 +167,9 @@ React16
 
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/オンプレミス/その他/Vertica/keywords
 HPE,Hewlett Packard Enterprise
+
+=2019-01-03T11:31:36+09:00 Computer/トピック/ツール/オンプレミス/その他/Yolo/keywords
+YOLO,Yolo
 
 =2018-06-23T16:28:50+09:00 Computer/トピック/ツール/クラウド/Amazon/keywords
 Alexa
@@ -637,7 +642,7 @@ Hire
 エンジニア
 人財テック
 
-=2018-12-04T12:34:17+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-01-03T11:31:48+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -684,6 +689,7 @@ MRI
 インフルエンザ
 手術
 網膜症
+病人
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1177,8 +1183,9 @@ Versius
 =2017-08-21T10:37:35+09:00 Computer/トピック/社会動向/企業/Cobalt/keywords
 コバルト,cobalt
 
-=2017-03-28T14:49:49+09:00 Computer/トピック/社会動向/企業/Cogent Labs/keywords
+=2019-01-03T11:31:48+09:00 Computer/トピック/社会動向/企業/Cogent Labs/keywords
 Tegaki
+Kaidoku
 
 =2017-08-08T10:11:14+09:00 Computer/トピック/社会動向/企業/Cognitee/keywords
 UpSighter,アップ・サイター
@@ -4529,7 +4536,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2018-12-19T12:13:53+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-01-03T11:31:48+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4553,6 +4560,7 @@ TSUBAME
 消防庁
 高知県
 埼玉県
+国土交通省
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST

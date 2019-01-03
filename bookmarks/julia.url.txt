@@ -187,6 +187,9 @@ URL=https://qiita.com/Dsuke-K/items/45694e21c742f8b0e207
 =2018-09-27T18:37:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの数学定数【小ネタ】-Qiita
 URL=https://qiita.com//Yoshinobu-Ishizaki/items/b280913264ce7b672f44
 
+=2017-10-15T07:14:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Switching from Common Lisp to Julia
+URL=https://tpapp.github.io/post/common-lisp-to-julia/
+
 =2018-12-01T09:13:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/[Julia]JuliaにIntel Distribution for Pythonを適用する - Qiita
 URL=https://qiita.com/Y_F_Acoustics/items/21246ad16091246507c6
 
@@ -219,6 +222,9 @@ URL=https://twitter.com/genkuroki/status/1062328317460733952
 
 =2018-11-25T07:07:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 スカラー2変数の函数 f をスカラー a と配列 b に対して f.(a,b) の形で作用させると、f(a, bの成分)を成分とするbと
 URL=https://twitter.com/genkuroki/status/1066583218915225600
+
+=2018-12-29T07:15:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/brv00さんのツイート httpst.coSpqWhxVAeS Julia でやってみた。 #julia言語 httpst.cone4bGxI4TP
+URL=https://twitter.com/brv00/status/1078851643951595520
 
 =2018-01-05T10:23:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/cometscomeQM In Japanese. Juliaで学ぶ量子力学
 URL=https://github.com/cometscome/QM
