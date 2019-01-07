@@ -610,7 +610,7 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2018-11-20T19:52:27+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2019-01-07T12:14:12+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
@@ -621,6 +621,7 @@ ROS
 EGrobo
 ヒューマノイド
 Whiz
+Xperia Hello!
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -1468,7 +1469,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2019-01-07T12:14:12+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1508,6 +1509,7 @@ Pixel 3
 Google Fi
 magenta
 Canvas
+Chromecast
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
@@ -2205,7 +2207,8 @@ Secual,セキュアル
 =2018-12-01T11:50:36+09:00 Computer/トピック/社会動向/企業/Secureworks/keywords
 Purple Team
 
-=2018-03-12T11:00:29+09:00 Computer/トピック/社会動向/企業/SEGWAY/keywords
+=2019-01-07T12:15:08+09:00 Computer/トピック/社会動向/企業/SEGWAY/keywords
+セグウェイ,Segway,SEGWAY
 SEGWAY BASE
 
 =2017-03-30T09:55:29+09:00 Computer/トピック/社会動向/企業/SELF/keywords
@@ -3067,6 +3070,9 @@ AI Chat Supporter
 PASHALYパシャリィ
 デクワス.VISION
 
+=2019-01-07T12:14:12+09:00 Computer/トピック/社会動向/企業/サイバネットシステム/keywords
+EndoBRAIN
+
 =2017-11-15T17:02:47+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/AIメッセンジャー/keywords
 AIメッセンジャー,AI Messenger
 AI アウトバウンド
@@ -3634,7 +3640,7 @@ AppGuard
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2018-10-15T10:16:58+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2019-01-07T12:14:12+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
@@ -3642,6 +3648,7 @@ Educational Partner
 100BANCH
 ストラーダ
 HDコム
+ホームX
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
@@ -4580,8 +4587,8 @@ WEKDA,ウェクダ
 LOTUS
 CYDERANGE
 
-=2017-05-25T07:58:05+09:00 Computer/トピック/社会動向/研究機関/NII/keywords
-情報・システム研究機構国立情報学研究所,NII
+=2019-01-07T12:13:07+09:00 Computer/トピック/社会動向/研究機関/NII/keywords
+情報・システム研究機構国立情報学研究所,国立情報学研究所,NII
 
 =2017-10-12T11:11:00+09:00 Computer/トピック/社会動向/研究機関/分散技術総合研究所/keywords
 RICO,Responsible Initial Coin Offering
