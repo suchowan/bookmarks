@@ -31,7 +31,7 @@ Vtuber,VTuber
 WEEKLY人工無脳
 カオスマップ
 
-=2019-01-03T11:31:48+09:00 Computer/トピック/セキュリティ/keywords
+=2019-01-11T14:40:11+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -81,6 +81,7 @@ Black Hat
 Signature
 ファイアウォール
 抜き取り
+reCAPTCHA
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -984,6 +985,9 @@ Guardian
 
 =2018-11-20T19:52:27+09:00 Computer/トピック/社会動向/企業/Affectiva/keywords
 Affdex
+
+=2019-01-11T13:51:37+09:00 Computer/トピック/社会動向/企業/AGC/keywords
+旭硝子,AGC
 
 =2017-11-11T16:10:52+09:00 Computer/トピック/社会動向/企業/AI sales/keywords
 AIクレームチェッカー
@@ -3815,6 +3819,9 @@ ferret One
 =2018-03-08T17:56:16+09:00 Computer/トピック/社会動向/企業/ペガラ/keywords
 GPU EATER
 
+=2019-01-11T14:40:12+09:00 Computer/トピック/社会動向/企業/ペッパーフードサービス/keywords
+いきなり！ステーキ
+
 =2017-06-08T07:43:55+09:00 Computer/トピック/社会動向/企業/ホットリンク/keywords
 BuzzSpreader,バズスプレッダー
 
@@ -3981,8 +3988,9 @@ ShowTalk
 ShowTALK+ASSIST
 eigyo intelligence
 
-=2018-09-18T14:26:35+09:00 Computer/トピック/社会動向/企業/リコー/keywords
+=2019-01-11T14:40:12+09:00 Computer/トピック/社会動向/企業/リコー/keywords
 RICOH,リコー
+RICOH 360 for Ad
 
 =2017-11-11T12:18:42+09:00 Computer/トピック/社会動向/企業/リノベる/keywords
 リノベる。
