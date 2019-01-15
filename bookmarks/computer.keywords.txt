@@ -146,9 +146,9 @@ Gym Retro
 =2017-08-16T10:05:00+09:00 Computer/トピック/ツール/オンプレミス/PowerAI/keywords
 DDL,Distributed Deep Learning
 
-=2018-11-18T20:04:02+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/keywords
+=2019-01-15T13:53:41+09:00 Computer/トピック/ツール/オンプレミス/TensorFlow/keywords
 Object Detection API
-tensorflow
+tensorflow,Tensorflow,TensorFlow
 Tensorboard
 
 =2017-07-10T08:39:52+09:00 Computer/トピック/ツール/オンプレミス/その他/H2O.ai/keywords
@@ -239,6 +239,9 @@ HPE,Hewlett Packard Enterprise
 
 =2018-02-06T10:47:05+09:00 Computer/トピック/ツール/クラウド/その他/KDDI/keywords
 IoTクラウド API Market
+
+=2019-01-15T13:51:19+09:00 Computer/トピック/ツール/クラウド/その他/keywords
+Remove.bg
 
 =2017-04-13T10:18:58+09:00 Computer/トピック/ツール/クラウド/その他/MovaTesting/keywords
 TechWave,テックウェーブ
@@ -833,8 +836,9 @@ IMAKITA
 音声処理
 ヨミ子さん
 
-=2017-05-02T10:45:36+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
+=2019-01-15T13:51:19+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
+みえる電話
 
 =2018-11-14T09:37:46+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
@@ -1594,6 +1598,9 @@ e-Spire,イースパイア
 =2017-04-11T09:51:24+09:00 Computer/トピック/社会動向/企業/IIJ/keywords
 IIJ GIOサービス
 
+=2019-01-15T13:52:12+09:00 Computer/トピック/社会動向/企業/IKEA/keywords
+イケア,IKEA
+
 =2017-09-26T07:36:28+09:00 Computer/トピック/社会動向/企業/Imagination/keywords
 Imagination,Imagination Technologies Group,イマジネーションテクノロジーズ
 PowerVR
@@ -2060,6 +2067,9 @@ PerkinElmer,パーキンエルマー
 ディープインサイツ,ディープインサイト,Deep Insights
 KAIBER
 
+=2019-01-15T13:52:44+09:00 Computer/トピック/社会動向/企業/Pfizer/keywords
+ファイザー,Pfizer
+
 =2017-03-29T14:51:58+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
 PFI,Preferred Infrastructure,プリファードインフラストラクチャー
 PFN,Preferred Networks,プリファード・ネットワークス
@@ -2106,6 +2116,9 @@ Quicksilver
 
 =2017-09-19T09:01:39+09:00 Computer/トピック/社会動向/企業/Progress Software/keywords
 Progress Corticon
+
+=2019-01-15T13:51:19+09:00 Computer/トピック/社会動向/企業/Pronto AI/keywords
+レヴァンドウスキー
 
 =2017-04-05T07:48:52+09:00 Computer/トピック/社会動向/企業/PROPELa/keywords
 amblate
@@ -4544,6 +4557,9 @@ TSUBAME
 
 =2017-10-16T11:25:37+09:00 Computer/トピック/社会動向/大学/沖縄科学技術大学院大学/keywords
 沖縄科学技術大学院大学,OIST
+
+=2019-01-15T13:51:19+09:00 Computer/トピック/社会動向/大学/諏訪東京理科大学/keywords
+諏訪東理大
 
 =2018-11-22T10:24:23+09:00 Computer/トピック/社会動向/大学/豊橋技術科学大学/keywords
 豊橋技科大,豊橋技術科学大学
