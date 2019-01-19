@@ -324,9 +324,10 @@ Cupy
 pip
 scikit-learn
 
-=2018-04-26T10:35:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
+=2019-01-19T16:47:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
 Rubyist
 WEBrick
+RMagick
 
 =2018-04-14T14:05:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rails/keywords
 Rails5
@@ -410,7 +411,7 @@ Mastodon,マストドン
 =2018-10-19T11:10:33+09:00 Computer/トピック/ビッグデータ/データセット/keywords
 データ
 
-=2018-12-22T12:04:35+09:00 Computer/トピック/ブロックチェーン/keywords
+=2019-01-19T16:47:49+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -423,6 +424,8 @@ Metalist
 DApps
 分散型台帳
 暗号資産
+Coinhive
+コインハイブ
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -1186,6 +1189,9 @@ Tetration Analytics,テトレーション アナリティックス
 Cisco Intersight
 SD-WAN
 
+=2019-01-19T16:47:49+09:00 Computer/トピック/社会動向/企業/Citrix/keywords
+シトリックス
+
 =2018-09-10T11:46:54+09:00 Computer/トピック/社会動向/企業/CMR Surgical/keywords
 Versius
 
@@ -1521,6 +1527,9 @@ Chromecast
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
+
+=2019-01-19T16:47:49+09:00 Computer/トピック/社会動向/企業/GVA TECH/keywords
+AI-CON
 
 =2018-08-21T11:30:01+09:00 Computer/トピック/社会動向/企業/Habido/keywords
 Be&Do
@@ -1875,9 +1884,10 @@ Syncpit
 =2017-10-23T15:03:35+09:00 Computer/トピック/社会動向/企業/Motorola/keywords
 moto Smart Speaker with Amazon Alexa
 
-=2018-10-15T10:17:45+09:00 Computer/トピック/社会動向/企業/Mozilla/keywords
+=2019-01-19T16:47:49+09:00 Computer/トピック/社会動向/企業/Mozilla/keywords
 モジラ,Mozilla
 Firefox
+Fenix
 
 =2017-11-11T11:26:41+09:00 Computer/トピック/社会動向/企業/Mrk & Co/keywords
 Mrk & Co,マーク・アンド・コー
@@ -2493,8 +2503,9 @@ ZBB,ZEROBILLBANK,ZEROBILLBANK JAPAN
 CarriRo Delivery
 CarriRo
 
-=2018-05-10T09:37:52+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
+=2019-01-19T16:47:48+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
 ZOZOSUIT
+WEAR
 
 =2018-05-30T14:35:55+09:00 Computer/トピック/社会動向/企業/Zscaler/keywords
 Zscaler,ゼットスケーラー
@@ -3015,6 +3026,9 @@ MAGELLAN BLOCKS
 
 =2017-07-24T10:49:06+09:00 Computer/トピック/社会動向/企業/グレープシティ/keywords
 Wikitude SDK 7
+
+=2019-01-19T16:53:20+09:00 Computer/トピック/社会動向/企業/グローバルトラストネットワークス/keywords
+GTN,グローバルトラストネットワークス
 
 =2017-03-30T11:23:24+09:00 Computer/トピック/社会動向/企業/グローバル・ブレイン/keywords
 グローバル・ブレイン,Global Brain
@@ -3898,6 +3912,9 @@ mitsucari
 MJSLINK NX-Plus
 SPALO,スパロ
 
+=2019-01-19T16:51:58+09:00 Computer/トピック/社会動向/企業/ミンカブ/keywords
+みんかぶ,ミンカブ,ミンカブ・ジ・インフォノイド
+
 =2017-04-11T10:24:08+09:00 Computer/トピック/社会動向/企業/メタップス/keywords
 Laplace,ラプラス
 
@@ -4564,10 +4581,13 @@ TSUBAME
 =2018-11-22T10:24:23+09:00 Computer/トピック/社会動向/大学/豊橋技術科学大学/keywords
 豊橋技科大,豊橋技術科学大学
 
+=2019-01-19T16:48:56+09:00 Computer/トピック/社会動向/大学/金沢工業大学/keywords
+金沢工大,金沢工業大学
+
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-01-03T11:31:48+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-01-19T16:47:49+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4592,6 +4612,7 @@ TSUBAME
 高知県
 埼玉県
 国土交通省
+山梨県
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST

@@ -127,6 +127,9 @@ URL=https://myenigma.hatenablog.com/entry/2018/08/12/113739#%E3%83%91%E3%83%83%E
 =2018-09-15T14:10:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Julia 1.0の注意点-Qiita
 URL=https://qiita.com/yatra9/items/d38833b8d4f30b921f52
 
+=2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
+URL=https://twitter.com/bicycle1885/status/1085492920113717248
+
 =2018-10-12T08:30:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/akioさんのツイート Juliaのマクロは結構変態的なことができるみたいだ。 JSExprというパッケージがあって、＠jsマクロの後ろの関数を
 URL=https://twitter.com/__akio__/status/1050541526047064064
 
@@ -225,6 +228,9 @@ URL=https://twitter.com/genkuroki/status/1062328317460733952
 
 =2018-11-25T07:07:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 スカラー2変数の函数 f をスカラー a と配列 b に対して f.(a,b) の形で作用させると、f(a, bの成分)を成分とするbと
 URL=https://twitter.com/genkuroki/status/1066583218915225600
+
+=2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
+URL=https://twitter.com/bicycle1885/status/1085492920113717248
 
 =2018-12-29T07:15:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/brv00さんのツイート httpst.coSpqWhxVAeS Julia でやってみた。 #julia言語 httpst.cone4bGxI4TP
 URL=https://twitter.com/brv00/status/1078851643951595520
@@ -333,6 +339,9 @@ URL=https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang
 
 =2016-12-03T08:43:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia のススメ　Deep Learning のための Julia - Qiita
 URL=http://qiita.com/antimon2/items/a370ed6e91d0f2764e80
+
+=2019-01-16T08:18:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia1.0のDeepLearningフレームワークFlux.jl入門 - Qiita
+URL=https://qiita.com/twrcd1227/items/a080aa03475b693d0740
 
 =2017-05-01T16:41:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/JuliaMLOpenAIGym.jl OpenAI's Gym wrapped as a Reinforce.jl environment
 URL=https://github.com/JuliaML/OpenAIGym.jl

@@ -226,6 +226,9 @@ URL=https://japan.cnet.com/article/35104843/
 =2017-04-04T12:10:00+09:00 Computer/OS/Unix/Android/アンドロイドが初の首位　ＯＳでウィンドウズ抜く　　：日本経済新聞
 URL=http://www.nikkei.com/article/DGXLAS0040002_U7A400C1000000/
 
+=2019-01-16T10:24:00+09:00 Computer/OS/Unix/Android/グーグル、「Android Enterprise Recommended」プログラムにEMMベンダー追加 - ZDNet Japan
+URL=https://japan.zdnet.com/article/35131309/
+
 =2017-09-25T08:11:18+09:00 Computer/OS/Unix/Android/グーグル、企業の「Android」デバイス向けに「zero-touch enrollment」リリース - ZDNet Japan
 URL=https://japan.zdnet.com/article/35107694/
 
@@ -402,6 +405,9 @@ URL=https://qiita.com/nishemon/items/bb3aca972404f68bfcd6
 
 =2017-09-06T07:05:15+09:00 Computer/OS/Unix/Ubuntu/Windows Subsystem for Linuxとguestnative Ubuntuの性能をざっくりと比較 - Qiita
 URL=http://qiita.com/satoru_takeuchi/items/34e9568a9d9282bb37c2
+
+=2017-08-31T15:38:33+09:00 Computer/OS/Unix/Ubuntu/【Ubuntu】USBメモリでコンピュータを持ち歩く？！ - Milkのメモ帳
+URL=https://www.milkmemo.com/entry/usbmemory_os_install_ubuntu
 
 =2016-06-20T10:47:42+09:00 Computer/OS/Unix/Ubuntu/第288回　デプロイツール「Juju」を使って大魔導師を目指そう：Ubuntu Weekly Recipe｜gihyo.jp … 技術評論社
 URL=http://gihyo.jp/admin/serial/01/ubuntu-recipe/0288
@@ -760,6 +766,9 @@ URL=http://tanweb.net/2017/12/22/17417/
 =2017-05-06T08:33:55+09:00 Computer/OS/Windows/Windows10(x64)ネイティブで機械学習の環境を構築する - Qiita
 URL=http://qiita.com/kutz/items/fbe8479e432708b7677e
 
+=2019-01-14T10:15:43+09:00 Computer/OS/Windows/windows10にTensorFlow GPUを入れる - Qiita
+URL=https://qiita.com/milkchocolate/items/cdedd61a64862a65b84a
+
 =2016-07-31T14:49:17+09:00 Computer/OS/Windows/Windows10にアップグレードしたらApache起動しなくなったので対策に乗り出したっていう話 Thought is free
 URL=http://thk.kanzae.net/net/windows/t1846/
 
@@ -813,6 +822,9 @@ URL=http://qiita.com/isaac-otao/items/cecfb3efb7d9ccddf922
 
 =2018-06-02T04:56:32+09:00 Computer/OS/Windows/Windows標準ソフトが敵になる「ファイルレスマルウェア」対策：Computer Weekl...
 URL=http://techtarget.itmedia.co.jp/tt/news/1806/02/news02.html
+
+=2019-01-14T10:15:49+09:00 Computer/OS/Windows/Windows版AnacondaでTensorFlow環境構築 - Qiita
+URL=https://qiita.com/exy81/items/48314b968d9fad6170c8
 
 =2018-03-16T12:30:00+09:00 Computer/OS/Windows/XPの悪夢再び？--今日から始めるWindows 7 EOS対策 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35116255/
@@ -946,6 +958,9 @@ URL=http://newswitch.jp/p/10265
 =2016-05-06T09:00:00+09:00 Computer/OS/Windows/「スタートアップ修復が停止する、終わらない」の原因と対処法
 URL=http://www.orange-ss.com/column/0093.html#cpno002
 
+=2019-01-14T10:15:06+09:00 Computer/OS/Windows/【2018年度版】TensorFlow 1.5のインストール方法を解説！【Windows 10】 侍エンジニア塾ブログ プログラミング入門者向け学習情報サイト
+URL=https://www.sejuku.net/blog/43784
+
 =2017-07-10T12:17:42+09:00 Computer/OS/Windows/【PR】4人の識者が語る、いますぐにでもWindows 10に乗り換えるべき理由～Windows 7サポート終了まであと2年半 - PC Watch
 URL=http://pc.watch.impress.co.jp/docs/topic/native-ad/1067587.html
 
@@ -973,6 +988,9 @@ URL=https://qiita.com/sta/items/65b6ed5c0c349c03fb40
 =2016-05-24T14:25:41+09:00 Computer/OS/Windows/とうとうマイクロソフトが心折れる！Windows10のアップグレード・キャンセルの方法を自ら公開 - Togetterまとめ
 URL=http://togetter.com/li/978195
 
+=2019-01-17T10:48:00+09:00 Computer/OS/Windows/なぜ、マイクロソフトはWindows Serverのクラウド移行先で優位だったAWSを逆転できたのか - ZDNet Japan
+URL=https://japan.zdnet.com/article/35131367/
+
 =2016-05-06T09:00:00+09:00 Computer/OS/Windows/なぜ次世代Windowsが9ではなくて10なのか？前方一致で95%2f98をチェックするコードが蔓延してるから説の出典
 URL=http://tyoro-ge.hatenablog.com/entry/why-windows10
 
@@ -996,6 +1014,9 @@ URL=https://japan.cnet.com/release/30271343/
 
 =2014-05-25T07:45:23+09:00 Computer/OS/Windows/サポート切れのWindows XPでセキュリティアップデートを受ける方法が公開される - GIGAZINE
 URL=http://gigazine.net/news/20140527-get-windows-xp-update/
+
+=2019-01-16T08:00:00+09:00 Computer/OS/Windows/シトリックスの「Windows Virtual Desktop」に関する計画が明らかに - ZDNet Japan
+URL=https://japan.zdnet.com/article/35131178/
 
 =2018-10-16T06:00:00+09:00 Computer/OS/Windows/ショートカット「Ctrl＋Alt＋Del」の歴史 - GIGAZINE
 URL=https://gigazine.net/news/20181016-ctrl-alt-del/
@@ -2692,17 +2713,26 @@ URL=https://gigazine.net/news/20180509-chess-players-live-longer/
 =2018-04-08T23:00:00+09:00 Entertainment/ゲーム/その他/「トラックの下にミュウがいる」という20年前のウワサが現実に - GIGAZINE
 URL=https://gigazine.net/news/20180408-pokemon-go-mews-under-trucks/
 
+=2019-01-16T17:16:32+09:00 Entertainment/ゲーム/その他/「ナチスの子を育てるゲーム」はなぜ生まれたのか？ 『My Child Lebensborn』開発者インタビュー
+URL=http://news.denfaminicogamer.jp/interview/190116a
+
 =2018-07-24T03:00:15+09:00 Entertainment/ゲーム/その他/「ポケモンGO」は消えていない──いまも根強い人気で大きく稼ぐ、その秘密に迫る｜WIRED.jp
 URL=https://wired.jp/2018/07/23/pokemon-go-dominance/
 
 =2016-05-06T09:00:00+09:00 Entertainment/ゲーム/その他/「ルービックキューブ」日本発売35周年 記念商品がハードル高すぎ
 URL=http://news.livedoor.com/article/detail/10303163/
 
+=2019-01-16T07:02:55+09:00 Entertainment/ゲーム/その他/「勇者が救った後の世界」を描く『Littlewood』開発中。平和な世界で、街を再建するRPG AUTOMATON
+URL=https://automaton-media.com/articles/iotw/20190116-83332/
+
 =2016-07-20T07:48:01+09:00 Entertainment/ゲーム/その他/「夢の時代」が終わった今、ゲームアプリを作る意味　「ひとりぼっち惑星」開発者に聞く (12) - ITmedia Mobile
 URL=http://www.itmedia.co.jp/mobile/articles/1607/18/news010.html
 
 =2018-10-31T21:00:00+09:00 Entertainment/ゲーム/その他/「渡邊」や「渡邉」など24種類の「渡ナベ」がゲシュタルト崩壊する神経衰弱カードゲーム「渡る世間...
 URL=https://gigazine.net/news/20181031-nabebakari-card-game-review/
+
+=2019-01-17T08:14:40+09:00 Entertainment/ゲーム/その他/【イベント】『アストロノーカ』20周年イベントで明かされる魅力の神髄とは…害獣バブーの遺伝的アルゴリズムにAI学会が注目! Social Game Info
+URL=https://gamebiz.jp/?p=229401
 
 =2016-07-12T18:00:04+09:00 Entertainment/ゲーム/その他/【ポケモンGO】アメリカ人が独自のヤンド法を捨てて、メートル法を使い始めているぞwwww
 URL=http://pokesoku.co/archives/218/
@@ -3034,6 +3064,9 @@ URL=http://www.nihonkiin.or.jp/
 =2019-01-05T15:01:47+09:00 Entertainment/ゲーム/囲碁/朝日新聞囲碁取材班さんのツイート 村）張栩名人は「想像以上にすごい子。小学生時代の井山（裕太五冠）さんと打ったことがあるが、当時の彼より強いぐらい」。
 URL=https://twitter.com/asahi_igo/status/1081426348760010752
 
+=2019-01-17T20:09:24+09:00 Entertainment/ゲーム/囲碁/朝日新聞囲碁取材班さんのツイート 村）９１歳の杉内八段が、先週の対局で４１歳の溝上九段に勝利。３１日には、２９歳の謝六段と対戦します。 囲碁の現役最高齢、５０歳下に勝利
+URL=https://twitter.com/asahi_igo/status/1085804850762391552
+
 =2015-06-25T00:00:00+09:00 Entertainment/ゲーム/囲碁/棋譜ぅ - 安井算哲 vs 本因坊道策 安井算哲 vs 本因坊道策
 URL=http://www.kihuu.net/threadno/k00000021051
 
@@ -3192,6 +3225,9 @@ URL=http://www51.atwiki.jp/uswc/
 
 =2016-05-06T09:00:00+09:00 Entertainment/ゲーム/将棋/USWC - 非公式将棋世界王者
 URL=http://www51.atwiki.jp/uswc/pages/2.html
+
+=2019-01-15T18:43:23+09:00 Entertainment/ゲーム/将棋/uuunuuunさんのツイート yaneuraou NNUE-K-P 手元でちょっと測り始めたが、想定された強さのように見える。(elmo_wcsc27と同じくらい）１MBより小さな評価関数でこの強さというのは驚異的。
+URL=https://twitter.com/uuunuuun1/status/1085061377448767488
 
 =2016-06-05T14:39:11+09:00 Entertainment/ゲーム/将棋/WCSC準優勝・技巧のソースコード、実行ファイルが公開
 URL=http://i2chmeijin.blog.fc2.com/blog-entry-3940.html
@@ -3691,6 +3727,9 @@ URL=https://news.yahoo.co.jp/byline/tooyamayusuke/20181211-00107326/
 =2016-07-13T08:15:48+09:00 Entertainment/ゲーム/将棋/最強将棋ソフトの開発者が問う-人工知能の未来、そして人類が迫られる「価値観」の大転換　将棋の世界で起きたことは、あなたにも起こる
 URL=http://gendai.ismedia.jp/articles/-/49111
 
+=2017-11-09T20:55:29+09:00 Entertainment/ゲーム/将棋/最長の詰将棋、ミクロコスモス(1525手詰)を脊尾詰に解かせてみた - うんぼぼの部屋
+URL=http://umbobo800.hateblo.jp/entry/umbobo/seotsume/microcosmos
+
 =2017-07-02T07:35:08+09:00 Entertainment/ゲーム/将棋/未成年の藤井聡太四段が深夜対局OKな訳 個人事業主の就労は問題にならない - ライブドアニュース
 URL=http://news.livedoor.com/article/detail/13280155/
 
@@ -3717,6 +3756,9 @@ URL=http://wiki.optus.nu/shogi/index.php?page=FrontPage
 
 =2018-09-11T08:08:52+09:00 Entertainment/ゲーム/将棋/毎日新聞・将棋さんのツイート 先ほどのツイート画像に誤りがありましたので、削除して再ツイートします。
 URL=https://twitter.com/mainichi_shogi/status/1039497068572635136/photo/1
+
+=2019-01-18T17:32:44+09:00 Entertainment/ゲーム/将棋/毎日新聞・将棋さんのツイート 平成に入ってからのタイトル戦1099局では先手勝率55％。対局数が多い10人の中では森内九段は先手勝率が後手より25ポイント高く
+URL=https://twitter.com/mainichi_shogi/status/1086143595558494209
 
 =2013-12-11T13:28:31+09:00 Entertainment/ゲーム/将棋/江戸時代の名人てどのくらい強いの？
 URL=http://game.2ch.net/test/read.cgi/bgame/1014892893/
@@ -3786,6 +3828,9 @@ URL=http://shogipenclublog.com/blog/2014/11/25/habu-28/
 
 =2018-05-01T13:01:03+09:00 Entertainment/ゲーム/将棋/羽生竜王の金言「結果と一致しないことに物事の機微は潜んでいる」（スポーツ報知） - Yahoo!ニュース
 URL=https://headlines.yahoo.co.jp/hl?a=20180501-00010006-spht-ent
+
+=2019-01-12T17:33:39+09:00 Entertainment/ゲーム/将棋/脊尾詰ダウンロード
+URL=http://panashogi.web.fc2.com/seotsume.html
 
 =2018-09-03T19:01:10+09:00 Entertainment/ゲーム/将棋/脳科学、法律学…「将棋思考法」に脚光｜日経BizGate
 URL=https://bizgate.nikkei.co.jp/article/DGXMZO3481582031082018000000?n_cid=PSDB0030
@@ -4276,6 +4321,9 @@ URL=https://twitter.com/syoyuri/status/1047982106410803200
 =2015-05-30T00:00:00+09:00 Science/トンデモ/[人工知能]論文自動生成プログラムSCIgen(2) - 大人になってからの再学習
 URL=http://d.hatena.ne.jp/Zellij/20140613
 
+=2014-12-22T06:05:27+09:00 Science/トンデモ/{3,52} 大二十面体さんのツイート 科学や技術に関する論争を題材にクリティカルシンキングを身につけるという意図はいいとして，闘わされる主張の...『科学技術をよく考える -クリティカルシンキン...』 ☆3
+URL=https://twitter.com/Polyhedrondiary/status/547014210140401664
+
 =2016-05-15T08:27:36+09:00 Science/トンデモ/∞ホタルさんの目∞ ■驚異の放射線,約94%滅染!! 無害化達成!!
 URL=http://fairfly1092.blog24.fc2.com/blog-entry-307.html
 
@@ -4654,6 +4702,9 @@ URL=http://wedge.ismedia.jp/articles/-/6614
 =2017-03-15T09:10:56+09:00 Science/トンデモ/教師も騙される！ 学校教育に入り込んだ“トンデモ科学”――左巻健男×川端裕人 - samakikakuの今日もワハハ　SAMA企画
 URL=http://d.hatena.ne.jp/samakita/touch/20170315/p1
 
+=2019-01-18T05:34:03+09:00 Science/トンデモ/新春放送「チコちゃんに叱られる!」のたいやき発明話は「嘘」です～近代食文化研究会さんが断言 - Togetter
+URL=https://togetter.com/li/1309939
+
 =2015-10-09T18:27:14+09:00 Science/トンデモ/新生児へのビタミンK投与をデメリットとみなす「日本おまたぢから協会」代表・立花杏衣加氏
 URL=http://blogos.com/article/138411/
 
@@ -4843,6 +4894,9 @@ URL=https://twitter.com/nazomizusouti/status/1061603154586824704
 =2018-10-30T11:54:49+09:00 Science/トンデモ/謎水さんさんのツイート 謎の水装置に「現代科学で解明できていないだけで多少は効果があるのでは？」といった質問にコメント。
 URL=https://twitter.com/nazomizusouti/status/1057245028039323648
 
+=2018-08-25T13:45:23+09:00 Science/トンデモ/近代食文化研究会さんのツイート NHKのチコちゃんに叱られる！がまたやらかしたそうで
+URL=https://twitter.com/ksk18681912/status/1033109749548503042
+
 =2016-04-12T17:48:03+09:00 Science/トンデモ/近藤理論を放置してはいけない：日経メディカル
 URL=http://medical.nikkeibp.co.jp/leaf/all/search/cancer/cr/201604/546480.html
 
@@ -4860,6 +4914,9 @@ URL=http://masaruoba.hatenablog.com/entry/2015/10/22/163617
 
 =2016-05-16T05:36:49+09:00 Science/トンデモ/道草クー太郎氏 kutaroMichikusa「悪意のない情報はデマではない」 - Togetterまとめ
 URL=http://togetter.com/li/975019
+
+=2018-06-01T11:37:26+09:00 Science/トンデモ/酒徒（しゅと）さんのツイート NHKの#チコちゃんに叱られる という番組で、ラーメンという呼称は、大正時代に札幌の中華料理屋が考え出したと言っていたそうだ。
+URL=https://twitter.com/shutozennin/status/1002413315375521792
 
 =2013-02-17T00:00:00+09:00 Science/トンデモ/隕石落下と小惑星接近は本当に無関係なのか？ %7c 冷泉彰彦 %7c コラム＆ブログ %7c ニューズウィーク日本版 オフィシャルサイト
 URL=http://www.newsweekjapan.jp/reizei/2013/02/post-531.php
@@ -4975,6 +5032,9 @@ URL=http://www.seibunsha.net/essay/essay18.html
 =2018-11-07T09:47:12+09:00 Science/化学/ワインやウイスキーを「水やアルコールに化学物質を加える」ことで作り出すという試み - GIGAZINE
 URL=https://gigazine.net/news/20181107-lab-made-whiskey-wine/
 
+=2019-01-18T07:59:55+09:00 Science/化学/世界最古の「周期表」が発見される - GIGAZINE
+URL=https://gigazine.net/news/20190118-oldest-periodic-table-chart/
+
 =2018-09-01T01:26:08+09:00 Science/化学/中国人研究者が室温でのメタンガス活性化・転化を実現―中国メディア - グノシー
 URL=https://gunosy.com/articles/aHhfz
 
@@ -5025,6 +5085,9 @@ URL=http://blog.miraikan.jst.go.jp/topics/201509162015-2.html
 
 =2018-10-02T06:35:13+09:00 Science/医学/20～30代女性は栄養失調状態　健康も美容も損なう（日経ウーマンオンライン（日経ウーマン）） - Yahoo!ニュース
 URL=https://headlines.yahoo.co.jp/article?a=20181002-56369838-woman-hlth
+
+=2019-01-14T19:36:50+09:00 Science/医学/26歳素人童貞素童さんのツイート 正しいお尻の拭き方って習った覚えないなぁ、と思って検索してみたら、医師のブログにめちゃくちゃ勉強になる話が書かれていた httpst.co5TPTVTcmin…
+URL=https://twitter.com/sirotodotei/status/1084800601332928512
 
 =2018-06-04T21:07:00+09:00 Science/医学/4つもワクチンを同時接種して大丈夫？：日経メディカル
 URL=http://medical.nikkeibp.co.jp/leaf/mem/pub/series/vaccine/201806/556121.html?n_cid=nbpnmo_twbn
@@ -5140,6 +5203,9 @@ URL=https://twitter.com/tako774/status/1025313486614618112
 =2018-02-23T05:51:51+09:00 Science/医学/No Association between HPV Vaccine and Reported Post-Vaccination Symptoms in Japanese Young Women Results of the Nagoya Stud
 URL=https://www.sciencedirect.com/science/article/pii/S2405852117300708
 
+=2019-01-15T06:59:23+09:00 Science/医学/Norio Nakatsujiさんのツイート 色弱など、色覚の多様性に対応できる色彩の使い方など、この分野では既に国内外で様々な検討と提言が行われています。
+URL=https://twitter.com/norionakatsuji/status/1085061878009683970
+
 =2018-09-26T10:05:10+09:00 Science/医学/Oricquenさんのツイート “がん細胞だけを数分で破壊！「光免疫療法」異例のスピードで実用化も
 URL=https://twitter.com/oricquen/status/1044704463812882432
 
@@ -5248,6 +5314,9 @@ URL=https://www.buzzfeed.com/jp/naokoiwanaga/drkurosawa-1?utm_term=.wcxkmY3DB#.n
 =2018-01-05T15:48:33+09:00 Science/医学/「命を守るのに躊躇はいらない」 子宮頸がんを経験した政治家がワクチン再開を訴える理由
 URL=https://www.buzzfeed.com/jp/naokoiwanaga/hpvv-junkomihara-1?utm_term=.keg432RjMO
 
+=2018-02-22T08:39:10+09:00 Science/医学/「喫煙後45分間も大学構内に立入禁止」が強く支持されるべき理由。 五本木クリニック 院長ブログ
+URL=https://www.gohongi-beauty.jp/blog/24325/
+
 =2018-10-25T11:45:00+09:00 Science/医学/「女性の産道に地域差あり」 学術書は欧州女性が基準 英研究　写真1枚　国際ニュース：AFPBB News
 URL=http://www.afpbb.com/articles/-/3194635
 
@@ -5335,6 +5404,9 @@ URL=http://news.mynavi.jp/news/2016/12/19/209/
 =2017-01-29T12:43:45+09:00 Science/医学/おたふくかぜで難聴になることも 患者の実態調査へ NHKニュース
 URL=http://www3.nhk.or.jp/news/html/20170129/k10010857131000.html
 
+=2019-01-15T19:37:06+09:00 Science/医学/おると整形外科さんのツイート 三重県から麻疹の続報出てました。岐阜県の続報には予防接種歴記載なし、名古屋市はまだ詳報見当たらず。
+URL=https://twitter.com/free_ortho_doc/status/1085053513304928258
+
 =2019-01-08T09:16:24+09:00 Science/医学/かんちくいずみさんのツイート 過労でどうして人が死んでしまうかというと、睡眠もとらずに興奮状態が続くと血圧は上昇したままで血管と心臓に負担がすごーくかかる。
 URL=https://twitter.com/kanchiku/status/1082438832916639744
 
@@ -5364,6 +5436,9 @@ URL=https://www.buzzfeed.com/jp/eisukesuzuki/gan-johogen
 
 =2018-11-30T04:56:41+09:00 Science/医学/がん治療・美容整形のネット広告、大手事業者がルール厳格化へ　違法のおそれに対応
 URL=https://www.buzzfeed.com/jp/seiichirokuchiki/internet-and-immunotherapy-04
+
+=2019-01-16T08:43:06+09:00 Science/医学/きいろいよっち 脊オパ大阪2日目さんのツイート ① 未だに風疹の流行が止まらないということで、私の話を少し読んでいただけると嬉しいです。 私は息子妊娠中、風疹にかかりました。
+URL=https://twitter.com/kiiroitorimy/status/1085110726950187010
 
 =2018-04-08T19:42:31+09:00 Science/医学/けいしゅけが本気でオススメする医療ブログ２６選 ～医師・薬剤師・看護師ブログ～ けいしゅけのブログ薬局　情報館
 URL=https://keisyuke-blogyakkyoku.xyz/iryoukei-blog-matome
@@ -5617,6 +5692,9 @@ URL=https://blogs.yahoo.co.jp/rplelegans130/16194645.html
 =2011-11-01T22:14:05+09:00 Science/医学/予防接種で自閉症になるってホント？ - warbler’s diary
 URL=http://warbler.hatenablog.com/entry/20110111/1294727614
 
+=2016-10-26T19:56:47+09:00 Science/医学/予防接種をしない集団-アーミッシュでの麻疹流行2014 - 徒然日記
+URL=https://blog.goo.ne.jp/cuckoo-cuckoo/e/52173a8533535af4675c7788803a0dc3
+
 =2018-12-27T08:02:28+09:00 Science/医学/二日酔いの原因と科学的回避法とは？ 『酒の科学』の著書が解説｜WIRED.jp
 URL=https://wired.jp/2018/12/27/what-causes-hangovers/
 
@@ -5694,6 +5772,9 @@ URL=http://d.hatena.ne.jp/shi3z/20180223/1519345926
 
 =2018-11-10T20:02:43+09:00 Science/医学/医療用麻薬で日本を壊さないために
 URL=https://www.buzzfeed.com/jp/takuyashinjo/opioid?utm_source=dynamic&utm_campaign=bfsharetwitter&utm_term=.iqrW4Xo1V1
+
+=2019-01-18T05:54:11+09:00 Science/医学/医者の家族がインフルエンザにかかったら　エビデンスと情の戦い
+URL=https://www.buzzfeed.com/jp/takuyashinjo/influenza-dr-kazoku?utm_source=dynamic&utm_campaign=bfsharetwitter&utm_term=.ciXgwQ48y
 
 =2016-03-23T08:32:01+09:00 Science/医学/半永久的にもつという非吸収性物質を注射するプチ整形は危険です！絶対に注入しないでください！！ Dr松下ブログ
 URL=https://www.gohongi-beauty.jp/m-blog/2617/
@@ -5820,6 +5901,9 @@ URL=http://gendai.ismedia.jp/articles/-/55086
 
 =2016-11-24T15:26:42+09:00 Science/医学/平成28年３月16日の成果発表会における池田修一氏の発表内容に関する厚生労働省の見解について｜厚生労働省
 URL=http://www.mhlw.go.jp/bunya/kenkou/kekkaku-kansenshou28/tp161124.html
+
+=2019-01-17T08:01:34+09:00 Science/医学/幸せだった出来事を思い返すことでうつ病のリスクを減らすことができる - GIGAZINE
+URL=https://gigazine.net/news/20190117-positive-memory-reduce-vulnerability-depression/
 
 =2017-03-16T05:11:54+09:00 Science/医学/幹細胞使った治験で女性3人失明、米　写真1枚　国際ニュース：AFPBB News
 URL=http://www.afpbb.com/articles/-/3121637?cx_part=txt_topstory
@@ -6445,6 +6529,9 @@ URL=http://internet.watch.impress.co.jp/docs/column/chizu/1078212.html
 =2017-03-29T09:23:33+09:00 Science/地学・地理学/【無料提供】赤色立体地図の最新版を4／1からWebで！　幅広い活用や利用研究に期待 建設通信新聞Digital
 URL=https://www.kensetsunews.com/web-kan/39082
 
+=2019-01-15T06:44:10+09:00 Science/地学・地理学/さつき が てんこもりさんのツイート まだ一部の界隈でしか話題になってないけど「Google Earth Studio」すごい。 誰でも空撮みたいな映像が作れるし、
+URL=https://twitter.com/TENKOMORI/status/1084953024143843328
+
 =2018-01-06T20:20:50+09:00 Science/地学・地理学/じゃがりきんさんのツイート 三角関数の中でもっとも使わないと思われるatanh（ハイパーボリックアークタンジェント関数）ですが地図の極移動と非ユークリッドタイリングGIFのループで
 URL=https://twitter.com/jagarikin/status/1081573563239358465
 
@@ -7059,6 +7146,9 @@ URL=http://planetary.jp/PDC/report.html
 
 =2018-07-30T19:12:02+09:00 Science/天文学/トピック/PEZY-SCを用いた月形成に関するN体計算 宇宙ユニットNEWS - usss-news_201808.pdf
 URL=https://www.usss.kyoto-u.ac.jp/usss-news/usss-news_201808.pdf
+
+=2019-01-16T06:40:45+09:00 Science/天文学/トピック/Planetary Societyさんのツイート New approachrotation movie as well!
+URL=https://twitter.com/exploreplanets/status/1085325554843176960
 
 =2016-08-28T13:22:58+09:00 Science/天文学/トピック/Potentially habitable planet discovered just 4 light-years away
 URL=http://newatlas.com/proxima-centauri-habitable-exoplanet/45068/
@@ -7711,6 +7801,9 @@ URL=https://twitter.com/takurodaimaru/status/1003903505373908992
 =2018-07-18T18:20:19+09:00 Science/天文学/トピック/大丸 拓郎 (NASAJPL)さんのツイート 最近の探査機キュリオシティの火星の生命の”可能性”に関係する発見にインスパイアされた科学者が1970年代の探査機バイキング
 URL=https://twitter.com/takurodaimaru/status/1019438893374947328
 
+=2019-01-15T17:13:43+09:00 Science/天文学/トピック/大丸 拓郎さんのツイート 土星の輪が恐竜よりも若い可能性があると。 恐竜の絶滅が6500万年前。土星の輪の年齢が、カッシーニのデータを使った見積もりによると1000万年から1億年らしい。
+URL=https://twitter.com/takurodaimaru/status/1086393578983550976
+
 =2018-10-04T20:35:53+09:00 Science/天文学/トピック/大丸拓郎 (NASAJPL)さんのツイート 地球から8000光年先に初の系外衛星が観測された可能性 コロンビア大の研究者がケプラー宇宙望遠鏡など
 URL=https://twitter.com/takurodaimaru/status/1047649451337076736
 
@@ -8073,6 +8166,9 @@ URL=https://this.kiji.is/212189302170845186
 
 =2016-09-19T06:03:02+09:00 Science/天文学/トピック/月ができる時、地球がほぼ蒸発していた可能性が浮上｜ギズモード・ジャパン
 URL=http://www.gizmodo.jp/2016/09/extremely-giant-impact.html
+
+=2019-01-15T08:26:15+09:00 Science/天文学/トピック/月で「地球の出」は見られるのか 天リフOriginal
+URL=http://reflexions.jp/tenref/orig/2019/01/15/7628/
 
 =2017-08-02T07:15:56+09:00 Science/天文学/トピック/月に大量の水が存在か？ 最新の研究が導く、月世界旅行と月ビジネスの夢 ハーバービジネスオンライン
 URL=https://hbol.jp/147788
@@ -8622,6 +8718,9 @@ URL=http://www.nasa.gov/nh/nh-finds-blue-skies-and-water-ice-on-pluto
 
 =2016-05-06T09:00:00+09:00 Science/天文学/宇宙開発/News Horizens
 URL=http://www.nasa.gov/mission_pages/newhorizons/images/index.html
+
+=2019-01-15T19:37:11+09:00 Science/天文学/宇宙開発/NHKニュースさんのツイート 月面で綿花の発芽に成功 探査機の実験で 中国メディア #nhk_news httpst.co3Sk9D8RfQa
+URL=https://twitter.com/nhk_news/status/1085071342859300864
 
 =2016-10-19T18:53:26+09:00 Science/天文学/宇宙開発/Op-ed Trump's space policy reaches for Mars and the stars - SpaceNews.com
 URL=http://spacenews.com/trumps-space-policy-reaches-for-mars-and-the-stars/
@@ -9772,6 +9871,9 @@ URL=https://twitter.com/hkmrds/status/1054328520208347138
 =2018-12-30T20:43:46+09:00 Science/数学/Katsushi Kagayaさんのツイート 僕などの解説より、この赤池先生の解説が参考になるかもしれません。httpst.cowhkowxavDU
 URL=https://twitter.com/katzkagaya/status/1079347427243520000
 
+=2019-01-01T07:05:15+09:00 Science/数学/Katsushi Kagayaさんのツイート 黒木さんによる最強力検定、ベイズ検定、尤度比検定についての解説。httpst.co5jUEmUXOjH
+URL=https://twitter.com/katzkagaya/status/1080721036717375488
+
 =2018-12-24T19:55:23+09:00 Science/数学/Kazuki Fujisawaさんのツイート なんで、急に複素数がたくさん入ってきたんだろうか。僕は金融分野に行ってから、複素数を一度も見たことがないぞ。マジで。
 URL=https://twitter.com/kazu_fujisawa/status/1077085556843044864
 
@@ -10305,6 +10407,9 @@ URL=http://finalvent.cocolog-nifty.com/fareastblog/2014/10/post-350e.html
 
 =2019-01-10T06:05:56+09:00 Science/数学/謎水さんのツイート 三角関数のアニメが１万RT超えていました。ビックリ。 せっかくなのでWeb版のアニメを作りました。 無限ループで延々と見られます。
 URL=https://twitter.com/nazomizusouti/status/1083355900683870208
+
+=2019-01-16T12:13:39+09:00 Science/数学/谷本さんのツイート- -暇やったから修学旅行文集みたいなん読んでてんけど俺の親友が書いたやつめっちゃおもろい… -
+URL=https://twitter.com/TDJNOTEIHEN/status/1085483219267444736
 
 =2017-07-17T11:58:18+09:00 Science/数学/追悼、マリアム・ミルザハニ──女性初のフィールズ賞数学者の軌跡を振り返る｜WIRED.jp
 URL=https://wired.jp/2017/07/17/maryam-mirzakhani-3/
@@ -11628,6 +11733,9 @@ URL=http://www.sciencemag.org/news/2018/01/naked-mole-rats-defy-biological-law-a
 
 =1980-10-19T21:45:17+09:00 Science/生物学/Nautiloid growth rhythms and dynamical evolution of the Earth-Moon system
 URL=http://www.nature.com/nature/journal/v275/n5681/abs/275606a0.html
+
+=2019-01-15T19:37:11+09:00 Science/生物学/NHKニュースさんのツイート 月面で綿花の発芽に成功 探査機の実験で 中国メディア #nhk_news httpst.co3Sk9D8RfQa
+URL=https://twitter.com/nhk_news/status/1085071342859300864
 
 =2018-06-28T20:47:11+09:00 Science/生物学/nkjmゆうさんのツイート ちょこっとだけ見てみたけど、KyU Tube Bioすごい。単に生物の写真だけやなくて、生物物理的なモデリングの動画とかもあるし。…
 URL=https://twitter.com/nkjmu/status/1012233868743589888
@@ -18889,6 +18997,9 @@ URL=https://www.screens-lab.jp/article/5247
 =2018-06-21T22:53:10+09:00 Social/メディア/モトケンさんのツイート 「無罪判決が出たのに、一切報道がない」プロデューサー佐谷さんが会見…勾留262日、仕事は全て白紙 httpst.co6tg7xdJmXd
 URL=https://twitter.com/motoken_tw/status/1009771225009172480
 
+=2019-01-14T08:44:02+09:00 Social/メディア/モーリー・ロバートソンさんのツイート ハフポスト日本版の記事から抜粋１＞　山本さん「これまでにも同じような内容の記事を、コンビニや電車の吊革広告で見てきた。
+URL=https://twitter.com/gjmorley/status/1084819464053379072
+
 =2016-12-07T09:23:06+09:00 Social/メディア/ユニクロ潜入記者　横田氏解雇される ニコニコニュース
 URL=http://news.nicovideo.jp/watch/nw2536746
 
@@ -19300,6 +19411,9 @@ URL=https://mainichi.jp/articles/20170921/ddm/016/070/003000c
 =2018-09-10T08:54:44+09:00 Social/メディア/坂東　忠信さんのツイート 池上彰さんのネタ取り、テレ朝から私にも来ましたよ。簡単に言うと ●　名前は出さない
 URL=https://twitter.com/Japangard/status/1039115753977311233
 
+=2019-01-15T06:47:47+09:00 Social/メディア/堀元 見@企画屋さんのツイート 「サバの話」記事（httpst.coRgtSx2DgHS )についてNewsPicks側からのお怒りメールが来た。 「客イジり」部分だけを落とし所にしているあたり、
+URL=https://twitter.com/kenhori2/status/1085011981109587973
+
 =2017-12-20T14:31:24+09:00 Social/メディア/堀潤氏｢NHKの強硬姿勢は損､まず改革が先だ｣ メディア業界 東洋経済オンライン 経済ニュースの新基準
 URL=http://toyokeizai.net/articles/-/201840
 
@@ -19522,6 +19636,9 @@ URL=https://twitter.com/atsuji_yamamoto/status/1021322749174734848
 =2018-08-05T16:17:45+09:00 Social/メディア/山田康弘さんのツイート ここ数ヶ月，縄文を特集する様々な雑誌に原稿を寄せたり，インタビューを受けてきたが，縄文の負の面に言及した部分はほとんど削除
 URL=https://twitter.com/archyamada1/status/1025948631117918208
 
+=2019-01-18T05:49:27+09:00 Social/メディア/山谷剛史：中国アジアIT専門ライターさんのツイート 「中国のキャッシュレス化の主原因は偽札」 という『嘘』をつく結果、歴史認識が改ざんされるだけでなく、 「日本はやらなくてええわｗ」 となる
+URL=https://twitter.com/YamayaT/status/1086045072200626176
+
 =2018-10-28T05:57:16+09:00 Social/メディア/山谷剛史：中国アジアIT専門雲南住みさんのツイート 1.FinancialTimes英が適当な調査をする 2.FT中文版が書く 3.新華社が報じる 4.人民日報日本語版
 URL=https://twitter.com/YamayaT/status/1056402731202531330
 
@@ -19629,6 +19746,9 @@ URL=http://www.asahi.com/articles/ASK973FZTK97UTIL002.html
 
 =2018-06-27T16:42:57+09:00 Social/メディア/斉藤久典さんのツイート 今の若い人にとっては、サンゴ事件は「ねつ造の責任をとって朝日新聞の社長が辞めた」ことのほうが驚きだろう。いまじゃ、ねつ造ぐらいじゃ偉い人は辞めたりしないからｗ…
 URL=https://twitter.com/saitohisanori/status/1011967578338521088
+
+=2019-01-18T05:34:03+09:00 Social/メディア/新春放送「チコちゃんに叱られる!」のたいやき発明話は「嘘」です～近代食文化研究会さんが断言 - Togetter
+URL=https://togetter.com/li/1309939
 
 =2018-12-02T07:31:48+09:00 Social/メディア/新疆のウイグル人弾圧はずっと以前から行われているのに、報道で最近急激に扱われることが増えた気がするのはなぜなのかしら。
 URL=https://twitter.com/RASENJIN/status/1069211086514081794
@@ -19915,6 +20035,9 @@ URL=http://www.press-jp.com/sp/news/
 =2017-12-13T14:24:46+09:00 Social/メディア/根拠なきワクチン批判で救える命を見殺しにしないで
 URL=https://www.buzzfeed.com/jp/hiroyukimoriuchi/hpvv-moriuchi-1
 
+=2019-01-19T17:15:56+09:00 Social/メディア/桜ういろうさんのツイート ウィキペディアの「日韓議員連盟」の項目からなぜか安倍晋三、麻生太郎両氏の氏名がリストから削除されているとの新たな発見が。
+URL=https://twitter.com/uirousakura/status/1086433222819336193
+
 =2018-03-31T16:56:20+09:00 Social/メディア/森友問題が明らかになるまで。最初に「告発」した大阪・豊中市議の執念とは
 URL=https://www.huffingtonpost.jp/2018/03/31/makoto-kimura-moritomo_a_23399797/
 
@@ -19968,6 +20091,9 @@ URL=http://bylines.news.yahoo.co.jp/tamasaburau/20160719-00060083/
 
 =2016-10-16T14:14:03+09:00 Social/メディア/毎日新聞｢ダム底 高濃度セシウム｣報道に誤り多数 GoHoo
 URL=http://gohoo.org/16101401/
+
+=2019-01-11T06:45:02+09:00 Social/メディア/水さんのツイート 歴史改変はこうやるのじゃ　某大手。　おそれいりましたw…
+URL=https://twitter.com/yzjps/status/1083681359221018625
 
 =2016-12-15T11:41:27+09:00 Social/メディア/水素水、「アンチエイジング」「アトピー」に効果あり？ 怪しい広告にご注意
 URL=https://www.buzzfeed.com/satoruishido/suisosui-02?utm_term=.ntBDzWljXJ
@@ -20149,6 +20275,9 @@ URL=https://www.nikkei.com/article/DGXMZO2183470003102017000000/
 =2018-08-21T00:00:00+09:00 Social/メディア/米国成人の73％がニュース配信のパーソナライズに否定的…ナイト財団調査 ROBOTEER
 URL=https://roboteer-tokyo.com/archives/13275
 
+=2019-01-15T12:24:00+09:00 Social/メディア/米国政府機関の閉鎖、ウェブサイトのセキュリティにも悪影響--証明書の期限切れで - CNET Japan
+URL=https://japan.cnet.com/article/35131262/
+
 =2016-10-02T13:58:44+09:00 Social/メディア/米大統領選で注目されるファクトチェッカー 世界にはこれだけのサイトがある(楊井人文) - 個人 - Yahoo!ニュース
 URL=http://bylines.news.yahoo.co.jp/yanaihitofumi/20160930-00062707/
 
@@ -20202,6 +20331,9 @@ URL=http://news.biglobe.ne.jp/domestic/0817/jj_160817_5339745457.html
 
 =2019-01-14T11:57:55+09:00 Social/メディア/舞田敏彦さんのツイート 伝統メディアの衰退。…
 URL=https://twitter.com/tmaita77/status/1084697257562140672
+
+=2019-01-15T17:16:51+09:00 Social/メディア/芸能レポーターの突っ込みは甘いし、問題解決に役立たず-アゴラ
+URL=http://agora-web.jp/archives/2036705.html
 
 =2016-12-22T08:20:19+09:00 Social/メディア/芸術家・奈良美智、アウトすぎる絵柄パクリを見せる会社に警告文を送るも、逆に訴えられる……だと？ - ねとらぼ
 URL=http://nlab.itmedia.co.jp/nl/articles/1612/22/news139.html
@@ -20497,6 +20629,9 @@ URL=https://twitter.com/KOKAMIShoji/status/1076012019575222272
 =2017-11-15T16:57:02+09:00 Social/メディア/黒く塗装されたB-1B爆撃機を「死の白鳥」と呼ぶメディアのチェック機能の無さ(JSF) - 個人 - Yahoo!ニュース
 URL=https://news.yahoo.co.jp/byline/obiekt/20171115-00078031/
 
+=2019-01-15T19:41:29+09:00 Social/メディア/黒木玄 Gen Kurokiさんのツイート 何か事件が起こったときにおかしな方向に議論が誘導されてしまうことを防ぐために、『ファクトフルネス』という論争的な事柄を多数扱っている本は非常に役に立つのではないかと思いました。
+URL=https://twitter.com/genkuroki/status/1085063190893912065
+
 =2018-10-31T19:02:12+09:00 Social/メディア/黒色中国さんのツイート ここでは安田純平さんが何の実績もない「自称ジャーナリスト」というのが通説になってるが httpst.coBjAjJhjGp1 この動画を見る限り立派な
 URL=https://twitter.com/bci_/status/1057595786681212928
 
@@ -20529,6 +20664,9 @@ URL=http://www.okinawatimes.co.jp/articles/-/264338
 
 =2016-04-21T09:21:19+09:00 Social/メディア/ＤｅＮＡ＜上＞　南場智子会長（５４）　「夫の闘病、自身の休職で健康への意識高まる」 yomiDr. ヨミドクター（読売新聞）
 URL=https://yomidr.yomiuri.co.jp/network/20160421-OYTEW155433/
+
+=2019-01-19T17:03:08+09:00 Social/メディア/ＧＡＦＡに「通信の秘密」の適用検討…総務省｜ニフティニュース
+URL=https://news.nifty.com/article/economy/stock/12213-20190119-50011/
 
 =2017-03-18T18:52:21+09:00 Social/メディア/ＭＸテレビ「沖縄ヘイト」騒動が引き起こした東京新聞の深刻な問題(篠田博之) - 個人 - Yahoo!ニュース
 URL=https://news.yahoo.co.jp/byline/shinodahiroyuki/20170318-00068862/
@@ -20595,6 +20733,9 @@ URL=https://appsv.main.teikyo-u.ac.jp/tosho/keizaigaku44-1-09.pdf
 
 =2016-05-06T09:00:00+09:00 Social/交通/miyako - 美也子駅長
 URL=https://www.youtube.com/watch?v=BvfFHeo4PL0&feature=youtu.be
+
+=2019-01-14T06:48:00+09:00 Social/交通/moonq515さんのツイート 夜行バスが満席だったので苦肉の策で夜行フェリーを予約したものの、な、何じゃこりゃー！ めちゃくちゃ豪華じゃん！え～？飛行機と比べたら安いし、また世界が広がった(笑)…
+URL=https://twitter.com/moonq5151/status/1084795085869395968
 
 =2017-01-28T07:52:21+09:00 Social/交通/MRJ、5回延期のワケ　ゼロからの再出発で国内航空産業が課せられた宿題とは（1／4） 乗りものニュース
 URL=https://trafficnews.jp/post/63991/
@@ -20709,6 +20850,9 @@ URL=https://twitter.com/kurage60/status/1069930281958686721
 
 =2018-06-16T17:20:13+09:00 Social/交通/そのだまさや＠弁護士ドットコムニュースさんのツイート 千葉県の銚子電鉄は、社長が「空気を乗せて走ってるようなもん」と自虐するレベルで乗客が少ない。収入の約7割が『ぬれ煎餅』
 URL=https://twitter.com/chew_bacca1987/status/1007797623099613184
+
+=2019-01-15T08:29:31+09:00 Social/交通/たった140円で合法的に10時間もの「乗り鉄」旅を楽しむ方法とは？ - citrus（シトラス）
+URL=https://citrus-net.jp/article/76839?utm_source=facebook&utm_medium=citrus&utm_campaign=76839&fbclid=IwAR3_Z3dQ1ku-4UDJFyvkdPD1uIuqlf8JfbBw564i8ai7YAH2XNch9pc3roY
 
 =2017-03-15T02:03:56+09:00 Social/交通/どうなる 北海道新幹線札幌駅 急に再浮上した「地下案」とは 迷走続く （北海道文化放送） - Yahoo!ニュース
 URL=https://headlines.yahoo.co.jp/hl?a=20170315-00000005-hokkaibunv-hok
@@ -20847,6 +20991,9 @@ URL=http://newswitch.jp/p/8256
 
 =2017-01-12T15:38:36+09:00 Social/交通/地下鉄延伸　再び試算へ…新年度から横浜市 地域 読売新聞（YOMIURI ONLINE）
 URL=http://www.yomiuri.co.jp/local/kanagawa/news/20170111-OYTNT50306.html
+
+=2019-01-14T19:37:55+09:00 Social/交通/地下鉄銀座駅のリニューアル工事で姿を現した銀座空襲の遺構 - Togetter
+URL=https://togetter.com/li/1308698
 
 =2018-08-06T20:20:17+09:00 Social/交通/地下鉄駅構内に突如出現した「駅ナカオフィス」の使い勝手は？ - グノシー
 URL=https://gunosy.com/articles/aX6RQ
@@ -21105,6 +21252,9 @@ URL=http://togetter.com/li/1039716#c3169252
 
 =2018-11-02T06:37:51+09:00 Social/交通/駐輪場オープンの羽田空港　輪行から自走で出られるのか？脱出ルートを実走ガイド - cyclist
 URL=https://cyclist.sanspo.com/434782
+
+=2018-09-19T19:56:47+09:00 Social/交通/高橋伸夫 (2000)『鉄道経営と資金調達』有斐閣 著者版(全文HTML)
+URL=http://books.bizsci.net/railway2000/index.html
 
 =2018-04-18T15:18:49+09:00 Social/交通/高速道路で事故やトラブルが発生した時どこにいれば安全？ - グノシー
 URL=https://gunosy.com/articles/amuIF
@@ -22048,6 +22198,9 @@ URL=https://twitter.com/filinion_es/status/1036245272332972040
 =2018-07-09T06:41:32+09:00 Social/教育・研究/Fumiaki Nishihara（西原史暁）さんのツイート 居酒屋で暴れる客が「ふざけんな、おれは東大の法学部を出て○○省に勤めてんだぞ！」と言ったのに対し、
 URL=https://twitter.com/f_nisihara/status/1016280182993195008
 
+=2019-01-18T15:35:09+09:00 Social/教育・研究/Fumihiko Fujikiさんのツイート 紛失財布が見つかった。カバンの中は、完全にひっくり返して整理しようｗ おとといから、財布が見つからなくて、部屋の中を探し回ったが見つからない。
+URL=https://twitter.com/UFOprofessor/status/1086059172599259136
+
 =2011-02-09T18:46:53+09:00 Social/教育・研究/Hal Tasaki's logW 1102
 URL=http://www.gakushuin.ac.jp/~881791/d/1102.html#09
 
@@ -22345,6 +22498,9 @@ URL=https://twitter.com/mkuze/status/924104897988984832
 =2018-06-28T17:03:29+09:00 Social/教育・研究/Masahiro Ono 小野　昌弘さんのツイート パズルが完成し絵ができあがってはじめて多くの人が評価してくれる。つまり研究者の人生で一番重要な成長の時期は地
 URL=https://twitter.com/masahirono/status/1012034456301993984
 
+=2019-01-16T07:02:09+09:00 Social/教育・研究/Masahiro Ono 小野　昌弘さんのツイート 基礎研究で「世の中」を考えていたら、質の高い研究はできないです。するべきことは、学問を学び、本質的な問題をみつけ、検証可能な仮説をたてて、
+URL=https://twitter.com/masahirono/status/1085290243891318784
+
 =2018-06-18T12:52:02+09:00 Social/教育・研究/Masahiro Ono 小野　昌弘さんのツイート 日本語で最先端科学ができる重要な意味は、社会全体の科学レベルを高めること。
 URL=https://twitter.com/masahirono/status/1008458762460499968
 
@@ -22566,6 +22722,9 @@ URL=https://twitter.com/3818rieko/status/1007196130977824768
 
 =2018-12-16T18:42:36+09:00 Social/教育・研究/RochejacMonmoさんのツイート センター試験後継の新共通テストで出題する記述式問題がどれほど悲惨な状況にあるか、問題点をざっとまとめました。
 URL=https://twitter.com/RochejacMonmo/status/1073968928039133184
+
+=2019-01-17T13:32:34+09:00 Social/教育・研究/RochejacMonmoさんのツイート 新井紀子氏が「国語記述式問題の採点を大学側が担う案」を拒否したことを否定的に議論している一連のツイートには、様々な観点で問題のある記述が多い。
+URL=https://twitter.com/RochejacMonmo/status/1085703307677429760
 
 =2019-01-14T06:52:02+09:00 Social/教育・研究/RochejacMonmoさんのツイート 新井紀子氏は、例えば下記で、「一意に決まる」ことに注目した授業例を試みている。 この実践自体には一定の意義があるとは思うが、
 URL=https://twitter.com/RochejacMonmo/status/1084551393204101120
@@ -22812,6 +22971,9 @@ URL=https://twitter.com/syoyuri/status/1027916386876583936
 
 =2018-04-24T12:53:23+09:00 Social/教育・研究/Yutaka Nishiyamaさんのツイート 組み体操事故５０件増４２２件、重傷４６件、昨年度の兵庫県公立小中 - 産経ニュース
 URL=https://twitter.com/ma85003/status/999531969766543360
+
+=2019-01-16T07:06:47+09:00 Social/教育・研究/Yさんのツイート 去年の4月に長女に配られた教科書と、長女が自宅でその時読んでいた本です。 かなり読解力にギャップがある状況で、「学校の勉強がつまらない」と長女に言われても「そうかあ…」と
+URL=https://twitter.com/y_psychologist/status/1085420872834269184
 
 =2018-07-22T12:51:26+09:00 Social/教育・研究/zapaさんのツイート 校則で下着の色なんてどうやってチェックするんだ、という声が多いので、事例を貼っておきますね。…
 URL=https://twitter.com/zapa/status/1020801648153669632
@@ -24391,6 +24553,9 @@ URL=https://twitter.com/museumnews_jp/status/983352888423415808
 =2016-05-06T09:00:00+09:00 Social/教育・研究/図書館/Newton 復活　：　大学図書館の雑誌購入事情
 URL=http://togetter.com/li/968201#c2680369
 
+=2019-01-15T08:37:39+09:00 Social/教育・研究/図書館/Nobi Hayashi 林信行さんのツイート こうしてどれだけ多くの情報が失われたか。1995年より前の紙情報時代の歴史アーカイブは国立国会図書館で遡れるが、
+URL=https://twitter.com/nobi/status/1084945011123281923
+
 =2018-09-06T09:53:01+09:00 Social/教育・研究/図書館/Ootori Rakuさんのツイート ブラジルの国立博物館。オリンピックを言い訳に予算を出さず、火災のために収蔵物ほぼ全焼・・・という記事。
 URL=https://twitter.com/ootoriraku/status/1037695916524761090
 
@@ -24639,6 +24804,9 @@ URL=http://agora-web.jp/archives/2034187.html
 
 =2017-02-02T12:42:44+09:00 Social/教育・研究/図書館/国会図書館が「電子図書館」になる日-アゴラ
 URL=http://agora-web.jp/archives/2024061.html
+
+=2019-01-16T08:36:58+09:00 Social/教育・研究/図書館/国会図書館の“死蔵データ”活用へ　漫画家・赤松健さんが考える「マンガ図書館Z」の次の一手 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1901/15/news090.html
 
 =2016-05-06T09:00:00+09:00 Social/教育・研究/図書館/国会図書館は国会議員の調査をサポートする機関。「報道圧力」になりかねません
 URL=https://twitter.com/pinpinkiri/status/617888644343336960
@@ -25141,6 +25309,9 @@ URL=https://www.asahi.com/articles/ASL2964GZL29UUPI001.html
 =2017-12-28T21:42:16+09:00 Social/教育・研究/女子中高生の数学に対する意欲とステレオタイプ
 URL=https://www.jstage.jst.go.jp/article/jjep/65/3/65_375/_article/-char/ja/
 
+=2019-01-18T15:39:34+09:00 Social/教育・研究/女子減点がバレた順天堂大医学部、その変な面接を受けた女子が明かす（bizSPA！フレッシュ） - Yahoo!ニュース
+URL=https://headlines.yahoo.co.jp/article?a=20190118-00108979-bizspa-life
+
 =2016-11-19T09:24:31+09:00 Social/教育・研究/女子高御三家が東大に進学しない理由
 URL=http://newswitch.jp/p/6840
 
@@ -25594,6 +25765,9 @@ URL=https://blog.edunote.jp/entry/2018/10/18/060048
 =2018-04-13T12:28:00+09:00 Social/教育・研究/教員たちも思考停止に…「道徳」で混乱する教育現場〈週刊朝日〉（AERA dot.） - Yahoo!ニュース
 URL=https://headlines.yahoo.co.jp/article?a=20180413-00000011-sasahi-soci
 
+=2019-01-16T06:59:45+09:00 Social/教育・研究/教員の働き方がブラックすぎて、教育学部の倍率がヤバイことに。 - Togetter
+URL=https://togetter.com/li/1309183
+
 =2018-11-24T06:15:58+09:00 Social/教育・研究/教員の労働問題アカウントさんのツイート 変わるか教師の働き方 「変形労働時間制」に慎重意見も NHKニュース こんなの導入されたら、ますます状況悪化。
 URL=https://twitter.com/oryobot/status/1066082716439871488
 
@@ -25899,6 +26073,9 @@ URL=https://www.facebook.com/souryuu.kizu/posts/1137835473017267
 
 =2018-03-27T22:06:46+09:00 Social/教育・研究/本当はすごい進学校「高専」：日経ビジネスオンライン
 URL=http://business.nikkeibp.co.jp/atcl/report/16/031600212/032300011/?n_cid=nbpnbo_twbn
+
+=2019-01-14T06:49:04+09:00 Social/教育・研究/本当は学校に行きたくない…“隠れ不登校”の実態（読売新聞（ヨミウリオンライン）） - Yahoo!ニュース
+URL=https://headlines.yahoo.co.jp/hl?a=20190114-00010000-yomonline-soci&p=1
 
 =2018-04-11T16:00:34+09:00 Social/教育・研究/本業なし非常勤講師の急増で、日本の大学が「崩壊」する ワールド 最新記事 ニューズウィーク日本版 オフィシャルサイト
 URL=https://www.newsweekjapan.jp/stories/world/2018/04/post-9936.php?t=0
@@ -26287,6 +26464,9 @@ URL=https://twitter.com/ishiiakira/status/1068806423730053120
 =2018-05-31T20:32:04+09:00 Social/教育・研究/石原 俊@『群島と大学ー冷戦ガラパゴスを超えて』(2017年4月 共和国刊)発売中さんのツイート 【卒業必要単位の１割以上の授業を実務経験のある教員が担当していることや
 URL=https://twitter.com/ishihara_shun/status/1001981869628510208
 
+=2019-01-15T19:37:21+09:00 Social/教育・研究/石松拓人さんのツイート なぜか大卒までしか載ってないので補足。日欧米の大学院卒(技術系)の初任給(年収)はざっくりこんなもんです↓
+URL=https://twitter.com/notactor/status/1085108536978243584
+
 =2018-08-23T20:43:31+09:00 Social/教育・研究/石松拓人さんのツイート 日本は有名大学の学士で「高学歴」と呼ばれる社会ですからね。
 URL=https://twitter.com/notactor/status/1032396857140367361
 
@@ -26407,6 +26587,9 @@ URL=https://twitter.com/sekibunnteisuu/status/1017019897883213824
 =2018-12-22T06:31:31+09:00 Social/教育・研究/積分定数さんのツイート 今日の朝日新聞夕刊の記事 学校教育は社会全体のもの。学校でおかしなことがあればどんどん発信するといいよ。
 URL=https://twitter.com/sekibunnteisuu/status/1076388338662162432
 
+=2019-01-17T20:09:32+09:00 Social/教育・研究/積分定数さんのツイート 入試改革に関しては、現状では具体的にどこがどう問題なのかが曖昧なまま、改革という話になっている。そんな物に対案は不要。
+URL=https://twitter.com/sekibunnteisuu/status/1085799817199071232
+
 =2018-02-11T08:00:00+09:00 Social/教育・研究/立命館小学校、マインクラフトを活用した“答えを決めない”課題解決型学習 - CNET Japan
 URL=https://japan.cnet.com/article/35114562/
 
@@ -26484,6 +26667,9 @@ URL=http://webronza.asahi.com/science/articles/2018031300005.html
 
 =2017-04-01T12:53:59+09:00 Social/教育・研究/総合順位では東大だけど、「教育資源」でトップだった大学とは
 URL=http://newswitch.jp/p/8524
+
+=2019-01-17T15:18:33+09:00 Social/教育・研究/義務教育崩壊へ。教員が忙しい？嫌ならやめろ！代わりはいくらでもいる・・かと思ったら、誰もいなくなってた件。 - Togetter
+URL=https://togetter.com/li/1309793
 
 =2016-05-06T09:00:00+09:00 Social/教育・研究/義務教育：フリースクール容認断念…慎重論多く
 URL=https://newspicks.com/news/1446399/
@@ -26586,6 +26772,9 @@ URL=https://toyokeizai.net/articles/-/256321
 
 =2018-12-01T08:23:12+09:00 Social/教育・研究/西内啓 Hiromu Nishiuchiさんのツイート 昔ただの地方大学だったスタンフォードの教授が「いくら教えてもこのへんに電子工学活かせる仕事ないし教え子みんな東海岸で就職してしまう…」
 URL=https://twitter.com/philomyu/status/1068706834804961281
+
+=2019-01-18T05:53:00+09:00 Social/教育・研究/西川秀和さんのツイート 飲み屋で会ったキャバクラ嬢が、向こうから研究について聞いてきて、最初は冷やかしかと思って適当に話していたけど専門的な説明しても「すごーい面白そう！」と
+URL=https://twitter.com/Poeta_Laureatus/status/1086182262238982144
 
 =2015-05-17T20:35:59+09:00 Social/教育・研究/西洋史若手研究者問題アンケート調査　最終報告会 - Togetter
 URL=https://togetter.com/li/822664
@@ -27424,6 +27613,9 @@ URL=https://twitter.com/genkuroki/status/1011468662018957312
 =2018-08-05T08:00:17+09:00 Social/教育・研究/超算数/黒木玄 Gen Kurokiさんのツイート #超算数 残念なことに『かけ算に順序があるのか』の第3章はチョー算数的であることについては以下のリンク先を参照。
 URL=https://twitter.com/genkuroki/status/1025764327897194496
 
+=2018-05-12T07:03:58+09:00 Social/教育・研究/超算数/黒木玄 Gen Kurokiさんのツイート #超算数 私は、割合などの量的把握が必要な読解は小学校の国語教育よりも算数教育の影響が大きいと判断する方が自然だと思います。
+URL=https://twitter.com/genkuroki/status/995091694407139328
+
 =2018-03-06T05:35:10+09:00 Social/教育・研究/超算数/黒木玄 Gen Kurokiさんのツイート #超算数 算数の教科書をチェックするときには常識は通用しない。
 URL=https://twitter.com/genkuroki/status/970854740262178816
 
@@ -27946,6 +28138,9 @@ URL=https://www.softantenna.com/wp/tips/howto-git-clone-aozora/
 =2016-09-15T18:28:34+09:00 Social/書籍/【やじうまWatch】古文書の解析から雑誌の袋とじまで？　本を開かずに中身を読めるMITの技術が話題に - INTERNET Watch
 URL=http://internet.watch.impress.co.jp/docs/yajiuma/1020147.html
 
+=2019-01-15T06:41:11+09:00 Social/書籍/【悲報】やっぱり『日本国紀』、在庫過剰の「押し本」状態だった【在庫７箱も…専門誌の報告】 論壇net
+URL=https://rondan.net/12213
+
 =2018-03-18T05:44:35+09:00 Social/書籍/【悲報】ヴォイニッチ手稿、暗号でも何でもなく単に発音表記してただけっぽい JOY NEWS
 URL=http://livdir.com/joynews/3527
 
@@ -28210,6 +28405,9 @@ URL=https://forbesjapan.com/articles/detail/22503
 =2018-09-23T04:25:47+09:00 Social/書籍/紺野キタさんのツイート 書棚を実用ではなくインテリアの一部としか捉えてない層もいるんです 妹は今も本は全然読まな
 URL=https://twitter.com/kitakonno/status/1043770494506348544
 
+=2019-01-16T07:02:43+09:00 Social/書籍/結城浩さんのツイート うぎゃ。いろいろ試していたらPDFがすべて個別のJPEGファイルになった。いきなりファイルの個数が三百倍に増えた(@_@)
+URL=https://twitter.com/hyuki/status/1085510309618434049
+
 =2018-03-23T13:14:13+09:00 Social/書籍/統計学の教科書から起業マニュアルまで、すごい「無料」コンテンツ集めました - グローバル経営の極北
 URL=http://globalbiz.hatenablog.com/entry/2018/03/23/131413
 
@@ -28368,6 +28566,9 @@ URL=https://twitter.com/mitologia_hot/status/1082588267545935873
 
 =2018-09-14T13:45:00+09:00 Social/発明・知財/Hiromitsu Takagiさんのツイート そんなことより、第3の案とされる「アクセス警告方式」のヤバさが全然批判されないのは、
 URL=https://twitter.com/HiromitsuTakagi/status/1040597878656253954
+
+=2019-01-19T07:38:22+09:00 Social/発明・知財/IBMフェローの浅川智恵子氏、全米発明家殿堂に--視覚障がい者用ウェブ読み上げ技術で - CNET Japan
+URL=https://japan.cnet.com/article/35131292/
 
 =2018-11-05T06:55:49+09:00 Social/発明・知財/isanaさんのツイート 自分が遭遇したケースだと、Creative Commonsの画像を集めて再配布しているサイトの画像が使いたくて、念の為に作者のサイトを当たったら実際には
 URL=https://twitter.com/lizard_isana/status/1059305496396521472
@@ -28851,6 +29052,9 @@ URL=https://gigazine.net/news/20180920-senate-pass-140-year-protection-copyright
 
 =2016-09-26T08:07:46+09:00 Social/発明・知財/史上初のコンピューター音楽を復元、英数学者チューリングが装置開発　写真1枚　国際ニュース：AFPBB News
 URL=http://www.afpbb.com/articles/-/3102134
+
+=2019-01-16T08:36:58+09:00 Social/発明・知財/国会図書館の“死蔵データ”活用へ　漫画家・赤松健さんが考える「マンガ図書館Z」の次の一手 - ITmedia NEWS
+URL=http://www.itmedia.co.jp/news/articles/1901/15/news090.html
 
 =2018-02-06T09:37:01+09:00 Social/発明・知財/地図 [データ] と著作権 Speaker Deck
 URL=https://speakerdeck.com/nyampire/di-tu-deta-tozhu-zuo-quan
@@ -29730,6 +29934,9 @@ URL=http://www.meti.go.jp/press/2017/08/20170821001/20170821001.html
 
 =2018-09-30T19:48:11+09:00 Social/経済/JapanDocsさんのツイート 【テレビ】930（日）日テレ24時55分 Nドキュ「崩蝕の国土 増え続ける所有者不明土地」
 URL=https://twitter.com/jdocs/status/1046334367952523264
+
+=2019-01-12T08:28:34+09:00 Social/経済/Jasmineさんのツイート 日本って面接に来た人にあんまり優しくしないのはなんで？中国の会社に面接に行った時、「お水とお茶どっちがいい？暑くない？大丈夫？」とか気遣ってもらえて
+URL=https://twitter.com/Jasmine492339/status/1084089676963635205
 
 =2017-08-03T08:20:51+09:00 Social/経済/Jon Clemonsさんのツイート Caption Working in Japan httpst.couqVJEXHW7R
 URL=https://twitter.com/jclmns/status/892950566002765825
@@ -30970,6 +31177,9 @@ URL=http://www.sbbit.jp/article/cont1/33971
 =2018-08-11T08:33:02+09:00 Social/経済/ケビン松永さんのツイート 5年前から、自分の事をアメリカ人だと思って生きることにしてます。 ・定時になったら帰る
 URL=https://twitter.com/Canary_Kun/status/1028240157365821440
 
+=2019-01-15T14:43:14+09:00 Social/経済/ケリーさんのツイート 勤務医になって初めて実家に帰省した時、父に当直の話をしたら「前日は休みなんだろ？」って聞かれた。普通に勤務だよって答えると、「次の日は休みなんだろ？」って聞かれた。
+URL=https://twitter.com/jpdrkk/status/1085147491077484546
+
 =2017-10-02T07:51:51+09:00 Social/経済/コラム連載 安田・山家 送電線に「空容量」は本当にないのか？ 再生可能エネルギー 経済学講座 京都大学
 URL=http://www.econ.kyoto-u.ac.jp/renewable_energy/occasionalpapers/occasionalpapersno45
 
@@ -31114,6 +31324,9 @@ URL=https://www.sankeibiz.jp/macro/news/171216/mcb1712160500004-n1.htm
 =2018-04-22T21:12:29+09:00 Social/経済/バラモン左翼＠トマ・ピケティ hamachanブログ(EU労働法政策雑記帳)
 URL=http://eulabourlaw.cocolog-nifty.com/blog/2018/04/post-83eb.html
 
+=2019-01-16T13:27:23+09:00 Social/経済/バレットさんのツイート 今朝のローカル紙（神戸新聞朝刊）に統計委員会の西村清彦委員長が寄稿されていました…
+URL=https://twitter.com/Barrettm95sp/status/1085301075136077824
+
 =2016-11-01T06:57:43+09:00 Social/経済/パナソニックプラズマディスプレイが解散　負債額5000億円、製造業で過去最大の倒産 J-CASTニュース
 URL=http://www.j-cast.com/2016/11/01282338.html
 
@@ -31122,6 +31335,9 @@ URL=https://japan.cnet.com/article/35107021/
 
 =2017-11-01T19:46:41+09:00 Social/経済/ビットコイン先物、知っておくべき10のこと - WSJ
 URL=http://jp.wsj.com/articles/SB12184699767194473854804583487884266011500
+
+=2019-01-16T06:58:57+09:00 Social/経済/ビル・ゲイツ大絶賛の書が私たちに投げかける「重要な問い」（上杉 周作） 現代ビジネス 講談社
+URL=https://gendai.ismedia.jp/articles/-/59324
 
 =2015-01-29T17:53:38+09:00 Social/経済/ピケティ氏「物価上昇には賃金増しかない」　都内でパネル討論 日本経済新聞
 URL=https://r.nikkei.com/article/DGXLASFS29H4M_Z20C15A1EE8000?s=1
@@ -31275,6 +31491,9 @@ URL=https://www3.nhk.or.jp/news/html/20190111/k10011774741000.html
 
 =2018-05-09T07:29:01+09:00 Social/経済/世帯所得が低い世帯は乳児の体重増加不良が1.3倍　～約55,000人の調査から～　（北里大学）...
 URL=https://japan.cnet.com/release/30246791/
+
+=2019-01-17T05:53:57+09:00 Social/経済/世界3大投資家ジム・ロジャーズの直言、「日本の好景気はうわべだけ」 Forbes JAPAN（フォーブス ジャパン）
+URL=https://forbesjapan.com/articles/detail/24971
 
 =2018-08-01T19:01:47+09:00 Social/経済/世界が反緊縮を必要とする理由 野口旭 コラム ニューズウィーク日本版 オフィシャルサイト
 URL=https://www.newsweekjapan.jp/noguchi/2018/08/post-17.php
@@ -31468,6 +31687,9 @@ URL=https://twitter.com/SciCafeShizuoka/status/996613856284762117
 =2018-09-28T07:48:39+09:00 Social/経済/元凶は経団連。日本にアップルもアマゾンも生まれない当然の理由 - まぐまぐニュース！
 URL=https://www.mag2.com/p/news/371740
 
+=2019-01-15T07:08:19+09:00 Social/経済/元大蔵官僚が告白「作られた財政危機」について考える、やっぱり #財務省ハラスメント ？！ - Togetter
+URL=https://togetter.com/li/1308870
+
 =2018-08-03T07:35:44+09:00 Social/経済/先進国でデフレは日本だけ。20年の失策を生んだ大企業のドケチな経営
 URL=http://blogos.com/article/315408/
 
@@ -31545,6 +31767,12 @@ URL=https://anond.hatelabo.jp/20171207015821
 
 =2016-12-19T07:38:13+09:00 Social/経済/労働生産性 日本は主要７か国の中で最下位 NHKニュース
 URL=http://www3.nhk.or.jp/news/html/20161219/k10010812081000.html
+
+=2019-01-19T17:18:31+09:00 Social/経済/勤労統計の不適切調査、「賃金過大上昇」で発覚　総務省要因分析　補正経緯なお謎 - 西日本新聞 ｜ This Kiji
+URL=https://this.kiji.is/457828482923594849
+
+=2019-01-17T15:13:53+09:00 Social/経済/勤労統計の資料を廃棄　厚労省04～11年分、再集計は困難 - 毎日新聞
+URL=https://mainichi.jp/articles/20190117/k00/00m/040/245000c
 
 =2019-01-08T12:15:44+09:00 Social/経済/勤労統計データ長年偽装の疑い - 共同通信 ｜ This Kiji
 URL=https://this.kiji.is/455351313699112033?c=39550187727945729
@@ -32557,6 +32785,9 @@ URL=https://twitter.com/iki_tanaka/status/1051243217503408129
 =2018-10-13T14:58:33+09:00 Social/経済/田中秀臣さんのツイート IMFたまにはいいレポートだすわあ。 httpst.coyvAVJJUTvK 中央銀行などを含んだ広義の政府部門のバランスシートでは日本はほとんど純債務がない。
 URL=https://twitter.com/hidetomitanaka/status/1051028491565596672
 
+=2019-01-17T07:07:02+09:00 Social/経済/田中秀臣さんのツイート 『Voice』の2019年2月号、クルーグマンとコーエンという個人的には鉄板のふたりのインタビューが掲載されていて、とても嬉しい。
+URL=https://twitter.com/hidetomitanaka/status/1085560294678491138
+
 =2018-10-08T17:33:04+09:00 Social/経済/田中秀臣さんのツイート バーナンキ受賞は嬉しいことだが、清滝氏の受賞は個人的には微妙である。なぜなら氏はこの20数年にわたる日本の停滞に
 URL=https://twitter.com/hidetomitanaka/status/1049167000587489280
 
@@ -32592,6 +32823,9 @@ URL=https://matome.naver.jp/odai/2144473776645684801
 
 =2016-05-06T09:00:00+09:00 Social/経済/短期日本経済マクロ計量モデル(2015 年版)の構造と乗数分析 
 URL=http://www.esri.go.jp/jp/archive/e_dis/e_dis314/e_dis314.pdf
+
+=2019-01-15T19:37:21+09:00 Social/経済/石松拓人さんのツイート なぜか大卒までしか載ってないので補足。日欧米の大学院卒(技術系)の初任給(年収)はざっくりこんなもんです↓
+URL=https://twitter.com/notactor/status/1085108536978243584
 
 =2018-11-09T20:29:46+09:00 Social/経済/石松拓人さんのツイート 最近ふたつ講演をした。ひとつは日本(遠隔)、ひとつはアメリカ。どちらも同じような内容で約2時間の講演だったけど、
 URL=https://twitter.com/notactor/status/1060660899579482112
@@ -32715,6 +32949,9 @@ URL=https://wirelesswire.jp/2017/06/60153/
 
 =2018-12-16T09:13:25+09:00 Social/経済/経済格差の根源は、十数万年前の東アフリカに起因する：オデッド・ガロー教授の「統一成長理論」｜WIRED.jp
 URL=https://wired.jp/2018/12/16/professor-galor-unified-growth-theory/
+
+=2019-01-18T17:21:55+09:00 Social/経済/経済産業省の貴金属流通統計調査に誤り「エクセルの設定間違えた」 - ライブドアニュース
+URL=http://news.livedoor.com/article/detail/15893435/
 
 =2018-01-02T23:40:00+09:00 Social/経済/経済発展には「競争」と「平等」のバランスこそが大切だと考えた世界の事例 - GIGAZINE
 URL=https://gigazine.net/news/20180102-economy-equally-competition/
@@ -32865,6 +33102,9 @@ URL=https://twitter.com/shinchanchi/status/1084769405794304000
 
 =2018-08-07T19:52:24+09:00 Social/経済/質問者2さんのツイート Twitter社に通報しました(^-^) 国家財政を家計に例えることが間違いです。
 URL=https://twitter.com/shinchanchi/status/1026665808921948160
+
+=2019-01-14T07:08:01+09:00 Social/経済/質問者2さんのツイート 「元大蔵官僚が告白「作られた財政危機」について考える、やっぱり #財務省ハラスメント ？！」をトゥギャりました。 httpst.codxIP3wagZK
+URL=https://twitter.com/shinchanchi/status/1084787590857801729
 
 =2018-08-31T09:02:51+09:00 Social/経済/質問者2さんのツイート 数値的には高水準でも、マクロ経済失政により奪われた20年の後では、大分違う。非正規多く、消費税重く、消費の伸びも弱い。
 URL=https://twitter.com/shinchanchi/status/1035361129738858497
@@ -33238,6 +33478,9 @@ URL=http://www.meti.go.jp/press/2017/08/20170821001/20170821001.html
 =2018-12-30T20:43:46+09:00 Social/統計/Katsushi Kagayaさんのツイート 僕などの解説より、この赤池先生の解説が参考になるかもしれません。httpst.cowhkowxavDU
 URL=https://twitter.com/katzkagaya/status/1079347427243520000
 
+=2019-01-01T07:05:15+09:00 Social/統計/Katsushi Kagayaさんのツイート 黒木さんによる最強力検定、ベイズ検定、尤度比検定についての解説。httpst.co5jUEmUXOjH
+URL=https://twitter.com/katzkagaya/status/1080721036717375488
+
 =2018-08-31T09:03:12+09:00 Social/統計/KRSKさんのツイート ブログ更新。統計学で有名な問題、シンプソンのパラドックスについて。元論文に戻りしっかり解説しました。
 URL=https://twitter.com/koro485/status/1035283748206649345
 
@@ -33400,6 +33643,9 @@ URL=https://academist-cf.com/journal/?p=7702
 =2016-05-06T09:00:00+09:00 Social/統計/ニッポン半導体のシェアがついに8%に
 URL=http://bylines.news.yahoo.co.jp/tsudakenji/20160415-00056606/
 
+=2019-01-16T13:27:23+09:00 Social/統計/バレットさんのツイート 今朝のローカル紙（神戸新聞朝刊）に統計委員会の西村清彦委員長が寄稿されていました…
+URL=https://twitter.com/Barrettm95sp/status/1085301075136077824
+
 =2018-06-13T12:51:21+09:00 Social/統計/上原 哲太郎Tetsu. Ueharaさんのツイート 不正アクセス禁止法違反の検挙者数で10代が多い件についても「若者の犯罪が増えている」ではなくて「警察は
 URL=https://twitter.com/tetsutalow/status/1006833266567962624
 
@@ -33435,6 +33681,12 @@ URL=http://www3.nhk.or.jp/news/html/20161219/k10010812081000.html
 
 =2017-01-06T19:41:42+09:00 Social/統計/労働生産性の国際比較 日本生産性本部
 URL=http://www.jpc-net.jp/intl_comparison/
+
+=2019-01-19T17:18:31+09:00 Social/統計/勤労統計の不適切調査、「賃金過大上昇」で発覚　総務省要因分析　補正経緯なお謎 - 西日本新聞 ｜ This Kiji
+URL=https://this.kiji.is/457828482923594849
+
+=2019-01-17T15:13:53+09:00 Social/統計/勤労統計の資料を廃棄　厚労省04～11年分、再集計は困難 - 毎日新聞
+URL=https://mainichi.jp/articles/20190117/k00/00m/040/245000c
 
 =2019-01-08T12:15:44+09:00 Social/統計/勤労統計データ長年偽装の疑い - 共同通信 ｜ This Kiji
 URL=https://this.kiji.is/455351313699112033?c=39550187727945729
@@ -33570,6 +33822,9 @@ URL=https://gigazine.net/news/20181015-gender-difference-in-maths/
 
 =2018-10-26T10:11:58+09:00 Social/統計/米重 克洋さんのツイート 賛成 やむを得ない どちらとも言えない 反対 の4択だと賛成の選択肢2つに反対の選択肢1つで正常な投票にならない。
 URL=https://twitter.com/kyoneshige/status/1055835071007977473
+
+=2019-01-18T17:21:55+09:00 Social/統計/経済産業省の貴金属流通統計調査に誤り「エクセルの設定間違えた」 - ライブドアニュース
+URL=http://news.livedoor.com/article/detail/15893435/
 
 =2018-03-22T08:08:13+09:00 Social/統計/統計上の「平均値人間」は実在するか？- Hideto Ishibashi-Medium
 URL=https://medium.com/@zerobase/%E7%B5%B1%E8%A8%88%E4%B8%8A%E3%81%AE-%E5%B9%B3%E5%9D%87%E5%80%A4%E4%BA%BA%E9%96%93-%E3%81%AF%E5%AE%9F%E5%9C%A8%E3%81%99%E3%82%8B%E3%81%8B-31d3e628fe27?source=linkShare-63885a0f1f6a-1521780737
@@ -33744,6 +33999,9 @@ URL=https://twitter.com/takeda25/status/1035678067111284736
 
 =2018-02-08T07:22:52+09:00 Social/言語・文字/Hiroshi Sasakiさんのツイート 嬉しいお知らせ：Unicodeコンソーシアムは、新たに「DNA2重らせん」絵文字U+1F9ECを承認。 残念なお知らせ：DNA2重らせんが左巻き。…
 URL=https://twitter.com/popeetheclown/status/961483043738472448
+
+=2019-01-15T07:00:42+09:00 Social/言語・文字/Hiroyuki Komatsuさんのツイート ユニコード文字列を編集するウェブツールを作りました。 文字列を UTF8, 16, 32 での各種エスケープと相互変換できます。コードポイント単位での編集もできます。
+URL=https://twitter.com/komatsuh/status/1085089424906436608
 
 =2018-06-12T12:55:53+09:00 Social/言語・文字/hondamaさんのツイート これはとてもおもしろい。若者言葉のいっけんノーマルから大きく外れているように見える表現も、
 URL=https://twitter.com/hondayonda/status/1006537691033456645
