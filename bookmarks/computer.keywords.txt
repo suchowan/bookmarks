@@ -1754,6 +1754,9 @@ myBridge
 =2018-09-03T14:28:10+09:00 Computer/トピック/社会動向/企業/Linne/keywords
 LINNE LENS
 
+=2019-01-22T18:39:22+09:00 Computer/トピック/社会動向/企業/Lionbridge Technologies/keywords
+ライオンブリッジ,Lionbridge Technologies
+
 =2017-10-24T12:07:43+09:00 Computer/トピック/社会動向/企業/Lisfee/keywords
 FLOWERY
 TAGGER
@@ -3346,7 +3349,7 @@ Kigen
 Pelion
 Neoverse
 
-=2018-08-14T15:27:32+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2019-01-22T18:37:12+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -3363,6 +3366,7 @@ SynchRoid
 Planme
 ディープコア
 KARNEL HONGO
+NAO
 
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
@@ -4112,8 +4116,9 @@ toppi!,トッピ
 =2017-10-02T09:45:33+09:00 Computer/トピック/社会動向/企業/三井物産/keywords
 SAIVS,Spider Artificial Intelligence Vulnerability Scanner
 
-=2017-10-16T08:58:29+09:00 Computer/トピック/社会動向/企業/三菱総合研究所/keywords
-三菱総合研究所,MRI
+=2019-01-22T18:37:31+09:00 Computer/トピック/社会動向/企業/三菱総合研究所/keywords
+三菱総研,三菱総合研究所,MRI
+Hitomean
 
 =2017-04-11T11:37:08+09:00 Computer/トピック/社会動向/企業/三菱重工業/keywords
 TOMONI
@@ -4587,7 +4592,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-01-19T16:47:49+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-01-22T18:37:12+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4613,6 +4618,7 @@ TSUBAME
 埼玉県
 国土交通省
 山梨県
+厚労省
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
