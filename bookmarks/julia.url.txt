@@ -223,6 +223,9 @@ URL=https://twitter.com/genkuroki/status/1038491819791671296
 =2018-10-11T08:09:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 で「one(x)はxと同じ型の1になる」のような説明を何度もしているような感じがするが、
 URL=https://twitter.com/genkuroki/status/1050359433627197442
 
+=2018-03-08T06:58:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 における線形代数のデザインについては httpst.coMFsCeQmUGx が面白いです。添付画像のようにファン・デル・ヴェルデンの有名な教科書を引用して
+URL=https://twitter.com/genkuroki/status/971604718534344709
+
 =2018-11-13T06:22:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 はJulia言語のコード自体を扱う機能を持っています。そういう機能は効率よく数値計算のコードを書くためには必須。
 URL=https://twitter.com/genkuroki/status/1062328317460733952
 
@@ -285,6 +288,9 @@ URL=https://twitter.com/mkt_kwn/status/1065682194205675520
 
 =2018-09-09T06:31:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/OpenMPIを使う in Julia 1.0-Qiita
 URL=https://qiita.com/yoyoyoh-yohyoh/items/fa18829a26953a7804f3
+
+=2019-01-22T07:11:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Strengths Finderで上位の強みが似ている人を見つけるためにJuliaでPCA(主成分分析)をしてみた
+URL=https://blog.regonn.tokyo/julia/2019/01/22/sf-pca.html
 
 =2018-08-29T08:25:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Yoshiki NAGATANIさんのツイート みなさまのご指摘を参考にさせて頂き，Julia 言語版を
 URL=https://twitter.com/nagataniyoshiki/status/1034631650410291200

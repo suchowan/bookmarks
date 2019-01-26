@@ -470,8 +470,9 @@ Amazon Echo,AmazonEcho
 Echosim.io
 アマゾン・エコー
 
-=2017-11-11T07:56:20+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
+=2019-01-26T10:30:22+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
+Google アシスタント,Google Assistant
 
 =2018-12-11T08:01:56+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
@@ -541,7 +542,7 @@ HEMS
 配車
 品質保証
 
-=2018-10-22T11:00:03+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
+=2019-01-26T10:28:53+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
 映え
 裁判官
@@ -557,6 +558,7 @@ HEMS
 評価
 真贋
 MMEye
+サブスクリプション
 
 =2017-03-22T10:23:45+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/keywords
 囲碁
@@ -633,7 +635,7 @@ Xperia Hello!
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
 
-=2018-09-10T11:46:54+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2019-01-26T10:28:52+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -649,6 +651,7 @@ Smart HR
 Hire
 エンジニア
 人財テック
+しごと
 
 =2019-01-03T11:31:48+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -1031,7 +1034,7 @@ Labellio,ラベリオ
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Altan Robotech/keywords
 Giddel
 
-=2018-06-23T16:28:54+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
 AWS
 Alexa
@@ -1039,6 +1042,7 @@ Echo Look
 GuardDuty
 SageMaker
 Hub by Amazon
+GAFA
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -1074,12 +1078,13 @@ VR ON AIR TEST
 Cross X AIソリューション
 AIXON
 
-=2018-11-07T10:39:17+09:00 Computer/トピック/社会動向/企業/Apple/keywords
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Apple/keywords
 Apple,アップル
 iPhone
 App Store
 MacBook
 MacBookAir
+GAFA
 
 =2017-09-19T07:47:12+09:00 Computer/トピック/社会動向/企業/ARアドバンストテクノロジ/keywords
 LOOGUE
@@ -1183,11 +1188,12 @@ ChatWork,Chatwork
 =2017-10-12T10:26:27+09:00 Computer/トピック/社会動向/企業/Chef/keywords
 Habitat
 
-=2018-03-05T14:15:17+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
 シスコ,シスコシステムズ,CISCO
 Tetration Analytics,テトレーション アナリティックス
 Cisco Intersight
 SD-WAN
+Webex
 
 =2019-01-19T16:47:49+09:00 Computer/トピック/社会動向/企業/Citrix/keywords
 シトリックス
@@ -1360,7 +1366,7 @@ EYアドバイザリー・アンド・コンサルティング,EY
 =2017-09-19T11:22:49+09:00 Computer/トピック/社会動向/企業/F5ネットワークス/keywords
 Access Policy Manager,APM
 
-=2018-04-17T09:43:50+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 Facebook,フェイスブック
 Lumos
 Caffe2Go
@@ -1373,6 +1379,7 @@ World Effects
 Prophet
 Detectron
 ザッカーバーグ
+GAFA
 
 =2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
 SIGNAL
@@ -1483,7 +1490,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2019-01-07T12:14:12+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1524,6 +1531,7 @@ Google Fi
 magenta
 Canvas
 Chromecast
+GAFA
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
@@ -1722,6 +1730,9 @@ Kapow10,カパゥテン
 =2018-03-20T14:56:15+09:00 Computer/トピック/社会動向/企業/KSKアナリティクス/keywords
 RapidMiner
 
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/L is B/keywords
+daab
+
 =2018-10-26T11:26:56+09:00 Computer/トピック/社会動向/企業/Lattice Semiconductor/keywords
 ラティス,Lattice,Lattice Semiconductor
 
@@ -1763,6 +1774,9 @@ TAGGER
 
 =2018-06-16T17:22:23+09:00 Computer/トピック/社会動向/企業/Live Smart/keywords
 LS mini
+
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Livintek/keywords
+FITO TAP PRO
 
 =2018-06-02T14:32:05+09:00 Computer/トピック/社会動向/企業/Lunch Actually Group/keywords
 VIOLA  AI
@@ -3349,7 +3363,7 @@ Kigen
 Pelion
 Neoverse
 
-=2019-01-22T18:37:12+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2019-01-26T10:28:53+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -3367,6 +3381,7 @@ Planme
 ディープコア
 KARNEL HONGO
 NAO
+SB C&S
 
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
@@ -3382,6 +3397,9 @@ POCKETALK
 =2017-10-16T09:26:10+09:00 Computer/トピック/社会動向/企業/ゾーホージャパン/keywords
 ManageEngine OpManager,OpManager
 Zohoピープル
+
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/タイトー/keywords
+NESiCA
 
 =2018-09-03T14:28:14+09:00 Computer/トピック/社会動向/企業/タイムズ24/keywords
 B-Times
@@ -3427,6 +3445,9 @@ Seed ID
 
 =2017-10-04T10:18:51+09:00 Computer/トピック/社会動向/企業/チェンジ/keywords
 VoX,VOICE OF EXPERIENCE
+
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/チャオ/keywords
+Ciao Camera
 
 =2018-09-23T14:49:28+09:00 Computer/トピック/社会動向/企業/チャプターエイト/keywords
 ABCチェックイン
@@ -3675,7 +3696,7 @@ AppGuard
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2019-01-07T12:14:12+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
@@ -3684,6 +3705,7 @@ Educational Partner
 ストラーダ
 HDコム
 ホームX
+コエリモ
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
@@ -4534,6 +4556,9 @@ Coin Tool,コインツール
 =2017-03-30T11:09:36+09:00 Computer/トピック/社会動向/大学/九州大学/keywords
 K-now
 
+=2019-01-26T10:29:33+09:00 Computer/トピック/社会動向/大学/九州工業大学/keywords
+九州工業大,九州工業大学
+
 =2017-03-28T13:55:08+09:00 Computer/トピック/社会動向/大学/京都大学/keywords
 京都大学,京大
 
@@ -4579,6 +4604,9 @@ TSUBAME
 
 =2017-10-16T11:25:37+09:00 Computer/トピック/社会動向/大学/沖縄科学技術大学院大学/keywords
 沖縄科学技術大学院大学,OIST
+
+=2019-01-26T10:31:07+09:00 Computer/トピック/社会動向/大学/立教大学/keywords
+立教大,立教大学
 
 =2019-01-15T13:51:19+09:00 Computer/トピック/社会動向/大学/諏訪東京理科大学/keywords
 諏訪東理大
