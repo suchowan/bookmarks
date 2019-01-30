@@ -31,7 +31,7 @@ Vtuber,VTuber
 WEEKLY人工無脳
 カオスマップ
 
-=2019-01-11T14:40:11+09:00 Computer/トピック/セキュリティ/keywords
+=2019-01-30T13:12:16+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -82,6 +82,7 @@ Signature
 ファイアウォール
 抜き取り
 reCAPTCHA
+ヤベー
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -332,6 +333,9 @@ RMagick
 =2018-04-14T14:05:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rails/keywords
 Rails5
 
+=2019-01-30T13:12:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Swift/keywords
+Swift5
+
 =2018-08-23T08:15:16+09:00 Computer/トピック/ツール/データベース/Elasticsearch/keywords
 Kibana
 
@@ -516,7 +520,7 @@ AlphaFold
 脚本,シナリオ
 物語
 
-=2018-11-29T13:48:58+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
+=2019-01-30T13:12:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
 ピッタリ
 指南
@@ -526,6 +530,7 @@ AlphaFold
 意志決定
 Quicksilver
 お薦め
+似合う
 
 =2018-05-03T18:47:59+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
@@ -596,9 +601,10 @@ iQON
 JINS
 メガネ
 
-=2018-10-22T10:59:54+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
+=2019-01-30T13:12:17+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
 フライホイール
+顧客分析
 
 =2018-06-16T17:22:18+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/keywords
 Google Analytics,Googleアナリティクス
@@ -619,7 +625,7 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2019-01-07T12:14:12+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2019-01-30T13:12:16+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
@@ -631,6 +637,7 @@ EGrobo
 ヒューマノイド
 Whiz
 Xperia Hello!
+LAWS
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -876,9 +883,12 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2018-07-19T08:43:18+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-01-30T13:12:17+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
+Oder
+AimePay
+チケット
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1001,6 +1011,9 @@ Affdex
 
 =2017-11-11T16:10:52+09:00 Computer/トピック/社会動向/企業/AI sales/keywords
 AIクレームチェッカー
+
+=2019-01-30T12:23:17+09:00 Computer/トピック/社会動向/企業/AI Samurai/keywords
+AI Samurai,エーアイサムライ,アイピーコグニティブ,IP Cognitive
 
 =2017-11-11T06:26:39+09:00 Computer/トピック/社会動向/企業/AI-Exchange/keywords
 AI-Exchange,AiX
@@ -1282,8 +1295,9 @@ MOV
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Diligent Robotics/keywords
 Moxi
 
-=2017-12-08T14:04:51+09:00 Computer/トピック/社会動向/企業/DISCOVER/keywords
+=2019-01-30T13:12:17+09:00 Computer/トピック/社会動向/企業/DISCOVER/keywords
 TravelMate
+MESAY
 
 =2017-10-24T07:34:38+09:00 Computer/トピック/社会動向/企業/Disney/keywords
 Disney,ディズニー
@@ -1533,6 +1547,12 @@ Canvas
 Chromecast
 GAFA
 
+=2019-01-30T13:12:16+09:00 Computer/トピック/社会動向/企業/GreenSnap/keywords
+教えて！カメラ
+
+=2019-01-30T13:16:34+09:00 Computer/トピック/社会動向/企業/GreyOrange/keywords
+グレイオレンジ,GreyOrange
+
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
 
@@ -1674,6 +1694,9 @@ AppGuard
 =2017-10-10T14:43:42+09:00 Computer/トピック/社会動向/企業/iZotope/keywords
 Ozone 8
 
+=2019-01-30T13:17:13+09:00 Computer/トピック/社会動向/企業/JDI/keywords
+ジャパンディスプレイ,JDI
+
 =2017-03-29T11:34:08+09:00 Computer/トピック/社会動向/企業/Jetrunテクノロジ/keywords
 TrueTALK,トゥルートーク
 TrueText,トゥルーテキスト
@@ -1793,6 +1816,9 @@ MICA
 =2017-10-24T08:05:51+09:00 Computer/トピック/社会動向/企業/Magic Software/keywords
 MSE,Magic Software,マジックソフトウェア
 
+=2019-01-30T13:12:17+09:00 Computer/トピック/社会動向/企業/MAMORIO/keywords
+wiffy
+
 =2018-09-23T14:49:24+09:00 Computer/トピック/社会動向/企業/MARIANA OCEAN JAPAN/keywords
 ObotAI
 
@@ -1876,6 +1902,9 @@ Tapia
 
 =2017-03-29T11:54:06+09:00 Computer/トピック/社会動向/企業/MKTインターナショナル/keywords
 MKT METAL
+
+=2019-01-30T13:14:16+09:00 Computer/トピック/社会動向/企業/Mobileye/keywords
+モービルアイ,Mobileye
 
 =2017-10-16T08:57:33+09:00 Computer/トピック/社会動向/企業/Moff/keywords
 モフ測
@@ -2002,12 +2031,13 @@ Hinemos
 AI.Studio
 intra-mart
 
-=2018-12-11T07:59:38+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
-NTTドコモ,ドコモ,Docomo,DOCOMO
+=2019-01-30T13:15:37+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
+NTTドコモ,ドコモ,Docomo,DOCOMO,docomo
 petoco
 beyond宣言
 東京2020推進室
 my daiz
+NTT docomo
 
 =2017-04-18T07:25:05+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
 Oshi-el,オシエル
@@ -2314,6 +2344,9 @@ Sophos,ソフォス
 =2017-03-30T10:16:56+09:00 Computer/トピック/社会動向/企業/Sota Tek/keywords
 SotaTek,Sota Tek,ソタテック
 
+=2019-01-30T13:12:17+09:00 Computer/トピック/社会動向/企業/Soul Machines/keywords
+Nadia
+
 =2018-08-24T11:07:28+09:00 Computer/トピック/社会動向/企業/SpaceX/keywords
 イーロン・マスク
 
@@ -2448,6 +2481,9 @@ innto
 
 =2018-07-14T13:23:40+09:00 Computer/トピック/社会動向/企業/VACAN/keywords
 Throne
+
+=2019-01-30T13:13:29+09:00 Computer/トピック/社会動向/企業/Valeo/keywords
+ヴァレオ,Valeo
 
 =2018-06-15T17:13:16+09:00 Computer/トピック/社会動向/企業/Valve/keywords
 Steam
@@ -3104,9 +3140,6 @@ Concierge U
 
 =2017-03-30T14:34:45+09:00 Computer/トピック/社会動向/企業/コンビーズ/keywords
 コンビーズレコ
-
-=2017-03-30T14:28:11+09:00 Computer/トピック/社会動向/企業/ゴールドアイピー/keywords
-アイピーコグニティブ,IP Cognitive
 
 =2017-03-30T14:35:38+09:00 Computer/トピック/社会動向/企業/サイオス/keywords
 SIOS iQ
@@ -4159,8 +4192,9 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2018-12-11T08:01:56+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2019-01-30T13:12:17+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東
+JR九州
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
