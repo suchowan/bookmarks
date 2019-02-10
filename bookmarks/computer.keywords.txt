@@ -161,7 +161,7 @@ Driverless AI
 =2017-03-21T13:40:11+09:00 Computer/トピック/ツール/オンプレミス/その他/Mathematica/keywords
 Wolfram
 
-=2017-08-18T11:55:20+09:00 Computer/トピック/ツール/オンプレミス/その他/NNabla/keywords
+=2019-02-10T15:32:05+09:00 Computer/トピック/ツール/オンプレミス/その他/NNabla/keywords
 Neural Network Console
 
 =2017-09-11T08:38:15+09:00 Computer/トピック/ツール/オンプレミス/その他/ONNX/keywords
@@ -392,7 +392,7 @@ TRON
 =2018-09-07T11:39:11+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
-=2018-10-19T11:10:36+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2019-02-10T15:29:38+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
@@ -402,6 +402,7 @@ Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 Amazon Key
 家電
 Tuya Smart
+エアコン
 
 =2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -855,9 +856,10 @@ IMAKITA
 音声処理
 ヨミ子さん
 
-=2019-01-15T13:51:19+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
+=2019-02-10T15:29:38+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 みえる電話
+CHIVOX
 
 =2018-11-14T09:37:46+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
@@ -889,12 +891,13 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-01-30T13:12:17+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-02-10T15:29:38+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
 AimePay
 チケット
+コンビニ
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1391,6 +1394,9 @@ EYアドバイザリー・アンド・コンサルティング,EY
 
 =2017-09-19T11:22:49+09:00 Computer/トピック/社会動向/企業/F5ネットワークス/keywords
 Access Policy Manager,APM
+
+=2019-02-10T15:29:37+09:00 Computer/トピック/社会動向/企業/Fable/keywords
+Virtual Beings
 
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 Facebook,フェイスブック
@@ -3723,6 +3729,9 @@ AI PET,アイペット
 Housmart,ハウスマート
 カウル
 
+=2019-02-10T15:29:38+09:00 Computer/トピック/社会動向/企業/ハグカム/keywords
+GLOBAL CROWN
+
 =2017-06-16T07:17:48+09:00 Computer/トピック/社会動向/企業/バイドゥ/keywords
 Simeji
 
@@ -4082,6 +4091,9 @@ SPEEDA
 
 =2018-01-10T10:59:20+09:00 Computer/トピック/社会動向/企業/ラクーン/keywords
 COREC,コレック
+
+=2019-02-10T15:30:14+09:00 Computer/トピック/社会動向/企業/ラトックシステム/keywords
+ラトック,ラトックシステム
 
 =2017-04-24T07:27:17+09:00 Computer/トピック/社会動向/企業/ランサーズ/keywords
 ランサーズ,LANCERS
@@ -4607,6 +4619,9 @@ Odin,オーディン
 東京電力,東電,TEPCO
 tepcotta,テプコッタ
 
+=2019-02-10T15:31:11+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/関西電力/keywords
+関電,関西電力
+
 =2017-09-08T11:57:22+09:00 Computer/トピック/社会動向/企業/電通/keywords
 ZUNO,ズノさん
 AICO
@@ -4692,7 +4707,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-02-06T18:14:09+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-02-10T15:29:38+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4720,6 +4735,7 @@ TSUBAME
 山梨県
 厚労省
 気象庁
+五島市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST

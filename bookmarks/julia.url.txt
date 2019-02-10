@@ -151,8 +151,14 @@ URL=http://goropikari.hatenablog.com/entry/julia_make_official_package
 =2018-12-12T11:43:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 1.0で単位付き数値の算術 - Unitful パッケージ - Qiita
 URL=https://qiita.com/tenfu2tea/items/882f539a9cf3cde1fa57
 
+=2019-02-08T10:49:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 画像関連パッケージ導入時のトラブル - Qiita
+URL=https://qiita.com/MTNakata/items/eb9ffd2d3c3c1965a725
+
 =2018-12-13T12:38:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaで綺麗なプロットを作る：Makie.jlのインストールと使い方 - Qiita
 URL=https://qiita.com/cometscome_phys/items/38ac9a89b96579b6a34b
+
+=2019-02-09T20:45:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/K.B.砂糖さんのツイート Julia で Plots (GR) を使うときに error compiling _plot! error compiling _display could not load library libGR.dll The
+URL=https://twitter.com/KB_satou/status/1094138287902535680
 
 =2018-12-14T06:29:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/MenohのC APIを使ってJuliaバインディングを作る - Qiita
 URL=https://qiita.com/okdshin/items/60257ac8c6ecb4baf74a
@@ -211,6 +217,9 @@ URL=https://twitter.com/energyrevo21/status/1075343151668199424
 =2017-10-15T07:14:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Switching from Common Lisp to Julia
 URL=https://tpapp.github.io/post/common-lisp-to-julia/
 
+=2019-02-08T07:27:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Yuki Nagaiさんのツイート PythonでSciPyで疎行列Aで絶対値最小の固有値を求めるときは、SMモードではなく、sigma=0としてA^-1を解くモードにしてその最大固有値を求めるためにLMモードにすればよいようだ。JuliaのArp
+URL=https://twitter.com/cometscome_phys/status/1093662740424474624
+
 =2018-12-01T09:13:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/[Julia]JuliaにIntel Distribution for Pythonを適用する - Qiita
 URL=https://qiita.com/Y_F_Acoustics/items/21246ad16091246507c6
 
@@ -225,6 +234,9 @@ URL=https://twitter.com/higucheese_/status/1073690085235732481
 
 =2018-09-16T19:37:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゴロピカリさんのツイート あまり意識してませんでしたが、#julialang v0.6 と v1.0 で転置の扱い結構変わってたんですね。
 URL=https://twitter.com/goropikari_/status/1041245147193782272
+
+=2019-02-08T07:29:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゴロピカリさんのツイート 言われてみれば、まぁ出来るかと思いはするけど自力でこれは思いつけないな。多重ディスパッチ面白いなぁ。 httpst.co1M2KRaD1vN…
+URL=https://twitter.com/goropikari_/status/1093874568958140417
 
 =2018-12-20T18:31:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 (m,n)型 → size (m,n) の Matrix{T}=Array{T,2}型 (行列) (n, )型 → 長さ1の Vector{T}=Array{T,1}型 (縦ベクトル) 
 URL=https://twitter.com/genkuroki/status/1076039976024825858
@@ -376,6 +388,9 @@ URL=https://qiita.com/cometscome_phys/items/45017aa9741c5fdc7eb9
 =2016-09-30T07:58:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで学ぶ画像処理-ニューラルネットワーク(Neural Network) part1-
 URL=https://lp-tech.net/articles/SEFVJ
 
+=2019-02-08T07:27:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：PyCall.jlを使ってTensorFlowのKerasを使ってみる - Qiita
+URL=https://qiita.com/cometscome_phys/items/e09e0300e303ba184bcc
+
 =2018-09-29T06:43:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その3：ニューラルネットとバッチ正規化編-Qiita
 URL=https://qiita.com/cometscome_phys/items/1b7ad193dc1db9b184db
 
@@ -441,6 +456,9 @@ URL=https://econ101.jp/%e3%82%bf%e3%82%a4%e3%83%a9%e3%83%bc%e3%83%bb%e3%82%b3%e3
 
 =2018-10-12T08:30:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/デバッグにはRevise.jl(httpst.co4v48ihKEOR)が便利ですよ。REPLを起動したままファイルを更新すれば自動で
 URL=https://twitter.com/bicycle1885/status/1050696387178913792
+
+=2019-02-07T07:46:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/数値解析学模様の岡本さんのツイート Juliaをオンラインで学ぶ新しいプラットフォーム，JuliaAcademyがローンチされたとメールがきた．Introduction to Julia, Introduction to Machine Learn
+URL=https://twitter.com/kaisekigakumoyo/status/1093177374936629249
 
 =2018-09-14T19:33:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen Kurokiさんのツイート #Julia言語 httpst.coAKc40tyKD4 でMarkdownによる解説を書く場合に
 URL=https://twitter.com/genkuroki/status/1040313796235948032
