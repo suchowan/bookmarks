@@ -273,8 +273,9 @@ Stepsize
 Airbnb
 データ可視化
 
-=2018-11-01T11:42:12+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Docker/keywords
+=2019-02-14T13:43:42+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Docker/keywords
 docker,Docker
+Dockerfile
 
 =2018-08-14T15:30:41+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Git・GitHub・GitLab/keywords
 git
@@ -303,12 +304,16 @@ Node-RED
 julia,Julia
 Flux.jl
 
+=2019-02-14T13:45:39+09:00 Computer/トピック/ツール/ソフトウェア言語/keywords
+プログラミング言語,ソフトウェア言語
+
 =2018-12-26T12:23:52+09:00 Computer/トピック/ツール/ソフトウェア言語/LISP/keywords
 Lisp,LISP
 
-=2018-06-15T17:13:15+09:00 Computer/トピック/ツール/ソフトウェア言語/PHP/keywords
+=2019-02-14T13:43:42+09:00 Computer/トピック/ツール/ソフトウェア言語/PHP/keywords
 Pukiwiki
 PHP7
+PHPer
 
 =2018-12-14T14:20:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
 pandas
@@ -367,7 +372,7 @@ Anemone
 キーワードフォルダ
 スクレイピング
 
-=2018-12-16T11:40:32+09:00 Computer/トピック/ビッグデータ/IoT/keywords
+=2019-02-14T13:43:41+09:00 Computer/トピック/ビッグデータ/IoT/keywords
 インダストリー4.0,第４次産業革命
 エクスペリエンス4.0
 スマート
@@ -388,6 +393,7 @@ NIDD
 センサ
 オンデバイスAI
 TRON
+マシンインターネット
 
 =2018-09-07T11:39:11+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
@@ -417,8 +423,9 @@ Manyverse
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
 
-=2018-10-19T11:10:33+09:00 Computer/トピック/ビッグデータ/データセット/keywords
+=2019-02-14T13:43:41+09:00 Computer/トピック/ビッグデータ/データセット/keywords
 データ
+ImageNet
 
 =2019-01-19T16:47:49+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
@@ -665,7 +672,7 @@ Hire
 人財テック
 しごと
 
-=2019-01-03T11:31:48+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-02-14T13:43:42+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -713,6 +720,7 @@ MRI
 手術
 網膜症
 病人
+ヘルスケア
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -728,6 +736,9 @@ Retty
 Musio
 東ロボくん
 すらら,Surala
+
+=2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
+ImageNet
 
 =2019-02-06T18:14:09+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
 自動彩色,カラー化,色塗り,着彩,着色,Colorization
@@ -950,6 +961,9 @@ CycleGAN
 スパースモデリング
 学習済モデル
 Factorization Machines
+
+=2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
+StyleGAN
 
 =2017-03-23T14:55:48+09:00 Computer/トピック/機械学習/機械学習理論/プログラミング/keywords
 Python
@@ -1868,6 +1882,9 @@ Face++,フェイス++,フェイスプラスプラス
 =2017-11-11T07:13:19+09:00 Computer/トピック/社会動向/企業/meleap/keywords
 HADO
 
+=2019-02-14T13:44:26+09:00 Computer/トピック/社会動向/企業/Merck/keywords
+メルク,Merck
+
 =2017-10-10T14:18:50+09:00 Computer/トピック/社会動向/企業/Meta Anchor/keywords
 INOBER
 
@@ -2455,11 +2472,12 @@ The North Face,ノースフェイス,ノース・フェイス
 =2017-12-13T10:08:23+09:00 Computer/トピック/社会動向/企業/THECOO/keywords
 fanicon,ファニコン
 
-=2018-11-08T18:02:07+09:00 Computer/トピック/社会動向/企業/TIS/keywords
+=2019-02-14T13:43:41+09:00 Computer/トピック/社会動向/企業/TIS/keywords
 AISonar
 MONOweb
 chABSA-dataset
 doccano
+PrepaidCube+
 
 =2017-03-30T10:39:04+09:00 Computer/トピック/社会動向/企業/TMJ/keywords
 ベネッセグループ,ベネッセ
@@ -4569,6 +4587,9 @@ Goldman Sachs,ゴールドマン・サックス,ゴールドマン
 =2017-04-11T11:06:33+09:00 Computer/トピック/社会動向/企業/金融・保険/JCB/keywords
 JCB,ジェーシービー
 
+=2019-02-14T13:44:56+09:00 Computer/トピック/社会動向/企業/金融・保険/JP Morgan/keywords
+JPモルガン,JP Morgan
+
 =2017-04-11T11:07:05+09:00 Computer/トピック/社会動向/企業/金融・保険/JPX/keywords
 JPX,日本取引所グループ
 
@@ -4655,8 +4676,9 @@ CanguRo
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
 
-=2018-09-03T14:31:33+09:00 Computer/トピック/社会動向/大学/慶応大学/keywords
+=2019-02-14T13:43:42+09:00 Computer/トピック/社会動向/大学/慶応大学/keywords
 慶應義塾大学,慶応大学
+SFC
 
 =2017-11-11T15:56:42+09:00 Computer/トピック/社会動向/大学/慶応大学/kyewords
 慶応大学,慶應義塾大学,慶大,慶應
@@ -4707,7 +4729,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-02-10T15:29:38+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-02-14T13:43:41+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4736,6 +4758,7 @@ TSUBAME
 厚労省
 気象庁
 五島市
+農水省
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST

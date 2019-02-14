@@ -28,6 +28,9 @@ URL=https://qiita.com/sadayuki-matsuno/items/fc5e9ec3894a4b7bfbfb
 =2018-09-28T05:35:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaのmodule自由自在-Qiita
 URL=https://qiita.com/cometscome_phys/items/fcf4a54d0f4d47c0fe5a
 
+=2018-01-06T07:56:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/JuliaのQA - Qiita
+URL=https://qiita.com/bicycle1885/items/ab8fff19a4ff0cdea287#%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%AB%E3%81%AF%E3%81%84%E3%81%A4%E8%B5%B7%E3%81%8D%E3%82%8B%E3%81%AE%E3%81%8B
+
 =2018-10-02T07:51:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaはusingだけで良いんじゃないか説 - Qiita
 URL=https://qiita.com/bicycle1885/items/3632ea96f4e0bf6601c8
 
@@ -91,6 +94,9 @@ URL=https://twitter.com/genkuroki/status/1066568178044592128
 =2018-11-02T14:03:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/アカキ11.3CARNATION@梅田TRADさんのツイート JuliaTokyo #8 ログ一覧 httpst.coApkx15mj0E ◆Juliaの画像処理ライブラリを使ってわかったこと ◆Juliaで作るポーカーAI ◆Juliaを仕事で使
 URL=https://twitter.com/akakit/status/1058360510846971905
 
+=2019-02-09T07:56:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/CやPython、Ruby、Rの長所を取り込んだ「Julia」が成長するワケ - ZDNet Japan
+URL=https://japan.zdnet.com/amp/article/35132510/
+
 =2018-08-22T20:53:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Downloads of Julia Programming Language Surge in China-Julia Computing
 URL=https://juliacomputing.com/press/2018/08/22/china-surge.html
 
@@ -129,6 +135,9 @@ URL=https://myenigma.hatenablog.com/entry/2018/08/12/113739#%E3%83%91%E3%83%83%E
 
 =2018-09-15T14:10:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Julia 1.0の注意点-Qiita
 URL=https://qiita.com/yatra9/items/d38833b8d4f30b921f52
+
+=2019-02-11T07:56:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/[2019年2月版] Juliaが1.1になっていたので触ってみるか - Qiita
+URL=https://qiita.com/koinori/items/bdb01ec789d5e49aed0f
 
 =2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
 URL=https://twitter.com/bicycle1885/status/1085492920113717248
@@ -169,6 +178,9 @@ URL=http://nemocas.org/
 =2018-10-30T11:12:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ゴロピカリさんのツイート パッケージの雛形を作ってくれる PkgTemplates.jl が Julia 1.0 に対応！#julialang httpst.coRjwQpct6J0
 URL=https://twitter.com/goropikari_/status/1057054032508796929
 
+=2019-02-12T09:55:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/原子分子シミュレーションPythonパッケージAtomic Simulation Environment (ASE)を使ってみる　その１ - Qiita
+URL=https://qiita.com/cometscome_phys/items/cd1f4d5f025872dfaae5
+
 =2018-09-05T18:26:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen Kurokiさんのツイート #Julia言語 v1.0では高速に代数計算をしてくれるNemo.jlパッケージも使えます。 httpst.coVdWZwMLdp6 このパッケージを研究に使う人が出て
 URL=https://twitter.com/genkuroki/status/1054015482624266242
 
@@ -207,6 +219,9 @@ URL=https://qiita.com/termoshtt/items/65c47069fa67037f972d
 
 =2018-09-27T18:37:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの数学定数【小ネタ】-Qiita
 URL=https://qiita.com//Yoshinobu-Ishizaki/items/b280913264ce7b672f44
+
+=2019-02-12T07:15:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/K.B.砂糖さんのツイート まとめ…
+URL=https://twitter.com/KB_satou/status/1095314492999651332
 
 =2018-12-19T07:07:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Keisuke UTOさんのツイート Juno から remote の julia process に繋いで使えることを知った。remote の plot も叩けるし、すごく便利。人生損してたかもしれん。。
 URL=https://twitter.com/utotch/status/1075264294604877824
@@ -309,6 +324,12 @@ URL=https://qiita.com/goropikari/items/8b803be3ce8d36ea2fe9
 
 =2018-10-07T08:22:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/K.B.砂糖さんのツイート 拡散希望 #julia言語…
 URL=https://twitter.com/KB_satou/status/1048769198652936193
+
+=2019-02-13T07:54:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/K6Aさんのツイート 今日 #Julia言語 で作ったのは、PCのマイク入力をリアルタイムで波形表示するプログラム。Juliaの後ろではPortAudioとSDL2を使ってる。…
+URL=https://twitter.com/JikanBae/status/1095620632434270209
+
+=2019-02-06T07:57:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Keiさんのツイート データ同化系の講義でカルマンフィルター習って結構面白かったからJuliaにもなんかパッケージあるのかなーと調べてみたら出てくる出てくるww さすが科学技術計算用の言語だけあるなぁ
+URL=https://twitter.com/energyrevo21/status/1093133444693909505
 
 =2018-11-23T06:15:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Makoto Kawanoさんのツイート Qiitaの記事を参考にJuliaでガウス過程を書いてみたのだけど，詳しい人にレビューしてもらいたい
 URL=https://twitter.com/mkt_kwn/status/1065682194205675520
@@ -429,6 +450,9 @@ URL=http://goropikari.hatenablog.com/entry/literate_code2notebook
 
 =2018-10-08T18:01:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia v1.0 でユニットテスト - Qiita
 URL=https://qiita.com/antimon2/items/5222f4f773bf1944b745
+
+=2019-02-13T07:52:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaで関数呼び出しでどのメソッドが実行されてるかを表示するマクロを書いてみた。ちょっと便利。
+URL=https://twitter.com/bicycle1885/status/1095506806611238913
 
 =2018-10-29T05:55:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Jupyter Notebook Viewer
 URL=https://nbviewer.jupyter.org/format/slides/gist/phigasui/9c6863c41fd39c8638fb7364117d17ef#/
