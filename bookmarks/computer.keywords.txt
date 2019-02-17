@@ -315,7 +315,7 @@ Pukiwiki
 PHP7
 PHPer
 
-=2018-12-14T14:20:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
+=2019-02-17T19:15:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
 pandas
 NumPy
 Flask
@@ -332,6 +332,7 @@ PyCon
 Cupy
 pip
 scikit-learn
+StanfordNLP
 
 =2019-01-19T16:47:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
 Rubyist
@@ -372,7 +373,7 @@ Anemone
 キーワードフォルダ
 スクレイピング
 
-=2019-02-14T13:43:41+09:00 Computer/トピック/ビッグデータ/IoT/keywords
+=2019-02-17T19:15:18+09:00 Computer/トピック/ビッグデータ/IoT/keywords
 インダストリー4.0,第４次産業革命
 エクスペリエンス4.0
 スマート
@@ -394,6 +395,7 @@ NIDD
 オンデバイスAI
 TRON
 マシンインターネット
+エンドポイント
 
 =2018-09-07T11:39:11+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
@@ -902,13 +904,14 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-02-10T15:29:38+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-02-17T19:15:18+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
 AimePay
 チケット
 コンビニ
+Suica
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -920,7 +923,7 @@ Amper Music
 Magenta
 楽曲
 
-=2018-12-26T12:22:29+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2019-02-17T19:15:18+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -961,6 +964,7 @@ CycleGAN
 スパースモデリング
 学習済モデル
 Factorization Machines
+Riemannian Motion Policy
 
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -2702,6 +2706,9 @@ Paxata
 NOREN,ノレン
 Spoke,スポーク
 
+=2019-02-17T19:16:35+09:00 Computer/トピック/社会動向/企業/アジア太平洋研究所/keywords
+APIR,アジア太平洋研究所
+
 =2017-04-17T09:01:56+09:00 Computer/トピック/社会動向/企業/アジラ/keywords
 みまもりAI
 
@@ -3596,6 +3603,9 @@ DMP,ディジタルメディアプロフェッショナル
 AI.Accelerator
 バイトル
 はたらこねっと
+
+=2019-02-17T19:17:27+09:00 Computer/トピック/社会動向/企業/ディーオーシャン/keywords
+D-Ocean,ディーオーシャン
 
 =2017-11-23T08:10:14+09:00 Computer/トピック/社会動向/企業/ディープインサイト/keywords
 KAIBER,カイバー

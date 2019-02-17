@@ -160,6 +160,9 @@ URL=http://goropikari.hatenablog.com/entry/julia_make_official_package
 =2018-12-12T11:43:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 1.0で単位付き数値の算術 - Unitful パッケージ - Qiita
 URL=https://qiita.com/tenfu2tea/items/882f539a9cf3cde1fa57
 
+=2019-02-14T07:49:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia でのパッケージの作り方 - Qiita
+URL=https://qiita.com/cometscome_phys/items/989389db3540ebd9e026
+
 =2019-02-08T10:49:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 画像関連パッケージ導入時のトラブル - Qiita
 URL=https://qiita.com/MTNakata/items/eb9ffd2d3c3c1965a725
 
@@ -174,6 +177,9 @@ URL=https://qiita.com/okdshin/items/60257ac8c6ecb4baf74a
 
 =2018-09-29T06:30:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Nemo
 URL=http://nemocas.org/
+
+=2019-02-14T07:48:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Yuki Nagaiさんのツイート Juliaの強束縛模型パッケージ TightBinding.jlが公式パッケージに昇格した。これからは add TightBinding でインストールできる
+URL=https://twitter.com/cometscome_phys/status/1096024284856692737
 
 =2018-10-30T11:12:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ゴロピカリさんのツイート パッケージの雛形を作ってくれる PkgTemplates.jl が Julia 1.0 に対応！#julialang httpst.coRjwQpct6J0
 URL=https://twitter.com/goropikari_/status/1057054032508796929
