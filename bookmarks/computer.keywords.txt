@@ -173,8 +173,9 @@ React16
 =2017-03-17T15:45:35+09:00 Computer/トピック/ツール/オンプレミス/その他/Vertica/keywords
 HPE,Hewlett Packard Enterprise
 
-=2019-01-03T11:31:36+09:00 Computer/トピック/ツール/オンプレミス/その他/Yolo/keywords
+=2019-02-21T11:54:14+09:00 Computer/トピック/ツール/オンプレミス/その他/Yolo/keywords
 YOLO,Yolo
+YOLOv3
 
 =2018-06-23T16:28:50+09:00 Computer/トピック/ツール/クラウド/Amazon/keywords
 Alexa
@@ -283,6 +284,9 @@ git
 
 =2017-03-21T14:00:06+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/HP Codar/keywords
 HPE,Hewlett Packard Enterprise
+
+=2019-02-21T11:55:25+09:00 Computer/トピック/ツール/ソフトウェア言語/C++/keywords
+c++,C++
 
 =2018-03-27T17:29:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Go言語/keywords
 Golang
@@ -1416,8 +1420,8 @@ Access Policy Manager,APM
 =2019-02-10T15:29:37+09:00 Computer/トピック/社会動向/企業/Fable/keywords
 Virtual Beings
 
-=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
-Facebook,フェイスブック
+=2019-02-21T11:56:22+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
+FB,Facebook,フェイスブック
 Lumos
 Caffe2Go
 DeepMask
@@ -1430,6 +1434,7 @@ Prophet
 Detectron
 ザッカーバーグ
 GAFA
+FB
 
 =2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
 SIGNAL
@@ -1876,6 +1881,9 @@ Kuri
 
 =2017-09-27T08:41:50+09:00 Computer/トピック/社会動向/企業/McAfee/keywords
 McAfee,マカフィー
+
+=2019-02-21T11:56:47+09:00 Computer/トピック/社会動向/企業/McCormick/keywords
+マコーミック,McCormick
 
 =2017-04-24T07:57:22+09:00 Computer/トピック/社会動向/企業/Megvii/keywords
 Face++,フェイス++,フェイスプラスプラス
@@ -4348,8 +4356,9 @@ EvaCva+,エヴァシーヴァ・プラス
 Systemwalker Runbook Automation
 デジタルアニーラ
 
-=2017-04-11T11:48:17+09:00 Computer/トピック/社会動向/企業/川崎重工業/keywords
+=2019-02-21T11:54:13+09:00 Computer/トピック/社会動向/企業/川崎重工業/keywords
 川崎重工業,川崎重工,Kawasaki
+duAro
 
 =2018-03-01T11:11:45+09:00 Computer/トピック/社会動向/企業/情報セキュリティ/keywords
 Mendel Analyst
@@ -4608,6 +4617,9 @@ Ava
 
 =2017-06-20T10:02:27+09:00 Computer/トピック/社会動向/企業/金融・保険/Morgan Stanley/keywords
 Morgan Stanley,モルガン・スタンレー
+
+=2019-02-21T11:57:21+09:00 Computer/トピック/社会動向/企業/金融・保険/SOMPO/keywords
+損保ジャパン,SOMPO
 
 =2017-08-29T08:59:38+09:00 Computer/トピック/社会動向/企業/金融・保険/ふくおかフィナンシャルグループ/keywords
 ふくおかフィナンシャルグループ,FFG
