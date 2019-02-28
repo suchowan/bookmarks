@@ -1087,7 +1087,7 @@ Labellio,ラベリオ
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Altan Robotech/keywords
 Giddel
 
-=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
 AWS
 Alexa
@@ -1096,6 +1096,7 @@ GuardDuty
 SageMaker
 Hub by Amazon
 GAFA
+GAFAM
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -1131,13 +1132,14 @@ VR ON AIR TEST
 Cross X AIソリューション
 AIXON
 
-=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Apple/keywords
+=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Apple/keywords
 Apple,アップル
 iPhone
 App Store
 MacBook
 MacBookAir
 GAFA
+GAFAM
 
 =2017-09-19T07:47:12+09:00 Computer/トピック/社会動向/企業/ARアドバンストテクノロジ/keywords
 LOOGUE
@@ -1429,7 +1431,7 @@ Access Policy Manager,APM
 =2019-02-10T15:29:37+09:00 Computer/トピック/社会動向/企業/Fable/keywords
 Virtual Beings
 
-=2019-02-21T11:56:22+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
+=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 FB,Facebook,フェイスブック
 Lumos
 Caffe2Go
@@ -1444,6 +1446,7 @@ Detectron
 ザッカーバーグ
 GAFA
 FB
+GAFAM
 
 =2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
 SIGNAL
@@ -1554,7 +1557,7 @@ VESTA
 =2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 
-=2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1596,6 +1599,10 @@ magenta
 Canvas
 Chromecast
 GAFA
+GAFAM
+
+=2019-02-28T15:50:59+09:00 Computer/トピック/社会動向/企業/Google/YouTube/keywords
+Youtube,YouTube
 
 =2019-01-30T13:12:16+09:00 Computer/トピック/社会動向/企業/GreenSnap/keywords
 教えて！カメラ
@@ -1921,7 +1928,7 @@ CALNA
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
 
-=2018-12-01T11:50:37+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -1946,6 +1953,7 @@ Dynamics 365
 SharePoint
 ビル・ゲイツ
 Skype
+GAFAM
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -2356,6 +2364,9 @@ SEGWAY BASE
 =2018-07-21T13:44:32+09:00 Computer/トピック/社会動向/企業/SELFLY camera/keywords
 SELFLY
 
+=2019-02-28T15:49:01+09:00 Computer/トピック/社会動向/企業/SenseTime/keywords
+商湯科技開発,SenseTime
+
 =2017-11-09T06:58:39+09:00 Computer/トピック/社会動向/企業/SENSY/keywords
 カラフル・ボード
 SENSY BOT for Biz
@@ -2457,6 +2468,9 @@ Pagez Marketing Cloud
 
 =2017-03-29T09:37:51+09:00 Computer/トピック/社会動向/企業/Studio Ousia/keywords
 QA Engine
+
+=2019-02-28T15:47:53+09:00 Computer/トピック/社会動向/企業/Super AI/keywords
+Superb AI
 
 =2017-09-20T08:13:01+09:00 Computer/トピック/社会動向/企業/Supersoftware/keywords
 SuperFace
@@ -4325,6 +4339,9 @@ DRIPLA Analytics
 
 =2017-04-03T08:01:45+09:00 Computer/トピック/社会動向/企業/吉野家/keywords
 CORO
+
+=2019-02-28T15:49:56+09:00 Computer/トピック/社会動向/企業/大丸松坂屋/keywords
+松坂屋,大丸,大丸松坂屋
 
 =2017-12-15T15:59:47+09:00 Computer/トピック/社会動向/企業/大京/keywords
 Renoα I-style irodori S,リノアルファ アイスタイル イロドリ エス
