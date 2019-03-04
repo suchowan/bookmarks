@@ -94,6 +94,9 @@ URL=https://twitter.com/genkuroki/status/1066568178044592128
 =2018-11-02T14:03:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/アカキ11.3CARNATION@梅田TRADさんのツイート JuliaTokyo #8 ログ一覧 httpst.coApkx15mj0E ◆Juliaの画像処理ライブラリを使ってわかったこと ◆Juliaで作るポーカーAI ◆Juliaを仕事で使
 URL=https://twitter.com/akakit/status/1058360510846971905
 
+=2019-03-01T14:38:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/(｢・ω・)｢ｶﾞｵｰさんのツイート Juliaのインタープリターも開発が進んでいたのか。 httpst.co3iiJkCGQDx
+URL=https://twitter.com/bicycle1885/status/1101336817977057280
+
 =2019-02-09T07:56:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/CやPython、Ruby、Rの長所を取り込んだ「Julia」が成長するワケ - ZDNet Japan
 URL=https://japan.zdnet.com/amp/article/35132510/
 
@@ -151,6 +154,9 @@ URL=https://scrapbox.io/eiel/2018-12-26_DataFrames.jl%E3%82%92%E5%AD%A6%E3%81%B6
 =2018-10-12T08:30:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/akioさんのツイート Juliaのマクロは結構変態的なことができるみたいだ。 JSExprというパッケージがあって、＠jsマクロの後ろの関数を
 URL=https://twitter.com/__akio__/status/1050541526047064064
 
+=2018-11-02T07:01:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/goropikariさんのツイート JuliaTeX 地味に伸びたな。字面から受ける印象と実際は違う気がしてならないのですが。 正真正銘() Julia に数値計算から論文作成までさせるという Weave.jl というパッケージもありますよ。
+URL=https://twitter.com/goropikari_/status/1058367732922515457
+
 =2018-10-11T14:03:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Iaido Ruyito Chiburiさんのツイート #Julia言語 でパッケージを追加するときに「(v1.0) pkg add httpst.cogtpUWGDgeA」と直接
 URL=https://twitter.com/JikanBae/status/1050189274589454336
 
@@ -192,6 +198,9 @@ URL=https://twitter.com/goropikari_/status/1057054032508796929
 
 =2019-02-12T09:55:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/原子分子シミュレーションPythonパッケージAtomic Simulation Environment (ASE)を使ってみる　その１ - Qiita
 URL=https://qiita.com/cometscome_phys/items/cd1f4d5f025872dfaae5
+
+=2019-03-03T17:40:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/原子分子シミュレーションPythonパッケージAtomic Simulation Environment (ASE)を使ってみる　その３：第一原理分子動力学計算 - Qiita
+URL=https://qiita.com/cometscome_phys/items/ebdab84e2009cf5a3faf
 
 =2018-09-05T18:26:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen Kurokiさんのツイート #Julia言語 v1.0では高速に代数計算をしてくれるNemo.jlパッケージも使えます。 httpst.coVdWZwMLdp6 このパッケージを研究に使う人が出て
 URL=https://twitter.com/genkuroki/status/1054015482624266242
@@ -289,6 +298,9 @@ URL=https://twitter.com/genkuroki/status/1066583218915225600
 =2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
 URL=https://twitter.com/bicycle1885/status/1085492920113717248
 
+=2018-11-09T07:01:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Atsushi Sakaiさんのツイート Pure Juliaで書き始めたシンプルな最適化ソルバー。結構APIも揃ってきた。これから代表的な凸最適化のソルバーを増やしたい。#julialang：AtsushiSakaiargmin.jl A num
+URL=https://twitter.com/Atsushi_twi/status/1060879808828071936
+
 =2018-12-29T07:15:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/brv00さんのツイート httpst.coSpqWhxVAeS Julia でやってみた。 #julia言語 httpst.cone4bGxI4TP
 URL=https://twitter.com/brv00/status/1078851643951595520
 
@@ -324,6 +336,9 @@ URL=http://ki-chi.jp/?p=895
 
 =2018-10-25T18:46:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaでDiscordのbotを書く(Python使わずに) - Qiita
 URL=https://qiita.com/MunoChan/items/4e8254e43c69f3b8da2e
+
+=2019-02-26T07:00:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでスクレイピング 1m - 眠気.jl
+URL=https://www.mathwithjulia.com/entry/2019/02/26/202915
 
 =2018-12-08T08:22:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでバイオインフォマティクス（ゲノムデータ編） - Qiita
 URL=https://qiita.com/yuifu/items/b2031d0367da878fddae
@@ -426,6 +441,9 @@ URL=https://qiita.com/cometscome_phys/items/e09e0300e303ba184bcc
 
 =2018-09-29T06:43:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その3：ニューラルネットとバッチ正規化編-Qiita
 URL=https://qiita.com/cometscome_phys/items/1b7ad193dc1db9b184db
+
+=2018-08-13T07:00:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その１：基本編 - Qiita
+URL=https://qiita.com/cometscome_phys/items/e99d6177325e78ebb228
 
 =2018-09-25T08:37:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで機械学習：深層学習フレームワークFlux.jlを使ってみる　その２：線形回帰編 - Qiita
 URL=https://qiita.com/cometscome_phys/items/f58174c0dad7ecb811ed
