@@ -82,6 +82,9 @@ URL=http://st-hakky.hatenablog.com/entry/2018/02/01/100000
 =2016-12-01T21:06:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia現状確認 (言語編) - りんごがでている
 URL=http://bicycle1885.hatenablog.com/entry/2016/12/01/210618
 
+=2019-01-19T06:54:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/The Fast Track to Julia
+URL=https://juliadocs.github.io/Julia-Cheat-Sheet/
+
 =2018-06-10T12:48:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/黒木玄 Gen Kuroki(@genkuroki)「Julia」の検索結果 - Twilog
 URL=https://twilog.org/genkuroki/search?word=Julia&ao=a
 
@@ -94,9 +97,6 @@ URL=https://twitter.com/genkuroki/status/1066568178044592128
 =2018-11-02T14:03:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/アカキ11.3CARNATION@梅田TRADさんのツイート JuliaTokyo #8 ログ一覧 httpst.coApkx15mj0E ◆Juliaの画像処理ライブラリを使ってわかったこと ◆Juliaで作るポーカーAI ◆Juliaを仕事で使
 URL=https://twitter.com/akakit/status/1058360510846971905
 
-=2019-03-01T14:38:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/(｢・ω・)｢ｶﾞｵｰさんのツイート Juliaのインタープリターも開発が進んでいたのか。 httpst.co3iiJkCGQDx
-URL=https://twitter.com/bicycle1885/status/1101336817977057280
-
 =2019-02-09T07:56:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/CやPython、Ruby、Rの長所を取り込んだ「Julia」が成長するワケ - ZDNet Japan
 URL=https://japan.zdnet.com/amp/article/35132510/
 
@@ -108,6 +108,9 @@ URL=https://qiita.com/advent-calendar/2018/julialang
 
 =2018-10-20T15:09:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Juliaに向こう4年で4億円ほど突っ込まれるというニュースが httpst.co5TCGtoENrb
 URL=https://twitter.com/bicycle1885/status/1053479590297915393
+
+=2019-03-01T14:38:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Juliaのインタープリターも開発が進んでいたのか。 httpst.co3iiJkCGQDx
+URL=https://twitter.com/bicycle1885/status/1101336817977057280
 
 =2018-10-25T21:13:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Paalonさんのツイート 京大のスパコンでもJuliaを使えるようにしてもらいました。 httpst.codFGMpNfTGT #julialang #julia言語
 URL=https://twitter.com/paalonshamoji/status/1055423948664393729
@@ -267,6 +270,9 @@ URL=https://twitter.com/MathSorcerer/status/951967760585670656
 
 =2018-12-15T12:42:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ひぐち-ずさんのツイート OpenBLASの実装解説 httpst.coEAu8evq3AE 今年も行列積の高速化について書いてしまいました。コメント・ご指摘お願いします。
 URL=https://twitter.com/higucheese_/status/1073690085235732481
+
+=2019-03-03T06:54:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/オムニス 株式会社OMNISさんのツイート Julia言語もうここまで出来るのかって思った記事まとめ plot httpst.co7u7SKIfi0Xプログラミング%2Fjulia%2Fグラフの書き方
+URL=https://twitter.com/omnisinc_co/status/1102006816160899072
 
 =2018-09-16T19:37:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゴロピカリさんのツイート あまり意識してませんでしたが、#julialang v0.6 と v1.0 で転置の扱い結構変わってたんですね。
 URL=https://twitter.com/goropikari_/status/1041245147193782272
