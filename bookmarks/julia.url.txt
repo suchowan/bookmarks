@@ -127,6 +127,9 @@ URL=https://japan.techrepublic.com/article/35130175.htm
 =2018-10-20T15:10:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/機械学習 × 名古屋 × Julia - HackMD
 URL=https://hackmd.io/p/BJ6W27hqX#/
 
+=2019-03-09T08:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/機械学習で選ばれる言語を目指す「Julia」の挑戦--ライブラリ「Flux」が鍵 - ZDNet Japan
+URL=https://japan.zdnet.com/article/35133918/
+
 =2018-08-09T20:03:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/遂にJulia 1.0リリース！さんのツイート 感動のJulia 1.0リリースの瞬間が映像で見られる httpst.coFOVVKlVQoI
 URL=https://twitter.com/bicycle1885/status/1027404300417261569
 
@@ -177,6 +180,9 @@ URL=https://qiita.com/cometscome_phys/items/989389db3540ebd9e026
 
 =2019-02-08T10:49:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 画像関連パッケージ導入時のトラブル - Qiita
 URL=https://qiita.com/MTNakata/items/eb9ffd2d3c3c1965a725
+
+=2019-03-09T07:22:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/JuliaMathDoubleFloats.jl math with more good bits
+URL=https://github.com/JuliaMath/DoubleFloats.jl
 
 =2019-02-08T12:05:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaで機械学習：PyCall.jlを使ってTensorFlowのKerasを使ってみる - Qiita
 URL=https://qiita.com/cometscome_phys/items/e09e0300e303ba184bcc
@@ -270,6 +276,9 @@ URL=https://twitter.com/MathSorcerer/status/951967760585670656
 
 =2018-12-15T12:42:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ひぐち-ずさんのツイート OpenBLASの実装解説 httpst.coEAu8evq3AE 今年も行列積の高速化について書いてしまいました。コメント・ご指摘お願いします。
 URL=https://twitter.com/higucheese_/status/1073690085235732481
+
+=2019-02-26T07:40:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/まるこすぎ てんふーさんのツイート SymPy でも絵文字使える #Julialang…
+URL=https://twitter.com/tenfu2tea/status/1100343088180912130
 
 =2019-03-03T06:54:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/オムニス 株式会社OMNISさんのツイート Julia言語もうここまで出来るのかって思った記事まとめ plot httpst.co7u7SKIfi0Xプログラミング%2Fjulia%2Fグラフの書き方
 URL=https://twitter.com/omnisinc_co/status/1102006816160899072
@@ -394,6 +403,9 @@ URL=https://twitter.com/umikoz/status/1053585984040820737
 =2018-10-11T04:54:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 #数楽 税を率方式ではなく、定額方式(すなわち常に同じ金額の税を徴収してランダムに
 URL=https://twitter.com/genkuroki/status/1050395040445427712
 
+=2018-03-16T07:01:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 2×2の分割表の独立性検定シリーズ14 httpst.coZsT3XcSyk6 複数の確率分布でカイ二乗検定とG検定とFisherの正確検定を比較 どういう話かについては以下のリンク先の
+URL=https://twitter.com/genkuroki/status/974524859907637249
+
 =2018-09-19T06:58:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 添付動画は LASSO のパラメーター lambda を適当に調節した場合。
 URL=https://twitter.com/genkuroki/status/1042146204405182470
 
@@ -478,8 +490,17 @@ URL=https://qiita.com//yshutaro/items/e0a3a6c9ea84f8ab0fd3
 =2018-10-14T22:08:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/いのうえさんのツイート juliaで機械学習、 純正はKnetとFluxってのがあって、ひとまずFluxでMNISTの学習とテストまで
 URL=https://twitter.com/earlylifely/status/1051350418922459136
 
+=2019-03-09T08:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/機械学習で選ばれる言語を目指す「Julia」の挑戦--ライブラリ「Flux」が鍵 - ZDNet Japan
+URL=https://japan.zdnet.com/article/35133918/
+
 =2018-10-25T06:19:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/黒木玄 Gen Kurokiさんのツイート Google Colab で #Julia言語 + TPU が正式サポートされることになればビッグニュースですね。Google側にもメリットがありそう。
 URL=https://twitter.com/genkuroki/status/1055094694470856704
+
+=2019-03-08T16:53:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/(｢・ω・)｢ｶﾞｵｰさんのツイート httpst.coawTVW0yleEがJuliaをサポート！しかも最新のJulia 1.1が入ってる！
+URL=https://twitter.com/bicycle1885/status/1103813996396740608
+
+=2019-03-09T17:07:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/(｢・ω・)｢ｶﾞｵｰさんのツイート そうなんですね。GMPやMPFRをC言語などのレベルで使ったことがないのでライブラリの使い方までは知りませんでした。ちなみに、less関数を使うと
+URL=https://twitter.com/bicycle1885/status/1104394644538851328
 
 =2018-09-03T23:30:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia - Jupyter notebook と Julia のソースコードの相互変換方法 - goropikariの備忘録
 URL=http://goropikari.hatenablog.com/entry/literate_code2notebook
@@ -504,6 +525,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/9d775c294a10c1f2edfe
 
 =2018-09-06T07:05:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/WindowsへのJuliaのインストール.ipynb
 URL=https://gist.github.com/genkuroki/81de23edcae631a995e19a2ecf946a4f
+
+=2019-03-08T07:39:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/カリテクさんのツイート D言語のツールdppってJuliaのヘッダー自動で読めるのか。D言語のツールでJuliaをスクリプト言語として使うの面白そう。Luaとか他のスクリプト言語も動いたら面白そう
+URL=https://twitter.com/kari_tech/status/1103671677613891584
 
 =2018-10-17T05:55:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ゴロピカリさんのツイート Aizu Online Judge はテストケースを簡単に落としてこれるので、プログラミング言語問わず気軽に楽しめるということに今更ながら気づいた。Julia 1.0 で遊べる
 URL=https://twitter.com/goropikari_/status/1052531426740994048
