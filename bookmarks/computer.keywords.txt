@@ -326,7 +326,7 @@ Pukiwiki
 PHP7
 PHPer
 
-=2019-02-17T19:15:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
+=2019-03-14T18:01:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
 pandas
 NumPy
 Flask
@@ -344,6 +344,7 @@ Cupy
 pip
 scikit-learn
 StanfordNLP
+faker
 
 =2019-01-19T16:47:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
 Rubyist
@@ -686,7 +687,7 @@ Hire
 人財テック
 しごと
 
-=2019-02-24T19:12:04+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-03-14T18:01:33+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -736,6 +737,8 @@ MRI
 病人
 ヘルスケア
 歯周病
+腎障害
+エコー画像
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1807,12 +1810,13 @@ FURNI
 =2017-10-25T14:26:42+09:00 Computer/トピック/社会動向/企業/Kaspersky/keywords
 Kaspersky,カスペルスキー
 
-=2018-05-16T10:45:35+09:00 Computer/トピック/社会動向/企業/KDDI/keywords
+=2019-03-14T18:01:33+09:00 Computer/トピック/社会動向/企業/KDDI/keywords
 Fleksy
 KDDI AI翻訳
 KDDI TV通訳
 cloudpack with KDDI
 au未来研究所
+au
 
 =2017-06-12T09:01:36+09:00 Computer/トピック/社会動向/企業/KDDI/Supership/keywords
 Ad Generation,アドジェネ
