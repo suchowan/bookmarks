@@ -194,7 +194,7 @@ Sumerian
 Amazon EMR
 DeepLens
 
-=2018-12-26T12:22:29+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
+=2019-03-18T13:40:50+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
 Google AppEngine
 Firebase
@@ -204,6 +204,7 @@ Cloud Speech-to-Text
 Bigquery
 Cloud Services Platform
 google colab
+Google Colaboratory
 
 =2018-08-24T11:07:27+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
@@ -501,9 +502,9 @@ Amazon Echo,AmazonEcho
 Echosim.io
 アマゾン・エコー
 
-=2019-01-26T10:30:22+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
+=2019-03-18T12:36:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
-Google アシスタント,Google Assistant
+Google アシスタント
 
 =2018-12-11T08:01:56+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
@@ -810,9 +811,10 @@ PlantSnap
 MNIST
 DeepSolar
 
-=2017-12-26T08:27:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
+=2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
 自動操縦
+自律走行
 
 =2018-12-01T11:50:37+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
 無人運転車
@@ -886,10 +888,11 @@ IMAKITA
 ヨミ子さん
 合成音声
 
-=2019-02-10T15:29:38+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
+=2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 みえる電話
 CHIVOX
+音声文字化
 
 =2018-11-14T09:37:46+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
@@ -941,7 +944,7 @@ Amper Music
 Magenta
 楽曲
 
-=2019-02-24T19:12:03+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -984,6 +987,7 @@ CycleGAN
 Factorization Machines
 Riemannian Motion Policy
 特徴量
+Variational Auto Encoder
 
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1129,9 +1133,10 @@ tabii
 =2017-03-28T14:43:00+09:00 Computer/トピック/社会動向/企業/Ankercast/keywords
 ミミヨリ
 
-=2018-08-14T15:27:36+09:00 Computer/トピック/社会動向/企業/Anki/keywords
+=2019-03-18T13:41:33+09:00 Computer/トピック/社会動向/企業/Anki/keywords
 Cozmo
 COZMO
+アンキ,Anki
 
 =2017-09-14T08:53:43+09:00 Computer/トピック/社会動向/企業/AnyPay/keywords
 ANGOプロジェクト
@@ -2626,6 +2631,9 @@ AppDefense
 =2017-09-11T07:17:51+09:00 Computer/トピック/社会動向/企業/Voiceitt/keywords
 Talkitt
 
+=2019-03-18T13:40:51+09:00 Computer/トピック/社会動向/企業/VUILD/keywords
+EMARF
+
 =2017-03-30T10:49:17+09:00 Computer/トピック/社会動向/企業/WACUL/keywords
 AIアナリスト
 
@@ -2659,6 +2667,9 @@ HACREW
 
 =2017-03-30T10:55:14+09:00 Computer/トピック/社会動向/企業/YouAppi/keywords
 OneRun
+
+=2019-03-18T13:40:51+09:00 Computer/トピック/社会動向/企業/ZAZA/keywords
+airKitchen
 
 =2017-08-04T11:22:38+09:00 Computer/トピック/社会動向/企業/ZEALS/keywords
 fanp
@@ -2927,6 +2938,9 @@ Watson Knowledge Studio,WKSサービス
 イー・ガーディアン,E-Guardian
 E-Trident
 TextVoice
+
+=2019-03-18T14:16:19+09:00 Computer/トピック/社会動向/企業/ウイズトラベル/keywords
+WithTravel,ウイズトラベル
 
 =2018-03-16T11:48:43+09:00 Computer/トピック/社会動向/企業/ウイングアーク1st/keywords
 MotionBoard
@@ -3546,6 +3560,9 @@ eセールスマネージャーRemix Cloud
 
 =2018-10-05T11:36:57+09:00 Computer/トピック/社会動向/企業/ソラコム/keywords
 SORACOM,ソラコム
+
+=2019-03-18T13:44:31+09:00 Computer/トピック/社会動向/企業/ソリトンシステムズ/keywords
+ソリトン,ソリトンシステムズ
 
 =2017-11-11T11:17:53+09:00 Computer/トピック/社会動向/企業/ソースネクスト/keywords
 ロゼッタストーン
@@ -4719,9 +4736,10 @@ Odin,オーディン
 中部電力,中部電
 松竹梅
 
-=2018-08-27T10:10:12+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/東京電力/keywords
+=2019-03-18T13:40:51+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/東京電力/keywords
 東京電力,東電,TEPCO
 tepcotta,テプコッタ
+テプコシステムズ
 
 =2019-02-10T15:31:11+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/関西電力/keywords
 関電,関西電力
@@ -4846,7 +4864,7 @@ TSUBAME
 五島市
 農水省
 
-=2019-03-11T12:37:54+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-03-18T13:40:51+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4879,6 +4897,7 @@ TSUBAME
 北九州市
 川崎市
 外相
+気象研
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST

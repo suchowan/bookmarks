@@ -265,6 +265,9 @@ URL=https://twitter.com/energyrevo21/status/1075343151668199424
 =2017-10-15T07:14:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Switching from Common Lisp to Julia
 URL=https://tpapp.github.io/post/common-lisp-to-julia/
 
+=2019-03-15T13:55:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Vim で Unicode 記号の入力補完をする - 書いたものなど
+URL=https://machakann.hatenablog.com/entry/2019/03/15/202716
+
 =2019-02-08T07:27:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Yuki Nagaiさんのツイート PythonでSciPyで疎行列Aで絶対値最小の固有値を求めるときは、SMモードではなく、sigma=0としてA^-1を解くモードにしてその最大固有値を求めるためにLMモードにすればよいようだ。JuliaのArp
 URL=https://twitter.com/cometscome_phys/status/1093662740424474624
 
@@ -502,6 +505,9 @@ URL=https://twitter.com/genkuroki/status/1055094694470856704
 =2019-03-08T16:53:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/(｢・ω・)｢ｶﾞｵｰさんのツイート httpst.coawTVW0yleEがJuliaをサポート！しかも最新のJulia 1.1が入ってる！
 URL=https://twitter.com/bicycle1885/status/1103813996396740608
 
+=2019-03-17T17:56:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/(｢・ω・)｢ｶﾞｵｰさんのツイート Juliaデバッガーの決定版がそろそろ公式パッケージとしてリリースされようとしている。
+URL=https://twitter.com/bicycle1885/status/1107124366649638912
+
 =2019-03-09T17:07:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/(｢・ω・)｢ｶﾞｵｰさんのツイート そうなんですね。GMPやMPFRをC言語などのレベルで使ったことがないのでライブラリの使い方までは知りませんでした。ちなみに、less関数を使うと
 URL=https://twitter.com/bicycle1885/status/1104394644538851328
 
@@ -510,6 +516,9 @@ URL=http://goropikari.hatenablog.com/entry/literate_code2notebook
 
 =2018-10-08T18:01:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia v1.0 でユニットテスト - Qiita
 URL=https://qiita.com/antimon2/items/5222f4f773bf1944b745
+
+=2019-02-16T17:55:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/julia v1.1から始めるJupyter Notebook - Qiita
+URL=https://qiita.com/doorei/items/91a52a31f917b9d7bb84
 
 =2019-02-13T07:52:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaで関数呼び出しでどのメソッドが実行されてるかを表示するマクロを書いてみた。ちょっと便利。
 URL=https://twitter.com/bicycle1885/status/1095506806611238913
