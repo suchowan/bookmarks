@@ -816,10 +816,11 @@ DeepSolar
 自動操縦
 自律走行
 
-=2018-12-01T11:50:37+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
+=2019-03-22T13:30:49+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
 無人運転車
 自律自動車
 DeepRacer
+GACHA
 
 =2017-03-23T10:41:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/FEP/keyword
 かな漢字変換
@@ -944,7 +945,7 @@ Amper Music
 Magenta
 楽曲
 
-=2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2019-03-22T13:30:47+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -988,6 +989,7 @@ Factorization Machines
 Riemannian Motion Policy
 特徴量
 Variational Auto Encoder
+GauGAN
 
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1099,6 +1101,9 @@ Musio
 =2017-10-10T09:54:48+09:00 Computer/トピック/社会動向/企業/ALBERT/keywords
 Deepsearch Logo
 Gripper
+
+=2017-03-30T11:24:24+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
+アリババ,Alibaba
 
 =2017-10-10T08:40:34+09:00 Computer/トピック/社会動向/企業/Alpaca/keywords
 Capitalico,キャピタリコ
@@ -1663,7 +1668,7 @@ Kishin
 HISホテル,H.I.S.,H.I.S.ホテルホールディングス
 変なホテル
 
-=2018-12-26T12:22:29+09:00 Computer/トピック/社会動向/企業/HPE/keywords
+=2019-03-22T13:30:47+09:00 Computer/トピック/社会動向/企業/HPE/keywords
 HPE,Hewlett Packard Enterprise,ヒューレット・パッカード
 Haven OnDemand
 HPE Aruba
@@ -1676,6 +1681,7 @@ Enhanced HPE Center of Excellence,CoE
 Blue Brain
 Aruba Networks
 HP
+Reverb
 
 =2018-08-21T11:30:02+09:00 Computer/トピック/社会動向/企業/HTC/keywords
 Viveport
@@ -2043,6 +2049,9 @@ Run-DIAS
 =2018-01-26T10:55:49+09:00 Computer/トピック/社会動向/企業/MTG/keywords
 McLEAR
 
+=2019-03-22T13:30:48+09:00 Computer/トピック/社会動向/企業/MyDearest/keywords
+東京クロノス
+
 =2018-02-23T17:32:51+09:00 Computer/トピック/社会動向/企業/Nature/keywords
 Nature Remo
 
@@ -2262,6 +2271,9 @@ popIn,ポップイン
 
 =2017-09-04T10:39:30+09:00 Computer/トピック/社会動向/企業/Popshoot/keywords
 よろペイ
+
+=2019-03-22T13:30:48+09:00 Computer/トピック/社会動向/企業/POST COFFEE/keywords
+PostCoffee
 
 =2018-12-16T11:40:33+09:00 Computer/トピック/社会動向/企業/Postmates/keywords
 Serve
@@ -2852,9 +2864,6 @@ Letro
 
 =2018-01-13T11:49:05+09:00 Computer/トピック/社会動向/企業/アラン・プロダクツ/keywords
 ヘアラボカルテ
-
-=2017-03-30T11:24:24+09:00 Computer/トピック/社会動向/企業/アリババ/keywords
-アリババ,Alibaba
 
 =2017-05-15T10:41:36+09:00 Computer/トピック/社会動向/企業/アルファコム/keywords
 Smart M Talk
@@ -3482,9 +3491,9 @@ SkyFox
 =2017-08-08T10:20:45+09:00 Computer/トピック/社会動向/企業/セゾン/keywords
 HULFT-WebConnect
 
-=2018-12-19T12:13:54+09:00 Computer/トピック/社会動向/企業/セブン&アイ/keywords
+=2019-03-22T12:36:35+09:00 Computer/トピック/社会動向/企業/セブン&アイ/keywords
 オムニ7
-セブン‐イレブン
+セブン‐イレブン,セブンイレブン,セブン&アイ
 
 =2017-04-04T15:11:21+09:00 Computer/トピック/社会動向/企業/セブンドリーマーズ/keywords
 ランドロイド1
@@ -4736,10 +4745,11 @@ Odin,オーディン
 中部電力,中部電
 松竹梅
 
-=2019-03-18T13:40:51+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/東京電力/keywords
+=2019-03-22T13:30:49+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/東京電力/keywords
 東京電力,東電,TEPCO
 tepcotta,テプコッタ
 テプコシステムズ
+ファミリーネット・ジャパン
 
 =2019-02-10T15:31:11+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/関西電力/keywords
 関電,関西電力
@@ -4832,37 +4842,6 @@ TSUBAME
 
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
-
-=2019-02-14T13:43:41+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords-LAPTOP-HP32GB
-政府
-政府関連機関
-地方自治体
-通産省,通商産業省
-総務省
-文科省,文部科学省
-国交省
-石狩市
-兵庫県
-つくば市
-広島県
-福岡市
-神戸市
-宇城市
-金融庁
-徳島県
-大津市
-伊那市
-金沢市
-札幌市
-消防庁
-高知県
-埼玉県
-国土交通省
-山梨県
-厚労省
-気象庁
-五島市
-農水省
 
 =2019-03-18T13:40:51+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
