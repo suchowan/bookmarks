@@ -2500,6 +2500,9 @@ Starbucks,スターバックス
 =2017-11-11T06:12:32+09:00 Computer/トピック/社会動向/企業/Stitch Fix/keywords
 Stitch Fix,SFIX
 
+=2019-03-26T14:32:27+09:00 Computer/トピック/社会動向/企業/STMicroelectronics/keywords
+STマイクロエレクトロニクス,STMicroelectronics
+
 =2018-02-23T14:59:57+09:00 Computer/トピック/社会動向/企業/StockMark/keywords
 AI アルケミスト
 
@@ -2694,9 +2697,10 @@ ZBB,ZEROBILLBANK,ZEROBILLBANK JAPAN
 CarriRo Delivery
 CarriRo
 
-=2019-01-19T16:47:48+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
+=2019-03-26T14:31:43+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
 ZOZOSUIT
 WEAR
+ZOZOUSED
 
 =2018-05-30T14:35:55+09:00 Computer/トピック/社会動向/企業/Zscaler/keywords
 Zscaler,ゼットスケーラー
@@ -4843,7 +4847,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-03-18T13:40:51+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-03-26T14:31:44+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4877,6 +4881,7 @@ TSUBAME
 川崎市
 外相
 気象研
+長野県
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
