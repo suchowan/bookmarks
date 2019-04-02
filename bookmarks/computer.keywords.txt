@@ -889,11 +889,12 @@ IMAKITA
 ヨミ子さん
 合成音声
 
-=2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
+=2019-04-02T11:44:22+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 みえる電話
 CHIVOX
 音声文字化
+文字起こし
 
 =2018-11-14T09:37:46+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
@@ -1094,6 +1095,9 @@ AIS,オートモーティブ＆インダストリアルシステムズ
 
 =2017-03-28T14:34:43+09:00 Computer/トピック/社会動向/企業/AITEC/keywords
 F.O.X
+
+=2019-04-02T11:46:44+09:00 Computer/トピック/社会動向/企業/AIZINE/keywords
+エーアイジン,AIZINE
 
 =2017-03-28T14:35:44+09:00 Computer/トピック/社会動向/企業/AKA/keywords
 Musio
@@ -1637,6 +1641,10 @@ GAFAM
 =2019-02-28T15:50:59+09:00 Computer/トピック/社会動向/企業/Google/YouTube/keywords
 Youtube,YouTube
 
+=2019-04-02T11:44:22+09:00 Computer/トピック/社会動向/企業/grabss/keywords
+TIGET
+FaceOpen
+
 =2019-01-30T13:12:16+09:00 Computer/トピック/社会動向/企業/GreenSnap/keywords
 教えて！カメラ
 
@@ -1811,6 +1819,9 @@ GLAS
 
 =2017-08-10T08:04:47+09:00 Computer/トピック/社会動向/企業/JPNEAZY/keywords
 JPNEAZY,ジャパニージー
+
+=2019-04-02T11:45:38+09:00 Computer/トピック/社会動向/企業/Juniper/keywords
+ジュニパー,Juniper
 
 =2017-07-24T07:42:57+09:00 Computer/トピック/社会動向/企業/JX通信社/keywords
 FASTALERT,ファストアラート
@@ -2673,6 +2684,9 @@ AXON Predict Analytics
 =2018-10-29T09:48:09+09:00 Computer/トピック/社会動向/企業/Workday/keywords
 ワークデイ,Workday
 
+=2019-04-02T11:44:22+09:00 Computer/トピック/社会動向/企業/xenodata lab/keywords
+xenoBrain
+
 =2017-03-30T10:53:26+09:00 Computer/トピック/社会動向/企業/Xilinx/keywords
 Xilinx,ザイリンクス
 
@@ -3502,9 +3516,9 @@ SkyFox
 =2017-08-08T10:20:45+09:00 Computer/トピック/社会動向/企業/セゾン/keywords
 HULFT-WebConnect
 
-=2019-03-22T12:36:35+09:00 Computer/トピック/社会動向/企業/セブン&アイ/keywords
+=2019-04-02T11:46:20+09:00 Computer/トピック/社会動向/企業/セブン&アイ/keywords
 オムニ7
-セブン‐イレブン,セブンイレブン,セブン&アイ
+セブン,セブン‐イレブン,セブンイレブン,セブン&アイ
 
 =2017-04-04T15:11:21+09:00 Computer/トピック/社会動向/企業/セブンドリーマーズ/keywords
 ランドロイド1
@@ -4858,7 +4872,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-03-26T14:31:44+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-04-02T11:44:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4893,6 +4907,7 @@ TSUBAME
 外相
 気象研
 長野県
+松山市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
