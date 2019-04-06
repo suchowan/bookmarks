@@ -568,6 +568,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/9d775c294a10c1f2edfe
 =2018-09-06T07:05:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/WindowsへのJuliaのインストール.ipynb
 URL=https://gist.github.com/genkuroki/81de23edcae631a995e19a2ecf946a4f
 
+=2019-04-05T06:16:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんのツイート #Julia言語 Julia公式Dockerイメージを拡張したオレオレJuliaイメージを Docker Hub にて公開してみました．PyCall.jl，IJuliaによるJupyter，JuliaとPythonのや
+URL=https://twitter.com/MathSorcerer/status/1113824642127388673
+
 =2019-03-08T07:39:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/カリテクさんのツイート D言語のツールdppってJuliaのヘッダー自動で読めるのか。D言語のツールでJuliaをスクリプト言語として使うの面白そう。Luaとか他のスクリプト言語も動いたら面白そう
 URL=https://twitter.com/kari_tech/status/1103671677613891584
 

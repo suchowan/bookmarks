@@ -1,4 +1,4 @@
-=2018-12-22T12:04:35+09:00 Computer/トピック/VR・AR・MR/keywords
+=2019-04-06T11:58:40+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -21,6 +21,7 @@ VRChat
 MICA
 仮想世界
 プロジェクションマッピング
+ホロレンズ
 
 =2018-11-16T10:00:19+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Vtuber,VTuber
@@ -524,9 +525,10 @@ Home Pod
 =2017-03-22T09:31:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/りんな/keywords
 りんな,Rinna
 
-=2018-05-24T10:25:37+09:00 Computer/トピック/機械学習/機械学習応用/RPA/keywords
+=2019-04-06T11:58:25+09:00 Computer/トピック/機械学習/機械学習応用/RPA/keywords
 RPA,Robotic Process Automation
 自動化
+契約書
 
 =2018-08-04T07:26:28+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/故障/keywords
 危険検知
@@ -688,7 +690,7 @@ Hire
 人財テック
 しごと
 
-=2019-03-14T18:01:33+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-04-06T11:58:27+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -740,6 +742,7 @@ MRI
 歯周病
 腎障害
 エコー画像
+体調
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -926,7 +929,7 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-02-24T19:12:04+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-04-06T11:58:24+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -935,6 +938,7 @@ AimePay
 コンビニ
 Suica
 無人レジ
+レジ
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1977,7 +1981,7 @@ CALNA
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
 
-=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2019-04-06T11:58:40+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -2003,6 +2007,7 @@ SharePoint
 ビル・ゲイツ
 Skype
 GAFAM
+ホロレンズ
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -2121,6 +2126,9 @@ CloudGarage
 Nokia,ノキア
 MIKA
 
+=2019-04-06T11:58:48+09:00 Computer/トピック/社会動向/企業/North/keywords
+Focals
+
 =2018-08-14T15:27:35+09:00 Computer/トピック/社会動向/企業/NTT/keywords
 corevo
 hitoe
@@ -2153,13 +2161,14 @@ Hinemos
 AI.Studio
 intra-mart
 
-=2019-01-30T13:15:37+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
+=2019-04-06T11:58:33+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ,Docomo,DOCOMO,docomo
 petoco
 beyond宣言
 東京2020推進室
 my daiz
 NTT docomo
+かたらい
 
 =2017-04-18T07:25:05+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
 Oshi-el,オシエル
@@ -2332,6 +2341,9 @@ Snapdragon
 
 =2017-08-01T10:11:39+09:00 Computer/トピック/社会動向/企業/Qualtrics/keywords
 Qualtrics,クアルトリクス
+
+=2019-04-06T11:58:37+09:00 Computer/トピック/社会動向/企業/QUANTUM/keywords
+HiT
 
 =2017-11-19T14:52:24+09:00 Computer/トピック/社会動向/企業/Rapyuta Robotics/keywords
 Rapyuta Robotics,ラピュタ・ロボティクス
@@ -2661,6 +2673,9 @@ AppDefense
 =2017-09-11T07:17:51+09:00 Computer/トピック/社会動向/企業/Voiceitt/keywords
 Talkitt
 
+=2019-04-06T11:58:45+09:00 Computer/トピック/社会動向/企業/Voicy/keywords
+Coicy
+
 =2019-03-18T13:40:51+09:00 Computer/トピック/社会動向/企業/VUILD/keywords
 EMARF
 
@@ -2728,6 +2743,9 @@ Zscaler,ゼットスケーラー
 
 =2018-01-03T12:03:16+09:00 Computer/トピック/社会動向/企業/「X人の株式会社」/keywords
 Roquro
+
+=2019-04-06T11:58:47+09:00 Computer/トピック/社会動向/企業/いるかラボ/keywords
+AI air
 
 =2017-05-15T09:59:19+09:00 Computer/トピック/社会動向/企業/お金のデザイン/keywords
 THEO
@@ -3422,6 +3440,9 @@ Rigato,リガート
 Team AI
 AI-Xプロジェクト
 
+=2019-04-06T11:58:41+09:00 Computer/トピック/社会動向/企業/ジギョナリーカンパニー/keywords
+MachiTag
+
 =2017-10-10T14:23:59+09:00 Computer/トピック/社会動向/企業/ジブンハウス/keywords
 My Home Market
 
@@ -3438,6 +3459,9 @@ TerraTalk,テラトーク
 =2017-05-02T08:13:05+09:00 Computer/トピック/社会動向/企業/ジョリーグッド/keywords
 VRCHEL,ヴァーチェル
 VRCH,ヴァーチ
+
+=2019-04-06T11:58:36+09:00 Computer/トピック/社会動向/企業/ジーアングル/keywords
+アートディレクターAI
 
 =2017-11-11T12:11:05+09:00 Computer/トピック/社会動向/企業/ジーニー/keywords
 ジーニー,Geniee
@@ -4036,6 +4060,9 @@ eat
 
 =2017-10-30T10:33:37+09:00 Computer/トピック/社会動向/企業/ブルーグース/keywords
 Webプロデュースサービス
+
+=2019-04-06T11:58:24+09:00 Computer/トピック/社会動向/企業/ブレイン/keywords
+ベーカリースキャン
 
 =2017-04-11T09:50:44+09:00 Computer/トピック/社会動向/企業/ブレインズテクノロジー/keywords
 Impulse
@@ -4804,8 +4831,8 @@ K-now
 =2019-01-26T10:29:33+09:00 Computer/トピック/社会動向/大学/九州工業大学/keywords
 九州工業大,九州工業大学
 
-=2017-03-28T13:55:08+09:00 Computer/トピック/社会動向/大学/京都大学/keywords
-京都大学,京大
+=2019-04-06T11:57:47+09:00 Computer/トピック/社会動向/大学/京都大学/keywords
+京都大,京大,京都大学
 
 =2018-10-05T11:37:56+09:00 Computer/トピック/社会動向/大学/北陸能力開発大学/keywords
 北陸能開大,北陸能力開発大学
@@ -4859,6 +4886,9 @@ TSUBAME
 
 =2019-01-26T10:31:07+09:00 Computer/トピック/社会動向/大学/立教大学/keywords
 立教大,立教大学
+
+=2019-04-06T11:59:14+09:00 Computer/トピック/社会動向/大学/筑波大学/keywords
+筑波大,筑波大学
 
 =2019-01-15T13:51:19+09:00 Computer/トピック/社会動向/大学/諏訪東京理科大学/keywords
 諏訪東理大
