@@ -265,6 +265,9 @@ URL=https://qiita.com/Dsuke-K/items/45694e21c742f8b0e207
 =2019-02-01T14:52:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaからRustの関数を呼び出す - Qiita
 URL=https://qiita.com/termoshtt/items/65c47069fa67037f972d
 
+=2019-04-07T07:15:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaでPythonみたいに作ったプログラムをモジュールにして他のファイルから利用する方法（改訂版） - Qiita
+URL=https://qiita.com/Masaya_1997/items/d49d2870dda8bfc1124c
+
 =2018-09-27T18:37:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの数学定数【小ネタ】-Qiita
 URL=https://qiita.com//Yoshinobu-Ishizaki/items/b280913264ce7b672f44
 
@@ -561,6 +564,9 @@ URL=https://nbviewer.jupyter.org/format/slides/gist/phigasui/9c6863c41fd39c8638f
 
 =2018-09-24T16:01:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/K.B.砂糖さんのツイート Windows で Julia が Jupyter notebook 上で動かない問題、いつの間にかclose になってた。
 URL=https://twitter.com/KB_satou/status/1044079234078003201
+
+=2019-04-11T07:14:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/MarkdownでJuliaを実行する - システムとモデリング
+URL=http://otepipi.hatenablog.com/entry/2019/04/11/201308
 
 =2018-10-05T19:08:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/piqcyさんのツイート Jupyter Notebookからスクリプトを抽出してPythonRJuliaファイルにする、さらにファイルを修正してJupyterに戻す
 URL=https://twitter.com/icoxfog417/status/1048018479658352640

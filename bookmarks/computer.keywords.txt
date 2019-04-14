@@ -697,7 +697,7 @@ Hire
 人財テック
 しごと
 
-=2019-04-06T11:58:27+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-04-14T14:02:13+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -750,6 +750,7 @@ MRI
 腎障害
 エコー画像
 体調
+流行病
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1419,6 +1420,9 @@ CHIPS
 =2017-03-29T08:48:55+09:00 Computer/トピック/社会動向/企業/Doog/keywords
 Doog,ドーグ
 
+=2019-04-14T14:02:10+09:00 Computer/トピック/社会動向/企業/dotstudio/keywords
+ProtoOut
+
 =2017-10-20T10:44:49+09:00 Computer/トピック/社会動向/企業/DVERSE/keywords
 SYMMETRY
 
@@ -1875,6 +1879,9 @@ RapidMiner
 
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/L is B/keywords
 daab
+
+=2019-04-14T14:03:38+09:00 Computer/トピック/社会動向/企業/LAPRAS/keywords
+scouty,LAPRAS
 
 =2018-10-26T11:26:56+09:00 Computer/トピック/社会動向/企業/Lattice Semiconductor/keywords
 ラティス,Lattice,Lattice Semiconductor
@@ -2714,6 +2721,9 @@ AXON Predict Analytics
 
 =2019-04-02T11:44:22+09:00 Computer/トピック/社会動向/企業/xenodata lab/keywords
 xenoBrain
+
+=2019-04-14T14:04:15+09:00 Computer/トピック/社会動向/企業/Xiaomi/keywords
+シャオミ,xiaomi
 
 =2017-03-30T10:53:26+09:00 Computer/トピック/社会動向/企業/Xilinx/keywords
 Xilinx,ザイリンクス
@@ -4162,9 +4172,10 @@ Neo
 =2017-10-04T10:10:56+09:00 Computer/トピック/社会動向/企業/マクニカ/マクニカネットワークス/keywords
 Menlo Security
 
-=2017-03-30T10:02:24+09:00 Computer/トピック/社会動向/企業/マツリカ/keywords
+=2019-04-14T14:02:21+09:00 Computer/トピック/社会動向/企業/マツリカ/keywords
 マツリカ
 Senses,センシーズ
+Notia
 
 =2017-09-20T07:53:04+09:00 Computer/トピック/社会動向/企業/マネーフォワード/keywords
 MFクラウド会計
@@ -4567,8 +4578,10 @@ LUNA
 =2017-04-11T13:51:03+09:00 Computer/トピック/社会動向/企業/日本光電工業/keywords
 NATESAS
 
-=2018-05-16T11:40:00+09:00 Computer/トピック/社会動向/企業/日本出版販売/keywords
+=2019-04-14T14:05:19+09:00 Computer/トピック/社会動向/企業/日本出版販売/keywords
 日本出版販売,日販
+NCT,日販コンピュータテクノロジイ
+こくり
 
 =2017-11-12T15:53:59+09:00 Computer/トピック/社会動向/企業/日本技術貿易/keywords
 日本技術貿易,NGB
@@ -4930,7 +4943,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-04-10T11:48:06+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-04-14T14:02:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4967,6 +4980,7 @@ TSUBAME
 長野県
 松山市
 長岡市
+柏市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
