@@ -33,7 +33,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-03-11T12:37:51+09:00 Computer/トピック/セキュリティ/keywords
+=2019-04-18T13:09:39+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ
@@ -89,6 +89,7 @@ YubiKey
 Anatova
 DDoS
 リバースエンジニアリング
+位置情報
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -495,7 +496,7 @@ TensorFlow
 Keras
 Chainer
 
-=2018-12-11T08:01:57+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
+=2019-04-18T13:09:31+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
 DMP
 情シス,情報システム部
 失敗例
@@ -503,6 +504,7 @@ DMP
 導入
 ボトムアップ
 AI活用
+AI開発
 
 =2018-05-30T14:34:04+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
 Alexa,アレクサ
@@ -1088,6 +1090,9 @@ Affdex
 =2019-01-11T13:51:37+09:00 Computer/トピック/社会動向/企業/AGC/keywords
 旭硝子,AGC
 
+=2019-04-18T13:09:23+09:00 Computer/トピック/社会動向/企業/AI inside/keywords
+DX Suite
+
 =2017-11-11T16:10:52+09:00 Computer/トピック/社会動向/企業/AI sales/keywords
 AIクレームチェッカー
 
@@ -1178,7 +1183,7 @@ VR ON AIR TEST
 Cross X AIソリューション
 AIXON
 
-=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Apple/keywords
+=2019-04-18T13:09:32+09:00 Computer/トピック/社会動向/企業/Apple/keywords
 Apple,アップル
 iPhone
 App Store
@@ -1186,6 +1191,7 @@ MacBook
 MacBookAir
 GAFA
 GAFAM
+Mac
 
 =2017-09-19T07:47:12+09:00 Computer/トピック/社会動向/企業/ARアドバンストテクノロジ/keywords
 LOOGUE
@@ -2034,6 +2040,9 @@ Mighty AI,マイティAI
 
 =2017-10-10T13:20:35+09:00 Computer/トピック/社会動向/企業/Mirantis/keywords
 Mirantis,ミランティス
+
+=2019-04-18T13:09:38+09:00 Computer/トピック/社会動向/企業/misosil/keywords
+Tofu
 
 =2018-01-22T13:35:16+09:00 Computer/トピック/社会動向/企業/Mitipi/keywords
 Kevin
@@ -3839,11 +3848,12 @@ INSUITE,インスイート
 知話輪
 hibiki
 
-=2018-11-10T11:30:29+09:00 Computer/トピック/社会動向/企業/ドワンゴ/keywords
+=2019-04-18T13:09:35+09:00 Computer/トピック/社会動向/企業/ドワンゴ/keywords
 ドワンゴ,DWANGO
 ニコニコ,niconico
 紅莉栖
 ニコ動
+ARTILIFE
 
 =2017-04-10T14:33:17+09:00 Computer/トピック/社会動向/企業/ドーグ/keywords
 サウザー
