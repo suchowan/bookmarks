@@ -202,6 +202,9 @@ URL=https://qiita.com/cometscome_phys/items/e09e0300e303ba184bcc
 =2018-12-13T12:38:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaで綺麗なプロットを作る：Makie.jlのインストールと使い方 - Qiita
 URL=https://qiita.com/cometscome_phys/items/38ac9a89b96579b6a34b
 
+=2019-04-22T06:25:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/JuliaのDataFrameはPythonより厳格だった - Qiita
+URL=https://qiita.com/prs-watch/items/84facc355f4f1e32eb20
+
 =2019-02-09T20:45:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/K.B.砂糖さんのツイート Julia で Plots (GR) を使うときに error compiling _plot! error compiling _display could not load library libGR.dll The
 URL=https://twitter.com/KB_satou/status/1094138287902535680
 
@@ -264,6 +267,9 @@ URL=https://qiita.com/Dsuke-K/items/45694e21c742f8b0e207
 
 =2019-02-01T14:52:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaからRustの関数を呼び出す - Qiita
 URL=https://qiita.com/termoshtt/items/65c47069fa67037f972d
+
+=2018-12-19T17:05:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaでAtCoderに臨む上で気を付けるべき点 - Qiita
+URL=https://qiita.com/pohe/items/5d9b91ba5d9a634abc40
 
 =2019-04-07T07:15:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaでPythonみたいに作ったプログラムをモジュールにして他のファイルから利用する方法（改訂版） - Qiita
 URL=https://qiita.com/Masaya_1997/items/d49d2870dda8bfc1124c
@@ -607,6 +613,9 @@ URL=https://twitter.com/genkuroki/status/1010137415015493632
 =2018-11-13T16:31:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen Kurokiさんのツイート #数楽 私はコードを書くほどのことでもない計算には httpst.coQgFOioneJ3 を利用し、それ以外の場合には httpst.co7MSmde47fQ を利用しています。
 URL=https://twitter.com/genkuroki/status/1062224956749099008
 
+=2018-07-23T08:00:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/科学技術計算用言語 Julia - Applied Mathematics 7 (2018)
+URL=http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2018-7Semester-AppliedMath7/14_julia/
+
 =2019-03-29T07:40:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Julia 1.1コードがgfortran+MKLに勝った - Qiita
 URL=https://qiita.com/cometscome_phys/items/c55cd207fd7c16e4055b
 
@@ -618,6 +627,9 @@ URL=http://bicycle1885.hatenablog.com/entry/2018/01/08/145347
 
 =2018-01-09T02:56:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Juliaの速さを体感する - Qiita
 URL=https://qiita.com/ceptree/items/b5cfca180e85e61c42a8
+
+=2019-04-18T13:45:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Rは本当に遅いのか？Juliaとの比較例 - Qiita
+URL=https://qiita.com/nozma/items/0025ce9e84ffbc7b18c2
 
 =2018-08-29T18:00:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Yoshiki NAGATANIさんのツイート ちょっとだけマトモなワークステーション（Quad-channel RAM）で Julia と C のマルチスレッド化も試してみました。
 URL=https://twitter.com/nagataniyoshiki/status/1034677570158059521

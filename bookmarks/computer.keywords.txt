@@ -301,6 +301,9 @@ HPE,Hewlett Packard Enterprise
 =2019-02-21T11:55:25+09:00 Computer/トピック/ツール/ソフトウェア言語/C++/keywords
 c++,C++
 
+=2019-04-22T11:49:31+09:00 Computer/トピック/ツール/ソフトウェア言語/FORTRAN/keywords
+Fortran,FORTRAN
+
 =2018-03-27T17:29:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Go言語/keywords
 Golang
 
@@ -308,12 +311,13 @@ Golang
 Jakarta EE
 JDK
 
-=2019-03-11T12:39:00+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
+=2019-04-22T11:48:00+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
 Javascript,JavaScript
 AngularJS
 ESLint
 Angular
 TypeScript
+GoogleAppsScript
 
 =2018-03-20T14:56:09+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/Node.js/keywords
 Node-RED
@@ -516,7 +520,7 @@ Echosim.io
 Google Home
 Google アシスタント
 
-=2018-12-11T08:01:56+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2019-04-22T11:48:00+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -527,6 +531,7 @@ spot
 Project Debater
 VRChat
 codama
+質問応答
 
 =2018-09-14T12:11:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -664,7 +669,7 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2019-01-30T13:12:16+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2019-04-22T11:48:02+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
@@ -677,6 +682,7 @@ EGrobo
 Whiz
 Xperia Hello!
 LAWS
+TELLBO
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -699,7 +705,7 @@ Hire
 人財テック
 しごと
 
-=2019-04-14T14:02:13+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-04-22T11:48:05+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -753,6 +759,8 @@ MRI
 エコー画像
 体調
 流行病
+入院
+腫瘍
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -943,7 +951,7 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-04-06T11:58:24+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-04-22T11:48:03+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -953,6 +961,7 @@ AimePay
 Suica
 無人レジ
 レジ
+Retail
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1020,11 +1029,12 @@ TensorFlow
 Keras
 Chainer
 
-=2019-02-24T19:12:03+09:00 Computer/トピック/社会動向/keywords
+=2019-04-22T11:48:04+09:00 Computer/トピック/社会動向/keywords
 五反田バレー
 EXPO
 HITL
 汎用ロボット
+DARQ
 
 =2017-03-28T13:24:52+09:00 Computer/トピック/社会動向/シンギュラリティ/keywords
 雇用大崩壊
@@ -1315,6 +1325,9 @@ Webex
 
 =2019-02-03T15:27:44+09:00 Computer/トピック/社会動向/企業/CloudMinds/keywords
 クラウドマインズ,CloudMinds
+
+=2019-04-22T11:48:00+09:00 Computer/トピック/社会動向/企業/Cloudwalk/keywords
+DenseBody
 
 =2018-09-10T11:46:54+09:00 Computer/トピック/社会動向/企業/CMR Surgical/keywords
 Versius
@@ -3929,6 +3942,9 @@ SolidFire
 =2017-11-19T15:06:46+09:00 Computer/トピック/社会動向/企業/ハウスコム/keywords
 AI PET,アイペット
 
+=2019-04-22T11:48:02+09:00 Computer/トピック/社会動向/企業/ハウステンボス/keywords
+TELLBO
+
 =2018-09-27T09:48:26+09:00 Computer/トピック/社会動向/企業/ハウスマート/keywords
 Housmart,ハウスマート
 カウル
@@ -4261,8 +4277,8 @@ kukai,クウカイ
 AnnexML
 ヤフオク!
 
-=2019-02-03T15:27:40+09:00 Computer/トピック/社会動向/企業/ヤプリ/keywords
-yappli,ヤプリ
+=2019-04-22T11:51:19+09:00 Computer/トピック/社会動向/企業/ヤプリ/keywords
+Yappli,yappli,ヤプリ
 
 =2018-04-28T12:27:19+09:00 Computer/トピック/社会動向/企業/ヤマト運輸/keywords
 ヤマト
@@ -4953,7 +4969,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-04-14T14:02:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-04-22T11:48:05+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -4991,6 +5007,7 @@ TSUBAME
 松山市
 長岡市
 柏市
+横浜市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
