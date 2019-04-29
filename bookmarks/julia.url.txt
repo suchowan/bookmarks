@@ -364,6 +364,9 @@ URL=https://twitter.com/brv00/status/1078851643951595520
 =2018-01-05T10:23:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/cometscomeQM In Japanese. Juliaで学ぶ量子力学
 URL=https://github.com/cometscome/QM
 
+=2019-04-28T06:58:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/DSM-Design Structure MatrixをJulia言語のheatmap(by Seaborn)で描画＆ネットワーク可視化(by GraphPlot) - システムとモデリング
+URL=http://otepipi.hatenablog.com/entry/2019/04/28/225139
+
 =2018-09-20T17:58:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/FreshAndEarlyさんのツイート Julia 1.0 でMeCabを使いたい方は下記のフォークでどうぞ。本家のchezouさんがプルリクエストに対応するかは分かりません。
 URL=https://twitter.com/snthotto/status/1042591888098779136
 
@@ -570,6 +573,9 @@ URL=https://nbviewer.jupyter.org/format/slides/gist/phigasui/9c6863c41fd39c8638f
 
 =2018-09-24T16:01:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/K.B.砂糖さんのツイート Windows で Julia が Jupyter notebook 上で動かない問題、いつの間にかclose になってた。
 URL=https://twitter.com/KB_satou/status/1044079234078003201
+
+=2019-04-25T18:52:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/kjunichiさんのツイート という事でwindowsのjuliaからmruby.dllを呼び出してrubyが実行出来た図 httpst.co0GEpVIramJ…
+URL=https://twitter.com/kjunichi/status/1121403368243716096
 
 =2019-04-11T07:14:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/MarkdownでJuliaを実行する - システムとモデリング
 URL=http://otepipi.hatenablog.com/entry/2019/04/11/201308
