@@ -10,6 +10,9 @@ URL=https://qiita.com/goropikari/items/c5ae799d3ff2e789ee20
 =2018-10-31T06:42:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Julia Advent Calendar 2018 - Qiita
 URL=https://qiita.com/advent-calendar/2018/julialang
 
+=2018-11-18T20:48:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/JuliaQM.pdf
+URL=http://park.itc.u-tokyo.ac.jp/kato-yusuke-lab/nagai/JuliaQM.pdf
+
 =2018-10-20T17:27:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Julia_no_MakimonosREADME.md at master-yuyamashiroJulia_no_Makimonos
 URL=https://github.com/yuyamashiro/Julia_no_Makimonos/blob/master/README.md
 
@@ -385,6 +388,9 @@ URL=http://marui.hatenablog.com/entry/2018/09/14/134118
 =2018-10-12T08:32:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia Newsさんのツイート Parallel Supercomputing for Astronomy with Julia httpst.coCgSBr5pKkG #hackernews
 URL=https://twitter.com/julialang_news/status/1050450012684132352
 
+=2019-05-01T17:34:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia でテキスト処理 - Qiita
+URL=https://qiita.com/Rshimura/items/4389d164840589a14ec6
+
 =2018-12-11T15:37:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia を使ってお手軽に数学 gif を作ってみよう - Qiita
 URL=https://qiita.com/wakabame/items/7c4db07c222755349dea
 
@@ -393,6 +399,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/b1ebd844620b920e8df6
 
 =2018-12-04T05:27:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで2次計画法 - Ki_chi@Blog
 URL=http://ki-chi.jp/?p=895
+
+=2019-05-01T09:22:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaでAPIを実装する - Qiita
+URL=https://qiita.com/keta-sts136/items/f36fe1ba886aa611f9d3
 
 =2018-10-25T18:46:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaでDiscordのbotを書く(Python使わずに) - Qiita
 URL=https://qiita.com/MunoChan/items/4e8254e43c69f3b8da2e
@@ -408,6 +417,9 @@ URL=https://www.flywheel.jp/blog/ramanujan-formulas-in-julia/
 
 =2018-09-27T06:58:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで簡単なGUIアプリを作ってみる - Qiita
 URL=https://qiita.com/goropikari/items/8b803be3ce8d36ea2fe9
+
+=2019-04-30T06:08:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia言語からmruby-webcamを使ってWebカメラの画像を取得した - non vorrei lavorare
+URL=https://abrakatabura.hatenablog.com/entry/2019/04/30/152311
 
 =2018-10-07T08:22:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/K.B.砂糖さんのツイート 拡散希望 #julia言語…
 URL=https://twitter.com/KB_satou/status/1048769198652936193
@@ -462,6 +474,9 @@ URL=https://twitter.com/genkuroki/status/974514909315719173
 
 =2018-12-15T12:11:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 誰か、100×100の2D Isingで盤面全体を10万回(10億点)更新するのに何秒かかるかで、CPUとGPUを比較して欲しいです。
 URL=https://twitter.com/genkuroki/status/1073960028787245057
+
+=2019-04-30T18:17:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 連分数展開は特殊函数の数値計算ではよく出て来る。しかし、プログラムのコードを見ても特殊函数の教科書に書かれていている連分数展開の公式
+URL=https://twitter.com/genkuroki/status/1123153815774027777
 
 =2018-12-08T08:52:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/（Juliaで）後退差分法で修正節点法でRLC直列回路を解析する - Qiita
 URL=https://qiita.com/tatssuki/items/fb6b1cf14d261cc5d316
@@ -591,6 +606,9 @@ URL=https://gist.github.com/genkuroki/81de23edcae631a995e19a2ecf946a4f
 
 =2019-04-05T06:16:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんのツイート #Julia言語 Julia公式Dockerイメージを拡張したオレオレJuliaイメージを Docker Hub にて公開してみました．PyCall.jl，IJuliaによるJupyter，JuliaとPythonのや
 URL=https://twitter.com/MathSorcerer/status/1113824642127388673
+
+=2019-05-03T09:26:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんのツイート スレッドの Issue のリンクにて #Julia言語 1.2.0 の Arm32 bit の pre.0 を触ることができます。 初代ラズパイ、Zeroシリーズ以外では動くと思います。 httpst.coz1Qdjz
+URL=https://twitter.com/MathSorcerer/status/1124436411090739200
 
 =2019-03-08T07:39:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/カリテクさんのツイート D言語のツールdppってJuliaのヘッダー自動で読めるのか。D言語のツールでJuliaをスクリプト言語として使うの面白そう。Luaとか他のスクリプト言語も動いたら面白そう
 URL=https://twitter.com/kari_tech/status/1103671677613891584
