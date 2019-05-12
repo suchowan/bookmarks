@@ -25,7 +25,7 @@ URL=https://qiita.com/cometscome_phys/items/dfd63f1f7b51bdda4ca4
 =2017-12-16T20:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/JuliaとPythonで擬似コードや数式を動かそうとしたときの比較 - やったことの説明
 URL=http://ksknw.hatenablog.com/entry/2017/12/16/200000
 
-=2015-12-30T20:55:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaという速くて書きやすい言語をちょっとだけ覗いてみたんだが、なにやらワクワクするものがあったので報告しようと思う
+=2019-05-08T06:46:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaという速くて書きやすい言語をちょっとだけ覗いてみたんだが、なにやらワクワクするものがあったので報告しようと思う - Qiita
 URL=https://qiita.com/sadayuki-matsuno/items/fc5e9ec3894a4b7bfbfb
 
 =2018-09-28T05:35:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Juliaのmodule自由自在-Qiita
@@ -70,6 +70,9 @@ URL=https://twitter.com/yuya_presto/status/1046024067453612032
 =2012-02-21T20:17:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/なぜ僕らはJuliaを作ったか（翻訳） - 丸井綜研
 URL=http://marui.hatenablog.com/entry/20120221/1329823079
 
+=2017-11-23T06:45:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/はじめに-The Julia Language
+URL=https://hshindo.github.io/julia-doc-ja-v0.6/manual/introduction.html
+
 =2018-12-19T12:28:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/JuliaからCloud TPUを使う論文の、ざっくりまとめ Kazuaki Ishizaki - Researcher and contributor for system software
 URL=https://kiszk.github.io/2018/12/19/TensorFlow-Julia-TPU-XLA/
 
@@ -102,6 +105,9 @@ URL=https://twitter.com/genkuroki/status/1066568178044592128
 
 =2018-11-02T14:03:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/アカキ11.3CARNATION@梅田TRADさんのツイート JuliaTokyo #8 ログ一覧 httpst.coApkx15mj0E ◆Juliaの画像処理ライブラリを使ってわかったこと ◆Juliaで作るポーカーAI ◆Juliaを仕事で使
 URL=https://twitter.com/akakit/status/1058360510846971905
+
+=2019-05-12T14:57:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/(｢・ω・)｢ｶﾞｵｰさんのツイート Juliaにも令和サポートが！ httpst.coT3vhhkDtZh
+URL=https://twitter.com/bicycle1885/status/1127362714450325504
 
 =2019-03-01T14:38:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/(｢・ω・)｢ｶﾞｵｰさんのツイート Juliaのインタープリターも開発が進んでいたのか。 httpst.co3iiJkCGQDx
 URL=https://twitter.com/bicycle1885/status/1101336817977057280
@@ -591,6 +597,9 @@ URL=https://qiita.com/antimon2/items/5222f4f773bf1944b745
 
 =2019-02-16T17:55:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/julia v1.1から始めるJupyter Notebook - Qiita
 URL=https://qiita.com/doorei/items/91a52a31f917b9d7bb84
+
+=2019-05-11T07:01:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia で令和対応（やっつけじゃない方）してみた - Qiita
+URL=https://qiita.com/antimon2/items/841c47b0617fc926071d
 
 =2019-02-13T07:52:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaで関数呼び出しでどのメソッドが実行されてるかを表示するマクロを書いてみた。ちょっと便利。
 URL=https://twitter.com/bicycle1885/status/1095506806611238913

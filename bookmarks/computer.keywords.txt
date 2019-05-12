@@ -33,7 +33,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-05-04T11:25:10+09:00 Computer/トピック/セキュリティ/keywords
+=2019-05-12T14:48:46+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -91,6 +91,8 @@ DDoS
 リバースエンジニアリング
 位置情報
 盗み聞き
+セキュア
+WAF
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -711,7 +713,7 @@ Hire
 人財テック
 しごと
 
-=2019-05-04T11:23:07+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-05-12T14:48:47+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -769,6 +771,7 @@ MRI
 腫瘍
 緑内障
 救急
+医薬品
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1410,6 +1413,9 @@ D-Reg
 =2017-08-21T08:28:02+09:00 Computer/トピック/社会動向/企業/Dayz/keywords
 Kinza
 
+=2019-05-12T14:48:46+09:00 Computer/トピック/社会動向/企業/DeepX/keywords
+machina
+
 =2017-10-12T10:55:17+09:00 Computer/トピック/社会動向/企業/DEFアニバーサリー/keywords
 マスクdeお見合い
 
@@ -1501,6 +1507,9 @@ Rez Infinite
 
 =2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Essential Products/keywords
 Essential Phone
+
+=2019-05-12T14:48:47+09:00 Computer/トピック/社会動向/企業/Everalbum/keywords
+Ever
 
 =2017-07-25T08:38:11+09:00 Computer/トピック/社会動向/企業/EVERRISE/keywords
 アドレポ
@@ -2498,8 +2507,9 @@ SELFLY
 カラフル・ボード
 SENSY BOT for Biz
 
-=2017-06-05T09:34:37+09:00 Computer/トピック/社会動向/企業/ServiceNow/keywords
+=2019-05-12T14:49:31+09:00 Computer/トピック/社会動向/企業/ServiceNow/keywords
 Jakarta
+サービスナウ,ServiceNow
 
 =2019-03-11T12:37:52+09:00 Computer/トピック/社会動向/企業/Servicerobots.com/keywords
 Eva
@@ -3613,8 +3623,9 @@ HULFT-WebConnect
 オムニ7
 セブン,セブン‐イレブン,セブンイレブン,セブン&アイ
 
-=2017-04-04T15:11:21+09:00 Computer/トピック/社会動向/企業/セブン・ドリーマーズ/keywords
+=2019-05-12T14:48:46+09:00 Computer/トピック/社会動向/企業/セブン・ドリーマーズ/keywords
 ランドロイド1
+ランドロイド
 
 =2017-04-24T09:28:15+09:00 Computer/トピック/社会動向/企業/セプテーニグループ/keywords
 HireVue
@@ -4369,13 +4380,14 @@ PremiumVR,プレミアムVR
 =2017-03-29T14:39:10+09:00 Computer/トピック/社会動向/企業/リアルグローブ/keywords
 パーソナルアシスタントコアエンジン
 
-=2018-11-24T10:45:58+09:00 Computer/トピック/社会動向/企業/リクルート/keywords
+=2019-05-12T14:48:47+09:00 Computer/トピック/社会動向/企業/リクルート/keywords
 Recruit,リクルート
 A3RT
 ワーカメ
 Amenities
 iNORTH KEY
 Summpy
+スタディサプリ
 
 =2018-09-14T12:11:21+09:00 Computer/トピック/社会動向/企業/リグシー/keywords
 Holmes
@@ -4596,11 +4608,6 @@ Mendel Analyst
 =2017-04-11T09:30:16+09:00 Computer/トピック/社会動向/企業/文化放送/keywords
 ラジオプリント
 
-=2017-05-23T09:50:21+09:00 Computer/トピック/社会動向/企業/新日鉄住金ソリューションズ/keywords
-新日鉄住金ソリューションズ,NSSOL
-DataRobot
-absonne,アブソンヌ
-
 =2017-06-20T08:49:00+09:00 Computer/トピック/社会動向/企業/日建設計/keywords
 NSRI,日建設計,日建設計総合研究所
 
@@ -4646,6 +4653,11 @@ NCT,日販コンピュータテクノロジイ
 
 =2017-04-11T13:48:39+09:00 Computer/トピック/社会動向/企業/日本気象協会/keywords
 SOLASAT,ソラサット
+
+=2019-05-12T14:34:16+09:00 Computer/トピック/社会動向/企業/日本製鉄/日鉄ソリューションズ/keywords
+新日鉄住金ソリューションズ,日鉄ソリューションズ,NSSOL
+DataRobot
+absonne,アブソンヌ
 
 =2018-12-04T12:34:17+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
@@ -4945,6 +4957,9 @@ CanguRo
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
+
+=2019-05-12T14:50:03+09:00 Computer/トピック/社会動向/大学/広島大学/keywords
+広島大,広島大学
 
 =2019-02-14T13:43:42+09:00 Computer/トピック/社会動向/大学/慶応大学/keywords
 慶應義塾大学,慶応大学
