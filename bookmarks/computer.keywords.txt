@@ -290,6 +290,9 @@ Stepsize
 Airbnb
 データ可視化
 
+=2019-05-16T11:16:06+09:00 Computer/トピック/ツール/ソフトウェアシステム/形態素解析/MeCab/keywords
+mecab,MeCab
+
 =2019-02-14T13:43:42+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/Docker/keywords
 docker,Docker
 Dockerfile
@@ -360,11 +363,12 @@ scikit-learn
 StanfordNLP
 faker
 
-=2019-04-25T18:55:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
+=2019-05-16T11:13:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
 Rubyist
 WEBrick
 RMagick
 mruby
+RubyKaigi
 
 =2018-04-14T14:05:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/Rails/keywords
 Rails5
@@ -524,7 +528,7 @@ Echosim.io
 Google Home
 Google アシスタント
 
-=2019-04-22T11:48:00+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -536,6 +540,7 @@ Project Debater
 VRChat
 codama
 質問応答
+nomi
 
 =2018-09-14T12:11:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -1032,8 +1037,9 @@ Riemannian Motion Policy
 Variational Auto Encoder
 GauGAN
 
-=2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
+=2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
+CNNs
 
 =2017-03-23T14:55:48+09:00 Computer/トピック/機械学習/機械学習理論/プログラミング/keywords
 Python
@@ -1058,6 +1064,9 @@ DARQ
 
 =2019-03-07T16:09:46+09:00 Computer/トピック/社会動向/企業/+Style/keywords
 プラススタイル,+Style
+
+=2019-05-16T11:19:20+09:00 Computer/トピック/社会動向/企業/10X/keywords
+タベリー
 
 =2019-03-03T19:29:06+09:00 Computer/トピック/社会動向/企業/1→10Robotics/keywords
 ワントゥーテン,1→10Robotics
@@ -1931,8 +1940,9 @@ scouty,LAPRAS
 =2018-10-26T11:26:56+09:00 Computer/トピック/社会動向/企業/Lattice Semiconductor/keywords
 ラティス,Lattice,Lattice Semiconductor
 
-=2017-11-11T15:43:48+09:00 Computer/トピック/社会動向/企業/Lenovo/keywords
+=2019-05-16T11:13:58+09:00 Computer/トピック/社会動向/企業/Lenovo/keywords
 Lenovo,レノボ
+ThinkReality
 
 =2018-05-24T10:25:30+09:00 Computer/トピック/社会動向/企業/LG/keywords
 ThinQ AI
@@ -2570,8 +2580,9 @@ Nadia
 =2018-08-24T11:07:28+09:00 Computer/トピック/社会動向/企業/SpaceX/keywords
 イーロン・マスク
 
-=2017-11-12T15:52:58+09:00 Computer/トピック/社会動向/企業/Spectee/keywords
+=2019-05-16T11:14:46+09:00 Computer/トピック/社会動向/企業/Spectee/keywords
 荒木ゆい
+スペクティ,Spectee
 
 =2017-10-23T15:16:40+09:00 Computer/トピック/社会動向/企業/Sphero/keywords
 Sphero,スフィロ
@@ -3960,9 +3971,10 @@ HRテック
 desknet's SSS
 AppSuite
 
-=2017-08-28T11:41:57+09:00 Computer/トピック/社会動向/企業/ネクストシステム/keywords
+=2019-05-16T11:13:57+09:00 Computer/トピック/社会動向/企業/ネクストシステム/keywords
 ARIA,アリア
 Virtual Fashion
+ミチコン
 
 =2018-05-30T14:36:31+09:00 Computer/トピック/社会動向/企業/ネスレ日本/keywords
 ネスレ日本,ネスレ
@@ -4454,6 +4466,9 @@ T-4OO
 
 =2017-08-30T07:21:30+09:00 Computer/トピック/社会動向/企業/ロボケン/keywords
 epRobo,エピロボ
+
+=2019-05-16T11:17:19+09:00 Computer/トピック/社会動向/企業/ロレアル/keywords
+ロレアルグループ,ロレアル
 
 =2018-08-19T12:24:35+09:00 Computer/トピック/社会動向/企業/ローイット/keywords
 AI行政書士 マルット
