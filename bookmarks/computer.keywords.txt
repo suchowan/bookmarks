@@ -1,4 +1,4 @@
-=2019-04-06T11:58:40+09:00 Computer/トピック/VR・AR・MR/keywords
+=2019-05-20T13:05:03+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -22,6 +22,7 @@ MICA
 仮想世界
 プロジェクションマッピング
 ホロレンズ
+XR
 
 =2018-11-16T10:00:19+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Vtuber,VTuber
@@ -718,7 +719,7 @@ Hire
 人財テック
 しごと
 
-=2019-05-12T14:48:47+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-05-20T13:05:04+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -777,6 +778,7 @@ MRI
 緑内障
 救急
 医薬品
+障がい
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -932,12 +934,13 @@ IMAKITA
 ヨミ子さん
 合成音声
 
-=2019-04-02T11:44:22+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
+=2019-05-20T13:05:03+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 みえる電話
 CHIVOX
 音声文字化
 文字起こし
+音声文字変換
 
 =2018-11-14T09:37:46+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
@@ -4505,6 +4508,9 @@ toppi!,トッピ
 
 =2017-10-02T09:45:33+09:00 Computer/トピック/社会動向/企業/三井物産/keywords
 SAIVS,Spider Artificial Intelligence Vulnerability Scanner
+
+=2019-05-20T13:05:04+09:00 Computer/トピック/社会動向/企業/三菱地所/keywords
+Marble
 
 =2019-01-22T18:37:31+09:00 Computer/トピック/社会動向/企業/三菱総合研究所/keywords
 三菱総研,三菱総合研究所,MRI
