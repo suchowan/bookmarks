@@ -468,7 +468,7 @@ Mastodon,マストドン
 データ
 ImageNet
 
-=2019-01-19T16:47:49+09:00 Computer/トピック/ブロックチェーン/keywords
+=2019-06-01T11:40:04+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -483,6 +483,7 @@ DApps
 暗号資産
 Coinhive
 コインハイブ
+TAOTAO
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -735,7 +736,7 @@ Hire
 人財テック
 しごと
 
-=2019-05-20T13:05:04+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-06-01T11:40:04+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -795,6 +796,7 @@ MRI
 救急
 医薬品
 障がい
+治験
 
 =2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1185,6 +1187,9 @@ Musio
 Deepsearch Logo
 Gripper
 
+=2019-06-01T11:41:41+09:00 Computer/トピック/社会動向/企業/ALI Technologies/keywords
+A.L.I.,ALI Technologies
+
 =2017-03-30T11:24:24+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
 アリババ,Alibaba
 
@@ -1319,6 +1324,9 @@ Skills Kit
 =2017-10-30T11:33:28+09:00 Computer/トピック/社会動向/企業/BRAIN/keywords
 SMART INTELLIGENCE NETWORK
 ZENDESK
+
+=2019-06-01T11:40:05+09:00 Computer/トピック/社会動向/企業/BUIDL/keywords
+SHIEDL
 
 =2018-04-06T13:38:21+09:00 Computer/トピック/社会動向/企業/BULB/keywords
 Autofloor
@@ -2176,6 +2184,9 @@ moto Smart Speaker with Amazon Alexa
 Firefox
 Fenix
 
+=2019-06-01T11:40:04+09:00 Computer/トピック/社会動向/企業/mpi松香フォニックス/keywords
+mpi英語プログラム
+
 =2017-11-11T11:26:41+09:00 Computer/トピック/社会動向/企業/Mrk & Co/keywords
 Mrk & Co,マーク・アンド・コー
 Dine
@@ -2325,6 +2336,9 @@ piece
 
 =2017-10-20T09:47:06+09:00 Computer/トピック/社会動向/企業/ONE FINANCIAL/keywords
 ONE PAY
+
+=2019-06-01T11:40:05+09:00 Computer/トピック/社会動向/企業/Onplanetz/keywords
+On AI
 
 =2018-08-21T11:30:04+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
 オラクル,Oracle
@@ -3488,11 +3502,12 @@ EndoBRAIN
 AIメッセンジャー,AI Messenger
 AI アウトバウンド
 
-=2018-04-14T14:05:26+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/keywords
+=2019-06-01T11:40:04+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/keywords
 サイバーエージェント,CyberAgent,Cyber Agent
 AIR TRACK
 CA DATABANK
 AJA
+マッチングエージェント
 
 =2017-03-30T14:37:44+09:00 Computer/トピック/社会動向/企業/サイバーダイン/keywords
 サイバーダイン,CYBERDYNE
@@ -3932,6 +3947,9 @@ AI-PR
 =2017-11-19T15:44:45+09:00 Computer/トピック/社会動向/企業/データビークル/keywords
 Data Diver
 
+=2019-06-01T11:41:01+09:00 Computer/トピック/社会動向/企業/データ・アプリケーション/keywords
+DAL,データ・アプリケーション
+
 =2017-04-10T14:37:45+09:00 Computer/トピック/社会動向/企業/トライバルメディアハウス/keywords
 Engage Manager,エンゲージマネージャー
 
@@ -4367,8 +4385,9 @@ AIポジショニングマップMr.DATA
 =2017-09-15T11:01:33+09:00 Computer/トピック/社会動向/企業/メリービズ/keywords
 バーチャル経理アシスタント
 
-=2017-12-15T15:48:46+09:00 Computer/トピック/社会動向/企業/メルカリ/keywords
+=2019-06-01T11:40:04+09:00 Computer/トピック/社会動向/企業/メルカリ/keywords
 teacha
+メルペイ
 
 =2018-10-22T11:00:57+09:00 Computer/トピック/社会動向/企業/メルティンMMI/keywords
 メルティン,メルティンMMI
@@ -4473,6 +4492,9 @@ IESHIL,イエシル
 
 =2017-04-11T10:40:22+09:00 Computer/トピック/社会動向/企業/リンクアンドモチベーション/keywords
 モチベーションクラウド,MOTIVATION CLOUD
+
+=2019-06-01T11:40:04+09:00 Computer/トピック/社会動向/企業/リンクジャパン/keywords
+QR-Link
 
 =2017-04-21T07:59:25+09:00 Computer/トピック/社会動向/企業/リンクス/keywords
 MERLIC3
@@ -4971,6 +4993,9 @@ SMBC,三井住友
 
 =2017-04-11T11:25:47+09:00 Computer/トピック/社会動向/企業/金融・保険/東京金融取引所/keywords
 東京金融取引所,TFX
+
+=2019-06-01T11:43:12+09:00 Computer/トピック/社会動向/企業/金融・保険/百五銀行/keywords
+百五銀,百五銀行
 
 =2017-10-10T14:57:08+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/エネチェンジ/keywords
 SMAP収益性分析
