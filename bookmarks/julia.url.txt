@@ -118,6 +118,9 @@ URL=https://twitter.com/bicycle1885/status/1101336817977057280
 =2019-05-17T07:30:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/(｢・ω・)｢ｶﾞｵｰさんのツイート Julia需要が米国で高まってるらしい。 Julia, Kubernetes, and Hadoop among the 20 fastest-growing freelancer skills httpst.
 URL=https://twitter.com/bicycle1885/status/1129281647159889920
 
+=2019-06-05T10:16:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/(｢・ω・)｢ｶﾞｵｰさんのツイート masterブランチではJuliaでスレッド並列できるようになってる！
+URL=https://twitter.com/bicycle1885/status/1136068349337657344
+
 =2019-02-09T07:56:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/CやPython、Ruby、Rの長所を取り込んだ「Julia」が成長するワケ - ZDNet Japan
 URL=https://japan.zdnet.com/amp/article/35132510/
 
@@ -273,6 +276,9 @@ URL=http://goropikari.hatenablog.com/entry/julia_delete_method
 
 =2018-10-22T08:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia - 標準入力・出力・エラー出力先を変える - goropikariの備忘録
 URL=http://goropikari.hatenablog.com/entry/julia_redirect_stdio
+
+=2019-06-03T19:36:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia Jupyter での画像表示を実装する - Qiita
+URL=https://qiita.com/Lirimy/items/b5604b41247ba8ca7a00#comment-f300b423014439481670
 
 =2018-08-18T19:58:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia の reinterpret で遊んでみた。for v1.0
 URL=https://qiita.com/antimon2/items/79ede47ba271fdf555cd
@@ -435,6 +441,9 @@ URL=https://qiita.com/yuifu/items/b2031d0367da878fddae
 
 =2018-12-10T09:12:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでラマヌジャンの数式を味わう - 株式会社フライウィール（FLYWHEEL）
 URL=https://www.flywheel.jp/blog/ramanujan-formulas-in-julia/
+
+=2019-06-01T06:54:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで可到達行列をレベル分けして並び替える - システムとモデリング
+URL=http://otepipi.hatenablog.com/entry/2019/06/01/175843
 
 =2019-05-28T06:15:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで可到達行列を求める - システムとモデリング
 URL=http://otepipi.hatenablog.com/entry/2019/05/28/061549

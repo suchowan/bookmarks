@@ -436,8 +436,8 @@ TRON
 RFID
 オンデヴァイス
 
-=2018-09-07T11:39:11+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
-Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
+=2019-06-05T11:59:34+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
+Raspberry PI,Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
 =2019-02-10T15:29:38+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
@@ -663,13 +663,14 @@ PhoenixGo
 =2019-05-04T11:23:08+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/将棋/keywords
 AobaZero
 
-=2017-03-22T12:00:39+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
+=2019-06-05T11:57:52+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
 airCloset
 SENSY
 PASHALYパシャリィ
 iQON
 JINS
 メガネ
+コーデ
 
 =2019-01-30T13:12:17+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
@@ -923,13 +924,14 @@ LUIS
 BERT
 ELMo
 
-=2018-11-18T20:04:02+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
+=2019-06-05T11:57:52+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
 手書き
 古文書
 くずし字
 文字おこし
 自動文字起こし
 OCR
+Amazon Textract
 
 =2017-03-23T10:47:49+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/特徴語/keywords
 専門用語
@@ -1071,13 +1073,14 @@ TensorFlow
 Keras
 Chainer
 
-=2019-05-28T11:32:23+09:00 Computer/トピック/社会動向/keywords
+=2019-06-05T11:57:53+09:00 Computer/トピック/社会動向/keywords
 五反田バレー
 EXPO
 HITL
 汎用ロボット
 DARQ
 AIに代替
+暗い森
 
 =2017-03-28T13:24:52+09:00 Computer/トピック/社会動向/シンギュラリティ/keywords
 雇用大崩壊
@@ -1307,6 +1310,9 @@ Decipher
 =2017-12-15T15:46:15+09:00 Computer/トピック/社会動向/企業/Booking.com/keywords
 Booking.com,ブッキング・ドットコム
 
+=2019-06-05T11:57:53+09:00 Computer/トピック/社会動向/企業/Books&Company/keywords
+easy writer
+
 =2017-12-01T13:01:39+09:00 Computer/トピック/社会動向/企業/Boston Dynamics/keywords
 Boston Dynamics,ボストン・ダイナミクス
 Atlas
@@ -1519,11 +1525,17 @@ SYMMETRY
 =2018-04-06T13:38:19+09:00 Computer/トピック/社会動向/企業/E3/keywords
 caboc
 
+=2019-06-05T12:01:30+09:00 Computer/トピック/社会動向/企業/Eagle Eye Networks/keywords
+イーグルアイネットワークス,Eagle Eye Networks
+
 =2017-09-26T09:11:21+09:00 Computer/トピック/社会動向/企業/ECC/keywords
 おもてなCityへようこそ
 
 =2018-01-22T13:23:56+09:00 Computer/トピック/社会動向/企業/EduLab/keywords
 DEEP READ
+
+=2019-06-05T11:57:52+09:00 Computer/トピック/社会動向/企業/efit/keywords
+QUOREA
 
 =2017-05-15T07:58:33+09:00 Computer/トピック/社会動向/企業/Elastic/keywords
 Elasticsearch
@@ -2103,7 +2115,7 @@ CALNA
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
 
-=2019-04-06T11:58:40+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2019-06-05T11:57:52+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -2130,6 +2142,7 @@ SharePoint
 Skype
 GAFAM
 ホロレンズ
+Excel
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -2962,6 +2975,9 @@ Deskbee
 =2018-10-05T11:35:51+09:00 Computer/トピック/社会動向/企業/アウトソーシングテクノロジー/keywords
 Digital Shadows
 
+=2019-06-05T11:57:52+09:00 Computer/トピック/社会動向/企業/アクア・ライブ・インベストメント/keywords
+川崎ルフロン
+
 =2017-04-13T10:27:11+09:00 Computer/トピック/社会動向/企業/アクセンチュア/keywords
 アクセンチュア,Accenture
 
@@ -3722,7 +3738,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2018-12-11T08:01:57+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2019-06-05T11:57:52+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -3736,6 +3752,7 @@ MESH
 MANOMA
 SPRESENSE
 SIE
+PS
 
 =2017-10-10T09:15:03+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -4629,11 +4646,12 @@ BotFriends
 =2017-10-12T11:36:23+09:00 Computer/トピック/社会動向/企業/千/keywords
 はいチーズ！
 
-=2017-08-14T11:36:40+09:00 Computer/トピック/社会動向/企業/博報堂/keywords
+=2019-06-05T11:57:53+09:00 Computer/トピック/社会動向/企業/博報堂/keywords
 ラジオプリント
 スダラボ
 Face Targeting AD
 TREK TRACK
+AIブレストスパーク
 
 =2017-03-30T13:54:33+09:00 Computer/トピック/社会動向/企業/双葉電子/カブク/keywords
 MMS Connect
@@ -4893,8 +4911,8 @@ Renault,ルノー
 SUBARU,スバル,富士重工業
 アイサイト
 
-=2017-04-10T14:24:34+09:00 Computer/トピック/社会動向/企業/自動車/Tesla/keywords
-Tesla,テスラ
+=2019-06-05T11:58:45+09:00 Computer/トピック/社会動向/企業/自動車/Tesla/keywords
+tesla,Tesla,テスラ
 
 =2017-07-04T08:41:54+09:00 Computer/トピック/社会動向/企業/自動車/Volvo/keywords
 Volvo,ボルボ
