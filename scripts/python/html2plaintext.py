@@ -165,8 +165,9 @@ if __name__ == '__main__':
     for path in glob.glob(path_pattern, recursive=True):
         article = Article(path)
         plaintext_path = re.sub("(?i)html?$", "txt", path.replace('.crawled', '.plaintext'))
+        plaintext_path = plaintext_path.replace('\\', '/')
         plaintext_dir  = re.sub("/[^/]+$", "", plaintext_path)
         if not os.path.exists(plaintext_dir):
             os.makedirs(plaintext_dir)
-        with open(plaintext_path, 'w') as f:
+        with codecs.open(plaintext_path, 'w', 'utf-8') as f:
             f.write(article.contents)

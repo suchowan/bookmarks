@@ -23,6 +23,7 @@ import pprint
 from datetime import datetime
 from scipy.spatial import distance
 import mojimoji
+import codecs
 
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -43,7 +44,7 @@ def corpus_files():
 
 # 記事コンテンツをパスから取得する
 def read_document(path):
-    with open(path, 'r') as f:
+    with codecs.open(path, 'r', 'utf-8') as f:
         return f.read()
 
 # 区切り文字を使って記事を単語リストに変換する
@@ -85,7 +86,7 @@ def lexrank(vector, threshold):
 
 # 文章を分散表現化
 def path_to_vectors(path, threshold):
-    with open(path, 'r') as f:
+    with codecs.open(path, 'r', 'utf-8') as f:
         for index, line in enumerate(f):
             words = line.split('/')
             if len(words) >= threshold:
@@ -113,12 +114,12 @@ sentences = list(sentences)
 
 # 学習
 laptime = datetime.now()
-print('\n学習 size={} window={} min_count={} sample={}'.format(60, 5, 20, 0.001))
-model = models.doc2vec.Doc2Vec(dm=0, size=60, window=5, min_count=20, sample=0.001, iter=50)
+print('\n学習 size={} window={} min_count={} sample={}'.format(60, 5, 2, 0.001))
+model = models.doc2vec.Doc2Vec(dm=0, vector_size=60, window=5, min_count=2, sample=0.001, epochs=50)
 model.build_vocab(sentences)
 print(datetime.now() - laptime)
 #print(model.corpus_count)
-model.train(sentences, total_examples=model.corpus_count)
+model.train(sentences, total_examples=model.corpus_count, epochs=model.epochs)
 print(datetime.now() - laptime)
 
 '''
