@@ -35,7 +35,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-05-24T12:07:24+09:00 Computer/トピック/セキュリティ/keywords
+=2019-06-09T15:47:58+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -96,6 +96,7 @@ DDoS
 セキュア
 WAF
 サイファーパンク
+金盾
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -439,7 +440,7 @@ RFID
 =2019-06-05T11:59:34+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry PI,Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
-=2019-02-10T15:29:38+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2019-06-09T15:47:58+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
@@ -450,6 +451,7 @@ Amazon Key
 家電
 Tuya Smart
 エアコン
+HOME IoT
 
 =2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -464,9 +466,10 @@ Manyverse
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
 
-=2019-02-14T13:43:41+09:00 Computer/トピック/ビッグデータ/データセット/keywords
+=2019-06-09T15:47:57+09:00 Computer/トピック/ビッグデータ/データセット/keywords
 データ
 ImageNet
+仮名化
 
 =2019-06-01T11:40:04+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
@@ -533,7 +536,7 @@ Echosim.io
 Google Home
 Google アシスタント
 
-=2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2019-06-09T15:47:57+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -546,6 +549,7 @@ VRChat
 codama
 質問応答
 nomi
+AIさくらさん
 
 =2018-09-14T12:11:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -663,7 +667,7 @@ PhoenixGo
 =2019-05-04T11:23:08+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/将棋/keywords
 AobaZero
 
-=2019-06-05T11:57:52+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
+=2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
 airCloset
 SENSY
 PASHALYパシャリィ
@@ -671,6 +675,7 @@ iQON
 JINS
 メガネ
 コーデ
+洋服
 
 =2019-01-30T13:12:17+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
@@ -696,7 +701,7 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2019-05-24T12:07:25+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
@@ -712,6 +717,7 @@ LAWS
 TELLBO
 パワードウェア
 SCHAFT
+Pegasus
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -719,7 +725,7 @@ SCHAFT
 =2019-05-24T12:10:09+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボホン/keywords
 RoBoHoN,ロボホン
 
-=2019-01-26T10:28:52+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -736,8 +742,9 @@ Hire
 エンジニア
 人財テック
 しごと
+バイト
 
-=2019-06-01T11:40:04+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2019-06-09T15:47:57+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -798,8 +805,10 @@ MRI
 医薬品
 障がい
 治験
+ホスピス
+骨粗しょう症
 
-=2017-03-28T07:20:56+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
+=2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
 ワイン
 ビール
@@ -808,6 +817,7 @@ MRI
 利き酒
 食品
 Retty
+トッピング
 
 =2017-03-23T09:01:17+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
@@ -842,7 +852,7 @@ OpenPose
 スタイル変換
 ColouriseSG
 
-=2019-04-25T18:55:18+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2019-06-09T15:47:59+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -870,6 +880,8 @@ MNIST
 DeepSolar
 表情
 迷彩
+顔検出
+人物解析
 
 =2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -943,11 +955,12 @@ ezcommu
 通訳
 STACL
 
-=2019-04-10T11:48:05+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
+=2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
 議事録
 秘書
 IMAKITA
 件名
+見出し
 
 =2019-03-11T12:37:51+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
 音声処理
@@ -992,7 +1005,7 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-05-24T12:07:24+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-06-09T15:47:57+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1005,6 +1018,7 @@ Suica
 Retail
 定額サービス
 クレジット
+Amazon Pay
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1203,7 +1217,7 @@ Labellio,ラベリオ
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Altan Robotech/keywords
 Giddel
 
-=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2019-06-09T15:47:58+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
 AWS
 Alexa
@@ -1213,6 +1227,7 @@ SageMaker
 Hub by Amazon
 GAFA
 GAFAM
+StyleSnap
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -1716,8 +1731,9 @@ MakeRepeater
 =2017-03-22T07:11:34+09:00 Computer/トピック/社会動向/企業/Good Moneyger/keywords
 VESTA
 
-=2017-03-28T07:30:09+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
+=2019-06-09T15:47:57+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
+AlphaStar
 
 =2019-05-24T12:07:24+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
@@ -1862,8 +1878,9 @@ e-Spire,イースパイア
 =2017-04-11T09:51:24+09:00 Computer/トピック/社会動向/企業/IIJ/keywords
 IIJ GIOサービス
 
-=2019-01-15T13:52:12+09:00 Computer/トピック/社会動向/企業/IKEA/keywords
+=2019-06-09T15:47:57+09:00 Computer/トピック/社会動向/企業/IKEA/keywords
 イケア,IKEA
+ROGNAN
 
 =2017-09-26T07:36:28+09:00 Computer/トピック/社会動向/企業/Imagination/keywords
 Imagination,Imagination Technologies Group,イマジネーションテクノロジーズ
@@ -2859,6 +2876,9 @@ AXON Predict Analytics
 =2018-10-29T09:48:09+09:00 Computer/トピック/社会動向/企業/Workday/keywords
 ワークデイ,Workday
 
+=2017-10-16T09:22:18+09:00 Computer/トピック/社会動向/企業/Wovn Technologies/keywords
+WOVN.io,ウォーブンドットアイオー
+
 =2019-04-02T11:44:22+09:00 Computer/トピック/社会動向/企業/xenodata lab/keywords
 xenoBrain
 
@@ -3690,6 +3710,9 @@ Akerun
 =2017-10-10T13:15:07+09:00 Computer/トピック/社会動向/企業/スペクトラム・テクノロジー/keywords
 ホワイトハッカ育成ツール
 
+=2019-06-09T15:47:58+09:00 Computer/トピック/社会動向/企業/スマイループス/keywords
+ジョブクルバイト
+
 =2017-10-16T10:13:04+09:00 Computer/トピック/社会動向/企業/スマートキャンプ/keywords
 BoID
 
@@ -3869,6 +3892,9 @@ Advertising as a Service,AaaS
 ティアフォー,Tier IV
 Milee,マイリー
 Autoware
+
+=2019-06-09T15:47:57+09:00 Computer/トピック/社会動向/企業/ティファナ/keywords
+AIさくらさん
 
 =2017-05-23T08:52:48+09:00 Computer/トピック/社会動向/企業/ティファナ・ドットコム/keywords
 KIZUNA
@@ -4365,9 +4391,6 @@ hamon Cloud
 
 =2017-07-21T12:10:50+09:00 Computer/トピック/社会動向/企業/ミデア/keywords
 ミデア,美的,Midea
-
-=2017-10-16T09:22:18+09:00 Computer/トピック/社会動向/企業/ミニマル・テクノロジーズ/keywords
-WOVN.io,ウォーブンドットアイオー
 
 =2017-11-25T08:12:21+09:00 Computer/トピック/社会動向/企業/ミライセルフ/keywords
 mitsucari適性検査,ミツカリ
@@ -5183,7 +5206,7 @@ KEK,高エネルギー加速器研究機構
 =2017-05-30T07:28:39+09:00 Computer/トピック/社会動向/研究機関/NEDO/keywords
 NEDO,新エネルギー・産業技術総合開発機構
 
-=2019-02-24T19:14:04+09:00 Computer/トピック/社会動向/研究機関/NICT/keywords
+=2019-06-09T15:47:57+09:00 Computer/トピック/社会動向/研究機関/NICT/keywords
 NICT,情報通信機構,情報通信研究機構
 VoiceTra
 WISDOM X
@@ -5191,6 +5214,7 @@ D-SUMM
 WEKDA,ウェクダ
 LOTUS
 CYDERANGE
+CURE
 
 =2019-01-07T12:13:07+09:00 Computer/トピック/社会動向/研究機関/NII/keywords
 情報・システム研究機構国立情報学研究所,国立情報学研究所,NII
