@@ -207,7 +207,10 @@ Sumerian
 Amazon EMR
 DeepLens
 
-=2019-03-18T13:40:50+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
+=2019-06-17T13:56:31+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/Colaboratory/keywords
+Collab
+
+=2019-06-17T11:59:39+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
 Google AppEngine
 Firebase
@@ -216,8 +219,6 @@ GAE
 Cloud Speech-to-Text
 Bigquery
 Cloud Services Platform
-google colab
-Google Colaboratory
 
 =2018-08-24T11:07:27+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
@@ -518,7 +519,7 @@ TensorFlow
 Keras
 Chainer
 
-=2019-04-18T13:09:31+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
+=2019-06-17T13:56:32+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
 DMP
 情シス,情報システム部
 失敗例
@@ -527,6 +528,7 @@ DMP
 ボトムアップ
 AI活用
 AI開発
+顧客体験
 
 =2018-05-30T14:34:04+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
 Alexa,アレクサ
@@ -977,7 +979,7 @@ CHIVOX
 文字起こし
 音声文字変換
 
-=2018-11-14T09:37:46+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2019-06-17T13:56:31+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -990,6 +992,7 @@ CHIVOX
 漁業
 養殖
 農作業
+バナナ
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -1007,7 +1010,7 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-06-09T15:47:57+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-06-17T13:56:31+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1021,6 +1024,7 @@ Retail
 定額サービス
 クレジット
 Amazon Pay
+PASMO
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1089,7 +1093,7 @@ TensorFlow
 Keras
 Chainer
 
-=2019-06-05T11:57:53+09:00 Computer/トピック/社会動向/keywords
+=2019-06-17T13:56:31+09:00 Computer/トピック/社会動向/keywords
 五反田バレー
 EXPO
 HITL
@@ -1097,6 +1101,7 @@ HITL
 DARQ
 AIに代替
 暗い森
+拡張知能
 
 =2017-03-28T13:24:52+09:00 Computer/トピック/社会動向/シンギュラリティ/keywords
 雇用大崩壊
@@ -1740,7 +1745,7 @@ VESTA
 DeepMind,ディープマインド
 AlphaStar
 
-=2019-05-24T12:07:24+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2019-06-17T12:00:38+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1771,7 +1776,6 @@ Hangouts Chat
 Bristlecone
 SONG MAKER
 Google Lens
-Google Colaboratory
 Project Shield
 Google Duplex
 Colaboratory
@@ -2137,7 +2141,7 @@ CALNA
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
 
-=2019-06-05T11:57:52+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2019-06-17T13:57:21+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -2160,7 +2164,7 @@ Service Fabric
 Surface Hub
 Dynamics 365
 SharePoint
-ビル・ゲイツ
+ゲイツ,ビル・ゲイツ
 Skype
 GAFAM
 ホロレンズ
@@ -2831,6 +2835,9 @@ Throne
 
 =2018-06-15T17:13:16+09:00 Computer/トピック/社会動向/企業/Valve/keywords
 Steam
+
+=2019-06-17T13:58:06+09:00 Computer/トピック/社会動向/企業/Varjo/keywords
+ヴァルヨ,Varjo
 
 =2017-09-04T09:01:36+09:00 Computer/トピック/社会動向/企業/Vector/keywords
 Vector,ベクター
@@ -3769,7 +3776,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2019-06-05T11:57:52+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2019-06-17T13:56:31+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -3784,6 +3791,7 @@ MANOMA
 SPRESENSE
 SIE
 PS
+Prediction One
 
 =2017-10-10T09:15:03+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
