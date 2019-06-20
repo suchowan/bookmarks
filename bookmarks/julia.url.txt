@@ -232,6 +232,9 @@ URL=https://qiita.com/cometscome_phys/items/38ac9a89b96579b6a34b
 =2019-04-22T06:25:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/JuliaのDataFrameはPythonより厳格だった - Qiita
 URL=https://qiita.com/prs-watch/items/84facc355f4f1e32eb20
 
+=2019-06-17T05:52:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaパッケージ　DesignStructureMatrix.jlを制作して公式パッケージにするまで - システムとモデリング
+URL=http://otepipi.hatenablog.com/entry/2019/06/17/055223
+
 =2019-02-09T20:45:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/K.B.砂糖さんのツイート Julia で Plots (GR) を使うときに error compiling _plot! error compiling _display could not load library libGR.dll The
 URL=https://twitter.com/KB_satou/status/1094138287902535680
 
@@ -246,6 +249,9 @@ URL=https://twitter.com/wint7/status/1105397946575548416
 
 =2019-02-14T07:48:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Yuki Nagaiさんのツイート Juliaの強束縛模型パッケージ TightBinding.jlが公式パッケージに昇格した。これからは add TightBinding でインストールできる
 URL=https://twitter.com/cometscome_phys/status/1096024284856692737
+
+=2019-06-18T01:44:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/【Julia1.1】プルリクエスト状態のパッケージをインストールする - Qiita
+URL=https://qiita.com//Kazuhito/items/29d005dbc9b6141212e0
 
 =2018-10-30T11:12:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ゴロピカリさんのツイート パッケージの雛形を作ってくれる PkgTemplates.jl が Julia 1.0 に対応！#julialang httpst.coRjwQpct6J0
 URL=https://twitter.com/goropikari_/status/1057054032508796929
@@ -568,6 +574,9 @@ URL=https://kiszk.github.io/2018/12/19/TensorFlow-Julia-TPU-XLA/
 =2018-04-12T13:11:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/JuliaでTensorFlow その5 ニューラルネットワークの導入と深層学習-Qiita
 URL=https://qiita.com/cometscome_phys/items/45017aa9741c5fdc7eb9
 
+=2019-06-17T02:58:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaでゼロから作るDeep Learning - 元バイオ系
+URL=http://hotoke-x.hatenablog.com/entry/2019/06/17/Julia%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep_Learning
+
 =2016-09-30T07:58:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで学ぶ画像処理-ニューラルネットワーク(Neural Network) part1-
 URL=https://lp-tech.net/articles/SEFVJ
 
@@ -703,6 +712,9 @@ URL=https://twitter.com/genkuroki/status/1062224956749099008
 =2018-07-23T08:00:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/科学技術計算用言語 Julia - Applied Mathematics 7 (2018)
 URL=http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2018-7Semester-AppliedMath7/14_julia/
 
+=2018-02-19T00:27:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ABC088 を Julia で解いてみる - わかばめにっき
+URL=http://wakabame.hatenablog.com/entry/2018/02/19/002718
+
 =2019-03-29T07:40:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Julia 1.1コードがgfortran+MKLに勝った - Qiita
 URL=https://qiita.com/cometscome_phys/items/c55cd207fd7c16e4055b
 
@@ -736,8 +748,17 @@ URL=https://twitter.com/MathSorcerer/status/1060227606828609536
 =2018-11-18T19:28:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/やすべぇさんのツイート httpst.coRTBFCPRyFf ``` ベンチマークなどに使えるのが実行時間とアロケートされたメモリを測る@timeマクロです。
 URL=https://twitter.com/yasubeitwi/status/1064092467216113664
 
+=2019-06-18T06:31:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/春さんのツイート  自分でも試してみたら、もう一つ気をつけるべきことを見つけた。 辞書の場合、型指定をしても抽象型だと全く意味がない（笑） なんとしても具象型になるように書くべき。
+URL=https://twitter.com/sunbluesome/status/1140639949680603137
+
+=2019-06-17T13:47:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen Kurokiさんのツイート  【Juliaみたいにコンパイル処理等の影響で(本来速いのに)ほとんどの問題がTLEで通せない言語もあり、
+URL=https://twitter.com/genkuroki/status/1141191877292486656
+
 =2018-11-07T22:02:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen Kurokiさんのツイート #Julia言語 Jeff Bezanson - Why is Julia fast httpst.coMmZ8zhHPfZ @YouTubeより
 URL=https://twitter.com/genkuroki/status/1060097131061465089
+
+=2019-06-17T18:31:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen Kurokiさんのツイート #Julia言語 Juliaで効率を損なわないようにするための方法が httpst.coDNNPZpqY4r に詳しく書いてあります。Juliaの公式ドキュメントは
+URL=https://twitter.com/genkuroki/status/1140550896524247045
 
 =2018-09-30T19:58:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen Kurokiさんのツイート #Julia言語 のコンパイラがどういうところで頑張ろうとしているかがわかる
 URL=https://twitter.com/genkuroki/status/1046279862468542466
