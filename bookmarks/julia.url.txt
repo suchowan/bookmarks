@@ -283,6 +283,9 @@ URL=https://twitter.com/ceptree/status/1046957204992081920
 =2017-12-11T21:29:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Channel のススメ - Qiita
 URL=https://qiita.com/antimon2/items/d58262acbcd24a92abf6
 
+=2019-06-22T06:42:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Hidemoto Nakadaさんのツイート Julia の リスト内包表現で、 [x - 1 for x in 12] はOKなのに [x -1 for x in 12] はシンタックスエラーが出る。 x - 1 の マイナスと1の間にスペースが
+URL=https://twitter.com/hidemotoNakada/status/1142410088105181184
+
 =2018-10-25T08:30:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia - @enum で割り当てられた番号から変数名を知る - goropikariの備忘録
 URL=https://goropikari.hatenablog.com/entry/julia_enum
 
@@ -364,6 +367,9 @@ URL=https://twitter.com/goropikari_/status/1041245147193782272
 =2019-02-08T07:29:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゴロピカリさんのツイート 言われてみれば、まぁ出来るかと思いはするけど自力でこれは思いつけないな。多重ディスパッチ面白いなぁ。 httpst.co1M2KRaD1vN…
 URL=https://twitter.com/goropikari_/status/1093874568958140417
 
+=2019-06-21T07:05:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/肥大した $HOME.julia を整理する - 書いたものなど
+URL=https://machakann.hatenablog.com/entry/2019/06/21/004338
+
 =2018-12-20T18:31:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 (m,n)型 → size (m,n) の Matrix{T}=Array{T,2}型 (行列) (n, )型 → 長さ1の Vector{T}=Array{T,1}型 (縦ベクトル) 
 URL=https://twitter.com/genkuroki/status/1076039976024825858
 
@@ -384,6 +390,9 @@ URL=https://twitter.com/genkuroki/status/1108310172005359616
 
 =2018-03-08T06:58:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 における線形代数のデザインについては httpst.coMFsCeQmUGx が面白いです。添付画像のようにファン・デル・ヴェルデンの有名な教科書を引用して
 URL=https://twitter.com/genkuroki/status/971604718534344709
+
+=2019-06-23T11:05:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 に限らず、モダンなプログラミング言語で配列を使った数値計算のコードを書くときに特に注意しなければいけないことは、
+URL=https://twitter.com/genkuroki/status/1142577010641817600
 
 =2018-11-13T06:22:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 はJulia言語のコード自体を扱う機能を持っています。そういう機能は効率よく数値計算のコードを書くためには必須。
 URL=https://twitter.com/genkuroki/status/1062328317460733952
@@ -522,6 +531,9 @@ URL=https://twitter.com/genkuroki/status/1050395040445427712
 
 =2018-03-16T07:01:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 2×2の分割表の独立性検定シリーズ14 httpst.coZsT3XcSyk6 複数の確率分布でカイ二乗検定とG検定とFisherの正確検定を比較 どういう話かについては以下のリンク先の
 URL=https://twitter.com/genkuroki/status/974524859907637249
+
+=2019-06-22T10:31:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 メモ httpst.coEs5SEXw6kR JuliaRobotics httpst.cofxd3u2DB3L RobotOS.jl  Robot
+URL=https://twitter.com/genkuroki/status/1142228172076793856
 
 =2018-09-19T06:58:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 添付動画は LASSO のパラメーター lambda を適当に調節した場合。
 URL=https://twitter.com/genkuroki/status/1042146204405182470
