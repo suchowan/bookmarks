@@ -35,7 +35,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-06-24T12:17:01+09:00 Computer/トピック/セキュリティ/keywords
+=2019-07-06T14:54:24+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -100,6 +100,7 @@ WAF
 偽装
 SymCrypt
 アドブロッカー
+脆弱な
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1619,7 +1620,7 @@ Access Policy Manager,APM
 =2019-02-10T15:29:37+09:00 Computer/トピック/社会動向/企業/Fable/keywords
 Virtual Beings
 
-=2019-02-28T15:47:51+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
+=2019-07-06T14:54:22+09:00 Computer/トピック/社会動向/企業/Facebook/keywords
 FB,Facebook,フェイスブック
 Lumos
 Caffe2Go
@@ -1635,6 +1636,7 @@ Detectron
 GAFA
 FB
 GAFAM
+Libra
 
 =2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
 SIGNAL
@@ -2865,9 +2867,6 @@ Vector,ベクター
 Veeam,Veeam Software
 Veeam Recovery to Microsoft Azure with Veeam PN
 
-=2018-01-10T10:33:50+09:00 Computer/トピック/社会動向/企業/Veritas/keywords
-Veritas,ベリタス
-
 =2017-10-02T08:40:22+09:00 Computer/トピック/社会動向/企業/Veritone/keywords
 aiWARE
 Xcellis
@@ -3772,10 +3771,10 @@ SkyFox
 =2017-08-08T10:20:45+09:00 Computer/トピック/社会動向/企業/セゾン/keywords
 HULFT-WebConnect
 
-=2019-05-24T12:07:24+09:00 Computer/トピック/社会動向/企業/セブン&アイ/keywords
+=2019-07-06T11:15:21+09:00 Computer/トピック/社会動向/企業/セブン&アイ/keywords
 オムニ7
 セブン,セブン‐イレブン,セブンイレブン,セブン&アイ
-7pay
+セブン・ペイ,7pay
 
 =2019-05-12T14:48:46+09:00 Computer/トピック/社会動向/企業/セブン・ドリーマーズ/keywords
 ランドロイド1
@@ -4375,7 +4374,8 @@ AI-PR
 =2017-04-11T10:02:21+09:00 Computer/トピック/社会動向/企業/ベジタリア/keywords
 ベジタリア植物病院
 
-=2017-08-08T08:53:47+09:00 Computer/トピック/社会動向/企業/ベリタステクノロジーズ/keywords
+=2019-07-06T14:20:24+09:00 Computer/トピック/社会動向/企業/ベリタステクノロジーズ/keywords
+Veritas,ベリタス,ベリタステクノロジーズ
 Integrated Classification Engine
 
 =2017-04-21T08:03:38+09:00 Computer/トピック/社会動向/企業/ベルシステム24/keywords
@@ -5290,6 +5290,9 @@ WEKDA,ウェクダ
 LOTUS
 CYDERANGE
 CURE
+
+=2019-07-06T14:54:48+09:00 Computer/トピック/社会動向/研究機関/NIES/keywords
+国立環境研究所,NIES
 
 =2019-01-07T12:13:07+09:00 Computer/トピック/社会動向/研究機関/NII/keywords
 情報・システム研究機構国立情報学研究所,国立情報学研究所,NII
