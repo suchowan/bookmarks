@@ -35,7 +35,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-07-06T14:54:24+09:00 Computer/トピック/セキュリティ/keywords
+=2019-07-10T13:57:41+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -101,6 +101,7 @@ WAF
 SymCrypt
 アドブロッカー
 脆弱な
+無断
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -540,9 +541,10 @@ Amazon Echo,AmazonEcho
 Echosim.io
 アマゾン・エコー
 
-=2019-03-18T12:36:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
+=2019-07-10T13:57:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
 Google アシスタント
+オーケー、グーグル
 
 =2019-06-09T15:47:57+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
@@ -897,6 +899,9 @@ DeepSolar
 自動操縦
 自律走行
 
+=2019-07-10T14:00:33+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/ドローン/keywords
+Drone,ドローン
+
 =2019-03-22T13:30:49+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
 無人運転車
 自律自動車
@@ -1015,7 +1020,7 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-06-17T13:56:31+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-07-10T13:57:41+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1030,6 +1035,7 @@ Retail
 クレジット
 Amazon Pay
 PASMO
+おサイフケータイ
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1426,6 +1432,9 @@ DenseBody
 
 =2018-09-10T11:46:54+09:00 Computer/トピック/社会動向/企業/CMR Surgical/keywords
 Versius
+
+=2019-07-10T13:58:19+09:00 Computer/トピック/社会動向/企業/CM総合研究所/keywords
+CM総研,CM総合研究所
 
 =2017-08-21T10:37:35+09:00 Computer/トピック/社会動向/企業/Cobalt/keywords
 コバルト,cobalt
@@ -2812,6 +2821,9 @@ Apex One
 =2017-09-07T10:19:54+09:00 Computer/トピック/社会動向/企業/Tripbox/keywords
 Tastime
 
+=2019-07-10T13:59:17+09:00 Computer/トピック/社会動向/企業/Tuya Smart/keywords
+Tuya,Tuya Smart
+
 =2017-03-30T10:41:51+09:00 Computer/トピック/社会動向/企業/twitter/keywords
 Twitter,ツイッター
 
@@ -2866,6 +2878,9 @@ Vector,ベクター
 =2019-06-28T12:56:15+09:00 Computer/トピック/社会動向/企業/Veeam Software/keywords
 Veeam,Veeam Software
 Veeam Recovery to Microsoft Azure with Veeam PN
+
+=2018-01-10T10:33:50+09:00 Computer/トピック/社会動向/企業/Veritas/keywords
+Veritas,ベリタス
 
 =2017-10-02T08:40:22+09:00 Computer/トピック/社会動向/企業/Veritone/keywords
 aiWARE
@@ -3500,6 +3515,9 @@ GTN,グローバルトラストネットワークス
 =2017-03-30T11:23:24+09:00 Computer/トピック/社会動向/企業/グローバル・ブレイン/keywords
 グローバル・ブレイン,Global Brain
 
+=2019-07-10T13:59:43+09:00 Computer/トピック/社会動向/企業/グロービス/keywords
+GLOBIS,グロービス
+
 =2017-12-25T16:20:56+09:00 Computer/トピック/社会動向/企業/グローブライド/keywords
 ダイワ
 
@@ -4083,6 +4101,9 @@ TUNEDiD
 
 =2017-04-10T14:38:18+09:00 Computer/トピック/社会動向/企業/ナカバヤシ/keywords
 CUTPEN
+
+=2019-07-10T13:58:56+09:00 Computer/トピック/社会動向/企業/ナビタイム/keywords
+NAVITIME,ナビタイム
 
 =2018-12-14T14:20:02+09:00 Computer/トピック/社会動向/企業/ナレッジコミュニケーション/keywords
 ナレコムAI
@@ -5229,7 +5250,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-06-13T12:59:41+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-07-10T13:57:41+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5271,6 +5292,7 @@ TSUBAME
 首相
 仙台市
 長野
+島根県
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
