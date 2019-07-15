@@ -327,13 +327,14 @@ Golang
 Jakarta EE
 JDK
 
-=2019-04-22T11:48:00+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
+=2019-07-15T12:57:34+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
 Javascript,JavaScript
 AngularJS
 ESLint
 Angular
 TypeScript
 GoogleAppsScript
+Hermes
 
 =2018-03-20T14:56:09+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/Node.js/keywords
 Node-RED
@@ -546,7 +547,7 @@ Google Home
 Google アシスタント
 オーケー、グーグル
 
-=2019-06-09T15:47:57+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2019-07-15T12:57:35+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -560,6 +561,7 @@ codama
 質問応答
 nomi
 AIさくらさん
+AI案内
 
 =2018-09-14T12:11:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -2473,6 +2475,9 @@ DynaEye
 =2017-07-04T11:14:38+09:00 Computer/トピック/社会動向/企業/Phybbit/keywords
 SpiderAF
 
+=2019-07-15T12:47:09+09:00 Computer/トピック/社会動向/企業/Pixellot/keywords
+スターコミュニケーションズ
+
 =2017-04-10T07:59:33+09:00 Computer/トピック/社会動向/企業/PLAN-B/keywords
 Juicer
 
@@ -3318,6 +3323,9 @@ ABookSee
 =2018-11-01T11:40:14+09:00 Computer/トピック/社会動向/企業/エースチャイルド/keywords
 Filii
 
+=2019-07-15T12:57:37+09:00 Computer/トピック/社会動向/企業/エー・アンド・ユー/keywords
+a＋u
+
 =2017-03-30T11:59:11+09:00 Computer/トピック/社会動向/企業/オウケイウェイヴ/keywords
 OKBIZ
 
@@ -3732,9 +3740,6 @@ FACY,フェイシー
 
 =2017-07-31T10:37:11+09:00 Computer/トピック/社会動向/企業/スタディスト/keywords
 Teachme Biz
-
-=2018-02-06T14:04:43+09:00 Computer/トピック/社会動向/企業/スターコミュニケーションズ/keywords
-Pixellot
 
 =2018-04-06T13:38:20+09:00 Computer/トピック/社会動向/企業/スタートトゥデイ/keywords
 ゾゾタウン
@@ -5129,6 +5134,9 @@ SMBC,三井住友
 
 =2019-06-01T11:43:12+09:00 Computer/トピック/社会動向/企業/金融・保険/百五銀行/keywords
 百五銀,百五銀行
+
+=2019-07-15T12:57:36+09:00 Computer/トピック/社会動向/企業/阿芙/keywords
+Smart Camera
 
 =2017-10-10T14:57:08+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/エネチェンジ/keywords
 SMAP収益性分析

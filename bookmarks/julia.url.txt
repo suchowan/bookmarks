@@ -637,6 +637,9 @@ URL=https://qiita.com//yshutaro/items/e0a3a6c9ea84f8ab0fd3
 =2018-10-14T22:08:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/いのうえさんのツイート juliaで機械学習、 純正はKnetとFluxってのがあって、ひとまずFluxでMNISTの学習とテストまで
 URL=https://twitter.com/earlylifely/status/1051350418922459136
 
+=2019-07-11T19:49:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/加藤和彦さんのツイート MITのJulia開発者の人達が，Julia上にAIプログラミング言語・確率的プログラミング言語なるものを開発し，PLDI 2019で発表しました。新しい道を切り拓いていこうとする力に感心。
+URL=https://twitter.com/kzhk/status/1149216653076340736
+
 =2019-03-09T08:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/機械学習で選ばれる言語を目指す「Julia」の挑戦--ライブラリ「Flux」が鍵 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35133918/
 
@@ -669,6 +672,9 @@ URL=https://qiita.com/doorei/items/91a52a31f917b9d7bb84
 
 =2019-05-11T07:01:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia で令和対応（やっつけじゃない方）してみた - Qiita
 URL=https://qiita.com/antimon2/items/841c47b0617fc926071d
+
+=2019-07-13T11:00:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia のIDE Juno を使って快適なJuliaとの生活をする手引き(前半） - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/3dda33ece801b75e248c
 
 =2019-07-10T10:05:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/JuliaからFortranの構造体を引数にもつsubroutineを呼び出す - Qiita
 URL=https://qiita.com/cometscome_phys/items/fdf5720764b579ae8640
@@ -723,6 +729,9 @@ URL=https://twitter.com/bicycle1885/status/1050696387178913792
 
 =2019-02-07T07:46:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/数値解析学模様の岡本さんのツイート Juliaをオンラインで学ぶ新しいプラットフォーム，JuliaAcademyがローンチされたとメールがきた．Introduction to Julia, Introduction to Machine Learn
 URL=https://twitter.com/kaisekigakumoyo/status/1093177374936629249
+
+=2019-07-14T18:03:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/駆け出しJulia入門③　環境構築（Atom・Jupter・VSCode） - Qiita
+URL=https://qiita.com/Kazuya951/items/3074345d54e2bcd5ace0
 
 =2018-09-14T19:33:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen Kurokiさんのツイート #Julia言語 httpst.coAKc40tyKD4 でMarkdownによる解説を書く場合に
 URL=https://twitter.com/genkuroki/status/1040313796235948032
