@@ -256,6 +256,9 @@ URL=http://nemocas.org/
 =2019-03-12T07:05:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/wint ドライアイ+花粉症さんのツイート おっ、scikit-learn の Julia 版あるじゃん
 URL=https://twitter.com/wint7/status/1105397946575548416
 
+=2018-12-03T14:43:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/XLA.jl を試してみた - Qiita
+URL=https://qiita.com/antimon2/items/ccfb5c2353d99fcb1976
+
 =2019-02-14T07:48:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Yuki Nagaiさんのツイート Juliaの強束縛模型パッケージ TightBinding.jlが公式パッケージに昇格した。これからは add TightBinding でインストールできる
 URL=https://twitter.com/cometscome_phys/status/1096024284856692737
 
@@ -682,6 +685,9 @@ URL=https://qiita.com/cometscome_phys/items/fdf5720764b579ae8640
 =2019-02-13T07:52:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaで関数呼び出しでどのメソッドが実行されてるかを表示するマクロを書いてみた。ちょっと便利。
 URL=https://twitter.com/bicycle1885/status/1095506806611238913
 
+=2019-01-27T23:21:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaの配列をFFIで渡す - Qiita
+URL=https://qiita.com/termoshtt/items/1f91e8868c50a645cd3d
+
 =2018-10-29T05:55:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Jupyter Notebook Viewer
 URL=https://nbviewer.jupyter.org/format/slides/gist/phigasui/9c6863c41fd39c8638fb7364117d17ef#/
 
@@ -726,6 +732,9 @@ URL=https://econ101.jp/%e3%82%bf%e3%82%a4%e3%83%a9%e3%83%bc%e3%83%bb%e3%82%b3%e3
 
 =2018-10-12T08:30:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/デバッグにはRevise.jl(httpst.co4v48ihKEOR)が便利ですよ。REPLを起動したままファイルを更新すれば自動で
 URL=https://twitter.com/bicycle1885/status/1050696387178913792
+
+=2019-07-18T09:07:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/他言語からJulia言語を呼び出すヒント(実行形式でC言語から呼び出すよ：前半) - Qiita
+URL=https://qiita.com//SatoshiTerasaki/items/067ccc5aea7ff8576cc8
 
 =2019-02-07T07:46:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/数値解析学模様の岡本さんのツイート Juliaをオンラインで学ぶ新しいプラットフォーム，JuliaAcademyがローンチされたとメールがきた．Introduction to Julia, Introduction to Machine Learn
 URL=https://twitter.com/kaisekigakumoyo/status/1093177374936629249
