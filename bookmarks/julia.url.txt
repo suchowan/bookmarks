@@ -277,6 +277,9 @@ URL=https://qiita.com/cometscome_phys/items/ebdab84e2009cf5a3faf
 =2019-03-19T10:15:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/徒に JuliaでPlot した話 - Qiita
 URL=https://qiita.com/hydrocoast/items/75c52f373eda734a3833
 
+=2018-10-20T21:05:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/覇権を取る、Juliaパッケージの作り方 Part1 - ログミーTech
+URL=https://logmi.jp/tech/articles/321564
+
 =2018-09-05T18:26:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen Kurokiさんのツイート #Julia言語 v1.0では高速に代数計算をしてくれるNemo.jlパッケージも使えます。 httpst.coVdWZwMLdp6 このパッケージを研究に使う人が出て
 URL=https://twitter.com/genkuroki/status/1054015482624266242
 
@@ -712,6 +715,9 @@ URL=https://twitter.com/triwave33/status/1138366475834601472
 =2018-09-06T07:05:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/WindowsへのJuliaのインストール.ipynb
 URL=https://gist.github.com/genkuroki/81de23edcae631a995e19a2ecf946a4f
 
+=2019-07-19T13:27:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/WSLでJuliaを使う - Qiita
+URL=https://qiita.com/qope/items/3f6a201765841f5fc9ab
+
 =2019-04-05T06:16:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんのツイート #Julia言語 Julia公式Dockerイメージを拡張したオレオレJuliaイメージを Docker Hub にて公開してみました．PyCall.jl，IJuliaによるJupyter，JuliaとPythonのや
 URL=https://twitter.com/MathSorcerer/status/1113824642127388673
 
@@ -732,6 +738,9 @@ URL=https://econ101.jp/%e3%82%bf%e3%82%a4%e3%83%a9%e3%83%bc%e3%83%bb%e3%82%b3%e3
 
 =2018-10-12T08:30:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/デバッグにはRevise.jl(httpst.co4v48ihKEOR)が便利ですよ。REPLを起動したままファイルを更新すれば自動で
 URL=https://twitter.com/bicycle1885/status/1050696387178913792
+
+=2019-07-21T23:42:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/他言語からJulia言語を呼び出すヒント(前編 実行形式でC言語から呼び出すよ) - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/067ccc5aea7ff8576cc8
 
 =2019-07-18T09:07:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/他言語からJulia言語を呼び出すヒント(実行形式でC言語から呼び出すよ：前半) - Qiita
 URL=https://qiita.com//SatoshiTerasaki/items/067ccc5aea7ff8576cc8
