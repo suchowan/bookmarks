@@ -1,4 +1,4 @@
-=2019-07-24T13:52:12+09:00 Computer/トピック/VR・AR・MR/keywords
+=2019-08-02T12:48:29+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -25,6 +25,7 @@ MICA
 XR
 没入
 ホログラム
+スマートグラス
 
 =2018-11-16T10:00:19+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Vtuber,VTuber
@@ -1240,7 +1241,7 @@ Labellio,ラベリオ
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Altan Robotech/keywords
 Giddel
 
-=2019-06-09T15:47:58+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2019-08-02T12:48:30+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
 AWS
 Alexa
@@ -1251,6 +1252,7 @@ Hub by Amazon
 GAFA
 GAFAM
 StyleSnap
+Ring
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -4391,9 +4393,6 @@ Relay
 =2017-08-04T09:26:05+09:00 Computer/トピック/社会動向/企業/プレイド/keywords
 KARTE,カルテ
 
-=2017-08-04T11:47:10+09:00 Computer/トピック/社会動向/企業/プレンプロジェクト/keywords
-PLEN Cube
-
 =2018-03-27T17:29:17+09:00 Computer/トピック/社会動向/企業/プロジェクト・メイ/keywords
 Minutes Mayker
 
@@ -5005,6 +5004,10 @@ Autobacs,オートバックス
 Bosch,ボッシュ
 Plantect
 
+=2019-08-02T13:17:19+09:00 Computer/トピック/社会動向/企業/自動車/Continental/keywords
+コンチネンタル,Continental
+eHorizon
+
 =2017-04-13T10:30:01+09:00 Computer/トピック/社会動向/企業/自動車/Daimler/keywords
 Daimler,ダイムラー
 
@@ -5041,9 +5044,6 @@ Volvo,ボルボ
 
 =2017-04-11T11:50:14+09:00 Computer/トピック/社会動向/企業/自動車/VW/keywords
 VW,フォルクスワーゲン
-
-=2017-09-07T10:33:01+09:00 Computer/トピック/社会動向/企業/自動車/コンチネンタル/keywords
-eHorizon
 
 =2019-07-02T16:03:00+09:00 Computer/トピック/社会動向/企業/自動車/ダイハツ/keywords
 ダイハツ工業,ダイハツ
