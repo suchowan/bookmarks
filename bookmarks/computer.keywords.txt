@@ -834,10 +834,11 @@ MRI
 Retty
 トッピング
 
-=2017-03-23T09:01:17+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
+=2019-08-12T10:35:19+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
 東ロボくん
 すらら,Surala
+学力
 
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
@@ -1026,7 +1027,7 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-07-10T13:57:41+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-08-12T10:35:20+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1042,6 +1043,7 @@ Retail
 Amazon Pay
 PASMO
 おサイフケータイ
+財布
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1322,6 +1324,9 @@ Stride
 =2019-05-28T11:33:34+09:00 Computer/トピック/社会動向/企業/Automation Anywhere/keywords
 オートメーション・エニウェア,Automation Anywhere
 
+=2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/AVA Intelligence/keywords
+AVA Travel
+
 =2017-09-15T11:11:54+09:00 Computer/トピック/社会動向/企業/AZAPA/keywords
 DBT,Deep Binary Tree
 
@@ -1425,6 +1430,9 @@ ChatWork,Chatwork
 =2017-10-12T10:26:27+09:00 Computer/トピック/社会動向/企業/Chef/keywords
 Habitat
 
+=2019-08-12T10:35:20+09:00 Computer/トピック/社会動向/企業/CIJ/keywords
+AYUDA
+
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Cisco/keywords
 シスコ,シスコシステムズ,CISCO
 Tetration Analytics,テトレーション アナリティックス
@@ -1502,6 +1510,9 @@ Darktrace,ダークトレース
 
 =2017-03-29T08:41:19+09:00 Computer/トピック/社会動向/企業/DataRobot/keywords
 DataRobot,データロボット
+
+=2019-08-12T10:35:20+09:00 Computer/トピック/社会動向/企業/DataSparQ/keywords
+A.I.Bar
 
 =2017-09-07T10:43:47+09:00 Computer/トピック/社会動向/企業/Datorama/keywords
 Datorama Genius
@@ -1880,9 +1891,10 @@ Reverb
 Viveport
 VIVE
 
-=2017-11-11T06:15:29+09:00 Computer/トピック/社会動向/企業/Huawei/keywords
+=2019-08-12T10:35:20+09:00 Computer/トピック/社会動向/企業/Huawei/keywords
 Enterprise Intelligence
 Huawei,ファーウェイ
+HarmonyOS
 
 =2017-10-16T10:30:52+09:00 Computer/トピック/社会動向/企業/HybridBlock/keywords
 HybridBlock,ハイブリッドブロック
@@ -1933,6 +1945,9 @@ FLUX
 
 =2019-05-24T12:09:18+09:00 Computer/トピック/社会動向/企業/inaho/keywords
 Inaho,inaho
+
+=2019-08-12T10:35:20+09:00 Computer/トピック/社会動向/企業/Indiegogo/keywords
+ZiiLock
 
 =2018-04-28T12:27:21+09:00 Computer/トピック/社会動向/企業/Infineon Technologies/keywords
 インフィニオン
@@ -2566,6 +2581,9 @@ Rapyuta Robotics,ラピュタ・ロボティクス
 =2018-01-22T10:40:41+09:00 Computer/トピック/社会動向/企業/Red Hat/keywords
 Red hat,レッドハット
 OpenShift
+
+=2019-08-12T10:35:20+09:00 Computer/トピック/社会動向/企業/Refraction AI/keywords
+REV-1
 
 =2017-09-04T11:32:32+09:00 Computer/トピック/社会動向/企業/Regulus Technologies/keywords
 オートーク
@@ -3470,6 +3488,9 @@ Staple
 ClassCat,クラスキャット
 ClassCat DeepLearning Appliance for TensorFlow
 
+=2019-08-12T10:36:28+09:00 Computer/トピック/社会動向/企業/クラリス/keywords
+ファイルメーカー,クラリス
+
 =2017-09-25T10:04:46+09:00 Computer/トピック/社会動向/企業/クリエイティブテクノロジー/keywords
 synco,シンコー
 
@@ -3617,6 +3638,9 @@ AIR TRACK
 CA DATABANK
 AJA
 マッチングエージェント
+
+=2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/サイバーセキュリティクラウド/keywords
+Cyneural
 
 =2017-03-30T14:37:44+09:00 Computer/トピック/社会動向/企業/サイバーダイン/keywords
 サイバーダイン,CYBERDYNE
@@ -4198,6 +4222,12 @@ Housmart,ハウスマート
 
 =2019-02-10T15:29:38+09:00 Computer/トピック/社会動向/企業/ハグカム/keywords
 GLOBAL CROWN
+
+=2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/ハタプロ/keywords
+ZUKKU
+
+=2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/ハピロボ/keywords
+temi
 
 =2017-09-11T07:26:42+09:00 Computer/トピック/社会動向/企業/バイバイワールド/keywords
 ビッグクラッピー
@@ -4873,6 +4903,9 @@ NATESAS
 日本出版販売,日販
 NCT,日販コンピュータテクノロジイ
 こくり
+
+=2019-08-12T10:37:13+09:00 Computer/トピック/社会動向/企業/日本情報通信/keywords
+NI+C,日本情報通信
 
 =2017-11-12T15:53:59+09:00 Computer/トピック/社会動向/企業/日本技術貿易/keywords
 日本技術貿易,NGB
