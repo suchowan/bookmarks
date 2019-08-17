@@ -304,6 +304,9 @@ URL=https://qiita.com/antimon2/items/d58262acbcd24a92abf6
 =2019-06-22T06:42:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Hidemoto Nakadaさんのツイート Julia の リスト内包表現で、 [x - 1 for x in 12] はOKなのに [x -1 for x in 12] はシンタックスエラーが出る。 x - 1 の マイナスと1の間にスペースが
 URL=https://twitter.com/hidemotoNakada/status/1142410088105181184
 
+=2019-08-12T13:46:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Hidemoto NakadaさんはTwitterを使っています 「ある言語が「null 安全」かどうか、ってどうやって判断するのだろうか。Juliaも 型Aの変数にnothing は代入できない。かつては Nullable{A} みたいな記法があ
+URL=https://twitter.com/hidemotoNakada/status/1160753350771478531
+
 =2018-10-25T08:30:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia - @enum で割り当てられた番号から変数名を知る - goropikariの備忘録
 URL=https://goropikari.hatenablog.com/entry/julia_enum
 
@@ -807,6 +810,9 @@ URL=https://qiita.com/Yoshinobu-Ishizaki/items/ca2aeeb1024a0cd89934
 
 =2019-03-22T10:16:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/[Julia] 行列を高速に更新する - Qiita
 URL=https://qiita.com/tenfu2tea/items/b63f2c62d194f4294a76
+
+=2019-08-15T06:27:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/かーどそーへーさんはTwitterを使っています 「最近 isa の代わりに multiple dispatches で条件分岐をするようなコードを良く書いてしまうんだけど(シンプルな条件分岐でも)、
+URL=https://twitter.com/kdwkshh/status/1162005929354846208
 
 =2018-11-19T19:28:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/こうきょさんのツイート pythonで3時間かかるはずの処理がjuliaで書いたら40秒になって流石にウッソやろという気分になっている(pythonの書き方も相当工夫したつもりだったんだが...)
 URL=https://twitter.com/hiding_koukyo/status/1064198909235347456
