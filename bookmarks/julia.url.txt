@@ -376,6 +376,9 @@ URL=https://twitter.com/MathSorcerer/status/951967760585670656
 =2019-08-03T06:40:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんはTwitterを使っています 「#Julia言語 において X が配列のときに 2X とかの部分を 2 . X としてくれるもんだと勝手に思ってたけれど，実はそうじゃないみたい．メモリも消費するし，
 URL=https://twitter.com/MathSorcerer/status/1157332272900558849
 
+=2019-08-17T09:40:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ちくわさんはTwitterを使っています 「今までは，Pythonみたいなユーザフレンドリな文法の言語でアルゴリズムのプロトタイプを作り，CとかFortranに書き直して高速化する
+URL=https://twitter.com/pavlov469/status/1162690394695487490
+
 =2018-12-15T12:42:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ひぐち-ずさんのツイート OpenBLASの実装解説 httpst.coEAu8evq3AE 今年も行列積の高速化について書いてしまいました。コメント・ご指摘お願いします。
 URL=https://twitter.com/higucheese_/status/1073690085235732481
 
@@ -429,6 +432,9 @@ URL=https://twitter.com/genkuroki/status/1066583218915225600
 
 =2019-03-20T07:06:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 変数のスコープの理解とは添付画像のようなことだろうか？ httpst.coNX1eXYr1y4 添付画像1枚目の問題は…
 URL=https://twitter.com/genkuroki/status/1108341157853949952
+
+=2019-03-13T05:46:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「ああ、こんな時間にやっちゃいけないこと始めてしまった。 texliveのネットワークインストーラーを起動してしまった。」 Twitter
+URL=https://twitter.com/genkuroki/status/1105552529222336512
 
 =2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
 URL=https://twitter.com/bicycle1885/status/1085492920113717248

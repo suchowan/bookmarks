@@ -37,7 +37,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-08-17T10:49:56+09:00 Computer/トピック/セキュリティ/keywords
+=2019-08-22T12:20:25+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -106,6 +106,7 @@ SymCrypt
 無断
 Security
 身代金要求
+バックドア
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -742,7 +743,7 @@ Pegasus
 =2019-05-24T12:10:09+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボホン/keywords
 RoBoHoN,ロボホン
 
-=2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2019-08-22T12:20:25+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -760,6 +761,7 @@ Hire
 人財テック
 しごと
 バイト
+オーディション
 
 =2019-06-09T15:47:57+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -1029,7 +1031,7 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-08-12T10:35:20+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2019-08-22T12:20:25+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1046,6 +1048,8 @@ Amazon Pay
 PASMO
 おサイフケータイ
 財布
+Apple Card
+WeChat Pay
 
 =2018-04-26T10:35:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1057,7 +1061,7 @@ Amper Music
 Magenta
 楽曲
 
-=2019-03-22T13:30:47+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2019-08-22T12:20:24+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1102,6 +1106,7 @@ Riemannian Motion Policy
 特徴量
 Variational Auto Encoder
 GauGAN
+解釈可能性
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1787,7 +1792,7 @@ VESTA
 DeepMind,ディープマインド
 AlphaStar
 
-=2019-06-17T12:00:38+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2019-08-22T12:20:25+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1831,6 +1836,7 @@ GAFA
 GAFAM
 Chromebook
 Portals
+Socratic
 
 =2019-02-28T15:50:59+09:00 Computer/トピック/社会動向/企業/Google/YouTube/keywords
 Youtube,YouTube
@@ -3108,8 +3114,9 @@ Spoke,スポーク
 =2019-02-17T19:16:35+09:00 Computer/トピック/社会動向/企業/アジア太平洋研究所/keywords
 APIR,アジア太平洋研究所
 
-=2017-04-17T09:01:56+09:00 Computer/トピック/社会動向/企業/アジラ/keywords
+=2019-08-22T12:20:24+09:00 Computer/トピック/社会動向/企業/アジラ/keywords
 みまもりAI
+Jijilla
 
 =2017-05-10T07:20:00+09:00 Computer/トピック/社会動向/企業/アスクル/keywords
 LOHACO
