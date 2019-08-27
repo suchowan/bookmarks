@@ -10,6 +10,9 @@ URL=https://qiita.com/goropikari/items/c5ae799d3ff2e789ee20
 =2018-10-31T06:42:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Julia Advent Calendar 2018 - Qiita
 URL=https://qiita.com/advent-calendar/2018/julialang
 
+=2018-03-14T09:41:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Julia By Example
+URL=https://juliabyexample.helpmanual.io/
+
 =2019-06-10T17:39:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/Julia 入門①（Windows）インストールからHello Worldまで - Qiita
 URL=https://qiita.com/Kazuya951/items/1c7a407cd2ce88d6fa38
 
@@ -676,6 +679,9 @@ URL=https://japan.zdnet.com/article/35133918/
 =2018-10-25T06:19:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/黒木玄 Gen Kurokiさんのツイート Google Colab で #Julia言語 + TPU が正式サポートされることになればビッグニュースですね。Google側にもメリットがありそう。
 URL=https://twitter.com/genkuroki/status/1055094694470856704
 
+=2019-08-26T06:30:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 でのMCMCパッケージとしては httpst.co5MfBVQpnwh が有名なのですが、モデルを与えるときの記述の仕方によって計算速度に大きな差が出たりした経験が
+URL=https://twitter.com/genkuroki/status/1166007744148594688
+
 =2019-03-22T06:21:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/渋谷オプトさんのツイート 現状はまだまだPythonやJuliaに太刀打ちできる状況ではないが、開発者は増えつつある。エコシステムとしてpycall.rb、Ruby Numo, SciRuby, Red Data Tools #railsdm201
 URL=https://twitter.com/m4buya/status/1108978859951558658
 
@@ -798,6 +804,9 @@ URL=https://qiita.com/cometscome_phys/items/c55cd207fd7c16e4055b
 
 =2018-08-03T08:55:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Juliaでforループをプロセス並列化してみる-Qiita
 URL=https://qiita.com/cometscome_phys/items/44d09a6b67bd48a1fbfb
+
+=2019-08-25T10:27:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Juliaで反復数値計算をしたらPythonよりも圧倒的に速かった話 - Qiita
+URL=https://qiita.com/triwave33/items/3fb91678c5ab03ef03d5
 
 =2018-01-08T14:53:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Juliaのfor文はなぜ速い - りんごがでている
 URL=http://bicycle1885.hatenablog.com/entry/2018/01/08/145347
