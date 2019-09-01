@@ -332,7 +332,7 @@ Golang
 Jakarta EE
 JDK
 
-=2019-07-15T12:57:34+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
+=2019-09-01T15:38:15+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
 Javascript,JavaScript
 AngularJS
 ESLint
@@ -340,6 +340,7 @@ Angular
 TypeScript
 GoogleAppsScript
 Hermes
+Nuxt.js
 
 =2018-03-20T14:56:09+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/Node.js/keywords
 Node-RED
@@ -452,7 +453,7 @@ RFID
 =2019-06-05T11:59:34+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry PI,Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
-=2019-06-09T15:47:58+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2019-09-01T15:38:16+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
@@ -464,6 +465,7 @@ Amazon Key
 Tuya Smart
 エアコン
 HOME IoT
+洗濯機
 
 =2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -506,7 +508,7 @@ TAOTAO
 深層学習,Deep Learning,ディープラーニング
 データサイエンティスト
 
-=2019-06-13T12:59:41+09:00 Computer/トピック/機械学習/機械学習入門/keywords
+=2019-09-01T15:38:15+09:00 Computer/トピック/機械学習/機械学習入門/keywords
 今さら聞けない
 ゼロから
 入門
@@ -519,6 +521,7 @@ Coursera
 即席
 いまさら聞けない
 独学
+基礎
 
 =2018-10-09T13:47:41+09:00 Computer/トピック/機械学習/機械学習入門/Qiita/keywords
 fast.ai
@@ -574,11 +577,12 @@ Home Pod
 =2017-03-22T09:31:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/りんな/keywords
 りんな,Rinna
 
-=2019-05-24T12:07:25+09:00 Computer/トピック/機械学習/機械学習応用/RPA/keywords
+=2019-09-01T15:38:16+09:00 Computer/トピック/機械学習/機械学習応用/RPA/keywords
 RPA,Robotic Process Automation
 自動化
 契約書
 間接費
+リーガルテック
 
 =2019-05-28T11:32:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/故障/keywords
 危険検知
@@ -1605,6 +1609,9 @@ caboc
 =2017-09-26T09:11:21+09:00 Computer/トピック/社会動向/企業/ECC/keywords
 おもてなCityへようこそ
 
+=2019-09-01T15:39:23+09:00 Computer/トピック/社会動向/企業/EDGEMATRIX/keywords
+エッジマトリクス,EDGEMATRIX
+
 =2018-01-22T13:23:56+09:00 Computer/トピック/社会動向/企業/EduLab/keywords
 DEEP READ
 
@@ -1795,7 +1802,7 @@ VESTA
 DeepMind,ディープマインド
 AlphaStar
 
-=2019-08-22T12:20:25+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2019-09-01T15:38:17+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -1840,6 +1847,7 @@ GAFAM
 Chromebook
 Portals
 Socratic
+Privacy Sandbox
 
 =2019-02-28T15:50:59+09:00 Computer/トピック/社会動向/企業/Google/YouTube/keywords
 Youtube,YouTube
@@ -2159,6 +2167,9 @@ massive stay
 
 =2017-07-18T08:27:51+09:00 Computer/トピック/社会動向/企業/MateLabs/keywords
 MateVerse
+
+=2019-09-01T15:38:15+09:00 Computer/トピック/社会動向/企業/MatrixFlow/keywords
+HR Flow
 
 =2017-10-16T10:38:27+09:00 Computer/トピック/社会動向/企業/Mattel/keywords
 Kamigami
@@ -2902,6 +2913,9 @@ ULA,United Launch Alliance
 =2019-02-06T18:17:12+09:00 Computer/トピック/社会動向/企業/Universal City Studios/keywords
 ユニバーサル・スタジオ,Universal City Studios
 
+=2019-09-01T15:39:55+09:00 Computer/トピック/社会動向/企業/Universal Robots/keywords
+ユニバーサルロボット,Universal Robots
+
 =2018-12-16T11:09:41+09:00 Computer/トピック/社会動向/企業/USEN-NEXT/keywords
 USEN,U-NEXT,USEN-NEXT
 innto
@@ -3006,10 +3020,11 @@ ZBB,ZEROBILLBANK,ZEROBILLBANK JAPAN
 CarriRo Delivery
 CarriRo
 
-=2019-03-26T14:31:43+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
+=2019-09-01T15:38:15+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
 ZOZOSUIT
 WEAR
 ZOZOUSED
+ZOZOTOWN
 
 =2018-05-30T14:35:55+09:00 Computer/トピック/社会動向/企業/Zscaler/keywords
 Zscaler,ゼットスケーラー
@@ -3461,12 +3476,13 @@ Gmail HR tech
 =2017-12-08T13:23:25+09:00 Computer/トピック/社会動向/企業/キャメル/keywords
 Edia for リクルート
 
-=2018-09-23T14:49:24+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
+=2019-09-01T15:38:16+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
 CANON
 Web Performer
 GUARDIANWALL Mail
 GUARDIANWALL WebFilter
 LaiGHT
+Vision Edition-U
 
 =2019-06-24T12:17:01+09:00 Computer/トピック/社会動向/企業/キューアンドエー/keywords
 ディー・キュービック
@@ -5332,7 +5348,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-07-10T13:57:41+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-09-01T15:38:16+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5375,6 +5391,7 @@ TSUBAME
 仙台市
 長野
 島根県
+大分県
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
