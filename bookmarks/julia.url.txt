@@ -214,6 +214,9 @@ URL=https://twitter.com/__akio__/status/1050541526047064064
 =2019-09-01T00:41:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Chainer のモデルを Flux.jl に変換するでキュ - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/8184c0f91ea06491fdbc
 
+=2018-12-23T08:32:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/CUDAnative.jlで爆速並列計算 Qrunch（クランチ）
+URL=https://qrunch.net/@ToTTi95U/entries/CdiwaufzPkivty36
+
 =2018-11-02T07:01:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/goropikariさんのツイート JuliaTeX 地味に伸びたな。字面から受ける印象と実際は違う気がしてならないのですが。 正真正銘() Julia に数値計算から論文作成までさせるという Weave.jl というパッケージもありますよ。
 URL=https://twitter.com/goropikari_/status/1058367732922515457
 
@@ -807,6 +810,9 @@ URL=http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2018-7Semester-AppliedMath7
 
 =2018-02-19T00:27:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ABC088 を Julia で解いてみる - わかばめにっき
 URL=http://wakabame.hatenablog.com/entry/2018/02/19/002718
+
+=2018-12-23T08:32:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/CUDAnative.jlで爆速並列計算 Qrunch（クランチ）
+URL=https://qrunch.net/@ToTTi95U/entries/CdiwaufzPkivty36
 
 =2019-03-29T07:40:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Julia 1.1コードがgfortran+MKLに勝った - Qiita
 URL=https://qiita.com/cometscome_phys/items/c55cd207fd7c16e4055b
