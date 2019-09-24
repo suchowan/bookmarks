@@ -157,6 +157,9 @@ URL=https://twitter.com/paalonshamoji/status/1055423948664393729
 =2019-06-24T12:57:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/WEB+DB PRESS編集部さんのツイート WEB+DB PRESS Vol.111、本日6月24日発売です！ 電子版も同時発売！ 今号の概要をお伝えします。#wdpress
 URL=https://twitter.com/wdpress/status/1142966553614229505
 
+=2019-09-21T19:06:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Yoshitaka MoriwakiさんはTwitterを使っています 「この株式会社アーク（文京区本郷5-33-10 いちご本郷ビル5階）ってうちのラボォの近所じゃん こわいなーとづまりすとこ Twitter
+URL=https://twitter.com/Ag_smith/status/1175328636347416578
+
 =2018-08-17T22:11:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/いずれPythonのライバルに？新言語「Julia」の人気が急上昇（ZDNet Japan） - Yahoo!ニュース
 URL=https://headlines.yahoo.co.jp/hl?a=20180817-35124177-zdnet-sci
 
@@ -363,6 +366,9 @@ URL=https://twitter.com/utotch/status/1075264294604877824
 
 =2018-12-19T07:06:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Keiさんのツイート 結局当面の間研究で使う言語としてはJuliaを選んだ訳だけど、Elixirのパターンマッチが恋しくてJuliaにも何かないか調べてたらMatch.jlなるものに出会った。@matchって付けるだけで
 URL=https://twitter.com/energyrevo21/status/1075343151668199424
+
+=2019-09-18T07:37:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/lさんはTwitterを使っています 「人のコードで気づいたけど、#julia言語 で f(x,y,z)=x+3y-z みたいな複数の引数の関数に a=[3,4,10] f(a...) って配列とかにまとめて、「...」で渡せるのか 関数の拡張とか
+URL=https://twitter.com/ppp3141592ppp/status/1174292273632165889
 
 =2019-03-19T06:30:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/PythonっぽいJulia：PythonコードのclassをJuliaコードへ移植する - Qiita
 URL=https://qiita.com/cometscome_phys/items/0cc0ab0b43e1bb48a1ea
@@ -573,6 +579,9 @@ URL=https://twitter.com/nagataniyoshiki/status/1034631650410291200
 
 =2018-10-27T06:38:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Yuki Nagaiさんのツイート 数値計算で学ぶ量子力学 プログラミング言語Juliaによる数値計算入門、というPDFノートを作ってみた。まだ未完成だけど随時足す予定
 URL=https://twitter.com/cometscome_phys/status/1056139964449079298
+
+=2019-09-23T07:11:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/yukiusa@【技術書典7】く09D『開発者のためのJulia言語入門』さんはTwitterを使っています 「今日、技術書典７で再販した『Julia ではじめる Web アプリ開発 - Web アプリフレームワーク Genie 入門』
+URL=https://twitter.com/sn0wyrabbit/status/1175804670926700550
 
 =2016-12-23T09:20:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/スパースコーディングのための辞書生成アルゴリズム，K-SVDをJuliaで実装した - Qiita
 URL=http://qiita.com/IshitaTakeshi/items/b7c319fae79f62c80319
