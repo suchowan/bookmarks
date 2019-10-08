@@ -814,6 +814,9 @@ URL=https://qiita.com//SatoshiTerasaki/items/067ccc5aea7ff8576cc8
 =2019-02-07T07:46:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/数値解析学模様の岡本さんのツイート Juliaをオンラインで学ぶ新しいプラットフォーム，JuliaAcademyがローンチされたとメールがきた．Introduction to Julia, Introduction to Machine Learn
 URL=https://twitter.com/kaisekigakumoyo/status/1093177374936629249
 
+=2019-10-07T21:29:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/眠気.jlさんはTwitterを使っています 「@ JuliaBoxを使われている皆様 1031をもって無料使用は出来なくなるようです、ご注意を。 有料ユーザーは変わらずのようです。 学生は月7$らしいです。 JuliaBoxを使われたことがない方
+URL=https://twitter.com/julialangisthe/status/1180884024048283649
+
 =2019-07-14T18:03:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/駆け出しJulia入門③　環境構築（Atom・Jupter・VSCode） - Qiita
 URL=https://qiita.com/Kazuya951/items/3074345d54e2bcd5ace0
 
@@ -891,6 +894,9 @@ URL=https://twitter.com/genkuroki/status/1046279862468542466
 
 =2018-10-06T07:33:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen Kurokiさんのツイート Pythonから #Julia言語 に来た人がpush!を使って配列の長さを1つずつ増やすコードを計算速度が重要な場面でも書いているのをよく見かける。
 URL=https://twitter.com/genkuroki/status/1048430370645934080
+
+=2019-10-03T07:38:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Cのように配列を確保してその中で計算するようにすれば問題なし。 forループ回すだけだと面倒だし、ダサいので、dot-syntax, viewsや各種メソッドのin
+URL=https://twitter.com/genkuroki/status/1179741779064582145
 
 =2018-08-19T12:03:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート #Julia言語 Julia言語ではオブジェクト指向プログラミング(のようなこと)ができないというような誤解が
 URL=https://twitter.com/genkuroki/status/987732306499584000
