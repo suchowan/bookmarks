@@ -283,6 +283,9 @@ URL=https://qiita.com//Kazuhito/items/29d005dbc9b6141212e0
 =2018-10-30T11:12:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ゴロピカリさんのツイート パッケージの雛形を作ってくれる PkgTemplates.jl が Julia 1.0 に対応！#julialang httpst.coRjwQpct6J0
 URL=https://twitter.com/goropikari_/status/1057054032508796929
 
+=2019-10-12T06:56:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/今野 滋さんはTwitterを使っています 「プログラミング言語Julia 人工知能に使えるらしいパッケージFluxを入れてみた なかなか賑やかな事態となっている 首尾よく実装完了
+URL=https://twitter.com/konno3/status/1182972767022354433
+
 =2019-02-12T09:55:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/原子分子シミュレーションPythonパッケージAtomic Simulation Environment (ASE)を使ってみる　その１ - Qiita
 URL=https://qiita.com/cometscome_phys/items/cd1f4d5f025872dfaae5
 
@@ -462,6 +465,9 @@ URL=https://twitter.com/genkuroki/status/1170158576490278912
 
 =2019-06-21T06:47:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 型の再定義については、公式ドキュメントの2番目のFAQに答えが書いてある。 httpst.cobZPqR6ssB3 Main内の型を作ると再定義不可能だが、 mod
 URL=https://twitter.com/genkuroki/status/1141935444952666112
+
+=2019-10-12T18:16:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私はJulia初心者なのですが、Juliaで配列を大量に使用する場合には無駄なメモリアロケーションを避ける方法の習得を最優先事項にする必要があります。 具体的には 
+URL=https://twitter.com/genkuroki/status/1182804725034442753
 
 =2019-03-13T05:46:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「ああ、こんな時間にやっちゃいけないこと始めてしまった。 texliveのネットワークインストーラーを起動してしまった。」 Twitter
 URL=https://twitter.com/genkuroki/status/1105552529222336512
@@ -702,6 +708,9 @@ URL=https://qiita.com//yshutaro/items/e0a3a6c9ea84f8ab0fd3
 
 =2018-10-14T22:08:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/いのうえさんのツイート juliaで機械学習、 純正はKnetとFluxってのがあって、ひとまずFluxでMNISTの学習とテストまで
 URL=https://twitter.com/earlylifely/status/1051350418922459136
+
+=2019-10-12T06:56:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/今野 滋さんはTwitterを使っています 「プログラミング言語Julia 人工知能に使えるらしいパッケージFluxを入れてみた なかなか賑やかな事態となっている 首尾よく実装完了
+URL=https://twitter.com/konno3/status/1182972767022354433
 
 =2019-07-11T19:49:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/加藤和彦さんのツイート MITのJulia開発者の人達が，Julia上にAIプログラミング言語・確率的プログラミング言語なるものを開発し，PLDI 2019で発表しました。新しい道を切り拓いていこうとする力に感心。
 URL=https://twitter.com/kzhk/status/1149216653076340736

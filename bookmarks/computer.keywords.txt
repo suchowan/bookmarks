@@ -38,7 +38,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-09-19T11:22:22+09:00 Computer/トピック/セキュリティ/keywords
+=2019-10-14T13:13:54+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -110,6 +110,10 @@ Security
 バックドア
 知らないうちに
 ハッカー
+注文履歴
+混在コンテンツ
+干渉
+鍵
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1312,6 +1316,9 @@ COZMO
 ANGOプロジェクト
 SynCryp
 
+=2019-10-14T13:13:53+09:00 Computer/トピック/社会動向/企業/AnyTech/keywords
+DeepLiquid
+
 =2017-08-07T07:46:27+09:00 Computer/トピック/社会動向/企業/AOI Pro/keywords
 VR Insight
 VR ON AIR TEST
@@ -1545,6 +1552,9 @@ CylancePROTECT
 
 =2017-09-15T10:04:31+09:00 Computer/トピック/社会動向/企業/DAC/keywords
 Kaltura
+
+=2019-10-14T13:16:57+09:00 Computer/トピック/社会動向/企業/Dahua Technorogy/keywords
+大華科技,Dahua Technorogy
 
 =2017-03-29T08:38:23+09:00 Computer/トピック/社会動向/企業/Darktrace/keywords
 Darktrace,ダークトレース
@@ -1921,6 +1931,9 @@ Kishin
 ココロワークス
 エモリーダー
 
+=2019-10-14T13:16:01+09:00 Computer/トピック/社会動向/企業/Hikvision/keywords
+海康威視,Hikvision
+
 =2017-03-29T11:07:55+09:00 Computer/トピック/社会動向/企業/HISホテル/keywords
 HISホテル,H.I.S.,H.I.S.ホテルホールディングス
 変なホテル
@@ -1975,6 +1988,9 @@ IDCF,IDCフロンティア
 ガリバー
 ユーザグラム
 クルマコネクト
+
+=2019-10-14T13:20:09+09:00 Computer/トピック/社会動向/企業/iFLYTEK/keywords
+科大訊飛,iFLYTEK
 
 =2017-06-05T08:10:06+09:00 Computer/トピック/社会動向/企業/IGS/keywords
 IGS,Institution for a Global Society
@@ -2223,8 +2239,12 @@ McAfee,マカフィー
 =2019-02-21T11:56:47+09:00 Computer/トピック/社会動向/企業/McCormick/keywords
 マコーミック,McCormick
 
-=2017-04-24T07:57:22+09:00 Computer/トピック/社会動向/企業/Megvii/keywords
+=2019-10-14T13:18:45+09:00 Computer/トピック/社会動向/企業/Megvii Technology/keywords
 Face++,フェイス++,フェイスプラスプラス
+曠視科技,Megvii,Megvii Technology
+
+=2019-10-14T13:21:08+09:00 Computer/トピック/社会動向/企業/Meiya Pico/keywords
+美亜柏科,Meiya Pico
 
 =2019-02-03T15:27:33+09:00 Computer/トピック/社会動向/企業/Meizu/keywords
 魅族,Meizu
@@ -2281,6 +2301,9 @@ Excel
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
+
+=2019-10-14T13:13:55+09:00 Computer/トピック/社会動向/企業/Mira Robotics/keywords
+ugo
 
 =2017-10-10T13:20:35+09:00 Computer/トピック/社会動向/企業/Mirantis/keywords
 Mirantis,ミランティス
@@ -2673,6 +2696,12 @@ Roboma,ロボマ
 =2017-12-08T11:57:01+09:00 Computer/トピック/社会動向/企業/Robot4U/keywords
 SHUILA
 
+=2019-10-14T13:14:56+09:00 Computer/トピック/社会動向/企業/Rohde & Schwarz/keywords
+ローデ・シュワルツ,Rohde & Schwarz
+
+=2019-10-14T13:13:53+09:00 Computer/トピック/社会動向/企業/ROXX/keywords
+back check
+
 =2018-04-22T06:48:56+09:00 Computer/トピック/社会動向/企業/RPAテクノロジーズ/keywords
 BizRobo!
 
@@ -2735,8 +2764,8 @@ SEGWAY BASE
 =2018-07-21T13:44:32+09:00 Computer/トピック/社会動向/企業/SELFLY camera/keywords
 SELFLY
 
-=2019-02-28T15:49:01+09:00 Computer/トピック/社会動向/企業/SenseTime/keywords
-商湯科技開発,SenseTime
+=2019-10-14T13:17:47+09:00 Computer/トピック/社会動向/企業/SenseTime/keywords
+商湯科技,商湯科技開発,SenseTime
 
 =2017-11-09T06:58:39+09:00 Computer/トピック/社会動向/企業/SENSY/keywords
 カラフル・ボード
@@ -3051,6 +3080,12 @@ Xilinx,ザイリンクス
 CatBoost
 MatrixNet
 
+=2019-10-14T13:20:45+09:00 Computer/トピック/社会動向/企業/YITU/keywords
+依図科技,YITU
+
+=2019-10-14T13:21:49+09:00 Computer/トピック/社会動向/企業/Yixin Science/keywords
+頤信科技,Yixin Science
+
 =2018-06-15T17:13:16+09:00 Computer/トピック/社会動向/企業/Yoki/keywords
 HACO
 HACREW
@@ -3219,6 +3254,9 @@ muddica
 
 =2018-01-31T16:38:29+09:00 Computer/トピック/社会動向/企業/アップ・スウェル/keywords
 JouleLife,ジュールライフ
+
+=2019-10-14T13:13:53+09:00 Computer/トピック/社会動向/企業/アトモフ/keywords
+Atmoph Window
 
 =2017-07-24T08:26:57+09:00 Computer/トピック/社会動向/企業/アトラエ/keywords
 TalentBase,タレントベース
@@ -3506,8 +3544,9 @@ TEC-PAL,テクパル
 =2017-03-29T11:29:30+09:00 Computer/トピック/社会動向/企業/カウリス/keywords
 FraudAlert
 
-=2017-03-30T13:50:16+09:00 Computer/トピック/社会動向/企業/カカクコム/keywords
+=2019-10-14T13:13:53+09:00 Computer/トピック/社会動向/企業/カカクコム/keywords
 価格.com
+食べログ
 
 =2017-08-21T12:29:29+09:00 Computer/トピック/社会動向/企業/カクテルメイク/keywords
 RICHKA
