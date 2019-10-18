@@ -370,6 +370,9 @@ URL=https://twitter.com/utotch/status/1075264294604877824
 =2018-12-19T07:06:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Keiさんのツイート 結局当面の間研究で使う言語としてはJuliaを選んだ訳だけど、Elixirのパターンマッチが恋しくてJuliaにも何かないか調べてたらMatch.jlなるものに出会った。@matchって付けるだけで
 URL=https://twitter.com/energyrevo21/status/1075343151668199424
 
+=2019-10-13T06:39:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/KeiさんはTwitterを使っています 「@whitefaced0wl Juliaの場合はそもそもオブジェクト指向言語ではなく、同じく手続き型であるGoのように構造体にメソッドを紐付ける事も出来ないのですが、
+URL=https://twitter.com/energyrevo21/status/1183379839689998336
+
 =2019-09-18T07:37:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/lさんはTwitterを使っています 「人のコードで気づいたけど、#julia言語 で f(x,y,z)=x+3y-z みたいな複数の引数の関数に a=[3,4,10] f(a...) って配列とかにまとめて、「...」で渡せるのか 関数の拡張とか
 URL=https://twitter.com/ppp3141592ppp/status/1174292273632165889
 
@@ -906,6 +909,9 @@ URL=https://twitter.com/genkuroki/status/1048430370645934080
 
 =2019-10-03T07:38:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Cのように配列を確保してその中で計算するようにすれば問題なし。 forループ回すだけだと面倒だし、ダサいので、dot-syntax, viewsや各種メソッドのin
 URL=https://twitter.com/genkuroki/status/1179741779064582145
+
+=2019-10-15T19:46:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.covH79mPXAe1 MITでのJuliaのチュートリアル httpst.co8KnZC7O1yZ Julia入門 pure Juliaで書かれた
+URL=https://twitter.com/genkuroki/status/1184037075454029824
 
 =2018-08-19T12:03:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート #Julia言語 Julia言語ではオブジェクト指向プログラミング(のようなこと)ができないというような誤解が
 URL=https://twitter.com/genkuroki/status/987732306499584000
