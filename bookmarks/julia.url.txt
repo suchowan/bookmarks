@@ -100,6 +100,9 @@ URL=http://bicycle1885.hatenablog.com/entry/2016/12/01/210618
 =2019-01-19T06:54:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/The Fast Track to Julia
 URL=https://juliadocs.github.io/Julia-Cheat-Sheet/
 
+=2019-10-22T07:46:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/ごまふあざらしさんはTwitterを使っています 「httpst.cohdGD6C7UCB のコードをそのまま実行して表示できた． dot がない場合は brew install graphvis で httpst.coQhjjoaNMp9」 Tw
+URL=https://twitter.com/MathSorcerer/status/1186534328303419392
+
 =2018-06-10T12:48:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/黒木玄 Gen Kuroki(@genkuroki)「Julia」の検索結果 - Twilog
 URL=https://twilog.org/genkuroki/search?word=Julia&ao=a
 
@@ -361,6 +364,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/24443f20852ed60968bf
 =2018-09-27T18:37:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの数学定数【小ネタ】-Qiita
 URL=https://qiita.com//Yoshinobu-Ishizaki/items/b280913264ce7b672f44
 
+=2019-10-20T21:27:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia関数のデフォルト引数 - Qiita
+URL=https://qiita.com//hidemotoNakada/items/2dc93794020256e2410a
+
 =2019-02-12T07:15:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/K.B.砂糖さんのツイート まとめ…
 URL=https://twitter.com/KB_satou/status/1095314492999651332
 
@@ -466,11 +472,23 @@ URL=https://twitter.com/genkuroki/status/1165594837237682176
 =2019-09-07T20:49:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 から #Wolfram言語 をMathLinkライブラリ経由で使う方法 まだ表示が数式に整形されないのですが、JuliaからWolfram言語を使う道が開かれたので
 URL=https://twitter.com/genkuroki/status/1170158576490278912
 
+=2019-10-21T07:21:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 で Float128 を使うには ]add Quadmath using Quadmath Float128(π) 使用例が
+URL=https://twitter.com/genkuroki/status/1185945718332084225
+
+=2019-10-21T08:39:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 はmultiple dispatchなので、 メソッドfがどの型(クラス)で使用可能か？ 型(クラス)Tで使用可能なメソッド達は何か？
+URL=https://twitter.com/genkuroki/status/1186293099867168774
+
 =2019-06-21T06:47:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 型の再定義については、公式ドキュメントの2番目のFAQに答えが書いてある。 httpst.cobZPqR6ssB3 Main内の型を作ると再定義不可能だが、 mod
 URL=https://twitter.com/genkuroki/status/1141935444952666112
 
+=2019-10-21T07:46:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 型の木構造については httpst.coQnC6gj7PJ6 httpst.coSPSBsQjIxr を読んで、supertype と subtypes
+URL=https://twitter.com/genkuroki/status/1186295971044417536
+
 =2019-10-12T18:16:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私はJulia初心者なのですが、Juliaで配列を大量に使用する場合には無駄なメモリアロケーションを避ける方法の習得を最優先事項にする必要があります。 具体的には 
 URL=https://twitter.com/genkuroki/status/1182804725034442753
+
+=2019-10-23T07:09:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@triwave33 @abap__ @physicsturtle #Julia言語 forループと大域変数の関係は講義でJuliaを使いたい人にとっては問題になりえるので、
+URL=https://twitter.com/genkuroki/status/1186976073327640577
 
 =2019-03-13T05:46:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「ああ、こんな時間にやっちゃいけないこと始めてしまった。 texliveのネットワークインストーラーを起動してしまった。」 Twitter
 URL=https://twitter.com/genkuroki/status/1105552529222336512
@@ -513,6 +531,9 @@ URL=https://twitter.com/julialang_news/status/1050450012684132352
 
 =2019-05-01T17:34:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia でテキスト処理 - Qiita
 URL=https://qiita.com/Rshimura/items/4389d164840589a14ec6
+
+=2019-10-22T10:57:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia で遊ぼう フィボナッチ数列 - Qiita
+URL=https://qiita.com/antimon2/items/ff31a74758eb4b63604e
 
 =2018-12-11T15:37:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia を使ってお手軽に数学 gif を作ってみよう - Qiita
 URL=https://qiita.com/wakabame/items/7c4db07c222755349dea
