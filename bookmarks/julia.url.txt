@@ -175,6 +175,9 @@ URL=https://japan.zdnet.com/article/35132086/
 =2018-12-17T21:32:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/新言語「Julia」の挑戦--機械学習分野で選ばれるプログラミング言語へ - TechRepublic Japan
 URL=https://japan.techrepublic.com/article/35130175.htm
 
+=2019-10-29T18:52:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/松井里衣さんはTwitterを使っています 「Rubyの作者さん、まつもとゆきひろさんが広まって欲しいプログラミング言語は下記の言語みたい。 ・Julia ・Crystal ・Zig ・V 全部初めて聞いたけど、結構Rubyや、Swift、Goに似
+URL=https://twitter.com/riefunkbass/status/1189189118397300736
+
 =2018-10-20T15:10:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/機械学習 × 名古屋 × Julia - HackMD
 URL=https://hackmd.io/p/BJ6W27hqX#/
 
@@ -201,6 +204,9 @@ URL=https://qiita.com/yatra9/items/d38833b8d4f30b921f52
 
 =2019-02-11T07:56:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/[2019年2月版] Juliaが1.1になっていたので触ってみるか - Qiita
 URL=https://qiita.com/koinori/items/bdb01ec789d5e49aed0f
+
+=2019-10-27T12:31:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/各バージョンのJuliaで同一のスクリプトを動かしてみる（ポエム） - Qiita
+URL=https://qiita.com//SatoshiTerasaki/items/3bf91c5d400b0deb3f8d
 
 =2019-07-09T06:12:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/山本 卓さんのツイート #Julia言語 1.2。このコミット（↓）が取り込まれ、ついにWindowsでもパッケージダウンロードにcurlが使われるようになる…つまりhttps_proxy環境変数でプロキシ越え（認証も）
 URL=https://twitter.com/sgryjp/status/1148602745701773313
@@ -304,14 +310,23 @@ URL=https://logmi.jp/tech/articles/321564
 =2018-09-05T18:26:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen Kurokiさんのツイート #Julia言語 v1.0では高速に代数計算をしてくれるNemo.jlパッケージも使えます。 httpst.coVdWZwMLdp6 このパッケージを研究に使う人が出て
 URL=https://twitter.com/genkuroki/status/1054015482624266242
 
+=2019-10-29T19:17:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #Plotly httpst.coFHCuUQt5rF 地球をマウスでグリグリできます。
+URL=https://twitter.com/genkuroki/status/1188984110120718338
+
 =2019-09-08T07:50:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 派生 httpst.coaQsgDULUlD」 Twitter
 URL=https://twitter.com/genkuroki/status/1171553688260792320
 
 =2018-10-10T19:09:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/(｢・ω・)｢ｶﾞｵｰさんのツイート Juliaの微分方程式ソルバーパッケージで有名なRackauckas氏，14は日本人なのか(Slackで言ってた)。
 URL=https://twitter.com/bicycle1885/status/1049920217013542913
 
+=2019-10-23T07:37:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/abapさんはTwitterを使っています 「Juliaの便利Tips的なのを書こうと思うのですが、 ・Tabの補完 ・関数のお尻にドット ・Range ・REPLでshellとかPkg ・検索等その他REPLの操作
+URL=https://twitter.com/abap__/status/1186764581844029440
+
 =2018-10-12T08:30:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/akioさんのツイート Juliaのマクロは結構変態的なことができるみたいだ。 JSExprというパッケージがあって、＠jsマクロの後ろの関数を
 URL=https://twitter.com/__akio__/status/1050541526047064064
+
+=2019-10-26T07:15:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Atsushi SakaiさんはTwitterを使っています 「おー、一行のif文をend無しで書くのは、こうすればいけるのか。なんかシェルスクリプトみたいだけど。
+URL=https://twitter.com/Atsushi_twi/status/1188017864936083457
 
 =2018-08-11T08:24:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ceptree@DDEさんのツイート Juliaのシェルモード知らなかった。;を打った瞬間に切り替わって,
 URL=https://twitter.com/ceptree/status/1028199978496286720
@@ -529,6 +544,9 @@ URL=http://marui.hatenablog.com/entry/2018/09/14/134118
 =2018-10-12T08:32:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia Newsさんのツイート Parallel Supercomputing for Astronomy with Julia httpst.coCgSBr5pKkG #hackernews
 URL=https://twitter.com/julialang_news/status/1050450012684132352
 
+=2019-10-27T12:30:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia でカメラから取得した画像を描画できましたね． - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/00a921be69e1e1235ab4
+
 =2019-05-01T17:34:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia でテキスト処理 - Qiita
 URL=https://qiita.com/Rshimura/items/4389d164840589a14ec6
 
@@ -649,11 +667,17 @@ URL=https://twitter.com/genkuroki/status/1073960028787245057
 =2019-04-30T18:17:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 連分数展開は特殊函数の数値計算ではよく出て来る。しかし、プログラムのコードを見ても特殊函数の教科書に書かれていている連分数展開の公式
 URL=https://twitter.com/genkuroki/status/1123153815774027777
 
+=2019-10-29T19:17:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #Plotly httpst.coFHCuUQt5rF 地球をマウスでグリグリできます。
+URL=https://twitter.com/genkuroki/status/1188984110120718338
+
 =2018-12-08T08:52:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/（Juliaで）後退差分法で修正節点法でRLC直列回路を解析する - Qiita
 URL=https://qiita.com/tatssuki/items/fb6b1cf14d261cc5d316
 
 =2019-05-07T06:24:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/１次元量子ウォークをJuliaでシミュレーションする - Qiita
 URL=https://qiita.com/QQQ_0018/items/36bffd48975622f7fb43
+
+=2019-10-29T18:52:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/松井里衣さんはTwitterを使っています 「Rubyの作者さん、まつもとゆきひろさんが広まって欲しいプログラミング言語は下記の言語みたい。 ・Julia ・Crystal ・Zig ・V 全部初めて聞いたけど、結構Rubyや、Swift、Goに似
+URL=https://twitter.com/riefunkbass/status/1189189118397300736
 
 =2016-02-16T08:01:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Coursera Machine LearningをJuliaでやる - Qiita
 URL=http://qiita.com/homulerdora/items/5a672f3a0d991c807a07
