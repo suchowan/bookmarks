@@ -1599,10 +1599,11 @@ machina
 =2018-12-11T05:46:02+09:00 Computer/トピック/社会動向/企業/DELL/keywords
 Dell,DELL,デル
 
-=2018-11-16T10:00:19+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
+=2019-11-14T15:04:46+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
 AIコンシェルジュ
 Easy Ride
 MOV
+ディー・エヌ・エー,DeNA
 
 =2018-11-29T13:54:05+09:00 Computer/トピック/社会動向/企業/DigitalGlobe/keywords
 デジタルグローブ,DigitalGlobe
@@ -1936,6 +1937,9 @@ hunterbook
 ハンソン・ロボティクス,Hanson Robotics
 Sofhia
 
+=2019-11-14T15:03:46+09:00 Computer/トピック/社会動向/企業/hapi-robo st/keywords
+temi
+
 =2018-12-11T08:04:26+09:00 Computer/トピック/社会動向/企業/HCL Technologies/keywords
 HCL,HCL Technologies
 
@@ -2123,6 +2127,9 @@ Money Data Bank,MDB
 
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/KAKUCHO/keywords
 FURNI
+
+=2019-11-14T15:03:45+09:00 Computer/トピック/社会動向/企業/KanDao/keywords
+QooCam
 
 =2017-10-25T14:26:42+09:00 Computer/トピック/社会動向/企業/Kaspersky/keywords
 Kaspersky,カスペルスキー
@@ -2440,6 +2447,9 @@ MINARAI
 =2017-08-04T09:53:24+09:00 Computer/トピック/社会動向/企業/NHNテコラス/keywords
 CloudGarage
 
+=2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/Nice/keywords
+NICE
+
 =2018-01-10T11:50:24+09:00 Computer/トピック/社会動向/企業/no new folk/keywords
 シューログプラットフォーム
 
@@ -2577,6 +2587,9 @@ Dynamics NAV
 =2019-09-14T12:05:24+09:00 Computer/トピック/社会動向/企業/Pegara/keywords
 ペガラ,Pegara
 GPU EATER
+
+=2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/Pegasystems/keywords
+Pega Robotic Automation
 
 =2019-02-06T18:16:29+09:00 Computer/トピック/社会動向/企業/Pepsi/keywords
 ペプシ,Pepsi,PepsiCo
@@ -2763,6 +2776,9 @@ Big Data Margin Assurance
 SAS,SAS Institute Japan
 SAS Enterprise Miner
 Viya
+
+=2019-11-14T15:03:46+09:00 Computer/トピック/社会動向/企業/Savioke/keywords
+Relay
 
 =2017-10-23T11:58:40+09:00 Computer/トピック/社会動向/企業/SCSK/keywords
 PrimeDashBoard
@@ -3042,12 +3058,18 @@ Vector,ベクター
 Veeam,Veeam Software
 Veeam Recovery to Microsoft Azure with Veeam PN
 
+=2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/Verint Systems/keywords
+Verint
+
 =2018-01-10T10:33:50+09:00 Computer/トピック/社会動向/企業/Veritas/keywords
 Veritas,ベリタス
 
 =2017-10-02T08:40:22+09:00 Computer/トピック/社会動向/企業/Veritone/keywords
 aiWARE
 Xcellis
+
+=2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/Vignette & Clarity/keywords
+Shoe-Craft-Terminal
 
 =2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/VISITS Technologies/keywords
 ideagram
@@ -3127,6 +3149,9 @@ fanp Biz
 
 =2018-12-14T15:29:08+09:00 Computer/トピック/社会動向/企業/ZEROBILLBANK JAPAN/keywords
 ZBB,ZEROBILLBANK,ZEROBILLBANK JAPAN
+
+=2019-11-14T15:03:46+09:00 Computer/トピック/社会動向/企業/ZIRITZ/keywords
+StockFormer
 
 =2018-07-07T10:02:03+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
 CarriRo Delivery
@@ -4254,6 +4279,9 @@ AI Training+
 デベルアップ・ジャパン,DevelUpJapan
 Sonarman
 
+=2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/デリバリーコンサルティング/keywords
+ipaS
+
 =2018-09-23T14:49:27+09:00 Computer/トピック/社会動向/企業/デルタ電子/keywords
 CONSCIOUS
 
@@ -4397,6 +4425,9 @@ TELLBO
 Housmart,ハウスマート
 カウル
 
+=2019-11-14T15:03:46+09:00 Computer/トピック/社会動向/企業/ハウテレビジョン/keywords
+外資就活ドットコム
+
 =2019-02-10T15:29:38+09:00 Computer/トピック/社会動向/企業/ハグカム/keywords
 GLOBAL CROWN
 
@@ -4405,6 +4436,9 @@ ZUKKU
 
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/ハピロボ/keywords
 temi
+
+=2019-11-14T15:06:44+09:00 Computer/トピック/社会動向/企業/バイオーム/keywords
+Biome,バイオーム
 
 =2017-09-11T07:26:42+09:00 Computer/トピック/社会動向/企業/バイバイワールド/keywords
 ビッグクラッピー
@@ -4776,6 +4810,9 @@ Pedia ICO Database
 
 =2017-04-11T10:33:07+09:00 Computer/トピック/社会動向/企業/ユニロボット/keywords
 unibo
+
+=2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/ユーザックシステム/keywords
+Autoブラウザ名人
 
 =2017-04-11T10:30:55+09:00 Computer/トピック/社会動向/企業/ユーザベース/keywords
 SPEEDA
