@@ -187,6 +187,9 @@ URL=https://hackmd.io/p/BJ6W27hqX#/
 =2019-03-09T08:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/機械学習で選ばれる言語を目指す「Julia」の挑戦--ライブラリ「Flux」が鍵 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35133918/
 
+=2019-11-14T07:10:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/眠気.jlさんはTwitterを使っています 「Juliaプログラミングクックブック 翻訳レビューしたので発売の2週間ぐらい前にフラゲ 誤字指摘できなかったところあるので腹を切って侘びたい
+URL=https://twitter.com/julialangisthe/status/1194950442309935104
+
 =2018-08-09T20:03:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/遂にJulia 1.0リリース！さんのツイート 感動のJulia 1.0リリースの瞬間が映像で見られる httpst.coFOVVKlVQoI
 URL=https://twitter.com/bicycle1885/status/1027404300417261569
 
@@ -520,6 +523,9 @@ URL=https://twitter.com/bicycle1885/status/1085492920113717248
 =2018-11-09T07:01:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Atsushi Sakaiさんのツイート Pure Juliaで書き始めたシンプルな最適化ソルバー。結構APIも揃ってきた。これから代表的な凸最適化のソルバーを増やしたい。#julialang：AtsushiSakaiargmin.jl A num
 URL=https://twitter.com/Atsushi_twi/status/1060879808828071936
 
+=2019-11-17T07:52:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Atsushi SakaiさんはTwitterを使っています 「すごい。このJuliaのライブラリ使うと、結構大規模な巡回セールスマン問題でも爆速(500箇所で0.2s)で解ける。
+URL=https://twitter.com/Atsushi_twi/status/1196030368836571136
+
 =2018-12-29T07:15:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/brv00さんのツイート httpst.coSpqWhxVAeS Julia でやってみた。 #julia言語 httpst.cone4bGxI4TP
 URL=https://twitter.com/brv00/status/1078851643951595520
 
@@ -726,6 +732,9 @@ URL=https://qiita.com/cometscome_phys/items/45017aa9741c5fdc7eb9
 
 =2019-06-17T02:58:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaでゼロから作るDeep Learning - 元バイオ系
 URL=http://hotoke-x.hatenablog.com/entry/2019/06/17/Julia%E3%81%A7%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E4%BD%9C%E3%82%8BDeep_Learning
+
+=2019-11-17T21:06:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaでベイズ分類器を実装（アヤメ分類） - Qiita
+URL=https://qiita.com/tomson784/items/5834f2c0020780f2125f
 
 =2016-09-30T07:58:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで学ぶ画像処理-ニューラルネットワーク(Neural Network) part1-
 URL=https://lp-tech.net/articles/SEFVJ
