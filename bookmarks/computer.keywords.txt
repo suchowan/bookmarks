@@ -39,7 +39,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-11-21T14:00:08+09:00 Computer/トピック/セキュリティ/keywords
+=2019-11-28T13:13:04+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -117,6 +117,8 @@ Security
 鍵
 hacked
 覗かれる
+Face Match
+顧客情報
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1606,6 +1608,9 @@ machina
 
 =2017-10-12T10:55:17+09:00 Computer/トピック/社会動向/企業/DEFアニバーサリー/keywords
 マスクdeお見合い
+
+=2019-11-28T13:13:04+09:00 Computer/トピック/社会動向/企業/DEHA/keywords
+Weface
 
 =2018-12-11T05:46:02+09:00 Computer/トピック/社会動向/企業/DELL/keywords
 Dell,DELL,デル
@@ -3509,6 +3514,9 @@ Paidy
 Conyac
 ConyacDATA
 
+=2019-11-28T13:13:02+09:00 Computer/トピック/社会動向/企業/エビソル/keywords
+ebica予約台帳
+
 =2017-10-04T09:14:11+09:00 Computer/トピック/社会動向/企業/エフセキュア/keywords
 F-Secure Computer Protection
 
@@ -4150,9 +4158,10 @@ NESiCA
 =2018-09-03T14:28:14+09:00 Computer/トピック/社会動向/企業/タイムズ24/keywords
 B-Times
 
-=2019-09-19T10:04:30+09:00 Computer/トピック/社会動向/企業/タカラトミー/keywords
+=2019-11-28T13:13:05+09:00 Computer/トピック/社会動向/企業/タカラトミー/keywords
 オムニボット
 Rizmo
+embot
 
 =2018-05-19T11:12:05+09:00 Computer/トピック/社会動向/企業/タクセル/keywords
 KAIGAN
@@ -4323,6 +4332,9 @@ DAL,データ・アプリケーション
 
 =2017-04-10T14:37:45+09:00 Computer/トピック/社会動向/企業/トライバルメディアハウス/keywords
 Engage Manager,エンゲージマネージャー
+
+=2019-11-28T13:13:03+09:00 Computer/トピック/社会動向/企業/トランク/keywords
+カラエト
 
 =2019-06-28T13:33:13+09:00 Computer/トピック/社会動向/企業/トランス/keywords
 TRANS.HR
@@ -4960,6 +4972,9 @@ ASTRO Gaming
 T-4OO
 １円翻訳【AI & CROWD】
 
+=2019-11-28T13:13:04+09:00 Computer/トピック/社会動向/企業/ロックガレッジ/keywords
+Harris Hawk
+
 =2017-08-30T07:21:30+09:00 Computer/トピック/社会動向/企業/ロボケン/keywords
 epRobo,エピロボ
 
@@ -5030,11 +5045,12 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2019-07-24T13:52:13+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2019-11-28T13:13:03+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東
 JR九州
 NewDays
 JTB
+Osaka Metro
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
@@ -5584,7 +5600,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-11-21T14:00:06+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2019-11-28T13:13:04+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5633,6 +5649,7 @@ TSUBAME
 南砺市
 練馬区
 いわき市
+宇都宮市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
