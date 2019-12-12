@@ -418,6 +418,12 @@ URL=https://twitter.com/ppp3141592ppp/status/1174292273632165889
 =2019-03-19T06:30:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/PythonっぽいJulia：PythonコードのclassをJuliaコードへ移植する - Qiita
 URL=https://qiita.com/cometscome_phys/items/0cc0ab0b43e1bb48a1ea
 
+=2019-12-10T07:14:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「julialangの普通のobjectも関数として呼び出せるの知らなかった。 他の言語で言うとどんな言い方になるんだろう...
+URL=https://twitter.com/kdwkshh/status/1204309302745288704
+
+=2019-12-11T07:18:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「juliaの型推論の具体的な中身はこのブログ読むのがよいのかな httpst.coDcFJQy5BXF 他によいソースご存知の方いたら教えてください
+URL=https://twitter.com/kdwkshh/status/1204682453920571393
+
 =2017-10-15T07:14:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Switching from Common Lisp to Julia
 URL=https://tpapp.github.io/post/common-lisp-to-julia/
 
@@ -669,6 +675,9 @@ URL=https://twitter.com/hyper0dietter/status/1053641348903919616
 
 =2018-10-20T05:02:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/海子さんのツイート juliaでアニメーションどうやって作るのかな～～～　って軽い気持ちで調べた僕を覗き込む赤い顔達…
 URL=https://twitter.com/umikoz/status/1053585984040820737
+
+=2019-12-11T07:21:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/眠気.jlさんはTwitterを使っています 「大流行のQuantum Algorithmが大流行のJulia言語で書かれてる httpst.coHjt11r6br9」 Twitter
+URL=https://twitter.com/nomorepython/status/1204459333322330112
 
 =2018-10-11T04:54:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen Kurokiさんのツイート #Julia言語 #数楽 税を率方式ではなく、定額方式(すなわち常に同じ金額の税を徴収してランダムに
 URL=https://twitter.com/genkuroki/status/1050395040445427712
@@ -940,6 +949,9 @@ URL=http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2018-7Semester-AppliedMath7
 =2018-02-19T00:27:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ABC088 を Julia で解いてみる - わかばめにっき
 URL=http://wakabame.hatenablog.com/entry/2018/02/19/002718
 
+=2019-12-07T07:19:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Atsushi SakaiさんはTwitterを使っています 「恥ずかしながら、知りませんでした。。Juliaで関数にtype annotationつけても、JIT compileは早くならないのか。。 Type annotation make J
+URL=https://twitter.com/Atsushi_twi/status/1203276738806960128
+
 =2018-12-23T08:32:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/CUDAnative.jlで爆速並列計算 Qrunch（クランチ）
 URL=https://qrunch.net/@ToTTi95U/entries/CdiwaufzPkivty36
 
@@ -981,6 +993,9 @@ URL=https://twitter.com/MathSorcerer/status/1060227606828609536
 
 =2018-11-18T19:28:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/やすべぇさんのツイート httpst.coRTBFCPRyFf ``` ベンチマークなどに使えるのが実行時間とアロケートされたメモリを測る@timeマクロです。
 URL=https://twitter.com/yasubeitwi/status/1064092467216113664
+
+=2019-12-04T07:31:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/新帯秀樹 Hideki ShintaiさんはTwitterを使っています 「Juliaでシミュレーション高速化 #Julia言語 httpst.coRL2W2BFMBh」 Twitter
+URL=https://twitter.com/hs_heddy/status/1202181633278803968
 
 =2019-06-18T06:31:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/春さんのツイート  自分でも試してみたら、もう一つ気をつけるべきことを見つけた。 辞書の場合、型指定をしても抽象型だと全く意味がない（笑） なんとしても具象型になるように書くべき。
 URL=https://twitter.com/sunbluesome/status/1140639949680603137
