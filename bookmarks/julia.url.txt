@@ -232,6 +232,9 @@ URL=https://qiita.com//SatoshiTerasaki/items/3bf91c5d400b0deb3f8d
 =2019-07-09T06:12:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/山本 卓さんのツイート #Julia言語 1.2。このコミット（↓）が取り込まれ、ついにWindowsでもパッケージダウンロードにcurlが使われるようになる…つまりhttps_proxy環境変数でプロキシ越え（認証も）
 URL=https://twitter.com/sgryjp/status/1148602745701773313
 
+=2019-12-24T15:19:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 あれっ！！！ Julia v1.3.0は速度的に劣化していますね！！！ httpst.co47cZDlDect httpst.coYD2W3UrQyK httpst
+URL=https://twitter.com/genkuroki/status/1209181905393860608
+
 =2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
 URL=https://twitter.com/bicycle1885/status/1085492920113717248
 
@@ -517,6 +520,12 @@ URL=https://twitter.com/genkuroki/status/1108341157853949952
 =2019-08-25T06:56:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #JuliaLang broadcast を使った @. x - y^2 でも同じ結果が得られます。dot-syntax を使うとシンプルに書けて非常に便利です。速度
 URL=https://twitter.com/genkuroki/status/1165594837237682176
 
+=2019-12-20T09:48:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 const で定義した定数は型を変えなければ別の値で上書きできて(警告は出るが気にしない)、その定数を含む函数を定義しているセルを再度実行すれば
+URL=https://twitter.com/genkuroki/status/1208012982564708352
+
+=2019-12-21T18:19:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Re RTs 私は数値についてはほぼconstを使わないので、どうしてconstをそんなに使いたいのか理解できない。
+URL=https://twitter.com/genkuroki/status/1208205455652048896
+
 =2019-09-07T20:49:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 から #Wolfram言語 をMathLinkライブラリ経由で使う方法 まだ表示が数式に整形されないのですが、JuliaからWolfram言語を使う道が開かれたので
 URL=https://twitter.com/genkuroki/status/1170158576490278912
 
@@ -790,6 +799,9 @@ URL=https://qiita.com/cometscome_phys/items/f09e801bc5b3f57f6350
 =2019-09-15T22:52:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/juliaとjupyternotebookで変分ベイズ法 - Gakushukun1’s diary
 URL=https://gakushukun1.hatenablog.com/entry/2019/09/15/225248
 
+=2017-07-10T07:51:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/JuliaのランダムフォレストライブラリDecisionTree.jlでMNIST
+URL=https://masatoi.github.io/2017/07/10/julia-random-forest-mnist
+
 =2019-12-15T07:29:22+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/JuMPで数理最適化を楽しむ - Qiita
 URL=https://qiita.com/takilog/items/f617acdf66caafccd8ff
 
@@ -849,6 +861,9 @@ URL=https://twitter.com/bicycle1885/status/1104394644538851328
 
 =2019-07-01T08:40:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Azure Machine Learning ServiceのDSVM上に高速スクリプト言語Juliaの開発環境を構築する
 URL=http://hs-lifehacker.com/2019/07/01/azure-machine-learning-service%e3%81%aedsvm%e4%b8%8a%e3%81%ab%e9%ab%98%e9%80%9f%e3%82%b9%e3%82%af%e3%83%aa%e3%83%97%e3%83%88%e8%a8%80%e8%aa%9ejulia%e3%81%ae%e9%96%8b%e7%99%ba%e7%92%b0%e5%a2%83/
+
+=2019-12-21T07:09:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Docker, GitHub Actions を組み合わせた Julia パッケージ開発環境を作るよ． - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/88ff6a1e9351cec6aafe
 
 =2019-03-19T06:23:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Hakky@Kaggle(´･∀･)さんのツイート Jupyter Notebookが本っぽい感じで出力できることを知って感動している。普通に良い。 httpst.coxBcwcr7Cnu…
 URL=https://twitter.com/St_Hakky/status/1107772242773983232
@@ -1032,6 +1047,9 @@ URL=https://twitter.com/genkuroki/status/1179741779064582145
 
 =2019-10-15T19:46:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.covH79mPXAe1 MITでのJuliaのチュートリアル httpst.co8KnZC7O1yZ Julia入門 pure Juliaで書かれた
 URL=https://twitter.com/genkuroki/status/1184037075454029824
+
+=2019-12-24T15:19:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 あれっ！！！ Julia v1.3.0は速度的に劣化していますね！！！ httpst.co47cZDlDect httpst.coYD2W3UrQyK httpst
+URL=https://twitter.com/genkuroki/status/1209181905393860608
 
 =2019-12-01T07:48:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「以前から強調しているように #Julia言語 についてはその話題が結構重要だと思っています。 #統計 がらみの数値実験を多数やると、
 URL=https://twitter.com/genkuroki/status/1201003398008573960
