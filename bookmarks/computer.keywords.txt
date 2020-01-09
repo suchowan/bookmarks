@@ -38,7 +38,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2019-12-19T16:35:58+09:00 Computer/トピック/セキュリティ/keywords
+=2020-01-09T14:37:15+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -120,6 +120,8 @@ Face Match
 顧客情報
 シークレット
 障害
+root
+個人データ
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -142,7 +144,7 @@ Solid
 DBpedia
 LOD,Linked Open Data
 
-=2019-02-06T18:14:09+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2020-01-09T14:37:18+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
@@ -168,6 +170,7 @@ RZ/A2M
 Tensorコア
 Inferentia
 gpu
+WSE
 
 =2019-03-11T12:37:51+09:00 Computer/トピック/ツール/keywords
 Ghidra
@@ -503,7 +506,7 @@ ImageNet
 仮名化
 パーソナルデータ
 
-=2019-11-07T13:41:41+09:00 Computer/トピック/ブロックチェーン/keywords
+=2020-01-09T14:37:17+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -521,6 +524,7 @@ Coinhive
 TAOTAO
 リブラ
 デジタル通貨
+Randpay
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -914,7 +918,7 @@ ColouriseSG
 エフェクト
 ディープフェイク
 
-=2019-12-12T12:05:29+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2020-01-09T14:37:18+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -947,6 +951,7 @@ DeepSolar
 地上絵
 ディープフェイク
 五等分の花嫁
+歩行者
 
 =2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -1231,6 +1236,9 @@ ABEJA Platform
 
 =2017-08-08T09:25:40+09:00 Computer/トピック/社会動向/企業/Abra/keywords
 マネーの虎
+
+=2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/企業/Academy of Robotics/keywords
+Kar-go
 
 =2019-05-24T12:07:25+09:00 Computer/トピック/社会動向/企業/ACES/keywords
 SHARON
@@ -1950,6 +1958,9 @@ Pixel 4
 
 =2019-02-28T15:50:59+09:00 Computer/トピック/社会動向/企業/Google/YouTube/keywords
 Youtube,YouTube
+
+=2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/企業/GoPro/keywords
+Karma
 
 =2019-04-02T11:44:22+09:00 Computer/トピック/社会動向/企業/grabss/keywords
 TIGET
@@ -2755,6 +2766,9 @@ Qualtrics,クアルトリクス
 =2019-04-06T11:58:37+09:00 Computer/トピック/社会動向/企業/QUANTUM/keywords
 HiT
 
+=2020-01-09T14:39:03+09:00 Computer/トピック/社会動向/企業/QuEST Global/keywords
+クエスト・グローバル,QuEST Global
+
 =2017-11-19T14:52:24+09:00 Computer/トピック/社会動向/企業/Rapyuta Robotics/keywords
 Rapyuta Robotics,ラピュタ・ロボティクス
 
@@ -2809,13 +2823,15 @@ Skills Graph
 Quip
 Dreamforce
 
-=2019-04-29T17:16:03+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
+=2020-01-09T14:37:16+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
 Bixby
 ARTIK Cloud
 SmartThings
 Nexfinance
 Galaxy
+NEON
+Ballie
 
 =2017-06-26T07:58:41+09:00 Computer/トピック/社会動向/企業/Sansan/keywords
 Eight
@@ -3894,6 +3910,9 @@ Cyneural
 サイバーダイン,CYBERDYNE
 ロボットスーツHAL
 
+=2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/企業/サイバーマトリックス/keywords
+CyberNEO
+
 =2017-09-19T09:18:34+09:00 Computer/トピック/社会動向/企業/サイボウズ/keywords
 kintone
 cybozu
@@ -4369,6 +4388,9 @@ Data Diver
 =2019-06-01T11:41:01+09:00 Computer/トピック/社会動向/企業/データ・アプリケーション/keywords
 DAL,データ・アプリケーション
 
+=2020-01-09T14:38:18+09:00 Computer/トピック/社会動向/企業/トライエッティング/keywords
+TRYETING,トライエッティング
+
 =2017-04-10T14:37:45+09:00 Computer/トピック/社会動向/企業/トライバルメディアハウス/keywords
 Engage Manager,エンゲージマネージャー
 
@@ -4439,8 +4461,9 @@ Butler
 ニフティ,nifty
 スマフロ
 
-=2019-03-11T12:40:33+09:00 Computer/トピック/社会動向/企業/ニューラルポケット/keywords
+=2020-01-09T14:37:18+09:00 Computer/トピック/社会動向/企業/ニューラルポケット/keywords
 ファッションポケット,ニューラルポケット
+スマートくん
 
 =2017-12-25T16:49:22+09:00 Computer/トピック/社会動向/企業/ニューレボ/keywords
 ニューレボ,New Revo.
@@ -5645,7 +5668,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2019-12-19T16:35:59+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5701,6 +5724,7 @@ TSUBAME
 公取委
 熊本県
 警視庁
+三重県
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST

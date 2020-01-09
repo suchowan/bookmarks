@@ -151,6 +151,9 @@ URL=https://juliacomputing.com/press/2018/08/22/china-surge.html
 =2019-06-08T06:51:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/hanatmetalさんのツイート これ　Julia GitHUb Stars
 URL=https://twitter.com/hanatmetal/status/1137407550326956032
 
+=2020-01-06T15:46:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Hiroharu SugawaraさんはTwitterを使っています 「工学系大学新入生向けに 2018年から Julia 言語を用いたプログラミング演習を行っています。その狙いを #juliatokyo 8 で紹介しました #julialang 
+URL=https://twitter.com/hsugawa/status/1214071818446721025
+
 =2018-12-19T12:29:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Julia Advent Calendar 2018 - Qiita
 URL=https://qiita.com/advent-calendar/2018/julialang
 
@@ -526,6 +529,9 @@ URL=https://twitter.com/genkuroki/status/1165594837237682176
 =2019-12-20T09:48:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 const で定義した定数は型を変えなければ別の値で上書きできて(警告は出るが気にしない)、その定数を含む函数を定義しているセルを再度実行すれば
 URL=https://twitter.com/genkuroki/status/1208012982564708352
 
+=2020-01-02T06:31:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaではユニコード文字を変数名や函数名に普通に使う習慣になっていて、Δx とか σ^2 なども変数名に使え
+URL=https://twitter.com/genkuroki/status/1212571452269985793
+
 =2019-12-21T18:19:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Re RTs 私は数値についてはほぼconstを使わないので、どうしてconstをそんなに使いたいのか理解できない。
 URL=https://twitter.com/genkuroki/status/1208205455652048896
 
@@ -672,6 +678,9 @@ URL=https://snova301.hatenablog.com/entry/2019/04/17/225451
 
 =2019-01-22T07:11:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Strengths Finderで上位の強みが似ている人を見つけるためにJuliaでPCA(主成分分析)をしてみた
 URL=https://blog.regonn.tokyo/julia/2019/01/22/sf-pca.html
+
+=2020-01-04T19:33:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Weave.jl で Markdown + Julia の文章をHTMLに変換して自分のホームページで公開しよう - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/3a913f897b2ef4b82979
 
 =2018-08-29T08:25:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Yoshiki NAGATANIさんのツイート みなさまのご指摘を参考にさせて頂き，Julia 言語版を
 URL=https://twitter.com/nagataniyoshiki/status/1034631650410291200
