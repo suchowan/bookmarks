@@ -377,8 +377,8 @@ Pukiwiki
 PHP7
 PHPer
 
-=2019-03-14T18:01:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
-pandas
+=2020-01-16T14:59:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
+Pandas,pandas
 NumPy
 Flask
 Numpy
@@ -1123,7 +1123,7 @@ Amper Music
 Magenta
 楽曲
 
-=2019-12-05T13:24:30+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2020-01-16T14:59:56+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1169,6 +1169,7 @@ Riemannian Motion Policy
 Variational Auto Encoder
 GauGAN
 解釈可能性
+BiT
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1181,7 +1182,7 @@ TensorFlow
 Keras
 Chainer
 
-=2019-11-21T14:00:04+09:00 Computer/トピック/社会動向/keywords
+=2020-01-16T14:59:56+09:00 Computer/トピック/社会動向/keywords
 五反田バレー
 EXPO
 HITL
@@ -1193,6 +1194,7 @@ AIに代替
 AI Quest
 インテリジェントオートメーション
 サブレットエコノミー
+JEITA
 
 =2019-12-12T12:05:28+09:00 Computer/トピック/社会動向/シンギュラリティ/keywords
 雇用大崩壊
@@ -2705,6 +2707,9 @@ Velox
 =2018-07-14T13:23:40+09:00 Computer/トピック/社会動向/企業/Polar/keywords
 Polar Flow
 
+=2020-01-16T14:59:56+09:00 Computer/トピック/社会動向/企業/Pollen Robotics/keywords
+Reachy
+
 =2017-07-21T11:41:55+09:00 Computer/トピック/社会動向/企業/POLYGLOTS/keywords
 POLYGLOTS,ポリグロッツ
 
@@ -2823,15 +2828,15 @@ Skills Graph
 Quip
 Dreamforce
 
-=2020-01-09T14:37:16+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
+=2020-01-16T15:02:32+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
 Bixby
 ARTIK Cloud
 SmartThings
 Nexfinance
 Galaxy
-NEON
 Ballie
+Neon,NEON
 
 =2017-06-26T07:58:41+09:00 Computer/トピック/社会動向/企業/Sansan/keywords
 Eight
@@ -3463,8 +3468,9 @@ Platio
 =2017-03-30T11:40:30+09:00 Computer/トピック/社会動向/企業/インフォディオ/keywords
 文字スキャン
 
-=2018-03-16T11:48:50+09:00 Computer/トピック/社会動向/企業/インフォネット/keywords
+=2020-01-16T14:59:56+09:00 Computer/トピック/社会動向/企業/インフォネット/keywords
 AiQon
+Repotti
 
 =2017-10-24T07:58:47+09:00 Computer/トピック/社会動向/企業/インフォマティカ/keywords
 Informatica Intelligent Cloud Services
@@ -5593,6 +5599,9 @@ CanguRo
 =2019-08-27T11:46:05+09:00 Computer/トピック/社会動向/大学/同志社大学/keywords
 同志社,同志社大学
 
+=2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
+国立音大,国立音楽大学
+
 =2019-12-26T15:33:41+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
@@ -5668,7 +5677,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-01-16T14:59:58+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5725,6 +5734,7 @@ TSUBAME
 熊本県
 警視庁
 三重県
+防衛省
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST

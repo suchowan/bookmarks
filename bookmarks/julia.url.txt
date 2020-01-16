@@ -169,6 +169,9 @@ URL=https://japan.zdnet.com/article/35139247/
 =2018-10-25T21:13:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Paalonさんのツイート 京大のスパコンでもJuliaを使えるようにしてもらいました。 httpst.codFGMpNfTGT #julialang #julia言語
 URL=https://twitter.com/paalonshamoji/status/1055423948664393729
 
+=2020-01-09T08:58:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Shuhei KadowakiさんはTwitterを使っています 「@mametter お返事いただきありがとうございます！ Juliaは(generic functionのそれぞれの引数型ごとの呼び出しの)最適化のためにこうした型推論を行っている
+URL=https://twitter.com/kdwkshh/status/1215273046270869504
+
 =2019-11-11T10:06:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Shuhei KadowakiさんはTwitterを使っています 「httpst.coVGSf0WgvL5 これ読みながらRubyをちょっと触ってみたんだけど、juliaとの共通点の多さにちょっと驚いた。
 URL=https://twitter.com/kdwkshh/status/1193703085303980033
 
@@ -409,6 +412,9 @@ URL=https://qiita.com/cometscome_phys/items/60b4a73e7653955d8bb4
 =2019-05-27T08:35:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの Documenter によるドキュメント生成を PkgTemplates から自動生成しドキュメントをGitHubPagesから閲覧できるようにする（前半） - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/24443f20852ed60968bf
 
+=2020-01-11T17:47:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaのJupyterでプロット動画を素早く確認する - Qiita
+URL=https://qiita.com/I_ppp/items/d0999d33d5af42b926e4
+
 =2018-09-27T18:37:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの数学定数【小ネタ】-Qiita
 URL=https://qiita.com//Yoshinobu-Ishizaki/items/b280913264ce7b672f44
 
@@ -438,6 +444,9 @@ URL=https://twitter.com/kdwkshh/status/1204309302745288704
 
 =2019-12-11T07:18:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「juliaの型推論の具体的な中身はこのブログ読むのがよいのかな httpst.coDcFJQy5BXF 他によいソースご存知の方いたら教えてください
 URL=https://twitter.com/kdwkshh/status/1204682453920571393
+
+=2020-01-11T08:25:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「いまだにいまいち @ generated function まわりの型推論のタイミングがよく分かってない。
+URL=https://twitter.com/kdwkshh/status/1215746091716448256
 
 =2017-10-15T07:14:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Switching from Common Lisp to Julia
 URL=https://tpapp.github.io/post/common-lisp-to-julia/
@@ -1062,6 +1071,9 @@ URL=https://twitter.com/genkuroki/status/1179741779064582145
 
 =2019-10-15T19:46:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.covH79mPXAe1 MITでのJuliaのチュートリアル httpst.co8KnZC7O1yZ Julia入門 pure Juliaで書かれた
 URL=https://twitter.com/genkuroki/status/1184037075454029824
+
+=2020-01-15T20:18:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaで速度が欲しい場合には「あちこち型を明示」しなくてよいはずなのですが、どうしてそういうことになっているのだろうかと思いました。
+URL=https://twitter.com/genkuroki/status/1217275895532019712
 
 =2019-12-24T15:19:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 あれっ！！！ Julia v1.3.0は速度的に劣化していますね！！！ httpst.co47cZDlDect httpst.coYD2W3UrQyK httpst
 URL=https://twitter.com/genkuroki/status/1209181905393860608
