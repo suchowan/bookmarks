@@ -88,6 +88,9 @@ URL=https://hshindo.github.io/julia-doc-ja-v0.6/manual/introduction.html
 =2018-12-19T12:28:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/JuliaからCloud TPUを使う論文の、ざっくりまとめ Kazuaki Ishizaki - Researcher and contributor for system software
 URL=https://kiszk.github.io/2018/12/19/TensorFlow-Julia-TPU-XLA/
 
+=2020-01-17T18:31:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Juliaでの調べ方 いろいろ - Qiita
+URL=https://qiita.com/I_ppp/items/9b660fe123bd5c5af174
+
 =2017-12-26T18:51:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Juliaに触って見ようと思った時に便利なリンク集(2017年末版)-Qiita
 URL=https://qiita.com/currypurin/items/92e6f6d75cf6c587f5ef
 
@@ -307,6 +310,9 @@ URL=https://qiita.com/okdshin/items/60257ac8c6ecb4baf74a
 =2018-09-29T06:30:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Nemo
 URL=http://nemocas.org/
 
+=2020-01-22T07:16:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/PackageCompilerX で Plots.jl の呼び出しを高速にする． - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/302c3e555f65798f1f74
+
 =2019-03-12T07:05:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/wint ドライアイ+花粉症さんのツイート おっ、scikit-learn の Julia 版あるじゃん
 URL=https://twitter.com/wint7/status/1105397946575548416
 
@@ -447,6 +453,9 @@ URL=https://twitter.com/kdwkshh/status/1204682453920571393
 
 =2020-01-11T08:25:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「いまだにいまいち @ generated function まわりの型推論のタイミングがよく分かってない。
 URL=https://twitter.com/kdwkshh/status/1215746091716448256
+
+=2020-01-20T07:59:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「フィボナッチ数を計算する関数をマクロにして展開してみたら計算の過程がわかって面白かった p #julialang （不用意なマクロの使用ダメ，絶対） httpst.coIcMXAI
+URL=https://twitter.com/kdwkshh/status/1218938256370176000
 
 =2017-10-15T07:14:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Switching from Common Lisp to Julia
 URL=https://tpapp.github.io/post/common-lisp-to-julia/
@@ -745,6 +754,9 @@ URL=https://twitter.com/genkuroki/status/1123153815774027777
 =2019-10-29T19:17:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #Plotly httpst.coFHCuUQt5rF 地球をマウスでグリグリできます。
 URL=https://twitter.com/genkuroki/status/1188984110120718338
 
+=2020-01-20T19:31:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「独自の実装には #Julia言語 httpst.coAtVj7VioFn 【共同研究チームはまず、10種類の代表的なPCAアルゴリズムに注目しました。
+URL=https://twitter.com/genkuroki/status/1219090511346069504
+
 =2018-12-08T08:52:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/（Juliaで）後退差分法で修正節点法でRLC直列回路を解析する - Qiita
 URL=https://qiita.com/tatssuki/items/fb6b1cf14d261cc5d316
 
@@ -1021,6 +1033,9 @@ URL=http://bicycle1885.hatenablog.com/entry/2018/01/08/145347
 =2018-01-09T02:56:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Juliaの速さを体感する - Qiita
 URL=https://qiita.com/ceptree/items/b5cfca180e85e61c42a8
 
+=2020-01-22T07:16:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/PackageCompilerX で Plots.jl の呼び出しを高速にする． - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/302c3e555f65798f1f74
+
 =2019-04-18T13:45:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Rは本当に遅いのか？Juliaとの比較例 - Qiita
 URL=https://qiita.com/nozma/items/0025ce9e84ffbc7b18c2
 
@@ -1092,4 +1107,7 @@ URL=https://twitter.com/genkuroki/status/1121306561551294465
 
 =2018-12-09T14:07:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート 多分、プログラミングの素人でもコードを書きやすくて、計算も速いという条件を満たしている十分に開発された道具は現時点では #Julia言語 しかない
 URL=https://twitter.com/genkuroki/status/1071619148222844928
+
+=2020-01-17T18:31:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen KurokiさんはTwitterを使っています 「おお！これは #Julia言語 を使い始めた人が最初に見るべき記事かも！ 追加情報 Juliaについて検索したい人は、Googleの「設定
+URL=https://twitter.com/genkuroki/status/1217977678860443648
 
