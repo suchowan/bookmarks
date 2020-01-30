@@ -352,6 +352,9 @@ URL=https://twitter.com/genkuroki/status/1054015482624266242
 =2019-10-29T19:17:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #Plotly httpst.coFHCuUQt5rF 地球をマウスでグリグリできます。
 URL=https://twitter.com/genkuroki/status/1188984110120718338
 
+=2020-01-16T08:54:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Distributions.jl の von Mises 分布の cdf の実装が確かに不完全ですね。 vm = VonMises() とすると、cdf(vm, x
+URL=https://twitter.com/genkuroki/status/1217472447919751168
+
 =2019-09-08T07:50:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 派生 httpst.coaQsgDULUlD」 Twitter
 URL=https://twitter.com/genkuroki/status/1171553688260792320
 
@@ -490,6 +493,9 @@ URL=https://twitter.com/higucheese_/status/1073690085235732481
 =2019-08-04T06:19:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ほりたみゅさんはTwitterを使っています 「Julia, 今気づいたけど「°」が記号として使えるので°=π180と定義してると便利 httpst.co7ekwIVsMbE」 Twitter
 URL=https://twitter.com/Hyrodium/status/1157939197660942336
 
+=2020-01-28T08:58:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ほりたみゅさんはTwitterを使っています 「NaN falseが0.0になるの理不尽だと思うんですがバグ踏んだんでしょうか #Julia言語 #JuliaLang
+URL=https://twitter.com/Hyrodium/status/1222165554259091461
+
 =2019-02-26T07:40:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/まるこすぎ てんふーさんのツイート SymPy でも絵文字使える #Julialang…
 URL=https://twitter.com/tenfu2tea/status/1100343088180912130
 
@@ -546,6 +552,9 @@ URL=https://twitter.com/genkuroki/status/1165594837237682176
 
 =2019-12-20T09:48:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 const で定義した定数は型を変えなければ別の値で上書きできて(警告は出るが気にしない)、その定数を含む函数を定義しているセルを再度実行すれば
 URL=https://twitter.com/genkuroki/status/1208012982564708352
+
+=2020-01-29T15:45:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 in(v) は x -&gt; x in v なのですが、x in 3 も妥当なシンタックスであるおかげで、 a = [1,2,3,4,5,1,2,3,4,5] f
+URL=https://twitter.com/genkuroki/status/1222358822259322886
 
 =2020-01-02T06:31:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaではユニコード文字を変数名や函数名に普通に使う習慣になっていて、Δx とか σ^2 なども変数名に使え
 URL=https://twitter.com/genkuroki/status/1212571452269985793
@@ -669,6 +678,9 @@ URL=https://abrakatabura.hatenablog.com/entry/2019/04/30/152311
 
 =2019-11-13T07:49:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia言語を用いたLorenz96モデルのデータ同化(準備編) - Qiita
 URL=https://qiita.com/litharge3141/items/41b8dd3104413529407f#
+
+=2019-09-19T07:38:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JupyterNotebookで有限要素法のプリ・解析・ポストを全てやってみた - Qiita
+URL=https://qiita.com/tkoyama010/items/c817a8a1302a7053c885
 
 =2018-10-07T08:22:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/K.B.砂糖さんのツイート 拡散希望 #julia言語…
 URL=https://twitter.com/KB_satou/status/1048769198652936193

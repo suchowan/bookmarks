@@ -1,4 +1,4 @@
-=2019-10-03T12:14:23+09:00 Computer/トピック/VR・AR・MR/keywords
+=2020-01-30T13:28:42+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -27,6 +27,7 @@ XR
 ホログラム
 スマートグラス
 After Effects
+HMD
 
 =2019-12-26T15:34:27+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Ｖチューバー,Vチューバー,Vtuber,VTuber
@@ -38,7 +39,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-01-23T20:33:33+09:00 Computer/トピック/セキュリティ/keywords
+=2020-01-30T13:28:40+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -123,6 +124,7 @@ Face Match
 root
 個人データ
 マイナンバー
+shadowsocks
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1091,7 +1093,7 @@ InsurTech
 ポートフォリオ
 mecelo
 
-=2019-12-19T16:35:59+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2020-01-30T13:28:39+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1116,18 +1118,20 @@ PayPay
 Ponta
 無人販売
 Payment
+改札機
 
 =2019-10-03T12:14:24+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
 信用
 スコアリング
 
-=2017-03-22T14:12:49+09:00 Computer/トピック/機械学習/機械学習応用/音楽/keywords
+=2020-01-30T13:28:40+09:00 Computer/トピック/機械学習/機械学習応用/音楽/keywords
 作曲
 マスタリング
 Amper Music
 Magenta
 楽曲
+ミュージック
 
 =2020-01-16T14:59:56+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
@@ -1315,6 +1319,9 @@ F.O.X
 
 =2017-03-28T14:35:44+09:00 Computer/トピック/社会動向/企業/AKA/keywords
 Musio
+
+=2020-01-30T13:28:39+09:00 Computer/トピック/社会動向/企業/AKS/keywords
+AKB48
 
 =2017-10-10T09:54:48+09:00 Computer/トピック/社会動向/企業/ALBERT/keywords
 Deepsearch Logo
@@ -1693,6 +1700,9 @@ Mavic
 TELLER
 POOL
 CHIPS
+
+=2020-01-30T16:18:41+09:00 Computer/トピック/社会動向/企業/DocuSign/keywords
+ドキュサイン,DocuSign
 
 =2019-05-28T11:34:26+09:00 Computer/トピック/社会動向/企業/Domo/keywords
 ドーモ,Domo
@@ -3914,8 +3924,9 @@ AI Chat Supporter
 PASHALYパシャリィ
 デクワス.VISION
 
-=2019-01-07T12:14:12+09:00 Computer/トピック/社会動向/企業/サイバネットシステム/keywords
+=2020-01-30T16:18:06+09:00 Computer/トピック/社会動向/企業/サイバネットシステム/keywords
 EndoBRAIN
+サイバネット,サイバネットシステム
 
 =2017-11-15T17:02:47+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/AIメッセンジャー/keywords
 AIメッセンジャー,AI Messenger
@@ -3966,6 +3977,9 @@ SmartVisca
 =2017-05-09T08:30:08+09:00 Computer/トピック/社会動向/企業/サークルイン/keywords
 shippio
 
+=2020-01-30T13:28:38+09:00 Computer/トピック/社会動向/企業/シグナルトーク/keywords
+WorkUp AI
+
 =2018-02-06T15:30:32+09:00 Computer/トピック/社会動向/企業/システムインテグレータ/keywords
 SI Web Shopping
 SI Object Browser
@@ -4011,6 +4025,9 @@ eCOM-82
 
 =2017-03-30T14:52:59+09:00 Computer/トピック/社会動向/企業/シンクロ・フード/keywors
 Foodist JOB
+
+=2020-01-30T13:28:42+09:00 Computer/トピック/社会動向/企業/シーイーシー/keywords
+EdaGlass
 
 =2017-03-30T14:42:16+09:00 Computer/トピック/社会動向/企業/シーサイド/keywords
 C.VIEW
@@ -4193,7 +4210,7 @@ Kigen
 Pelion
 Neoverse
 
-=2019-04-29T17:16:03+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2020-01-30T13:28:39+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -4213,6 +4230,7 @@ KARNEL HONGO
 NAO
 SB C&S
 SBクラウド
+LiVR
 
 =2019-06-28T13:34:30+09:00 Computer/トピック/社会動向/企業/ソフトフロント/keywords
 commubo
@@ -5170,6 +5188,9 @@ AiLingual,アイリンガル
 トッパン,凸版
 BotFriends
 
+=2020-01-30T13:28:39+09:00 Computer/トピック/社会動向/企業/十印/keywords
+T-tact AN-ZIN
+
 =2017-10-12T11:36:23+09:00 Computer/トピック/社会動向/企業/千/keywords
 はいチーズ！
 
@@ -5234,6 +5255,9 @@ EvaCva+,エヴァシーヴァ・プラス
 ロボットAIプラットフォーム
 Systemwalker Runbook Automation
 デジタルアニーラ
+
+=2020-01-30T13:28:42+09:00 Computer/トピック/社会動向/企業/山本光学/keywords
+Versatile
 
 =2019-02-21T11:54:13+09:00 Computer/トピック/社会動向/企業/川崎重工業/keywords
 川崎重工業,川崎重工,Kawasaki
@@ -5360,9 +5384,10 @@ TOSHIBA
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/東風津梁/keywords
 PAN
 
-=2018-09-03T14:28:16+09:00 Computer/トピック/社会動向/企業/楽天/keywords
+=2020-01-30T16:17:23+09:00 Computer/トピック/社会動向/企業/楽天/keywords
 Viber
 みんなのビットコイン
+Rakuten,楽天
 
 =2017-10-03T09:18:45+09:00 Computer/トピック/社会動向/企業/構造計画研究所/keywords
 RemoteLock
@@ -5711,7 +5736,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-01-16T14:59:58+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-01-30T13:28:42+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5769,6 +5794,7 @@ TSUBAME
 警視庁
 三重県
 防衛省
+茨城県
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
