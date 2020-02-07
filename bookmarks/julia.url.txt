@@ -121,6 +121,9 @@ URL=https://twitter.com/genkuroki/status/1046966727429505024
 =2018-11-24T07:07:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/黒木玄 Gen Kurokiさんのツイート ReRT ほんとその通りで、 #Julia言語 でプログラムを書きたいなら、公式ドキュメントを見るのが最短コース。 各函数の解説にソースコード
 URL=https://twitter.com/genkuroki/status/1066568178044592128
 
+=2020-01-17T17:49:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/黒木玄 Gen KurokiさんはTwitterを使っています 「おお！これは #Julia言語 を使い始めた人が最初に見るべき記事かも！ 追加情報 Juliaについて検索したい人は、Googleの「設定→地域の設定」を
+URL=https://twitter.com/genkuroki/status/1217977678860443648
+
 =2019-12-02T07:11:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/２０１９年クリスマスシーズンからプログラミング言語 Julia を始めるため，第１歩からN(&gt;=1)歩進む手引き - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/a2f3e4bb0485c1af8254
 
@@ -165,6 +168,9 @@ URL=https://twitter.com/bicycle1885/status/1053479590297915393
 
 =2019-03-01T14:38:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Juliaのインタープリターも開発が進んでいたのか。 httpst.co3iiJkCGQDx
 URL=https://twitter.com/bicycle1885/status/1101336817977057280
+
+=2020-02-04T11:45:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Keisuke UTOさんはTwitterを使っています 「21世紀初頭、人類は、型推論もなく数値計算にも適さないpythonという前世紀の言語を人工知能ブームの際の標準言語として採用し、
+URL=https://twitter.com/utotch/status/1224690894328066049
 
 =2019-07-01T13:58:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/MIT、「Julia」上で動作する初心者向け汎用AIプログラミングシステム「Gen」を発表 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35139247/
@@ -258,6 +264,9 @@ URL=https://twitter.com/__akio__/status/1050541526047064064
 
 =2019-09-01T00:41:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Chainer のモデルを Flux.jl に変換するでキュ - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/8184c0f91ea06491fdbc
+
+=2016-08-07T11:42:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/cormullionさんはTwitterを使っています 「I tried graphing the #julialang package ecosystem and the inter-dependencies of all the package
+URL=https://twitter.com/_cormullion/status/1224640188518932483
 
 =2018-12-23T08:32:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/CUDAnative.jlで爆速並列計算 Qrunch（クランチ）
 URL=https://qrunch.net/@ToTTi95U/entries/CdiwaufzPkivty36
@@ -723,6 +732,9 @@ URL=https://twitter.com/sn0wyrabbit/status/1175804670926700550
 
 =2019-11-09T08:38:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/ごまふあざらしさんはTwitterを使っています 「Apllonian Gasket using Julia #Julia言語 #Julialang #julialang
 URL=https://twitter.com/MathSorcerer/status/1193144620730859523
+
+=2020-02-01T08:04:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/ごまふあざらしさんはTwitterを使っています 「こんな感じで Julia の Documenter.jl でWebpage作れるの 未来を感じてしまう． ちなみに jmd 形式のは weave(doc.jmd, doctype=github) 
+URL=https://twitter.com/MathSorcerer/status/1223308068865200130
 
 =2016-12-23T09:20:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/スパースコーディングのための辞書生成アルゴリズム，K-SVDをJuliaで実装した - Qiita
 URL=http://qiita.com/IshitaTakeshi/items/b7c319fae79f62c80319

@@ -1,4 +1,4 @@
-=2020-01-30T13:28:42+09:00 Computer/トピック/VR・AR・MR/keywords
+=2020-02-07T14:45:18+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -28,6 +28,7 @@ XR
 スマートグラス
 After Effects
 HMD
+3D
 
 =2019-12-26T15:34:27+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Ｖチューバー,Vチューバー,Vtuber,VTuber
@@ -39,7 +40,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-01-30T13:28:40+09:00 Computer/トピック/セキュリティ/keywords
+=2020-02-07T14:45:18+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -125,6 +126,8 @@ root
 個人データ
 マイナンバー
 shadowsocks
+ハック
+他人
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -380,7 +383,7 @@ Pukiwiki
 PHP7
 PHPer
 
-=2020-01-16T16:04:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
+=2020-02-07T14:45:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/keywords
 Pandas,pandas
 NumPy
 Flask
@@ -399,6 +402,7 @@ pip
 scikit-learn
 StanfordNLP
 faker
+MicroPython
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Ruby/keywords
 Rubyist
@@ -510,7 +514,7 @@ ImageNet
 仮名化
 パーソナルデータ
 
-=2020-01-09T14:37:17+09:00 Computer/トピック/ブロックチェーン/keywords
+=2020-02-07T14:45:18+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -529,6 +533,7 @@ TAOTAO
 リブラ
 デジタル通貨
 Randpay
+トークン
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -738,12 +743,13 @@ JINS
 洋服
 服装
 
-=2020-01-23T20:33:32+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
+=2020-02-07T14:45:20+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
 フライホイール
 顧客分析
 ダイナミックプライシング
 PR
+デジタルマーケ
 
 =2018-06-16T17:22:18+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/keywords
 Google Analytics,Googleアナリティクス
@@ -889,11 +895,12 @@ MRI
 Retty
 トッピング
 
-=2019-08-12T10:35:19+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
+=2020-02-07T14:45:21+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
 東ロボくん
 すらら,Surala
 学力
+STEAM
 
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
@@ -1443,6 +1450,9 @@ IPD-360VR
 バイドゥ,Baidu,百度
 Simeji
 
+=2020-02-07T14:45:19+09:00 Computer/トピック/社会動向/企業/Bear Robotics/keywords
+Penny
+
 =2018-11-03T10:28:25+09:00 Computer/トピック/社会動向/企業/BearTail/keywords
 Dr.Wallet
 
@@ -1670,11 +1680,12 @@ Weface
 =2018-12-11T05:46:02+09:00 Computer/トピック/社会動向/企業/DELL/keywords
 Dell,DELL,デル
 
-=2019-11-14T15:04:46+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
+=2020-02-07T14:45:19+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
 AIコンシェルジュ
 Easy Ride
 MOV
 ディー・エヌ・エー,DeNA
+Rerep
 
 =2018-11-29T13:54:05+09:00 Computer/トピック/社会動向/企業/DigitalGlobe/keywords
 デジタルグローブ,DigitalGlobe
@@ -1931,6 +1942,9 @@ VESTA
 =2019-06-09T15:47:57+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 AlphaStar
+
+=2020-02-07T14:45:18+09:00 Computer/トピック/社会動向/企業/Google/Jigsaw/keywords
+Assembler
 
 =2019-10-18T11:14:45+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
@@ -3094,6 +3108,9 @@ Apex One
 
 =2017-09-07T10:19:54+09:00 Computer/トピック/社会動向/企業/Tripbox/keywords
 Tastime
+
+=2020-02-07T14:45:20+09:00 Computer/トピック/社会動向/企業/TRIPL-1/keywords
+GOKU
 
 =2019-07-10T13:59:17+09:00 Computer/トピック/社会動向/企業/Tuya Smart/keywords
 Tuya,Tuya Smart
@@ -4581,6 +4598,9 @@ ZUKKU
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/ハピロボ/keywords
 temi
 
+=2020-02-07T14:45:18+09:00 Computer/トピック/社会動向/企業/ハートコア/keywords
+CXM
+
 =2019-11-14T15:06:44+09:00 Computer/トピック/社会動向/企業/バイオーム/keywords
 Biome,バイオーム
 
@@ -4834,6 +4854,9 @@ Hacker Agent
 
 =2019-10-03T12:14:24+09:00 Computer/トピック/社会動向/企業/マイナビ/keywords
 農mers
+
+=2020-02-07T14:45:20+09:00 Computer/トピック/社会動向/企業/マインドシフト/keywords
+LogicalMind
 
 =2017-08-23T08:31:42+09:00 Computer/トピック/社会動向/企業/マウスコンピューター/keywords
 mouse スマートホーム
@@ -5452,6 +5475,9 @@ Autobacs,オートバックス
 Bosch,ボッシュ
 Plantect
 
+=2020-02-07T14:46:08+09:00 Computer/トピック/社会動向/企業/自動車/Cadillac/keywords
+キャデラック,Cadillac
+
 =2019-08-02T13:17:19+09:00 Computer/トピック/社会動向/企業/自動車/Continental/keywords
 コンチネンタル,Continental
 eHorizon
@@ -5640,6 +5666,9 @@ Coin Tool,コインツール
 =2020-01-23T20:37:12+09:00 Computer/トピック/社会動向/大学/一橋大学/keywords
 一橋大,一橋大学
 
+=2020-02-07T15:11:43+09:00 Computer/トピック/社会動向/大学/三重大学/keywords
+三重大,三重大学
+
 =2017-03-30T11:09:36+09:00 Computer/トピック/社会動向/大学/九州大学/keywords
 K-now
 
@@ -5736,7 +5765,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-01-30T13:28:42+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-02-07T14:45:20+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5795,6 +5824,8 @@ TSUBAME
 三重県
 防衛省
 茨城県
+大阪府
+船橋市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
