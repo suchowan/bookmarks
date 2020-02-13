@@ -355,12 +355,12 @@ Golang
 Jakarta EE
 JDK
 
-=2019-09-01T15:38:15+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
+=2020-02-13T13:16:58+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
 Javascript,JavaScript
 AngularJS
 ESLint
 Angular
-TypeScript
+Typescript,TypeScript
 GoogleAppsScript
 Hermes
 Nuxt.js
@@ -818,7 +818,7 @@ Hire
 オーディション
 Dating
 
-=2019-12-19T16:35:58+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2020-02-13T13:16:14+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -883,6 +883,7 @@ MRI
 骨粗しょう症
 静脈
 フィットネス
+カルテ
 
 =2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1440,6 +1441,9 @@ Xvision
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/AVA Intelligence/keywords
 AVA Travel
 
+=2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/Avidbots/keywords
+Neo
+
 =2017-09-15T11:11:54+09:00 Computer/トピック/社会動向/企業/AZAPA/keywords
 DBT,Deep Binary Tree
 
@@ -1570,6 +1574,9 @@ Webex
 
 =2019-01-19T16:47:49+09:00 Computer/トピック/社会動向/企業/Citrix/keywords
 シトリックス
+
+=2020-02-13T13:17:56+09:00 Computer/トピック/社会動向/企業/Clearview AI/keywords
+Clearview,Clearview AI
 
 =2019-02-03T15:27:44+09:00 Computer/トピック/社会動向/企業/CloudMinds/keywords
 クラウドマインズ,CloudMinds
@@ -2048,9 +2055,10 @@ Kishin
 =2019-10-14T13:16:01+09:00 Computer/トピック/社会動向/企業/Hikvision/keywords
 海康威視,Hikvision
 
-=2017-03-29T11:07:55+09:00 Computer/トピック/社会動向/企業/HISホテル/keywords
+=2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/HISホテル/keywords
 HISホテル,H.I.S.,H.I.S.ホテルホールディングス
 変なホテル
+変なカフェ
 
 =2019-10-03T12:14:25+09:00 Computer/トピック/社会動向/企業/Hmcomm/keywords
 VContact
@@ -2442,6 +2450,9 @@ Kevin
 =2018-04-22T06:48:59+09:00 Computer/トピック/社会動向/企業/MJI/keywords
 Tapia
 
+=2020-02-13T13:18:42+09:00 Computer/トピック/社会動向/企業/MKI/keywords
+三井情報,MKI
+
 =2017-03-29T11:54:06+09:00 Computer/トピック/社会動向/企業/MKTインターナショナル/keywords
 MKT METAL
 
@@ -2826,6 +2837,9 @@ REV-1
 =2019-05-28T11:32:23+09:00 Computer/トピック/社会動向/企業/RevComm/keywords
 MiiTel
 
+=2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/Rice Robotics/keywords
+Rice
+
 =2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
 
@@ -3094,6 +3108,9 @@ COET
 
 =2017-03-30T10:39:04+09:00 Computer/トピック/社会動向/企業/TMJ/keywords
 ベネッセグループ,ベネッセ
+
+=2020-02-13T13:16:13+09:00 Computer/トピック/社会動向/企業/Tobii/keywords
+Pico Neo 2 Eye
 
 =2019-09-10T14:28:37+09:00 Computer/トピック/社会動向/企業/toraru/keywords
 GENCHI
@@ -3364,6 +3381,9 @@ Deskbee
 
 =2018-10-05T11:35:51+09:00 Computer/トピック/社会動向/企業/アウトソーシングテクノロジー/keywords
 Digital Shadows
+
+=2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/アガルート/keywords
+リーガルコモン
 
 =2019-06-05T11:57:52+09:00 Computer/トピック/社会動向/企業/アクア・ライブ・インベストメント/keywords
 川崎ルフロン
@@ -5471,9 +5491,10 @@ Aurora,Aurora Innovation
 =2017-10-10T11:33:21+09:00 Computer/トピック/社会動向/企業/自動車/Autobacs/keywords
 Autobacs,オートバックス
 
-=2018-10-19T11:10:29+09:00 Computer/トピック/社会動向/企業/自動車/Bosch/keywords
+=2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/自動車/Bosch/keywords
 Bosch,ボッシュ
 Plantect
+BML500P
 
 =2020-02-07T14:46:08+09:00 Computer/トピック/社会動向/企業/自動車/Cadillac/keywords
 キャデラック,Cadillac
@@ -5765,7 +5786,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-02-07T14:45:20+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5826,6 +5847,9 @@ TSUBAME
 茨城県
 大阪府
 船橋市
+むつ市
+小金井市
+消費者庁
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
@@ -5887,9 +5911,10 @@ DECT
 相互接続性
 VRM
 
-=2018-06-23T16:28:54+09:00 Computer/トピック/量子コンピュータ/keywords
+=2020-02-13T13:16:14+09:00 Computer/トピック/量子コンピュータ/keywords
 量子コンピューティング
 Q#
 Bristlecone
 アニーリング
+アニーラ
 
