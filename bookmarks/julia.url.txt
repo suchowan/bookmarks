@@ -409,6 +409,9 @@ URL=http://goropikari.hatenablog.com/entry/julia_redirect_stdio
 =2019-06-03T19:36:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia Jupyter での画像表示を実装する - Qiita
 URL=https://qiita.com/Lirimy/items/b5604b41247ba8ca7a00#comment-f300b423014439481670
 
+=2020-02-17T09:24:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia で下付き文字をインデックスに変換するマクロを書いてみた。 - Qiita
+URL=https://qiita.com/antimon2/items/5260dd28b6f049cd453f
+
 =2018-08-18T19:58:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia の reinterpret で遊んでみた。for v1.0
 URL=https://qiita.com/antimon2/items/79ede47ba271fdf555cd
 
@@ -453,6 +456,9 @@ URL=https://twitter.com/energyrevo21/status/1075343151668199424
 
 =2019-10-13T06:39:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/KeiさんはTwitterを使っています 「@whitefaced0wl Juliaの場合はそもそもオブジェクト指向言語ではなく、同じく手続き型であるGoのように構造体にメソッドを紐付ける事も出来ないのですが、
 URL=https://twitter.com/energyrevo21/status/1183379839689998336
+
+=2019-11-11T08:31:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/KTYDさんはTwitterを使っています 「julia、プロット周りのドキュメント少なすぎな。 ベクトル場表記したくてquiverについて調べてたけど、
+URL=https://twitter.com/KTYDRCB/status/1193895593971576838
 
 =2019-09-18T07:37:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/lさんはTwitterを使っています 「人のコードで気づいたけど、#julia言語 で f(x,y,z)=x+3y-z みたいな複数の引数の関数に a=[3,4,10] f(a...) って配列とかにまとめて、「...」で渡せるのか 関数の拡張とか
 URL=https://twitter.com/ppp3141592ppp/status/1174292273632165889
@@ -955,6 +961,9 @@ URL=https://qiita.com/cometscome_phys/items/fdf5720764b579ae8640
 =2019-02-13T07:52:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaで関数呼び出しでどのメソッドが実行されてるかを表示するマクロを書いてみた。ちょっと便利。
 URL=https://twitter.com/bicycle1885/status/1095506806611238913
 
+=2020-02-13T19:21:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaのアプリケーションを実行形式にしてデプロイできてしまうんや．そう，(新しい) PackageCompiler ならね - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/bd1db3c01756ab667afb
+
 =2019-01-27T23:21:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaの配列をFFIで渡す - Qiita
 URL=https://qiita.com/termoshtt/items/1f91e8868c50a645cd3d
 
@@ -996,6 +1005,9 @@ URL=https://twitter.com/MathSorcerer/status/1113824642127388673
 
 =2019-05-03T09:26:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんのツイート スレッドの Issue のリンクにて #Julia言語 1.2.0 の Arm32 bit の pre.0 を触ることができます。 初代ラズパイ、Zeroシリーズ以外では動くと思います。 httpst.coz1Qdjz
 URL=https://twitter.com/MathSorcerer/status/1124436411090739200
+
+=2020-02-13T08:28:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんはTwitterを使っています 「リポジトリに ipynb をでーんって置いておくより， Binderで閲覧できるような環境を作っておいて .py か .jl をクリックしたら jupytext によってノートブック形式に変換する
+URL=https://twitter.com/MathSorcerer/status/1227950814410371072
 
 =2019-03-08T07:39:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/カリテクさんのツイート D言語のツールdppってJuliaのヘッダー自動で読めるのか。D言語のツールでJuliaをスクリプト言語として使うの面白そう。Luaとか他のスクリプト言語も動いたら面白そう
 URL=https://twitter.com/kari_tech/status/1103671677613891584
