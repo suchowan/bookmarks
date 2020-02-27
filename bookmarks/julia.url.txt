@@ -274,6 +274,9 @@ URL=https://twitter.com/_cormullion/status/1224640188518932483
 =2018-12-23T08:32:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/CUDAnative.jlで爆速並列計算 Qrunch（クランチ）
 URL=https://qrunch.net/@ToTTi95U/entries/CdiwaufzPkivty36
 
+=2019-12-21T07:53:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Docker, GitHub Actions を組み合わせた Julia パッケージ開発環境を作るよ． - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/88ff6a1e9351cec6aafe
+
 =2018-11-02T07:01:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/goropikariさんのツイート JuliaTeX 地味に伸びたな。字面から受ける印象と実際は違う気がしてならないのですが。 正真正銘() Julia に数値計算から論文作成までさせるという Weave.jl というパッケージもありますよ。
 URL=https://twitter.com/goropikari_/status/1058367732922515457
 
@@ -910,6 +913,9 @@ URL=https://twitter.com/konno3/status/1182972767022354433
 =2019-07-11T19:49:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/加藤和彦さんのツイート MITのJulia開発者の人達が，Julia上にAIプログラミング言語・確率的プログラミング言語なるものを開発し，PLDI 2019で発表しました。新しい道を切り拓いていこうとする力に感心。
 URL=https://twitter.com/kzhk/status/1149216653076340736
 
+=2020-02-26T09:04:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/新帯秀樹 Hideki ShintaiさんはTwitterを使っています 「このソルバー・サポート表は実際に最適化問題を解くときの大いに参考になります。 #Julia言語 #最適化問題
+URL=https://twitter.com/hs_heddy/status/1231874949800837120
+
 =2019-03-09T08:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/機械学習で選ばれる言語を目指す「Julia」の挑戦--ライブラリ「Flux」が鍵 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35133918/
 
@@ -1138,8 +1144,14 @@ URL=https://twitter.com/genkuroki/status/1217275895532019712
 =2019-12-24T15:19:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 あれっ！！！ Julia v1.3.0は速度的に劣化していますね！！！ httpst.co47cZDlDect httpst.coYD2W3UrQyK httpst
 URL=https://twitter.com/genkuroki/status/1209181905393860608
 
+=2020-02-23T07:55:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#統計 #Julia言語 httpst.co55y0PuEeon 1次元でのガウス過程回帰の実装例 「実装例」と言うべき大げさな話ではないです。
+URL=https://twitter.com/genkuroki/status/1231266922236272640
+
 =2019-12-01T07:48:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「以前から強調しているように #Julia言語 についてはその話題が結構重要だと思っています。 #統計 がらみの数値実験を多数やると、
 URL=https://twitter.com/genkuroki/status/1201003398008573960
+
+=2019-09-28T19:48:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/（修正）Juliaで反復数値計算をしたらPythonよりも圧倒的に速かった話←そうでもなかった話 - Qiita
+URL=https://qiita.com/triwave33/items/3fb91678c5ab03ef03d5
 
 =2018-08-19T12:03:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/黒木玄 Gen Kurokiさんのツイート #Julia言語 Julia言語ではオブジェクト指向プログラミング(のようなこと)ができないというような誤解が
 URL=https://twitter.com/genkuroki/status/987732306499584000

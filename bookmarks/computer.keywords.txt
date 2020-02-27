@@ -40,7 +40,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-02-07T14:45:18+09:00 Computer/トピック/セキュリティ/keywords
+=2020-02-27T13:35:51+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -128,6 +128,7 @@ root
 shadowsocks
 ハック
 他人
+LODEINFO
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1741,6 +1742,9 @@ Doog,ドーグ
 =2019-04-14T14:02:10+09:00 Computer/トピック/社会動向/企業/dotstudio/keywords
 ProtoOut
 
+=2020-02-27T13:35:51+09:00 Computer/トピック/社会動向/企業/DSLAB GLOBAL/keywords
+Click AI
+
 =2017-10-20T10:44:49+09:00 Computer/トピック/社会動向/企業/DVERSE/keywords
 SYMMETRY
 
@@ -2477,8 +2481,9 @@ My-ope office
 =2018-08-04T07:26:22+09:00 Computer/トピック/社会動向/企業/Momentum/keywords
 BlackSwan
 
-=2020-01-02T12:52:59+09:00 Computer/トピック/社会動向/企業/Momo/keywords
+=2020-02-27T13:35:51+09:00 Computer/トピック/社会動向/企業/Momo/keywords
 AgriPalette
+Agri Palette
 
 =2017-08-18T08:24:00+09:00 Computer/トピック/社会動向/企業/MongoDB/keywords
 Atlas DBaaS
@@ -2943,8 +2948,8 @@ SEGWAY BASE
 =2018-07-21T13:44:32+09:00 Computer/トピック/社会動向/企業/SELFLY camera/keywords
 SELFLY
 
-=2019-10-14T13:17:47+09:00 Computer/トピック/社会動向/企業/SenseTime/keywords
-商湯科技,商湯科技開発,SenseTime
+=2020-02-27T13:15:33+09:00 Computer/トピック/社会動向/企業/SenseTime/keywords
+センスタイム,商湯科技,商湯科技開発,SenseTime
 
 =2017-11-09T06:58:39+09:00 Computer/トピック/社会動向/企業/SENSY/keywords
 カラフル・ボード
@@ -4725,6 +4730,9 @@ HRMOS,ハーモス
 ビデオリサーチ,ビデオリサーチインタラクティブ,VRI
 Mobile Reach MAX
 
+=2020-02-27T13:35:51+09:00 Computer/トピック/社会動向/企業/ビビッドガーデン/keywords
+食べチョク
+
 =2020-01-23T20:33:32+09:00 Computer/トピック/社会動向/企業/ビルコム/keywords
 PR Analyzer
 
@@ -5235,6 +5243,9 @@ KANADE DSP
 =2017-04-11T14:03:34+09:00 Computer/トピック/社会動向/企業/任天堂/keywords
 任天堂,Nintendo
 
+=2020-02-27T13:35:51+09:00 Computer/トピック/社会動向/企業/住友電工/keywords
+QuickSolution
+
 =2017-09-14T09:25:09+09:00 Computer/トピック/社会動向/企業/全国農業協同組合中央会/keywords
 全国農業協同組合中央会,JA全中,JA
 
@@ -5578,8 +5589,9 @@ COBOTTA
 Ha:mo RIDE,ハーモ・ライド
 QAネットワーク
 
-=2019-07-02T16:02:45+09:00 Computer/トピック/社会動向/企業/自動車/ホンダ/keywords
+=2020-02-27T13:35:50+09:00 Computer/トピック/社会動向/企業/自動車/ホンダ/keywords
 本田技研,ホンダ,Honda
+LogR
 
 =2017-11-12T15:54:42+09:00 Computer/トピック/社会動向/企業/自動車/三菱自動車/keywords
 三菱自
@@ -5732,12 +5744,13 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2019-12-26T15:33:41+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-02-27T13:35:51+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU
 ミシガン大学
 スイス連邦工科大学
+ノースウェスタン大学
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
