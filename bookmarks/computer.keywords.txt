@@ -40,7 +40,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-02-27T13:35:51+09:00 Computer/トピック/セキュリティ/keywords
+=2020-03-12T11:33:44+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -129,6 +129,7 @@ shadowsocks
 ハック
 他人
 LODEINFO
+encrypt
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -356,7 +357,7 @@ Golang
 Jakarta EE
 JDK
 
-=2020-02-13T13:16:58+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
+=2020-03-12T11:33:44+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
 Javascript,JavaScript
 AngularJS
 ESLint
@@ -365,6 +366,7 @@ Typescript,TypeScript
 GoogleAppsScript
 Hermes
 Nuxt.js
+Next.js
 
 =2018-03-20T14:56:09+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/Node.js/keywords
 Node-RED
@@ -1054,11 +1056,12 @@ IMAKITA
 件名
 見出し
 
-=2019-07-24T13:52:12+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
+=2020-03-12T11:33:44+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
 音声処理
 ヨミ子さん
 合成音声
 読み上げ
+音声出力
 
 =2019-05-20T13:05:03+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
@@ -1135,13 +1138,14 @@ Payment
 信用
 スコアリング
 
-=2020-01-30T13:28:40+09:00 Computer/トピック/機械学習/機械学習応用/音楽/keywords
+=2020-03-12T11:33:45+09:00 Computer/トピック/機械学習/機械学習応用/音楽/keywords
 作曲
 マスタリング
 Amper Music
 Magenta
 楽曲
 ミュージック
+ピアニスト
 
 =2020-03-05T14:44:52+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
@@ -5397,6 +5401,9 @@ NIRVANA-R
 =2017-04-11T13:47:07+09:00 Computer/トピック/社会動向/企業/日本ルナウェア/keywords
 LUNA
 
+=2020-03-12T11:34:39+09:00 Computer/トピック/社会動向/企業/日本レストランエンタプライズ/keywords
+NRE,日本レストランエンタプライズ
+
 =2017-04-11T13:51:03+09:00 Computer/トピック/社会動向/企業/日本光電工業/keywords
 NATESAS
 
@@ -5427,7 +5434,7 @@ absonne,アブソンヌ
 =2017-12-15T16:08:50+09:00 Computer/トピック/社会動向/企業/日本電産/keywords
 Motorize
 
-=2018-02-14T08:54:35+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2020-03-12T11:33:44+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -5443,6 +5450,7 @@ Web電話帳ソリューションII
 システム稼働リスク可視化ソリューション
 Hitachi Anomaly Detector
 JP1
+CoreExplorerTS
 
 =2018-03-05T14:15:21+09:00 Computer/トピック/社会動向/企業/木村情報技術/keywords
 AI-Campus
@@ -5966,10 +5974,11 @@ DECT
 相互接続性
 VRM
 
-=2020-02-13T13:16:14+09:00 Computer/トピック/量子コンピュータ/keywords
+=2020-03-12T11:33:45+09:00 Computer/トピック/量子コンピュータ/keywords
 量子コンピューティング
 Q#
 Bristlecone
 アニーリング
 アニーラ
+Quantum
 

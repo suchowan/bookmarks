@@ -313,6 +313,12 @@ URL=https://qiita.com/cometscome_phys/items/38ac9a89b96579b6a34b
 =2019-04-22T06:25:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/JuliaのDataFrameはPythonより厳格だった - Qiita
 URL=https://qiita.com/prs-watch/items/84facc355f4f1e32eb20
 
+=2020-03-06T08:13:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaのパッケージをインストール - Qiita
+URL=https://qiita.com/flu_bit/items/910f75ef48a26b4041b0
+
+=2019-05-14T08:13:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaのパッケージ開発に便利なPkgTemplate, Revise, developコマンド - Qiita
+URL=https://qiita.com/mametank/items/43330a9452f0039ca22d
+
 =2019-06-17T05:52:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaパッケージ　DesignStructureMatrix.jlを制作して公式パッケージにするまで - システムとモデリング
 URL=http://otepipi.hatenablog.com/entry/2019/06/17/055223
 
@@ -358,6 +364,9 @@ URL=https://qiita.com/cometscome_phys/items/ebdab84e2009cf5a3faf
 =2019-03-19T10:15:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/徒に JuliaでPlot した話 - Qiita
 URL=https://qiita.com/hydrocoast/items/75c52f373eda734a3833
 
+=2019-12-02T19:33:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/新帯秀樹 Hideki ShintaiさんはTwitterを使っています 「Turing.jl によるベイジアンなデータ分析 Bayesian Data Analysis with Turing.jl (JuliaTokyo #10) #bayes
+URL=https://twitter.com/hs_heddy/status/1201482900702556161
+
 =2018-10-20T21:05:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/覇権を取る、Juliaパッケージの作り方 Part1 - ログミーTech
 URL=https://logmi.jp/tech/articles/321564
 
@@ -366,6 +375,9 @@ URL=https://twitter.com/genkuroki/status/1054015482624266242
 
 =2019-10-29T19:17:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #Plotly httpst.coFHCuUQt5rF 地球をマウスでグリグリできます。
 URL=https://twitter.com/genkuroki/status/1188984110120718338
+
+=2020-03-10T07:59:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #Turing Turing.jlのbuildしたらエラーが出てしまうという問題に悩んでいる人は httpst.coRRGqcLKvJs Build failing
+URL=https://twitter.com/genkuroki/status/1233972001657610245
 
 =2020-01-16T08:54:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Distributions.jl の von Mises 分布の cdf の実装が確かに不完全ですね。 vm = VonMises() とすると、cdf(vm, x
 URL=https://twitter.com/genkuroki/status/1217472447919751168
@@ -601,6 +613,9 @@ URL=https://twitter.com/genkuroki/status/1141935444952666112
 =2019-10-21T07:46:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 型の木構造については httpst.coQnC6gj7PJ6 httpst.coSPSBsQjIxr を読んで、supertype と subtypes
 URL=https://twitter.com/genkuroki/status/1186295971044417536
 
+=2020-03-06T08:08:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 大域変数を気楽に使う方法 function f_kwarg(; x=x) y = one(float(x)) h = typeof(y)(110^5) for i 
+URL=https://twitter.com/genkuroki/status/1235923747619495936
+
 =2019-10-12T18:16:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私はJulia初心者なのですが、Juliaで配列を大量に使用する場合には無駄なメモリアロケーションを避ける方法の習得を最優先事項にする必要があります。 具体的には 
 URL=https://twitter.com/genkuroki/status/1182804725034442753
 
@@ -802,6 +817,9 @@ URL=https://twitter.com/genkuroki/status/1233795764297461760
 =2020-03-03T19:50:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#数楽 #Julia言語 確率密度函数 p(x) 自体は分かっていないが、その定数倍の式が分かっているときに、
 URL=https://twitter.com/genkuroki/status/1234753711412350976
 
+=2020-03-09T19:35:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#統計 #Julia言語 ああ、なるほど、それは面白いな。 実際に試してみました(瞬殺！笑)。 ヒストグラムをnの分割とみなしたときの多項分布モデルでのAICを最小化して分割の幅を最
+URL=https://twitter.com/genkuroki/status/1236887433439883266
+
 =2020-01-20T19:31:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「独自の実装には #Julia言語 httpst.coAtVj7VioFn 【共同研究チームはまず、10種類の代表的なPCAアルゴリズムに注目しました。
 URL=https://twitter.com/genkuroki/status/1219090511346069504
 
@@ -831,6 +849,9 @@ URL=https://qiita.com/ueuema/items/ca1b326f5df10a4203bd
 
 =2018-09-29T06:45:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia 1.0 ＋ FluxでMNIST学習-Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/0f772caba3a1bc6ceae4
+
+=2020-03-05T08:14:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia で PyTorch を呼び出す方法 - Qiita
+URL=https://qiita.com/Paalon/items/fda2745c318b57376e34
 
 =2018-10-05T11:13:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia によるレコメンドアルゴリズム実装 - Speaker Deck
 URL=https://speakerdeck.com/livesense/julia-niyorurekomentoarukorisumushi-zhuang
@@ -897,6 +918,9 @@ URL=https://twitter.com/Montreal_AI/status/1055072888519319553
 
 =2019-12-04T07:57:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/NVIDIA GPU CLOUD が提供している CUDA が使える Julia コンテナで遊ぶ - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/d31d6f4e98d35ab78743
+
+=2020-03-06T08:09:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Pure Juliaの行列演算ライブラリGaius.jlでIntel MKLを倒したい - Qiita
+URL=https://qiita.com/ho-oto/items/362c19e678f8f427718b
 
 =2018-03-12T21:25:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/PyCall.jlでPyTorch使ってDeep Learningする
 URL=https://qiita.com/yatra9/items/0a1a9a5ba19e9efe08c0#ab%E3%81%8C%E6%B0%97%E6%8C%81%E3%81%A1%E6%82%AA%E3%81%84
