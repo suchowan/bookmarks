@@ -265,6 +265,9 @@ URL=https://scrapbox.io/eiel/2018-12-26_DataFrames.jl%E3%82%92%E5%AD%A6%E3%81%B6
 =2018-10-12T08:30:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/akioさんのツイート Juliaのマクロは結構変態的なことができるみたいだ。 JSExprというパッケージがあって、＠jsマクロの後ろの関数を
 URL=https://twitter.com/__akio__/status/1050541526047064064
 
+=2020-03-14T08:10:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Arturo ErdelyさんはTwitterを使っています 「This is a #julialang package for performing astronomical photometry using modern and efficie
+URL=https://twitter.com/ArturoErdely/status/1238481211166785542
+
 =2019-09-01T00:41:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Chainer のモデルを Flux.jl に変換するでキュ - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/8184c0f91ea06491fdbc
 
@@ -297,6 +300,9 @@ URL=https://qiita.com/tenfu2tea/items/882f539a9cf3cde1fa57
 
 =2019-02-14T07:49:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia でのパッケージの作り方 - Qiita
 URL=https://qiita.com/cometscome_phys/items/989389db3540ebd9e026
+
+=2020-03-16T11:33:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia で自作パッケージを公式に登録する（2020年3月） - Qiita
+URL=https://qiita.com/Lirimy/items/0b8b519f61a9ed43bdd4
 
 =2019-02-08T10:49:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 画像関連パッケージ導入時のトラブル - Qiita
 URL=https://qiita.com/MTNakata/items/eb9ffd2d3c3c1965a725
@@ -502,6 +508,9 @@ URL=https://machakann.hatenablog.com/entry/2019/03/15/202716
 =2019-02-08T07:27:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Yuki Nagaiさんのツイート PythonでSciPyで疎行列Aで絶対値最小の固有値を求めるときは、SMモードではなく、sigma=0としてA^-1を解くモードにしてその最大固有値を求めるためにLMモードにすればよいようだ。JuliaのArp
 URL=https://twitter.com/cometscome_phys/status/1093662740424474624
 
+=2019-12-25T08:06:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/[Julia] Holy trait - 共通の関数定義を気軽に記述しよう - Qiita
+URL=https://qiita.com/tenfu2tea/items/09c3528b2144d1eac74a
+
 =2018-12-01T09:13:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/[Julia]JuliaにIntel Distribution for Pythonを適用する - Qiita
 URL=https://qiita.com/Y_F_Acoustics/items/21246ad16091246507c6
 
@@ -549,6 +558,9 @@ URL=https://twitter.com/general_ts/status/1211498773085450240
 
 =2019-06-21T07:05:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/肥大した $HOME.julia を整理する - 書いたものなど
 URL=https://machakann.hatenablog.com/entry/2019/06/21/004338
+
+=2020-03-15T08:06:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/虚無●ナマコさんはTwitterを使っています 「#Julia言語 #julialang Juliaでは、...はコレクションを展開して関数の引数に渡します。pythonでいうargsやkwargsですね。従って[collect(13), miss
+URL=https://twitter.com/chor0sK/status/1238862267355037698
 
 =2018-12-20T18:31:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen Kurokiさんのツイート #Julia言語 (m,n)型 → size (m,n) の Matrix{T}=Array{T,2}型 (行列) (n, )型 → 長さ1の Vector{T}=Array{T,1}型 (縦ベクトル) 
 URL=https://twitter.com/genkuroki/status/1076039976024825858
@@ -643,6 +655,9 @@ URL=https://github.com/cometscome/QM
 =2019-04-28T06:58:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/DSM-Design Structure MatrixをJulia言語のheatmap(by Seaborn)で描画＆ネットワーク可視化(by GraphPlot) - システムとモデリング
 URL=http://otepipi.hatenablog.com/entry/2019/04/28/225139
 
+=2020-03-15T08:06:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Franklin.jl で数学・Juliaに関するドキュメントを執筆する - Qiita
+URL=https://qiita.com/SatoshiTerasaki/items/3b3dadc593eb9a85e2dd
+
 =2018-09-20T17:58:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/FreshAndEarlyさんのツイート Julia 1.0 でMeCabを使いたい方は下記のフォークでどうぞ。本家のchezouさんがプルリクエストに対応するかは分かりません。
 URL=https://twitter.com/snthotto/status/1042591888098779136
 
@@ -708,6 +723,9 @@ URL=http://otepipi.hatenablog.com/entry/2019/06/01/175843
 
 =2019-05-28T06:15:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで可到達行列を求める - システムとモデリング
 URL=http://otepipi.hatenablog.com/entry/2019/05/28/061549
+
+=2019-05-04T07:43:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで学ぶ古典モンテカルロシミュレーション　その１：モンテカルロ法による一次元数値積分 - Qiita
+URL=https://qiita.com/cometscome_phys/items/83646da68f1734ea9948
 
 =2019-05-04T03:07:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで学ぶ古典モンテカルロシミュレーション　その２：線形代数で考えるマルコフ連鎖 - Qiita
 URL=https://qiita.com/cometscome_phys/items/f6976f56cd025d52052c
@@ -879,6 +897,9 @@ URL=http://hotoke-x.hatenablog.com/entry/2019/06/17/Julia%E3%81%A7%E3%82%BC%E3%8
 
 =2019-11-17T21:06:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaでベイズ分類器を実装（アヤメ分類） - Qiita
 URL=https://qiita.com/tomson784/items/5834f2c0020780f2125f
+
+=2019-05-04T07:43:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで学ぶ古典モンテカルロシミュレーション　その１：モンテカルロ法による一次元数値積分 - Qiita
+URL=https://qiita.com/cometscome_phys/items/83646da68f1734ea9948
 
 =2016-09-30T07:58:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Juliaで学ぶ画像処理-ニューラルネットワーク(Neural Network) part1-
 URL=https://lp-tech.net/articles/SEFVJ
@@ -1137,6 +1158,9 @@ URL=https://twitter.com/hiding_koukyo/status/1064198909235347456
 
 =2018-11-08T18:10:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ごまふあざらしさんのツイート gcd による円周率の計算を #RaspberryPi でPythonのコードを動かしています。 N=1000でもそれなりに時間がかかりますね。
 URL=https://twitter.com/MathSorcerer/status/1060227606828609536
+
+=2020-03-14T08:10:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ごまふあざらしさんはTwitterを使っています 「Honer法を Julia のmacroで書くとなんで速くなるん？ なとぴっく。 日本のプログラミング質問サイトじゃここまで付き合ってくれる人いないでしょうね。
+URL=https://twitter.com/MathSorcerer/status/1238490851547873281
 
 =2018-11-18T19:28:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/やすべぇさんのツイート httpst.coRTBFCPRyFf ``` ベンチマークなどに使えるのが実行時間とアロケートされたメモリを測る@timeマクロです。
 URL=https://twitter.com/yasubeitwi/status/1064092467216113664

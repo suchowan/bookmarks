@@ -245,7 +245,7 @@ DeepLens
 Collab
 Colab
 
-=2019-06-17T11:59:39+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
+=2020-03-19T14:17:22+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
 Google AppEngine
 Firebase
@@ -254,6 +254,7 @@ GAE
 Cloud Speech-to-Text
 Bigquery
 Cloud Services Platform
+Kubeflow
 
 =2018-08-24T11:07:27+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
@@ -899,12 +900,13 @@ MRI
 Retty
 トッピング
 
-=2020-02-07T14:45:21+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
+=2020-03-19T14:17:22+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
 東ロボくん
 すらら,Surala
 学力
 STEAM
+トレーニング
 
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
@@ -1899,13 +1901,14 @@ cyzen
 =2017-05-29T08:01:04+09:00 Computer/トピック/社会動向/企業/Fringe81/keywords
 Columva,コルンバ
 
-=2018-08-14T15:27:37+09:00 Computer/トピック/社会動向/企業/FRONTEO/keywords
+=2020-03-19T14:17:23+09:00 Computer/トピック/社会動向/企業/FRONTEO/keywords
 FRONTEO,UBIC
 KIBIT
 Kibiro
 Kibiro for Biz
 KIBIT Patent Explorer
 Concept Encoder Articles
+Coroban
 
 =2018-02-02T09:06:13+09:00 Computer/トピック/社会動向/企業/FUGU INNOVATIONS/keywords
 AUDUBE
@@ -2768,6 +2771,9 @@ SpiderAF
 
 =2019-07-15T12:47:09+09:00 Computer/トピック/社会動向/企業/Pixellot/keywords
 スターコミュニケーションズ
+
+=2020-03-19T14:17:22+09:00 Computer/トピック/社会動向/企業/PKSHA Technology/keywords
+Camphr
 
 =2017-04-10T07:59:33+09:00 Computer/トピック/社会動向/企業/PLAN-B/keywords
 Juicer
@@ -5245,6 +5251,9 @@ GX-F
 =2017-08-04T08:43:07+09:00 Computer/トピック/社会動向/企業/三越伊勢丹/keywords
 ZUKKU,ズック
 
+=2020-03-19T14:19:07+09:00 Computer/トピック/社会動向/企業/中興通訊/keywords
+ZTE,中興通訊
+
 =2017-09-12T08:03:34+09:00 Computer/トピック/社会動向/企業/丸紅/keywords
 丸紅情報システムズ,MSYS
 TRASCOPE,トラスコープ
@@ -5252,12 +5261,13 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2019-12-12T12:07:01+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2020-03-19T14:17:23+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東
 JR九州
 NewDays
 JTB
 Osaka Metro,大阪メトロ
+相鉄
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
@@ -5504,6 +5514,9 @@ HubSpot
 =2017-08-22T07:42:28+09:00 Computer/トピック/社会動向/企業/毎日放送/keywords
 毎日放送,MBS
 らいよんチャン
+
+=2020-03-19T14:18:23+09:00 Computer/トピック/社会動向/企業/沖電気工業/keywords
+沖電気,沖電気工業
 
 =2019-12-26T12:55:33+09:00 Computer/トピック/社会動向/企業/滴滴出行/keywords
 DiDi,滴滴出行
