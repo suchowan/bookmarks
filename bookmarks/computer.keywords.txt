@@ -485,7 +485,7 @@ RFIDタグ
 =2019-06-05T11:59:34+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry PI,Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
-=2019-09-01T15:38:16+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2020-03-25T16:24:27+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
@@ -498,6 +498,7 @@ Tuya Smart
 エアコン
 HOME IoT
 洗濯機
+暮らし
 
 =2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -775,7 +776,7 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2019-09-24T12:16:02+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2020-03-25T16:24:27+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
@@ -794,6 +795,7 @@ SCHAFT
 Pegasus
 アシストスーツ
 RoboCup
+ドラえもん
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -939,7 +941,7 @@ ColouriseSG
 ディープフェイク
 マスク処理
 
-=2020-01-23T20:33:33+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2020-03-25T16:24:27+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -974,6 +976,7 @@ DeepSolar
 五等分の花嫁
 歩行者
 モーションキャプチャー
+振り付け
 
 =2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -4406,10 +4409,8 @@ Advertising as a Service,AaaS
 Milee,マイリー
 Autoware
 
-=2019-06-09T15:47:57+09:00 Computer/トピック/社会動向/企業/ティファナ/keywords
+=2020-03-25T14:26:51+09:00 Computer/トピック/社会動向/企業/ティファナ・ドットコム/keywords
 AIさくらさん
-
-=2017-05-23T08:52:48+09:00 Computer/トピック/社会動向/企業/ティファナ・ドットコム/keywords
 KIZUNA
 
 =2017-04-10T14:20:16+09:00 Computer/トピック/社会動向/企業/テクノス/keywords
