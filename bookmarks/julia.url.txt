@@ -187,6 +187,9 @@ URL=https://twitter.com/kdwkshh/status/1215273046270869504
 =2019-11-11T10:06:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Shuhei KadowakiさんはTwitterを使っています 「httpst.coVGSf0WgvL5 これ読みながらRubyをちょっと触ってみたんだけど、juliaとの共通点の多さにちょっと驚いた。
 URL=https://twitter.com/kdwkshh/status/1193703085303980033
 
+=2020-03-28T20:03:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Shuhei KadowakiさんはTwitterを使っています 「RStudio(の特にRMarkdown)使いの方にお願いなのですが、その好きな所とかオススメの機能を教えていただけませんか。 Juliaに同様の開発環境を提供するプロジェクトをや
+URL=https://twitter.com/kdwkshh/status/1243758107827646465
+
 =2019-06-24T12:57:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/WEB+DB PRESS編集部さんのツイート WEB+DB PRESS Vol.111、本日6月24日発売です！ 電子版も同時発売！ 今号の概要をお伝えします。#wdpress
 URL=https://twitter.com/wdpress/status/1142966553614229505
 
@@ -201,6 +204,9 @@ URL=https://twitter.com/takuizum/status/1242161806983852032
 
 =2019-06-07T07:14:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/みょうがさんのツイート 昨年の秋頃に Julia 特集の企画を作って提案し、佐藤さん @bicycle1885 と夜道さん @yomichi_137 を巻き込んで、やっとここまでたどり着いた！みんなで Julia をやろう！！…
 URL=https://twitter.com/mrkn/status/1136901723908235264
+
+=2020-04-01T17:40:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/よこえもんさんはTwitterを使っています 「お陰さまで科研・基盤(C)「Julia言語を用いた新しい計算機数論システムの開発とその応用」が採択されました。 今年35歳なので、採択率の高い若手研究にも出せたのですが、
+URL=https://twitter.com/yokoemon2112/status/1245334616187088896
 
 =2019-02-23T18:47:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/プログラミング言語の「Julia」、1年の成長を示す数字が明らかに - ZDNet Japan
 URL=https://japan.zdnet.com/article/35132086/
@@ -247,6 +253,9 @@ URL=https://qiita.com/koinori/items/bdb01ec789d5e49aed0f
 =2019-12-12T17:26:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/ごまふあざらしさんはTwitterを使っています 「Julia が 1.2 でビルドシステム色々変わったので特定の環境でビルドできない問題がありまふ．Juliaのビルド対象を1.3にすると解決できるかもしれないです．
 URL=https://twitter.com/MathSorcerer/status/1204911520418693120
 
+=2020-03-25T08:23:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/プログラミング言語「Julia 1.4」リリース OSDN Magazine
+URL=https://mag.osdn.jp/20/03/25/150000
+
 =2019-10-27T12:31:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/各バージョンのJuliaで同一のスクリプトを動かしてみる（ポエム） - Qiita
 URL=https://qiita.com//SatoshiTerasaki/items/3bf91c5d400b0deb3f8d
 
@@ -282,6 +291,9 @@ URL=https://qrunch.net/@ToTTi95U/entries/CdiwaufzPkivty36
 
 =2019-12-21T07:53:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Docker, GitHub Actions を組み合わせた Julia パッケージ開発環境を作るよ． - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/88ff6a1e9351cec6aafe
+
+=2020-03-31T20:41:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Genie(Julia言語向けのフルスタックMVC Webフレームワーク)の日本語訳(v0.28.0) - Pasta-Code[パスタコード]
+URL=https://kenteiblog.hatenablog.com/entry/2020/03/31/204103
 
 =2018-11-02T07:01:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/goropikariさんのツイート JuliaTeX 地味に伸びたな。字面から受ける印象と実際は違う気がしてならないのですが。 正真正銘() Julia に数値計算から論文作成までさせるという Weave.jl というパッケージもありますよ。
 URL=https://twitter.com/goropikari_/status/1058367732922515457
@@ -715,6 +727,9 @@ URL=https://qiita.com/antimon2/items/ff31a74758eb4b63604e
 =2018-12-11T15:37:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia を使ってお手軽に数学 gif を作ってみよう - Qiita
 URL=https://qiita.com/wakabame/items/7c4db07c222755349dea
 
+=2020-03-31T22:15:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia 言語で汎用一次元数値積分関数を書きました - 書いたものなど
+URL=https://machakann.hatenablog.com/entry/2020/03/31/221555
+
 =2018-10-07T08:44:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaからPyCall経由でカメラを起動する。 - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/b1ebd844620b920e8df6
 
@@ -750,6 +765,9 @@ URL=https://qiita.com/cometscome_phys/items/83646da68f1734ea9948
 
 =2019-05-04T03:07:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで学ぶ古典モンテカルロシミュレーション　その２：線形代数で考えるマルコフ連鎖 - Qiita
 URL=https://qiita.com/cometscome_phys/items/f6976f56cd025d52052c
+
+=2014-12-25T08:04:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで楽器を作ろう（コナミ効果）！ - Qiita
+URL=https://qiita.com/kimrin/items/689f5b6ae4c0f56cf4a4
 
 =2018-09-27T06:58:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで簡単なGUIアプリを作ってみる - Qiita
 URL=https://qiita.com/goropikari/items/8b803be3ce8d36ea2fe9

@@ -1,4 +1,4 @@
-=2020-02-07T14:45:18+09:00 Computer/トピック/VR・AR・MR/keywords
+=2020-04-02T16:53:31+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -29,6 +29,7 @@ XR
 After Effects
 HMD
 3D
+xR
 
 =2019-12-26T15:34:27+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Ｖチューバー,Vチューバー,Vtuber,VTuber
@@ -776,7 +777,7 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2020-03-25T16:24:27+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2020-04-02T16:53:32+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
@@ -796,6 +797,7 @@ Pegasus
 アシストスーツ
 RoboCup
 ドラえもん
+パワードスーツ
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -1076,7 +1078,7 @@ CHIVOX
 文字起こし
 音声文字変換
 
-=2020-01-02T12:52:58+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2020-04-02T16:53:31+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1094,6 +1096,7 @@ CHIVOX
 除草
 野菜
 水田
+営農
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -3290,6 +3293,9 @@ Wind River,ウインドリバー
 VxWorks
 AXON Predict Analytics
 
+=2020-04-02T16:57:21+09:00 Computer/トピック/社会動向/企業/Wireless City Planning/keywords
+WCP,Wireless City Planning
+
 =2018-10-29T09:48:09+09:00 Computer/トピック/社会動向/企業/Workday/keywords
 ワークデイ,Workday
 
@@ -5445,7 +5451,7 @@ absonne,アブソンヌ
 =2017-12-15T16:08:50+09:00 Computer/トピック/社会動向/企業/日本電産/keywords
 Motorize
 
-=2020-03-12T11:33:44+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2020-04-02T16:53:32+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -5462,6 +5468,7 @@ Web電話帳ソリューションII
 Hitachi Anomaly Detector
 JP1
 CoreExplorerTS
+EMIEW
 
 =2018-03-05T14:15:21+09:00 Computer/トピック/社会動向/企業/木村情報技術/keywords
 AI-Campus
@@ -5583,6 +5590,9 @@ Daimler,ダイムラー
 
 =2017-04-11T11:46:47+09:00 Computer/トピック/社会動向/企業/自動車/Ford/keywords
 Ford,フォード
+
+=2020-04-02T16:56:29+09:00 Computer/トピック/社会動向/企業/自動車/Geely Auto/keywords
+Geely,Geely Auto
 
 =2017-09-07T10:34:58+09:00 Computer/トピック/社会動向/企業/自動車/Jaguar/keywords
 Sayer
@@ -5863,7 +5873,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-04-02T16:53:32+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -5927,6 +5937,7 @@ TSUBAME
 むつ市
 小金井市
 消費者庁
+北陸財務局
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
