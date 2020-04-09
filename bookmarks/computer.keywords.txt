@@ -41,7 +41,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-03-12T11:33:44+09:00 Computer/トピック/セキュリティ/keywords
+=2020-04-09T16:39:28+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -131,6 +131,10 @@ shadowsocks
 他人
 LODEINFO
 encrypt
+VPN
+うっかり
+Emotet
+テレワーク
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -589,12 +593,13 @@ Amazon Echo,AmazonEcho
 Echosim.io
 アマゾン・エコー
 
-=2019-07-10T13:57:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
+=2020-04-09T16:39:27+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
 Google アシスタント
 オーケー、グーグル
+OK Google
 
-=2019-12-05T13:22:22+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2020-04-09T16:39:29+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -610,6 +615,8 @@ nomi
 AIさくらさん
 AI案内
 接客
+受付
+渋谷さくら
 
 =2018-09-14T12:11:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -1646,11 +1653,12 @@ Collet
 =2018-01-22T13:28:54+09:00 Computer/トピック/社会動向/企業/Crowdroid/keywords
 Amaterras,アマテラス
 
-=2017-10-23T12:01:16+09:00 Computer/トピック/社会動向/企業/CTC/keywords
+=2020-04-09T16:39:28+09:00 Computer/トピック/社会動向/企業/CTC/keywords
 伊藤忠テクノソリューションズ,CTC
 UiPath
 CarLA
 CINAPS,CTC Integrated AI Platform Stack
+CTC-AICON
 
 =2017-03-28T14:55:22+09:00 Computer/トピック/社会動向/企業/Curious Edge/keywords
 Commu
@@ -2048,6 +2056,9 @@ FaceOpen
 
 =2017-12-08T14:18:25+09:00 Computer/トピック/社会動向/企業/GROOVE X/keywords
 LOVOT
+
+=2020-04-09T16:40:06+09:00 Computer/トピック/社会動向/企業/grooves/keywords
+グルーヴス,grooves
 
 =2019-10-24T11:26:54+09:00 Computer/トピック/社会動向/企業/Gugenka/keywords
 HoloModels
@@ -3319,6 +3330,9 @@ Xilinx,ザイリンクス
 CatBoost
 MatrixNet
 
+=2020-04-09T16:39:27+09:00 Computer/トピック/社会動向/企業/YEEUU Tech/keywords
+S1
+
 =2019-10-14T13:20:45+09:00 Computer/トピック/社会動向/企業/YITU/keywords
 依図科技,YITU
 
@@ -3631,6 +3645,9 @@ TextVoice
 
 =2019-03-18T14:16:19+09:00 Computer/トピック/社会動向/企業/ウイズトラベル/keywords
 WithTravel,ウイズトラベル
+
+=2020-04-09T16:40:50+09:00 Computer/トピック/社会動向/企業/ウイブシステムズ/keywords
+WIBU-SYSTEMS,ウイブシステムズ
 
 =2018-03-16T11:48:43+09:00 Computer/トピック/社会動向/企業/ウイングアーク1st/keywords
 MotionBoard
@@ -5355,7 +5372,7 @@ PALRO,パルロ
 SYNAPSE Case Match
 ひびみっけ
 
-=2018-04-06T13:38:16+09:00 Computer/トピック/社会動向/企業/富士通/keywords
+=2020-04-09T16:39:29+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
 COLMINA,コルミナ
 Akisai
@@ -5366,6 +5383,7 @@ EvaCva+,エヴァシーヴァ・プラス
 ロボットAIプラットフォーム
 Systemwalker Runbook Automation
 デジタルアニーラ
+富岳
 
 =2020-01-30T13:28:42+09:00 Computer/トピック/社会動向/企業/山本光学/keywords
 Versatile
