@@ -157,7 +157,7 @@ Solid
 DBpedia
 LOD,Linked Open Data
 
-=2020-01-09T14:37:18+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2020-04-23T13:32:54+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
@@ -184,6 +184,7 @@ Tensorコア
 Inferentia
 gpu
 WSE
+アクセラレータ
 
 =2019-03-11T12:37:51+09:00 Computer/トピック/ツール/keywords
 Ghidra
@@ -833,7 +834,7 @@ Hire
 オーディション
 Dating
 
-=2020-04-16T13:04:01+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2020-04-23T13:32:55+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -900,6 +901,7 @@ MRI
 フィットネス
 カルテ
 病
+接触
 
 =2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1610,6 +1612,9 @@ Webex
 
 =2020-02-13T13:17:56+09:00 Computer/トピック/社会動向/企業/Clearview AI/keywords
 Clearview,Clearview AI
+
+=2020-04-23T13:34:02+09:00 Computer/トピック/社会動向/企業/Cloudflair/keywords
+クラウドフレア,Cloudflair
 
 =2019-02-03T15:27:44+09:00 Computer/トピック/社会動向/企業/CloudMinds/keywords
 クラウドマインズ,CloudMinds
