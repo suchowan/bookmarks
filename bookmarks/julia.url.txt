@@ -415,6 +415,9 @@ URL=https://twitter.com/genkuroki/status/1188984110120718338
 =2020-03-10T07:59:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #Turing Turing.jlのbuildしたらエラーが出てしまうという問題に悩んでいる人は httpst.coRRGqcLKvJs Build failing
 URL=https://twitter.com/genkuroki/status/1233972001657610245
 
+=2020-04-26T07:59:22+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 @ animate はJuliaのPlots.jlで定義されているマクロ。 anim = @ animate for a in range(1, 10, lengt
+URL=https://twitter.com/genkuroki/status/1254142790776180736
+
 =2020-01-16T08:54:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Distributions.jl の von Mises 分布の cdf の実装が確かに不完全ですね。 vm = VonMises() とすると、cdf(vm, x
 URL=https://twitter.com/genkuroki/status/1217472447919751168
 
@@ -658,6 +661,12 @@ URL=https://twitter.com/genkuroki/status/1241749462545924096
 =2019-10-21T07:21:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 で Float128 を使うには ]add Quadmath using Quadmath Float128(π) 使用例が
 URL=https://twitter.com/genkuroki/status/1185945718332084225
 
+=2020-04-26T08:13:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 の「べからず集」の httpst.costETLyAcLx JuliaLang Antipatterns が結構おもろい。 最初の例は、安易な方法で実装されていない
+URL=https://twitter.com/genkuroki/status/1254338077457145856
+
+=2020-04-25T08:12:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 の型システムやmultiple dispatchを十分に理解するまでは 函数の定義に限っては型指定を行わない と覚えておけば良いと思います。
+URL=https://twitter.com/genkuroki/status/1253979243588890624
+
 =2019-10-21T08:39:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 はmultiple dispatchなので、 メソッドfがどの型(クラス)で使用可能か？ 型(クラス)Tで使用可能なメソッド達は何か？
 URL=https://twitter.com/genkuroki/status/1186293099867168774
 
@@ -675,6 +684,9 @@ URL=https://twitter.com/genkuroki/status/1182804725034442753
 
 =2019-10-23T07:09:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@triwave33 @abap__ @physicsturtle #Julia言語 forループと大域変数の関係は講義でJuliaを使いたい人にとっては問題になりえるので、
 URL=https://twitter.com/genkuroki/status/1186976073327640577
+
+=2020-04-26T08:11:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RT Juliaでは【people tend to have very long running REPL sessions】 まさにそれ！ 直接REPL内に留まり続けたり、J
+URL=https://twitter.com/genkuroki/status/1254170133322297344
 
 =2019-03-13T05:46:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「ああ、こんな時間にやっちゃいけないこと始めてしまった。 texliveのネットワークインストーラーを起動してしまった。」 Twitter
 URL=https://twitter.com/genkuroki/status/1105552529222336512
@@ -733,11 +745,17 @@ URL=https://qiita.com/Rshimura/items/4389d164840589a14ec6
 =2019-10-22T19:18:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia で遊ぼう フィボナッチ数列 - Qiita
 URL=https://qiita.com/antimon2/items/ff31a74758eb4b63604e
 
+=2019-12-26T08:14:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia におけるアニメーションのしくみ - Qiita
+URL=https://qiita.com/Lirimy/items/8976bb4dcf5febad178e
+
 =2018-12-11T15:37:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia を使ってお手軽に数学 gif を作ってみよう - Qiita
 URL=https://qiita.com/wakabame/items/7c4db07c222755349dea
 
 =2020-03-31T22:15:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia 言語で汎用一次元数値積分関数を書きました - 書いたものなど
 URL=https://machakann.hatenablog.com/entry/2020/03/31/221555
+
+=2019-08-31T08:15:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaGPU CUDAnative でイジングモデルを計算する - Qiita
+URL=https://qiita.com/Lirimy/items/e25efa016c54d07368c8
 
 =2018-10-07T08:44:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaからPyCall経由でカメラを起動する。 - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/b1ebd844620b920e8df6
@@ -1057,6 +1075,9 @@ URL=https://twitter.com/St_Hakky/status/1107772242773983232
 =2018-09-03T23:30:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia - Jupyter notebook と Julia のソースコードの相互変換方法 - goropikariの備忘録
 URL=http://goropikari.hatenablog.com/entry/literate_code2notebook
 
+=2020-01-16T08:14:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia Jupyter での画像表示を実装する - Qiita
+URL=https://qiita.com/Lirimy/items/b5604b41247ba8ca7a00
+
 =2018-10-08T18:01:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Julia v1.0 でユニットテスト - Qiita
 URL=https://qiita.com/antimon2/items/5222f4f773bf1944b745
 
@@ -1170,6 +1191,9 @@ URL=http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2018-7Semester-AppliedMath7
 
 =2018-02-19T00:27:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ABC088 を Julia で解いてみる - わかばめにっき
 URL=http://wakabame.hatenablog.com/entry/2018/02/19/002718
+
+=2020-04-26T08:14:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/AstellonさんはTwitterを使っています 「Juliaの高速化Tipsの話でMITの講義資料ちゃんと読んでなかったの思い出した。Lecture2があまりにもよい。 httpst.cokYZBhGYFZ1」 Twitter
+URL=https://twitter.com/astellon_music/status/1254352807391408135
 
 =2019-12-07T07:19:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Atsushi SakaiさんはTwitterを使っています 「恥ずかしながら、知りませんでした。。Juliaで関数にtype annotationつけても、JIT compileは早くならないのか。。 Type annotation make J
 URL=https://twitter.com/Atsushi_twi/status/1203276738806960128
