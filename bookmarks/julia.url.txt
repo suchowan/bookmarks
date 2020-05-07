@@ -91,6 +91,9 @@ URL=https://kiszk.github.io/2018/12/19/TensorFlow-Julia-TPU-XLA/
 =2020-01-17T18:31:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Juliaでの調べ方 いろいろ - Qiita
 URL=https://qiita.com/I_ppp/items/9b660fe123bd5c5af174
 
+=2019-05-08T07:40:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Juliaという速くて書きやすい言語をちょっとだけ覗いてみたんだが、なにやらワクワクするものがあったので報告しようと思う - Qiita
+URL=https://qiita.com/sadayuki-matsuno/items/fc5e9ec3894a4b7bfbfb
+
 =2017-12-26T18:51:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Juliaに触って見ようと思った時に便利なリンク集(2017年末版)-Qiita
 URL=https://qiita.com/currypurin/items/92e6f6d75cf6c587f5ef
 
@@ -237,6 +240,9 @@ URL=https://twitter.com/genkuroki/status/1037676923814432768
 
 =2018-10-25T06:19:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/黒木玄 Gen Kurokiさんのツイート Google Colab で #Julia言語 + TPU が正式サポートされることになればビッグニュースですね。Google側にもメリットがありそう。
 URL=https://twitter.com/genkuroki/status/1055094694470856704
+
+=2020-05-05T20:37:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Atsushi SakaiさんはTwitterを使っています 「数週間後にリリースされるJulia 1.5では(!!)、再現の難しいバグを簡単に修正するために、各命令の後のビット単位での正確なメモリとレジスタの状態を含む
+URL=https://twitter.com/Atsushi_twi/status/1257552587391299584
 
 =2019-11-26T20:00:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/goropikariさんはTwitterを使っています 「ついに Julia 1.3 来た！ httpst.cozCdqcGqDLf」 Twitter
 URL=https://twitter.com/goropikari_/status/1199245585473081345
@@ -423,6 +429,9 @@ URL=https://twitter.com/genkuroki/status/1217472447919751168
 
 =2019-09-08T07:50:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 派生 httpst.coaQsgDULUlD」 Twitter
 URL=https://twitter.com/genkuroki/status/1171553688260792320
+
+=2020-05-01T06:42:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私は同時に使えないパッケージがある場合には、julia --project=～ で環境を分けて切り抜けています。
+URL=https://twitter.com/genkuroki/status/1256170196579975168
 
 =2018-10-10T19:09:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/(｢・ω・)｢ｶﾞｵｰさんのツイート Juliaの微分方程式ソルバーパッケージで有名なRackauckas氏，14は日本人なのか(Slackで言ってた)。
 URL=https://twitter.com/bicycle1885/status/1049920217013542913
@@ -694,6 +703,9 @@ URL=https://twitter.com/genkuroki/status/1105552529222336512
 =2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
 URL=https://twitter.com/bicycle1885/status/1085492920113717248
 
+=2020-04-30T07:42:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/5次元超格子を2次元平面に射影してペンローズタイル準結晶を作ってみよう in Julia - Qiita
+URL=https://qiita.com/cometscome_phys/items/659a569497eef3a85d86
+
 =2018-11-09T07:01:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Atsushi Sakaiさんのツイート Pure Juliaで書き始めたシンプルな最適化ソルバー。結構APIも揃ってきた。これから代表的な凸最適化のソルバーを増やしたい。#julialang：AtsushiSakaiargmin.jl A num
 URL=https://twitter.com/Atsushi_twi/status/1060879808828071936
 
@@ -858,6 +870,9 @@ URL=http://qiita.com/IshitaTakeshi/items/b7c319fae79f62c80319
 
 =2018-06-06T18:11:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/プログラミング言語 Julia と、ウェブフレームワーク Genie まだプログラマーですが何か？
 URL=http://dotnsf.blog.jp/archives/1071192012.html
+
+=2020-04-30T17:43:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/万博@盲学校マジックさんはTwitterを使っています 「結局、数学の現場（というほど数学やってないけど）ではJuliaを使ってるんだから、Juliaを教えるべき。」 Twitter
+URL=https://twitter.com/bampaku/status/1255469203676635136
 
 =2018-10-20T05:02:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/志位＋＋和夫さんのツイート #TSUTAYA_AI はJuliaで動いています。是非Juliaの速度を体感ください。 #JuliaTokyo
 URL=https://twitter.com/hyper0dietter/status/1053641348903919616
