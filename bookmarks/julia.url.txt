@@ -229,6 +229,9 @@ URL=https://hackmd.io/p/BJ6W27hqX#/
 =2019-03-09T08:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/機械学習で選ばれる言語を目指す「Julia」の挑戦--ライブラリ「Flux」が鍵 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35133918/
 
+=2020-05-20T14:33:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/歩行者は右側通行さんはTwitterを使っています 「いつのまにか #Julia言語 がThe Computer Language Benchmark GameのTier 1に入ってる。 https---t.co-iOMtuAkjlQ」 - Twitter
+URL=https://twitter.com/JikanBae/status/1262930185982103552
+
 =2019-11-14T07:10:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/眠気.jlさんはTwitterを使っています 「Juliaプログラミングクックブック 翻訳レビューしたので発売の2週間ぐらい前にフラゲ 誤字指摘できなかったところあるので腹を切って侘びたい
 URL=https://twitter.com/julialangisthe/status/1194950442309935104
 
@@ -832,6 +835,9 @@ URL=https://twitter.com/energyrevo21/status/1093133444693909505
 =2019-06-15T18:41:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/kjunichiさんのツイート #julialang で #pasori を使って #pasmo の残高を読めた！ httpst.comw0Td2E3Tc…
 URL=https://twitter.com/kjunichi/status/1139826687787655169
 
+=2020-05-05T07:11:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Lorenz96モデルのデータ同化準備編 - Qiita
+URL=https://qiita.com/litharge3141/items/41b8dd3104413529407f
+
 =2019-05-01T06:21:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Makie.jl を用いた対話的プロットのサンプル - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/efb24fee119b11f143a7
 
@@ -1084,6 +1090,9 @@ URL=http://hs-lifehacker.com/2019/07/01/azure-machine-learning-service%e3%81%aed
 =2019-12-21T07:09:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Docker, GitHub Actions を組み合わせた Julia パッケージ開発環境を作るよ． - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/88ff6a1e9351cec6aafe
 
+=2020-05-17T17:04:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Google ColabでJuliaを使う：元々あるノートブックを使う - Qiita
+URL=https://qiita.com/cometscome_phys/items/1ba6ec181bb0fe1b35d5
+
 =2019-03-19T06:23:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Hakky@Kaggle(´･∀･)さんのツイート Jupyter Notebookが本っぽい感じで出力できることを知って感動している。普通に良い。 httpst.coxBcwcr7Cnu…
 URL=https://twitter.com/St_Hakky/status/1107772242773983232
 
@@ -1263,6 +1272,9 @@ URL=https://twitter.com/MathSorcerer/status/1238490851547873281
 
 =2018-11-18T19:28:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/やすべぇさんのツイート httpst.coRTBFCPRyFf ``` ベンチマークなどに使えるのが実行時間とアロケートされたメモリを測る@timeマクロです。
 URL=https://twitter.com/yasubeitwi/status/1064092467216113664
+
+=2020-05-10T07:09:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/アレフzeroさんはTwitterを使っています 「JuliaでGPUが簡単に使えそうなので、とりあえずCUDA Toolkitを入れることにする」 Twitter
+URL=https://twitter.com/en_sof/status/1259468385173176320
 
 =2019-12-04T07:31:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/新帯秀樹 Hideki ShintaiさんはTwitterを使っています 「Juliaでシミュレーション高速化 #Julia言語 httpst.coRL2W2BFMBh」 Twitter
 URL=https://twitter.com/hs_heddy/status/1202181633278803968

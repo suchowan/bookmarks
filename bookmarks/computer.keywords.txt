@@ -367,7 +367,7 @@ Golang
 Jakarta EE
 JDK
 
-=2020-03-12T11:33:44+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
+=2020-05-21T13:19:21+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
 Javascript,JavaScript
 AngularJS
 ESLint
@@ -377,6 +377,7 @@ GoogleAppsScript
 Hermes
 Nuxt.js
 Next.js
+Deno
 
 =2018-03-20T14:56:09+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/Node.js/keywords
 Node-RED
@@ -681,7 +682,7 @@ Quicksilver
 似合う
 レコメンデーション
 
-=2020-05-13T15:59:18+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2020-05-21T13:19:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -700,6 +701,7 @@ HEMS
 感情分析
 ドライブレコーダー
 運用
+最適
 
 =2020-01-23T20:33:32+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -920,13 +922,15 @@ MRI
 Retty
 トッピング
 
-=2020-03-19T14:17:22+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
+=2020-05-21T13:19:21+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
 東ロボくん
 すらら,Surala
 学力
 STEAM
 トレーニング
+EdTech
+Read Along
 
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
@@ -1329,6 +1333,9 @@ Affdex
 
 =2019-01-11T13:51:37+09:00 Computer/トピック/社会動向/企業/AGC/keywords
 旭硝子,AGC
+
+=2020-05-21T13:19:23+09:00 Computer/トピック/社会動向/企業/AGREE/keywords
+LEBER
 
 =2019-04-18T13:09:23+09:00 Computer/トピック/社会動向/企業/AI inside/keywords
 DX Suite
@@ -1838,8 +1845,9 @@ ZenClerk
 =2017-09-27T09:06:23+09:00 Computer/トピック/社会動向/企業/Emrec Technologies/keywords
 Engazify
 
-=2017-11-22T17:06:34+09:00 Computer/トピック/社会動向/企業/Enhance Games/keywords
+=2020-05-21T13:21:41+09:00 Computer/トピック/社会動向/企業/Enhance Games/keywords
 Rez Infinite
+エンハンス,Enhance Games
 
 =2018-09-03T14:28:07+09:00 Computer/トピック/社会動向/企業/ENT/keywords
 らく翻訳
@@ -2978,6 +2986,9 @@ Galaxy
 Ballie
 Neon,NEON
 
+=2020-05-21T13:19:23+09:00 Computer/トピック/社会動向/企業/SandBox/keywords
+ノウミーリサーチ
+
 =2017-06-26T07:58:41+09:00 Computer/トピック/社会動向/企業/Sansan/keywords
 Eight
 
@@ -3027,6 +3038,9 @@ SELFLY
 =2017-11-09T06:58:39+09:00 Computer/トピック/社会動向/企業/SENSY/keywords
 カラフル・ボード
 SENSY BOT for Biz
+
+=2020-05-21T13:19:21+09:00 Computer/トピック/社会動向/企業/Serif/keywords
+Affinty
 
 =2019-05-12T14:49:31+09:00 Computer/トピック/社会動向/企業/ServiceNow/keywords
 Jakarta
@@ -3908,6 +3922,9 @@ Vision Edition-U
 =2017-09-26T08:41:45+09:00 Computer/トピック/社会動向/企業/キーウォーカー/keywords
 キーウォーカーWEBクローラ
 
+=2020-05-21T13:21:07+09:00 Computer/トピック/社会動向/企業/ギフトモール/keywords
+Giftmall,ギフトモール
+
 =2019-12-12T12:06:30+09:00 Computer/トピック/社会動向/企業/ギリア/keywords
 清水亮
 GHELIA,ギリア
@@ -4781,7 +4798,7 @@ PASMO,パスモ
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2019-05-24T12:07:24+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2020-05-21T13:19:21+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
@@ -4793,6 +4810,7 @@ HDコム
 コエリモ
 帳票認識ライブラリー
 HOSPI
+Aug Lab
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
@@ -5946,7 +5964,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-05-07T13:57:11+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-05-21T13:19:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -6014,6 +6032,8 @@ TSUBAME
 経済産業省
 岩手県
 愛知県
+福岡県
+愛媛県
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
