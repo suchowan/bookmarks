@@ -334,6 +334,9 @@ URL=https://qiita.com/cometscome_phys/items/989389db3540ebd9e026
 =2020-03-16T11:33:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia で自作パッケージを公式に登録する（2020年3月） - Qiita
 URL=https://qiita.com/Lirimy/items/0b8b519f61a9ed43bdd4
 
+=2020-05-24T07:35:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia のパッケージシステムによって既存コードの動作を保証する - Qiita
+URL=https://qiita.com/Lirimy/items/e7831a537858d07fbbf0
+
 =2019-02-08T10:49:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 画像関連パッケージ導入時のトラブル - Qiita
 URL=https://qiita.com/MTNakata/items/eb9ffd2d3c3c1965a725
 
@@ -531,6 +534,9 @@ URL=https://twitter.com/KTYDRCB/status/1193895593971576838
 
 =2019-09-18T07:37:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/lさんはTwitterを使っています 「人のコードで気づいたけど、#julia言語 で f(x,y,z)=x+3y-z みたいな複数の引数の関数に a=[3,4,10] f(a...) って配列とかにまとめて、「...」で渡せるのか 関数の拡張とか
 URL=https://twitter.com/ppp3141592ppp/status/1174292273632165889
+
+=2019-11-06T23:37:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Pyjuliaによるpythonからjulialangへの型変換まとめ - メモ帳
+URL=https://tksmml.hatenablog.com/entry/2019/11/06/233700
 
 =2019-03-19T06:30:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/PythonっぽいJulia：PythonコードのclassをJuliaコードへ移植する - Qiita
 URL=https://qiita.com/cometscome_phys/items/0cc0ab0b43e1bb48a1ea
@@ -1143,6 +1149,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/d31d6f4e98d35ab78743
 
 =2018-10-05T19:08:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/piqcyさんのツイート Jupyter Notebookからスクリプトを抽出してPythonRJuliaファイルにする、さらにファイルを修正してJupyterに戻す
 URL=https://twitter.com/icoxfog417/status/1048018479658352640
+
+=2019-10-22T00:15:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/PythonからJulialangの関数を使える、Python + Julia + TensorFlow + Jupyter 環境をDockerのマルチステージビルドで構築する - メモ帳
+URL=https://tksmml.hatenablog.com/entry/2019/10/22/001500
 
 =2018-09-28T05:33:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/PythonからJuliaを呼び出したいんだ(Julia v 0.7 および v1.0 で OK)-Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/9d775c294a10c1f2edfe
