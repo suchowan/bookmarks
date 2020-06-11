@@ -41,7 +41,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-05-28T15:24:33+09:00 Computer/トピック/セキュリティ/keywords
+=2020-06-11T14:11:08+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -139,6 +139,7 @@ Emotet
 モデレーション
 内部告発
 脱獄
+虚偽の振る舞い
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -537,7 +538,7 @@ ImageNet
 パーソナルデータ
 情報銀行
 
-=2020-02-07T14:45:18+09:00 Computer/トピック/ブロックチェーン/keywords
+=2020-06-11T14:11:09+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -557,6 +558,7 @@ TAOTAO
 デジタル通貨
 Randpay
 トークン
+クリプト
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -975,7 +977,7 @@ ColouriseSG
 ディープフェイク
 マスク処理
 
-=2020-05-28T15:24:35+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2020-06-11T14:11:08+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -1013,6 +1015,7 @@ DeepSolar
 振り付け
 画像認証
 気分
+画像識別
 
 =2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -1613,8 +1616,8 @@ Live Shop!
 =2017-08-18T07:41:05+09:00 Computer/トピック/社会動向/企業/Carat/keywords
 GLIT,グリット
 
-=2018-12-26T12:23:21+09:00 Computer/トピック/社会動向/企業/CCC/keywords
-蔦屋,TSUTAYA,CCC
+=2020-06-11T14:11:58+09:00 Computer/トピック/社会動向/企業/CCC/keywords
+ツタヤ,蔦屋,TSUTAYA,CCC
 
 =2017-10-24T07:35:21+09:00 Computer/トピック/社会動向/企業/CEC/keywords
 CEC,シーイーシー
@@ -2395,8 +2398,9 @@ LINE Customer Connect
 Expand Video
 myBridge
 
-=2018-09-03T14:28:10+09:00 Computer/トピック/社会動向/企業/Linne/keywords
+=2020-06-11T14:11:09+09:00 Computer/トピック/社会動向/企業/Linne/keywords
 LINNE LENS
+LINNÉ LENS
 
 =2019-01-22T18:39:22+09:00 Computer/トピック/社会動向/企業/Lionbridge Technologies/keywords
 ライオンブリッジ,Lionbridge Technologies
@@ -3280,8 +3284,9 @@ Pyro
 =2018-03-08T17:56:16+09:00 Computer/トピック/社会動向/企業/UBISOFT/keywords
 Commit Assistant
 
-=2018-01-17T15:12:59+09:00 Computer/トピック/社会動向/企業/UBTECH/keywords
+=2020-06-11T14:11:09+09:00 Computer/トピック/社会動向/企業/UBTECH/keywords
 Lynx
+Cruzr
 
 =2017-04-26T07:39:53+09:00 Computer/トピック/社会動向/企業/UEI/keywords
 清水亮
@@ -5990,7 +5995,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-05-28T15:24:35+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-06-11T14:11:08+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -6061,6 +6066,7 @@ TSUBAME
 福岡県
 愛媛県
 千葉県
+室蘭市
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
