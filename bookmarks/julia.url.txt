@@ -334,7 +334,7 @@ URL=https://qiita.com/cometscome_phys/items/989389db3540ebd9e026
 =2020-03-16T11:33:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia で自作パッケージを公式に登録する（2020年3月） - Qiita
 URL=https://qiita.com/Lirimy/items/0b8b519f61a9ed43bdd4
 
-=2020-05-24T07:35:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia のパッケージシステムによって既存コードの動作を保証する - Qiita
+=2020-05-24T07:48:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia のパッケージシステムによって既存コードの動作を保証する - Qiita
 URL=https://qiita.com/Lirimy/items/e7831a537858d07fbbf0
 
 =2019-02-08T10:49:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Julia 画像関連パッケージ導入時のトラブル - Qiita
@@ -882,6 +882,9 @@ URL=https://twitter.com/MathSorcerer/status/1193144620730859523
 
 =2020-02-01T08:04:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/ごまふあざらしさんはTwitterを使っています 「こんな感じで Julia の Documenter.jl でWebpage作れるの 未来を感じてしまう． ちなみに jmd 形式のは weave(doc.jmd, doctype=github) 
 URL=https://twitter.com/MathSorcerer/status/1223308068865200130
+
+=2020-06-15T07:49:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/ごまふあざらしさんはTwitterを使っています 「ブートストラップ法の入門に入門するためにメモで書いたJupyter notebook (Julia実装） https---t.co-rhOTeqrbjw 続く」 - Twitter
+URL=https://twitter.com/MathSorcerer/status/1272459996450570240
 
 =2016-12-23T09:20:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/スパースコーディングのための辞書生成アルゴリズム，K-SVDをJuliaで実装した - Qiita
 URL=http://qiita.com/IshitaTakeshi/items/b7c319fae79f62c80319

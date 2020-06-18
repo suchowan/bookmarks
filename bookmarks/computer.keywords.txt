@@ -41,7 +41,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-06-11T14:11:08+09:00 Computer/トピック/セキュリティ/keywords
+=2020-06-18T16:25:15+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -140,6 +140,7 @@ Emotet
 内部告発
 脱獄
 虚偽の振る舞い
+ウェブスキミング
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -666,7 +667,7 @@ AlphaFold
 =2019-05-28T11:32:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/行動/keywords
 排卵日
 
-=2020-06-04T13:57:42+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
+=2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
 自動生成
 自動編集
 ストーリー
@@ -678,6 +679,8 @@ AlphaFold
 AI Obvious
 AnimeGAN
 AIライター
+架空
+執筆
 
 =2019-04-25T18:55:20+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
@@ -713,7 +716,7 @@ HEMS
 運用
 最適
 
-=2020-01-23T20:33:32+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
+=2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
 映え
 裁判官
@@ -732,6 +735,7 @@ MMEye
 サブスクリプション
 感情分析
 ダイナミックプライシング
+価値
 
 =2017-03-22T10:23:45+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/keywords
 囲碁
@@ -852,7 +856,7 @@ Hire
 オーディション
 Dating
 
-=2020-06-04T13:57:44+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2020-06-18T16:25:15+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -924,6 +928,9 @@ MRI
 体温
 検温
 照射
+問診
+病院
+温度検知
 
 =2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -936,7 +943,7 @@ MRI
 Retty
 トッピング
 
-=2020-05-21T13:19:21+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
+=2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
 東ロボくん
 すらら,Surala
@@ -945,6 +952,8 @@ STEAM
 トレーニング
 EdTech
 Read Along
+幼稚園
+個別指導
 
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
@@ -1091,11 +1100,12 @@ Amazon Textract
 キーワード
 固有表現
 
-=2020-05-16T11:30:56+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/翻訳/keywords
+=2020-06-18T16:24:35+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/翻訳/keywords
 ezcommu
 通訳
 STACL
 誤訳
+DeepL
 
 =2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
 議事録
@@ -1847,6 +1857,9 @@ Elasticsearch
 Kibana
 Elastic Stack
 
+=2020-06-18T16:26:52+09:00 Computer/トピック/社会動向/企業/Electronic Arts/keywords
+エレクトロニック・アーツ,Electronic Arts
+
 =2017-10-30T10:48:38+09:00 Computer/トピック/社会動向/企業/elo-bot/keywords
 Elo
 
@@ -1883,6 +1896,9 @@ Ever
 =2018-10-05T11:35:49+09:00 Computer/トピック/社会動向/企業/exiii/keywords
 exiii,イクシー
 EXOS Wrist DK2
+
+=2020-06-18T16:27:39+09:00 Computer/トピック/社会動向/企業/Extreme Networks/keywords
+エクストリーム ネットワークス,Extreme Networks
 
 =2017-11-22T16:30:12+09:00 Computer/トピック/社会動向/企業/EY/keywords
 EYアドバイザリー・アンド・コンサルティング,EY
@@ -2219,6 +2235,9 @@ IIJ GIOサービス
 イケア,IKEA
 ROGNAN
 
+=2020-06-18T16:27:21+09:00 Computer/トピック/社会動向/企業/imagenavi/keywords
+イメージナビ,imagenavi
+
 =2017-09-26T07:36:28+09:00 Computer/トピック/社会動向/企業/Imagination/keywords
 Imagination,Imagination Technologies Group,イマジネーションテクノロジーズ
 PowerVR
@@ -2343,6 +2362,9 @@ Ad Generation,アドジェネ
 
 =2017-08-18T08:18:11+09:00 Computer/トピック/社会動向/企業/KDK/keywords
 ペットの窓口
+
+=2020-06-18T16:25:16+09:00 Computer/トピック/社会動向/企業/Keenon/keywords
+擎朗智能
 
 =2019-06-20T20:27:05+09:00 Computer/トピック/社会動向/企業/Keeyls/keywords
 HOTEL BAMPKY
@@ -2680,6 +2702,9 @@ MIKA
 
 =2019-04-06T11:58:48+09:00 Computer/トピック/社会動向/企業/North/keywords
 Focals
+
+=2020-06-18T16:28:14+09:00 Computer/トピック/社会動向/企業/NortonLifeLock/keywords
+Symantec,シマンテック,NortonLifeLock
 
 =2018-08-14T15:27:35+09:00 Computer/トピック/社会動向/企業/NTT/keywords
 corevo
@@ -3188,9 +3213,6 @@ SuperFace
 
 =2017-03-30T10:32:04+09:00 Computer/トピック/社会動向/企業/SUSQUE/keywords
 サブロク
-
-=2017-06-19T08:08:15+09:00 Computer/トピック/社会動向/企業/Symantec/keywords
-Symantec,シマンテック
 
 =2017-04-11T13:19:32+09:00 Computer/トピック/社会動向/企業/Synamon/keywords
 NEUTRANS
@@ -4998,6 +5020,9 @@ Relay
 
 =2017-08-04T09:26:05+09:00 Computer/トピック/社会動向/企業/プレイド/keywords
 KARTE,カルテ
+
+=2020-06-18T16:25:15+09:00 Computer/トピック/社会動向/企業/プレナス/keywords
+やよい軒
 
 =2018-03-27T17:29:17+09:00 Computer/トピック/社会動向/企業/プロジェクト・メイ/keywords
 Minutes Mayker
