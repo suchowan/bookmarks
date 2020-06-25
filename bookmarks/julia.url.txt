@@ -802,6 +802,9 @@ URL=http://otepipi.hatenablog.com/entry/2019/05/05/193045
 =2018-12-08T08:22:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでバイオインフォマティクス（ゲノムデータ編） - Qiita
 URL=https://qiita.com/yuifu/items/b2031d0367da878fddae
 
+=2020-06-22T08:40:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでバーチャル地球儀を作ってみた - Qiita
+URL=https://qiita.com/oki_mebarun/items/3023bff0c997bad27d19
+
 =2020-05-14T08:10:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでベクトル場をプロットする。 - システムとモデリング
 URL=http://otepipi.hatenablog.com/entry/2020/05/14/221257
 
@@ -979,6 +982,9 @@ URL=https://github.com/ITensor/ITensors.jl
 =2018-10-20T06:15:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Google Colab で Julia を使ってみた - Qiita
 URL=https://qiita.com/ueuema/items/ca1b326f5df10a4203bd
 
+=2020-06-23T08:46:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Hacker NewsさんはTwitterを使っています 「Fast implementation of DeepMind's AlphaZero algorithm in Julia https---t.co-od5MrqmYCG」 - Twitt
+URL=https://twitter.com/newsycombinator/status/1275081487054860289
+
 =2018-09-29T06:45:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Julia 1.0 ＋ FluxでMNIST学習-Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/0f772caba3a1bc6ceae4
 
@@ -1111,6 +1117,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/88ff6a1e9351cec6aafe
 =2020-05-17T17:04:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Google ColabでJuliaを使う：元々あるノートブックを使う - Qiita
 URL=https://qiita.com/cometscome_phys/items/1ba6ec181bb0fe1b35d5
 
+=2020-06-23T09:29:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/gykenさんはTwitterを使っています 「確かに実機使用とかを考えて現状pythonに落ち着いている ただ最速の量子シミュレーターのYaoはJuliaだったりするので、他の言語に手を出したい気持ちもある」 Twitter
+URL=https://twitter.com/post150218111/status/1275371893055315971
+
 =2019-03-19T06:23:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Hakky@Kaggle(´･∀･)さんのツイート Jupyter Notebookが本っぽい感じで出力できることを知って感動している。普通に良い。 httpst.coxBcwcr7Cnu…
 URL=https://twitter.com/St_Hakky/status/1107772242773983232
 
@@ -1189,6 +1198,9 @@ URL=https://twitter.com/MathSorcerer/status/1113824642127388673
 =2019-05-03T09:26:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんのツイート スレッドの Issue のリンクにて #Julia言語 1.2.0 の Arm32 bit の pre.0 を触ることができます。 初代ラズパイ、Zeroシリーズ以外では動くと思います。 httpst.coz1Qdjz
 URL=https://twitter.com/MathSorcerer/status/1124436411090739200
 
+=2020-06-20T07:23:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんはTwitterを使っています 「#Julia言語　 binder 押したらノートブックのディレクトリが見えるようにしまちた． https---t.co-0fXK1j1T85 https---t.co-FtYAnwVlnA」 - Twitter
+URL=https://twitter.com/MathSorcerer/status/1274346712857890816
+
 =2020-02-13T08:28:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんはTwitterを使っています 「リポジトリに ipynb をでーんって置いておくより， Binderで閲覧できるような環境を作っておいて .py か .jl をクリックしたら jupytext によってノートブック形式に変換する
 URL=https://twitter.com/MathSorcerer/status/1227950814410371072
 
@@ -1233,6 +1245,9 @@ URL=https://twitter.com/genkuroki/status/1010137415015493632
 
 =2018-11-13T16:31:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen Kurokiさんのツイート #数楽 私はコードを書くほどのことでもない計算には httpst.coQgFOioneJ3 を利用し、それ以外の場合には httpst.co7MSmde47fQ を利用しています。
 URL=https://twitter.com/genkuroki/status/1062224956749099008
+
+=2020-06-20T07:22:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Jupyer 上の #Julia言語 から SymPy を使うとこんな感じ。
+URL=https://twitter.com/genkuroki/status/1274216586992214016
 
 =2018-07-23T08:00:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/科学技術計算用言語 Julia - Applied Mathematics 7 (2018)
 URL=http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2018-7Semester-AppliedMath7/14_julia/

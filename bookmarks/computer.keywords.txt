@@ -1,4 +1,4 @@
-=2020-04-02T16:53:31+09:00 Computer/トピック/VR・AR・MR/keywords
+=2020-06-25T15:04:18+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -30,6 +30,7 @@ After Effects
 HMD
 3D
 xR
+フルバーチャル
 
 =2019-12-26T15:34:27+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Ｖチューバー,Vチューバー,Vtuber,VTuber
@@ -41,7 +42,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-06-18T16:25:15+09:00 Computer/トピック/セキュリティ/keywords
+=2020-06-25T15:04:19+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -141,6 +142,12 @@ Emotet
 脱獄
 虚偽の振る舞い
 ウェブスキミング
+消し去る
+Sandbox
+押印
+ゼロトラスト
+履歴
+漏洩
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -440,9 +447,10 @@ rflex
 =2020-06-04T13:57:42+09:00 Computer/トピック/ツール/ソフトウェア言語/R言語/keywords
 RStudio
 
-=2019-02-03T15:23:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Swift/keywords
+=2020-06-25T15:04:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Swift/keywords
 Swift5
 Swift4
+Xcode
 
 =2018-08-23T08:15:16+09:00 Computer/トピック/ツール/データベース/Elasticsearch/keywords
 Kibana
@@ -504,7 +512,7 @@ RFIDタグ
 =2019-06-05T11:59:34+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry PI,Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
-=2020-03-25T16:24:27+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2020-06-25T15:04:17+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
@@ -518,6 +526,7 @@ Tuya Smart
 HOME IoT
 洗濯機
 暮らし
+HomeKit
 
 =2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -695,7 +704,7 @@ Quicksilver
 似合う
 レコメンデーション
 
-=2020-05-21T13:19:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2020-06-25T15:04:17+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -715,6 +724,8 @@ HEMS
 ドライブレコーダー
 運用
 最適
+空間統計
+混雑状況
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -856,7 +867,7 @@ Hire
 オーディション
 Dating
 
-=2020-06-18T16:25:15+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2020-06-25T15:04:19+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -931,6 +942,8 @@ MRI
 問診
 病院
 温度検知
+コロナ
+消毒
 
 =2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -958,7 +971,7 @@ Read Along
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
 
-=2020-03-05T14:44:54+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
+=2020-06-25T15:04:18+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
 自動彩色,カラー化,色塗り,着彩,着色,Colorization
 画像合成
 作画
@@ -985,6 +998,7 @@ ColouriseSG
 エフェクト
 ディープフェイク
 マスク処理
+モザイク
 
 =2020-06-11T14:11:08+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
@@ -1026,10 +1040,11 @@ DeepSolar
 気分
 画像識別
 
-=2019-03-18T13:40:51+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
+=2020-06-25T15:04:17+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
 自動操縦
 自律走行
+自走
 
 =2020-05-16T11:30:56+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/ドローン/keywords
 Drone,ドローン
@@ -1121,15 +1136,16 @@ IMAKITA
 読み上げ
 音声出力
 
-=2019-05-20T13:05:03+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
+=2020-06-25T15:04:19+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 みえる電話
 CHIVOX
 音声文字化
 文字起こし
 音声文字変換
+性別
 
-=2020-04-02T16:53:31+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2020-06-25T15:04:19+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1148,6 +1164,8 @@ CHIVOX
 野菜
 水田
 営農
+盆栽
+農薬
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -1424,7 +1442,7 @@ Labellio,ラベリオ
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Altan Robotech/keywords
 Giddel
 
-=2020-06-04T13:57:42+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
+=2020-06-25T15:04:17+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
 AWS
 Alexa
@@ -1438,6 +1456,7 @@ StyleSnap
 Ring
 Kendra
 FAMGA
+Kindle
 
 =2017-03-28T14:42:25+09:00 Computer/トピック/社会動向/企業/Amper Music/keywords
 Amper Music,Amper
@@ -1874,6 +1893,9 @@ Interest Widget
 Emotion Intelligence,エモーションインテリジェンス
 ZenClerk
 
+=2020-06-25T15:06:08+09:00 Computer/トピック/社会動向/企業/Empath/keywords
+エンパス,Empath
+
 =2017-09-27T09:06:23+09:00 Computer/トピック/社会動向/企業/Emrec Technologies/keywords
 Engazify
 
@@ -2255,6 +2277,9 @@ Inaho,inaho
 =2019-08-12T10:35:20+09:00 Computer/トピック/社会動向/企業/Indiegogo/keywords
 ZiiLock
 
+=2020-06-25T15:07:08+09:00 Computer/トピック/社会動向/企業/Infervision/keywords
+北京推想科技,Infervision
+
 =2018-04-28T12:27:21+09:00 Computer/トピック/社会動向/企業/Infineon Technologies/keywords
 インフィニオン
 
@@ -2474,8 +2499,9 @@ massive stay
 =2017-07-18T08:27:51+09:00 Computer/トピック/社会動向/企業/MateLabs/keywords
 MateVerse
 
-=2019-09-01T15:38:15+09:00 Computer/トピック/社会動向/企業/MatrixFlow/keywords
+=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/企業/MatrixFlow/keywords
 HR Flow
+TrendFlow
 
 =2017-10-16T10:38:27+09:00 Computer/トピック/社会動向/企業/Mattel/keywords
 Kamigami
@@ -2679,6 +2705,9 @@ Petrone
 
 =2019-07-02T16:02:07+09:00 Computer/トピック/社会動向/企業/New Deal Design/keywords
 Spot
+
+=2020-06-25T15:04:17+09:00 Computer/トピック/社会動向/企業/NEWJI/keywords
+NEWJI VR
 
 =2017-04-11T09:35:05+09:00 Computer/トピック/社会動向/企業/Nextremer/keywords
 AI Samurai
@@ -3214,6 +3243,9 @@ SuperFace
 =2017-03-30T10:32:04+09:00 Computer/トピック/社会動向/企業/SUSQUE/keywords
 サブロク
 
+=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/企業/sVision Corporation/keywords
+Name Vision
+
 =2017-04-11T13:19:32+09:00 Computer/トピック/社会動向/企業/Synamon/keywords
 NEUTRANS
 
@@ -3323,6 +3355,9 @@ ULA,United Launch Alliance
 =2019-02-06T18:17:12+09:00 Computer/トピック/社会動向/企業/Universal City Studios/keywords
 ユニバーサル・スタジオ,Universal City Studios
 
+=2020-06-25T15:07:02+09:00 Computer/トピック/社会動向/企業/Universal Field Robots/keywords
+UFR,Universal Field Robots
+
 =2019-09-01T15:39:55+09:00 Computer/トピック/社会動向/企業/Universal Robots/keywords
 ユニバーサルロボット,Universal Robots
 
@@ -3341,6 +3376,9 @@ Steam
 
 =2019-06-17T13:58:06+09:00 Computer/トピック/社会動向/企業/Varjo/keywords
 ヴァルヨ,Varjo
+
+=2020-06-25T15:05:30+09:00 Computer/トピック/社会動向/企業/VDOO Connected Trust/keywords
+ビドゥ,VDOO Connected Trust
 
 =2017-09-04T09:01:36+09:00 Computer/トピック/社会動向/企業/Vector/keywords
 Vector,ベクター
@@ -4482,6 +4520,9 @@ NESiCA
 =2018-09-03T14:28:14+09:00 Computer/トピック/社会動向/企業/タイムズ24/keywords
 B-Times
 
+=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/企業/タイムリープ/keywords
+RURA
+
 =2019-11-28T13:13:05+09:00 Computer/トピック/社会動向/企業/タカラトミー/keywords
 オムニボット
 Rizmo
@@ -4795,6 +4836,9 @@ Housmart,ハウスマート
 
 =2019-02-10T15:29:38+09:00 Computer/トピック/社会動向/企業/ハグカム/keywords
 GLOBAL CROWN
+
+=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/企業/ハシラス/keywords
+キネトスケイプ
 
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/ハタプロ/keywords
 ZUKKU
@@ -5351,6 +5395,9 @@ AI-Checker
 =2017-07-24T10:46:52+09:00 Computer/トピック/社会動向/企業/ワランティ/keywords
 Warrantee
 
+=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/企業/ワンダラス/keywords
+オリビア
+
 =2018-08-21T11:30:03+09:00 Computer/トピック/社会動向/企業/ワークスアプリケーションズ/keywords
 HUE
 AIすだちくん
@@ -5886,6 +5933,9 @@ Odin,オーディン
 中部電力,中部電
 松竹梅
 
+=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/北陸電力/keywords
+北陸電
+
 =2019-03-22T13:30:49+09:00 Computer/トピック/社会動向/企業/電力・エネルギー/東京電力/keywords
 東京電力,東電,TEPCO
 tepcotta,テプコッタ
@@ -5942,7 +5992,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-05-16T11:30:57+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU
@@ -5951,6 +6001,8 @@ CMU
 ノースウェスタン大学
 ノースカロライナ州立大
 ノースイースタン大学
+UCLA
+デューク大学
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
@@ -6020,7 +6072,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-06-11T14:11:08+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -6092,6 +6144,7 @@ TSUBAME
 愛媛県
 千葉県
 室蘭市
+自民党
 
 =2017-11-15T17:25:13+09:00 Computer/トピック/社会動向/研究機関/JST/keywords
 科学技術振興機構,JST
