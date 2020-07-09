@@ -664,6 +664,9 @@ URL=https://twitter.com/genkuroki/status/1108341157853949952
 =2019-08-25T06:56:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #JuliaLang broadcast を使った @. x - y^2 でも同じ結果が得られます。dot-syntax を使うとシンプルに書けて非常に便利です。速度
 URL=https://twitter.com/genkuroki/status/1165594837237682176
 
+=2020-07-04T15:16:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 -2から始めるJulia(笑) 添付画像中でインデックスが-2から始まるOffsetArrayを扱っている。
+URL=https://twitter.com/genkuroki/status/1279268636817948673
+
 =2020-03-19T20:11:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 a'a ではなく、a'a でもいける。この場合には を省略できる。 julia&gt; a = [1, 2, 3] julia&gt; a'a → 14 重要なポイ
 URL=https://twitter.com/genkuroki/status/1240461274988736518
 
@@ -840,6 +843,9 @@ URL=https://qiita.com/kimrin/items/689f5b6ae4c0f56cf4a4
 
 =2018-09-27T06:58:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで簡単なGUIアプリを作ってみる - Qiita
 URL=https://qiita.com/goropikari/items/8b803be3ce8d36ea2fe9
+
+=2020-07-05T18:45:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで非正方格子のイジングモデルをシミュレーションしてみた - Qiita
+URL=https://qiita.com/oki_mebarun/items/25cf371601e8075458f9
 
 =2019-04-30T06:08:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia言語からmruby-webcamを使ってWebカメラの画像を取得した - non vorrei lavorare
 URL=https://abrakatabura.hatenablog.com/entry/2019/04/30/152311
@@ -1219,6 +1225,9 @@ URL=https://twitter.com/MathSorcerer/status/1124436411090739200
 =2020-06-20T07:23:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんはTwitterを使っています 「#Julia言語　 binder 押したらノートブックのディレクトリが見えるようにしまちた． https---t.co-0fXK1j1T85 https---t.co-FtYAnwVlnA」 - Twitter
 URL=https://twitter.com/MathSorcerer/status/1274346712857890816
 
+=2020-07-04T08:18:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんはTwitterを使っています 「やった-Google Colab で GPU リソース使えるようになったできゅ-．（実はCuArrays自体はdeprecatedになってるので using CUDA をするのが良いできゅ．）
+URL=https://twitter.com/MathSorcerer/status/1279094248864792576
+
 =2020-02-13T08:28:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/ごまふあざらしさんはTwitterを使っています 「リポジトリに ipynb をでーんって置いておくより， Binderで閲覧できるような環境を作っておいて .py か .jl をクリックしたら jupytext によってノートブック形式に変換する
 URL=https://twitter.com/MathSorcerer/status/1227950814410371072
 
@@ -1272,6 +1281,9 @@ URL=https://twitter.com/genkuroki/status/1010137415015493632
 
 =2018-11-13T16:31:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen Kurokiさんのツイート #数楽 私はコードを書くほどのことでもない計算には httpst.coQgFOioneJ3 を利用し、それ以外の場合には httpst.co7MSmde47fQ を利用しています。
 URL=https://twitter.com/genkuroki/status/1062224956749099008
+
+=2020-07-03T08:05:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Python側で特別にがんばってなくて、forループが必要なケースでは、通常Julia側が数十倍以上速くなります。
+URL=https://twitter.com/genkuroki/status/1278759173254045696
 
 =2020-06-25T07:05:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 shell script のように Julia script を使いたい人は必見のブログ記事 httpst.coGLO0EN3r9W つい最近、コードが Julia
 URL=https://twitter.com/genkuroki/status/1276061014803443714
@@ -1395,6 +1407,9 @@ URL=https://twitter.com/genkuroki/status/1246726529909813250
 
 =2020-06-05T20:42:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 コンパイル時間について再検証可能なコードが公開されればもっと偉い人達から情報が得られると思うのですが、
 URL=https://twitter.com/genkuroki/status/1268804854169780228
+
+=2020-07-05T18:46:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 添付画像1のようなコードを書くとクソ遅くなります。
+URL=https://twitter.com/genkuroki/status/1279658118973022209
 
 =2020-02-23T07:55:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#統計 #Julia言語 httpst.co55y0PuEeon 1次元でのガウス過程回帰の実装例 「実装例」と言うべき大げさな話ではないです。
 URL=https://twitter.com/genkuroki/status/1231266922236272640

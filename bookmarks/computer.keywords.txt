@@ -1,4 +1,4 @@
-=2020-06-25T15:04:18+09:00 Computer/トピック/VR・AR・MR/keywords
+=2020-07-09T16:06:49+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -31,6 +31,8 @@ HMD
 3D
 xR
 フルバーチャル
+バーチャルカメラ
+VFX
 
 =2019-12-26T15:34:27+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Ｖチューバー,Vチューバー,Vtuber,VTuber
@@ -42,7 +44,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-07-02T14:05:59+09:00 Computer/トピック/セキュリティ/keywords
+=2020-07-09T16:06:51+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -150,6 +152,7 @@ Sandbox
 漏洩
 不審
 ログイン
+身分証明
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -629,7 +632,7 @@ Google アシスタント
 オーケー、グーグル
 OK Google
 
-=2020-04-09T16:39:29+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2020-07-09T16:06:51+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -647,6 +650,7 @@ AI案内
 接客
 受付
 渋谷さくら
+窓口
 
 =2018-09-14T12:11:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -823,7 +827,7 @@ Googleペナルティー
 =2017-11-11T06:20:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/AIBO/keywords
 AIBO,aibo
 
-=2020-04-02T16:53:32+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
+=2020-07-09T16:06:51+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/keywords
 ロボティクス
 アンドロイド
 CIMON
@@ -844,6 +848,7 @@ Pegasus
 RoboCup
 ドラえもん
 パワードスーツ
+パワースーツ
 
 =2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
@@ -872,7 +877,7 @@ Hire
 オーディション
 Dating
 
-=2020-07-02T14:06:02+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2020-07-09T16:06:51+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -950,6 +955,8 @@ MRI
 コロナ
 消毒
 睡眠
+殺菌
+医薬
 
 =2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1752,6 +1759,9 @@ Zinnia
 =2017-03-29T08:33:05+09:00 Computer/トピック/社会動向/企業/Cylance/keywords
 Cylance,サイランス
 CylancePROTECT
+
+=2020-07-09T16:06:51+09:00 Computer/トピック/社会動向/企業/d.a.t/keywords
+RighTect
 
 =2017-09-15T10:04:31+09:00 Computer/トピック/社会動向/企業/DAC/keywords
 Kaltura
@@ -2897,11 +2907,12 @@ KAIBER
 =2019-01-15T13:52:44+09:00 Computer/トピック/社会動向/企業/Pfizer/keywords
 ファイザー,Pfizer
 
-=2017-03-29T14:51:58+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
+=2020-07-09T16:06:49+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
 PFI,Preferred Infrastructure,プリファードインフラストラクチャー
 PFN,Preferred Networks,プリファード・ネットワークス
 Chainer
 Jubatus
+Playgram
 
 =2018-12-11T09:39:41+09:00 Computer/トピック/社会動向/企業/PFU/keywords
 DynaEye EX
@@ -3751,6 +3762,9 @@ PureCloud
 
 =2017-03-30T11:38:04+09:00 Computer/トピック/社会動向/企業/インターシステムズ/keywords
 iKnow Japanese
+
+=2020-07-09T16:06:51+09:00 Computer/トピック/社会動向/企業/インターヘッド/keywords
+Baskadia
 
 =2018-04-05T13:20:54+09:00 Computer/トピック/社会動向/企業/インテグリティ・ヘルスケア/keywords
 YaDoc
@@ -5264,6 +5278,9 @@ UNIQLO IQ
 =2017-09-04T12:18:40+09:00 Computer/トピック/社会動向/企業/ユニバーサルバンク/keywords
 Pedia ICO Database
 
+=2020-07-09T16:06:49+09:00 Computer/トピック/社会動向/企業/ユニバーサルミュージック/keywords
+LIVE-X
+
 =2017-04-11T10:33:07+09:00 Computer/トピック/社会動向/企業/ユニロボット/keywords
 unibo
 
@@ -5663,7 +5680,7 @@ absonne,アブソンヌ
 =2017-12-15T16:08:50+09:00 Computer/トピック/社会動向/企業/日本電産/keywords
 Motorize
 
-=2020-04-02T16:53:32+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2020-07-09T16:06:49+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -5681,6 +5698,7 @@ Hitachi Anomaly Detector
 JP1
 CoreExplorerTS
 EMIEW
+リモートワーク
 
 =2018-03-05T14:15:21+09:00 Computer/トピック/社会動向/企業/木村情報技術/keywords
 AI-Campus
