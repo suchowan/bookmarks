@@ -44,7 +44,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-07-09T16:06:51+09:00 Computer/トピック/セキュリティ/keywords
+=2020-07-16T13:17:39+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -153,6 +153,10 @@ Sandbox
 不審
 ログイン
 身分証明
+すり替え
+吸い取る
+電子サイン
+誤送信
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -269,7 +273,7 @@ DeepLens
 Collab
 Colab
 
-=2020-03-19T14:17:22+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
+=2020-07-16T13:17:38+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/keywords
 GCP,Google Cloud Platform
 Google AppEngine
 Firebase
@@ -279,6 +283,7 @@ Cloud Speech-to-Text
 Bigquery
 Cloud Services Platform
 Kubeflow
+GoogleCloudSpeechAPI
 
 =2018-08-24T11:07:27+09:00 Computer/トピック/ツール/クラウド/IBM Cloud/keywords
 Bluemix
@@ -520,7 +525,7 @@ RFIDタグ
 =2019-06-05T11:59:34+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry PI,Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
-=2020-06-25T15:04:17+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2020-07-16T13:17:38+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
@@ -535,6 +540,7 @@ HOME IoT
 洗濯機
 暮らし
 HomeKit
+玄関
 
 =2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -549,12 +555,13 @@ Manyverse
 =2017-04-17T09:29:26+09:00 Computer/トピック/ビッグデータ/SNS/Mastodon/keywords
 Mastodon,マストドン
 
-=2020-05-16T11:30:56+09:00 Computer/トピック/ビッグデータ/データセット/keywords
+=2020-07-16T13:17:38+09:00 Computer/トピック/ビッグデータ/データセット/keywords
 データ
 ImageNet
 仮名化
 パーソナルデータ
 情報銀行
+アノテーション
 
 =2020-06-11T14:11:09+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
@@ -632,7 +639,7 @@ Google アシスタント
 オーケー、グーグル
 OK Google
 
-=2020-07-09T16:06:51+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2020-07-16T13:17:40+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -651,6 +658,7 @@ AI案内
 受付
 渋谷さくら
 窓口
+reco!
 
 =2018-09-14T12:11:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -713,7 +721,7 @@ Quicksilver
 似合う
 レコメンデーション
 
-=2020-06-25T15:04:17+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2020-07-16T13:17:38+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -735,6 +743,7 @@ HEMS
 最適
 空間統計
 混雑状況
+状況確認
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -1149,7 +1158,7 @@ IMAKITA
 読み上げ
 音声出力
 
-=2020-06-25T15:04:19+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
+=2020-07-16T13:17:38+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
 みえる電話
 CHIVOX
@@ -1157,6 +1166,7 @@ CHIVOX
 文字起こし
 音声文字変換
 性別
+字幕
 
 =2020-06-25T15:04:19+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
@@ -1508,6 +1518,9 @@ VR ON AIR TEST
 
 =2018-12-01T11:51:43+09:00 Computer/トピック/社会動向/企業/Apaman Network/keywords
 アパマン,Apaman Network
+
+=2020-07-16T13:17:39+09:00 Computer/トピック/社会動向/企業/App Annie Japan/keywords
+App Annie Ascend
 
 =2017-07-10T07:18:19+09:00 Computer/トピック/社会動向/企業/Appier/keywords
 Cross X AIソリューション
@@ -2191,6 +2204,9 @@ Sofhia
 =2018-12-11T08:04:26+09:00 Computer/トピック/社会動向/企業/HCL Technologies/keywords
 HCL,HCL Technologies
 
+=2020-07-16T13:17:38+09:00 Computer/トピック/社会動向/企業/Hello Robot/keywords
+Stretch
+
 =2018-03-08T17:56:17+09:00 Computer/トピック/社会動向/企業/HEROZ/keywords
 将棋ウォーズ
 CHESS HEROZ
@@ -2477,8 +2493,9 @@ LINNÉ LENS
 FLOWERY
 TAGGER
 
-=2018-06-16T17:22:23+09:00 Computer/トピック/社会動向/企業/Live Smart/keywords
+=2020-07-16T13:17:38+09:00 Computer/トピック/社会動向/企業/Live Smart/keywords
 LS mini
+LS Mini
 
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/Livintek/keywords
 FITO TAP PRO
@@ -3295,6 +3312,9 @@ Universal Data Hub
 
 =2018-07-19T08:43:19+09:00 Computer/トピック/社会動向/企業/TECHFUND/keywords
 ACCEL BaaS
+
+=2020-07-16T13:19:06+09:00 Computer/トピック/社会動向/企業/Telexistence/keywords
+TX,Telexistence
 
 =2017-04-10T14:29:59+09:00 Computer/トピック/社会動向/企業/Teradata/keyowords
 Teradata,テラデータ
@@ -4830,8 +4850,9 @@ papago
 =2018-06-09T10:36:23+09:00 Computer/トピック/社会動向/企業/ネイン/keywords
 Zeeny
 
-=2017-04-10T14:43:56+09:00 Computer/トピック/社会動向/企業/ネオキャリア/keywords
+=2020-07-16T13:17:39+09:00 Computer/トピック/社会動向/企業/ネオキャリア/keywords
 HRテック
+Calling for Telemedicine
 
 =2017-12-01T13:39:39+09:00 Computer/トピック/社会動向/企業/ネオジャパン/keywords
 desknet's SSS
@@ -5025,6 +5046,9 @@ WW checker,ダブダブチェッカー
 
 =2017-10-16T10:54:43+09:00 Computer/トピック/社会動向/企業/フェアリーデバイセズ/keywords
 mimi
+
+=2020-07-16T13:17:40+09:00 Computer/トピック/社会動向/企業/フェンリル/keywords
+reco!
 
 =2017-10-16T11:15:12+09:00 Computer/トピック/社会動向/企業/フォトシンス/keywords
 Akerun Pro
