@@ -221,8 +221,9 @@ chainer
 深層学習ライブラリ,Deep Learning Library
 深層学習フレームワーク,Deep Learning Framework
 
-=2018-05-30T13:31:31+09:00 Computer/トピック/ツール/オンプレミス/OpenAI/keywords
+=2020-07-23T14:13:20+09:00 Computer/トピック/ツール/オンプレミス/OpenAI/keywords
 Gym Retro
+GPT-3
 
 =2017-08-16T10:05:00+09:00 Computer/トピック/ツール/オンプレミス/PowerAI/keywords
 DDL,Distributed Deep Learning
@@ -348,8 +349,9 @@ Wolfram Alpha
 =2017-05-02T12:36:26+09:00 Computer/トピック/ツール/クラウド/その他/ドワンゴ/keywords
 紅莉栖
 
-=2020-07-02T14:05:59+09:00 Computer/トピック/ツール/ソフトウェアシステム/keywords
+=2020-07-23T14:13:20+09:00 Computer/トピック/ツール/ソフトウェアシステム/keywords
 CodeGuru
+GPT-3
 
 =2017-03-17T16:22:58+09:00 Computer/トピック/ツール/ソフトウェアシステム/ソフトウェアツール/mitoco/keywords
 テラスカイ,TerraSky
@@ -390,7 +392,7 @@ Golang
 Jakarta EE
 JDK
 
-=2020-05-21T13:19:21+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
+=2020-07-23T14:13:22+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
 Javascript,JavaScript
 AngularJS
 ESLint
@@ -401,6 +403,7 @@ Hermes
 Nuxt.js
 Next.js
 Deno
+jsrsasign
 
 =2018-03-20T14:56:09+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/Node.js/keywords
 Node-RED
@@ -693,7 +696,7 @@ AlphaFold
 =2019-05-28T11:32:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/行動/keywords
 排卵日
 
-=2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
+=2020-07-23T14:13:20+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
 自動生成
 自動編集
 ストーリー
@@ -707,6 +710,7 @@ AnimeGAN
 AIライター
 架空
 執筆
+GPT-3
 
 =2019-04-25T18:55:20+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
@@ -721,7 +725,7 @@ Quicksilver
 似合う
 レコメンデーション
 
-=2020-07-16T13:17:38+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2020-07-23T14:13:22+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -744,6 +748,8 @@ HEMS
 空間統計
 混雑状況
 状況確認
+ネットワークカメラ
+ベビーテック
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -1093,12 +1099,13 @@ NLP
 wikipedia
 Wikipedia
 
-=2018-12-30T13:58:41+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
+=2020-07-23T14:13:20+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
 Word2Vec
 word2vec
 Doc2Vec
 fastText
 単語ベクトル
+GPT-3
 
 =2020-06-04T13:57:43+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/keywords
 クソリプ
@@ -1249,7 +1256,7 @@ Magenta
 ピアニスト
 グルーヴ
 
-=2020-07-02T14:05:58+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2020-07-23T14:13:21+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1300,6 +1307,7 @@ ReStGAN
 敵対機械学習
 解釈性
 StyleGAN
+ノーフリーランチ定理
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1653,6 +1661,9 @@ Autofloor
 =2017-08-21T09:22:28+09:00 Computer/トピック/社会動向/企業/Bulbit/keywords
 UNICORN
 
+=2020-07-23T14:13:22+09:00 Computer/トピック/社会動向/企業/BuySell Technologies/keywords
+CASH
+
 =2018-02-23T15:15:50+09:00 Computer/トピック/社会動向/企業/BXD/keywords
 enza
 
@@ -1936,6 +1947,9 @@ Rez Infinite
 
 =2018-09-03T14:28:07+09:00 Computer/トピック/社会動向/企業/ENT/keywords
 らく翻訳
+
+=2020-07-23T14:15:51+09:00 Computer/トピック/社会動向/企業/Ericsson/keywords
+エリクソン,Ericsson
 
 =2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Essential Products/keywords
 Essential Phone
@@ -2587,7 +2601,7 @@ CALNA
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
 
-=2020-06-04T13:57:42+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2020-07-23T14:13:22+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -2619,6 +2633,7 @@ Excel
 Outlook
 Teams
 FAMGA
+Dataflex
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -3192,6 +3207,9 @@ Deeplearning4j,DL4J
 =2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Slack/keywords
 Actions
 
+=2020-07-23T14:13:22+09:00 Computer/トピック/社会動向/企業/Smith&Nephew/keywords
+CORI Surgical System
+
 =2017-04-10T09:20:29+09:00 Computer/トピック/社会動向/企業/Snap/keywords
 Snapchat
 
@@ -3338,6 +3356,9 @@ chABSA-dataset
 doccano
 PrepaidCube+
 COET
+
+=2020-07-23T14:14:37+09:00 Computer/トピック/社会動向/企業/Titan Medical/keywords
+タイタンメディカル,Titan Medical
 
 =2017-03-30T10:39:04+09:00 Computer/トピック/社会動向/企業/TMJ/keywords
 ベネッセグループ,ベネッセ
@@ -4346,6 +4367,10 @@ EdaGlass
 =2017-03-30T14:42:16+09:00 Computer/トピック/社会動向/企業/シーサイド/keywords
 C.VIEW
 
+=2020-07-23T14:15:29+09:00 Computer/トピック/社会動向/企業/シー・ビー・ティ・ソリューションズ/keywords
+CBTソリューションズ,シー・ビー・ティ・ソリューションズ
+Remoty AI+
+
 =2017-03-30T14:44:10+09:00 Computer/トピック/社会動向/企業/ジェイアイエヌ/keywords
 ジェイアイエヌ,JINS
 
@@ -4750,8 +4775,9 @@ AI-PR
 =2017-11-19T15:44:45+09:00 Computer/トピック/社会動向/企業/データビークル/keywords
 Data Diver
 
-=2019-06-01T11:41:01+09:00 Computer/トピック/社会動向/企業/データ・アプリケーション/keywords
+=2020-07-23T14:13:20+09:00 Computer/トピック/社会動向/企業/データ・アプリケーション/keywords
 DAL,データ・アプリケーション
+OCRtran
 
 =2020-01-09T14:38:18+09:00 Computer/トピック/社会動向/企業/トライエッティング/keywords
 TRYETING,トライエッティング
@@ -6057,7 +6083,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-07-23T14:13:23+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU
@@ -6068,6 +6094,7 @@ CMU
 ノースイースタン大学
 UCLA
 デューク大学
+ベングリオン大学
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
