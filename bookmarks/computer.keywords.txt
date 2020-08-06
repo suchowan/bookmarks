@@ -44,7 +44,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-07-16T13:17:39+09:00 Computer/トピック/セキュリティ/keywords
+=2020-08-06T14:07:20+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -157,6 +157,7 @@ Sandbox
 吸い取る
 電子サイン
 誤送信
+偽サイト
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -618,7 +619,7 @@ TensorFlow
 Keras
 Chainer
 
-=2019-09-19T10:04:31+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
+=2020-08-06T14:07:19+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
 DMP
 情シス,情報システム部
 失敗例
@@ -629,6 +630,7 @@ AI活用
 AI開発
 顧客体験
 経営層
+リターン・オン・モデル
 
 =2018-05-30T14:34:04+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
 Alexa,アレクサ
@@ -2305,8 +2307,9 @@ IGS,Institution for a Global Society
 GROWマッチング,GROW
 e-Spire,イースパイア
 
-=2017-04-11T09:51:24+09:00 Computer/トピック/社会動向/企業/IIJ/keywords
+=2020-08-06T14:10:27+09:00 Computer/トピック/社会動向/企業/IIJ/keywords
 IIJ GIOサービス
+インターネットイニシアティブ,IIJ
 
 =2019-06-09T15:47:57+09:00 Computer/トピック/社会動向/企業/IKEA/keywords
 イケア,IKEA
@@ -3032,6 +3035,9 @@ PwCコンサルティング,PwC
 
 =2020-07-30T11:56:19+09:00 Computer/トピック/社会動向/企業/PXC/keywords
 AIGENIC
+
+=2020-08-06T14:10:01+09:00 Computer/トピック/社会動向/企業/Pyrenee/keywords
+ピレニー,Pyrenee
 
 =2019-07-02T16:04:11+09:00 Computer/トピック/社会動向/企業/QBIT Robotics/keywords
 QBIT,QBIT Robotics
@@ -4104,6 +4110,9 @@ GHELIA,ギリア
 =2017-09-07T10:26:59+09:00 Computer/トピック/社会動向/企業/ギークス/keywords
 ギークス,geechs
 AnyBot
+
+=2020-08-06T14:09:25+09:00 Computer/トピック/社会動向/企業/ギークプラス/keywords
+Geek+,ギークプラス
 
 =2017-10-03T08:20:27+09:00 Computer/トピック/社会動向/企業/クオリカ/keywords
 TimeManagementQUBE
@@ -5641,7 +5650,7 @@ PALRO,パルロ
 SYNAPSE Case Match
 ひびみっけ
 
-=2020-07-02T14:07:30+09:00 Computer/トピック/社会動向/企業/富士通/keywords
+=2020-08-06T14:07:20+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
 COLMINA,コルミナ
 Akisai
@@ -5653,6 +5662,7 @@ EvaCva+,エヴァシーヴァ・プラス
 Systemwalker Runbook Automation
 デジタルアニーラ
 Fugaku,富岳
+親指シフト
 
 =2020-01-30T13:28:42+09:00 Computer/トピック/社会動向/企業/山本光学/keywords
 Versatile
@@ -5688,6 +5698,9 @@ Sightline EDM
 =2018-05-30T14:37:12+09:00 Computer/トピック/社会動向/企業/日本システムウエア/keywords
 日本システムウエア,NSW
 Toami,Toami Analytics for 予知保全
+
+=2020-08-06T14:08:23+09:00 Computer/トピック/社会動向/企業/日本システムクリエイト/keywords
+NSC,日本システムクリエイト
 
 =2018-09-03T14:30:27+09:00 Computer/トピック/社会動向/企業/日本テレビ/keywords
 日本テレビ放送網,日テレ,日本テレビ
@@ -5985,6 +5998,9 @@ Ava
 
 =2017-06-20T10:02:27+09:00 Computer/トピック/社会動向/企業/金融・保険/Morgan Stanley/keywords
 Morgan Stanley,モルガン・スタンレー
+
+=2020-08-06T12:55:52+09:00 Computer/トピック/社会動向/企業/金融・保険/PayPay銀行/keywords
+ジャパンネット銀行,PayPay銀行
 
 =2019-02-21T11:57:21+09:00 Computer/トピック/社会動向/企業/金融・保険/SOMPO/keywords
 損保ジャパン,SOMPO
