@@ -44,7 +44,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-08-06T14:07:20+09:00 Computer/トピック/セキュリティ/keywords
+=2020-08-13T12:38:51+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -158,6 +158,12 @@ Sandbox
 電子サイン
 誤送信
 偽サイト
+漏えい
+利用者情報
+クラッシュ
+encrypted
+テロ防止
+消失
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -806,7 +812,7 @@ PhoenixGo
 =2019-05-04T11:23:08+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/将棋/keywords
 AobaZero
 
-=2019-09-05T10:51:40+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
+=2020-08-13T12:38:48+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
 airCloset
 SENSY
 PASHALYパシャリィ
@@ -816,6 +822,7 @@ JINS
 コーデ
 洋服
 服装
+化粧品
 
 =2020-02-07T14:45:20+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
@@ -2348,7 +2355,7 @@ Coleman
 =2018-07-07T10:02:02+09:00 Computer/トピック/社会動向/企業/INJUS/keywords
 ChatFielder
 
-=2018-10-01T10:21:02+09:00 Computer/トピック/社会動向/企業/Intel/keywords
+=2020-08-13T12:38:48+09:00 Computer/トピック/社会動向/企業/Intel/keywords
 Intel,インテル
 Loihi
 Nervana
@@ -2356,6 +2363,7 @@ Intel HAP
 Spring Crest
 Optane
 Cyclone V
+Habana Labs
 
 =2018-09-10T11:46:54+09:00 Computer/トピック/社会動向/企業/Intuitive Surgical/keywords
 da Vinci
@@ -2449,6 +2457,9 @@ Ad Generation,アドジェネ
 =2020-06-18T16:25:16+09:00 Computer/トピック/社会動向/企業/Keenon/keywords
 擎朗智能
 
+=2020-08-13T12:38:50+09:00 Computer/トピック/社会動向/企業/Keenon Robotics/keywords
+PEANUT
+
 =2019-06-20T20:27:05+09:00 Computer/トピック/社会動向/企業/Keeyls/keywords
 HOTEL BAMPKY
 
@@ -2496,12 +2507,13 @@ Lightblue Sense
 セカンドライフ
 Sansar
 
-=2018-09-04T08:50:09+09:00 Computer/トピック/社会動向/企業/LINE/keywords
+=2020-08-13T12:38:48+09:00 Computer/トピック/社会動向/企業/LINE/keywords
 Clova
 Clova Friends
 LINE Customer Connect
 Expand Video
 myBridge
+lacore
 
 =2020-06-11T14:11:09+09:00 Computer/トピック/社会動向/企業/Linne/keywords
 LINNE LENS
@@ -3476,6 +3488,9 @@ Veritas,ベリタス
 =2017-10-02T08:40:22+09:00 Computer/トピック/社会動向/企業/Veritone/keywords
 aiWARE
 Xcellis
+
+=2020-08-13T12:38:49+09:00 Computer/トピック/社会動向/企業/VIA/keywords
+VIA Pixetto
 
 =2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/Vignette & Clarity/keywords
 Shoe-Craft-Terminal
@@ -4819,6 +4834,9 @@ AIコピーライター 言葉 匠
 
 =2019-10-03T12:14:24+09:00 Computer/トピック/社会動向/企業/トリニティ/keywords
 weara
+
+=2020-08-13T12:38:53+09:00 Computer/トピック/社会動向/企業/トルビズオン/keywords
+sora:share
 
 =2017-07-21T11:15:03+09:00 Computer/トピック/社会動向/企業/トレジャーデータ/keywords
 TREASURE DMP
