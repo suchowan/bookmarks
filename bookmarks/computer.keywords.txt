@@ -44,7 +44,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-08-13T12:38:51+09:00 Computer/トピック/セキュリティ/keywords
+=2020-08-20T12:26:40+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -164,6 +164,7 @@ Sandbox
 encrypted
 テロ防止
 消失
+P2P
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1835,8 +1836,9 @@ DeepVogue
 =2019-05-12T14:48:46+09:00 Computer/トピック/社会動向/企業/DeepX/keywords
 machina
 
-=2019-12-05T13:22:21+09:00 Computer/トピック/社会動向/企業/Deezer/keywords
+=2020-08-20T12:26:41+09:00 Computer/トピック/社会動向/企業/Deezer/keywords
 spleeter
+Spleeter
 
 =2017-10-12T10:55:17+09:00 Computer/トピック/社会動向/企業/DEFアニバーサリー/keywords
 マスクdeお見合い
@@ -1961,11 +1963,17 @@ Rez Infinite
 =2018-09-03T14:28:07+09:00 Computer/トピック/社会動向/企業/ENT/keywords
 らく翻訳
 
+=2020-08-20T12:28:03+09:00 Computer/トピック/社会動向/企業/Epic Games/keywords
+Epic,Epic Games
+
 =2020-07-23T14:15:51+09:00 Computer/トピック/社会動向/企業/Ericsson/keywords
 エリクソン,Ericsson
 
 =2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Essential Products/keywords
 Essential Phone
+
+=2020-08-20T12:26:42+09:00 Computer/トピック/社会動向/企業/Eta Compute/keywords
+TENSAI Flow
 
 =2019-05-12T14:48:47+09:00 Computer/トピック/社会動向/企業/Everalbum/keywords
 Ever
@@ -6131,7 +6139,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-07-23T14:13:23+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-08-20T12:26:41+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU
@@ -6143,6 +6151,10 @@ CMU
 UCLA
 デューク大学
 ベングリオン大学
+コーネル大
+ジョンズ・ホプキンズ大
+ペンシルベニア大
+テキサス大学
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
@@ -6327,8 +6339,8 @@ NASA
 Riken,理化学研究所,理研
 Shoubu
 
-=2018-10-26T11:27:14+09:00 Computer/トピック/社会動向/研究機関/産総研/keywords
-産総研,産業技術総合研究所
+=2020-08-20T10:12:22+09:00 Computer/トピック/社会動向/研究機関/産総研/keywords
+AIST,産総研,産業技術総合研究所
 HRP-5P
 
 =2019-07-24T13:53:29+09:00 Computer/トピック/社会動向/研究機関/統計数理研究所/keywords
