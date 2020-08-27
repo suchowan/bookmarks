@@ -423,6 +423,9 @@ Flux.jl
 =2019-02-14T13:45:39+09:00 Computer/トピック/ツール/ソフトウェア言語/keywords
 プログラミング言語,ソフトウェア言語
 
+=2020-08-27T12:49:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Kotlin/keywords
+Kotlin1
+
 =2018-12-26T12:23:52+09:00 Computer/トピック/ツール/ソフトウェア言語/LISP/keywords
 Lisp,LISP
 
@@ -692,8 +695,9 @@ RPA,Robotic Process Automation
 危険検知
 ひび割れ
 
-=2019-05-28T11:32:22+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/気象/keywords
+=2020-08-27T12:49:32+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/気象/keywords
 天気予報
+豪雨
 
 =2018-12-01T11:50:37+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/災害/keywords
 地震
@@ -782,7 +786,7 @@ MMEye
 ダイナミックプライシング
 価値
 
-=2017-03-22T10:23:45+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/keywords
+=2020-08-27T12:49:34+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/keywords
 囲碁
 絶芸
 DeepZenGo
@@ -806,6 +810,7 @@ Atari
 ファイナルファンタジー
 アルファ碁,AlphaGo
 麻雀
+モノポリー
 
 =2018-05-13T08:06:16+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/囲碁/keywords
 PhoenixGo
@@ -882,7 +887,7 @@ RoboCup
 =2019-05-24T12:10:09+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボホン/keywords
 RoBoHoN,ロボホン
 
-=2019-11-21T14:00:03+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2020-08-27T12:49:34+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -902,6 +907,7 @@ Hire
 バイト
 オーディション
 Dating
+名刺将棋
 
 =2020-07-09T16:06:51+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -1186,7 +1192,7 @@ CHIVOX
 性別
 字幕
 
-=2020-06-25T15:04:19+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2020-08-27T12:49:34+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1207,6 +1213,8 @@ CHIVOX
 営農
 盆栽
 農薬
+魚群
+ミツバチ
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -1697,6 +1705,9 @@ Live Shop!
 
 =2017-08-18T07:41:05+09:00 Computer/トピック/社会動向/企業/Carat/keywords
 GLIT,グリット
+
+=2020-08-27T12:51:50+09:00 Computer/トピック/社会動向/企業/Cardio Intelligence/keywords
+カルディオインテリジェンス,Cardio Intelligence
 
 =2020-06-11T14:11:58+09:00 Computer/トピック/社会動向/企業/CCC/keywords
 ツタヤ,蔦屋,TSUTAYA,CCC
@@ -2480,6 +2491,9 @@ RapidMiner
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/L is B/keywords
 daab
 
+=2020-08-27T12:49:32+09:00 Computer/トピック/社会動向/企業/Langogo Technology/keywords
+Summit
+
 =2020-01-23T20:33:33+09:00 Computer/トピック/社会動向/企業/Laniakea/keywords
 DXジョブ
 
@@ -2546,6 +2560,9 @@ FITO TAP PRO
 
 =2018-06-02T14:32:05+09:00 Computer/トピック/社会動向/企業/Lunch Actually Group/keywords
 VIOLA  AI
+
+=2020-08-27T12:51:25+09:00 Computer/トピック/社会動向/企業/Lyft/keywords
+リフト,Lyft
 
 =2017-07-24T12:43:40+09:00 Computer/トピック/社会動向/企業/M-SOLUTIONS/keywords
 Smart at robo
@@ -3105,6 +3122,9 @@ MiiTel
 
 =2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/Rice Robotics/keywords
 Rice
+
+=2020-08-27T12:50:59+09:00 Computer/トピック/社会動向/企業/rinna/keywords
+りんな,rinna
 
 =2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
@@ -5210,6 +5230,9 @@ Minutes Mayker
 =2017-10-25T14:08:02+09:00 Computer/トピック/社会動向/企業/プロドローン/keywords
 プロドローン,Prodrone,PRODRONE
 
+=2020-08-27T12:49:35+09:00 Computer/トピック/社会動向/企業/プロパティエージェント/keywords
+FreeiD
+
 =2017-05-02T10:13:36+09:00 Computer/トピック/社会動向/企業/ベクトル/keywords
 AI-PR
 
@@ -5412,8 +5435,9 @@ NinjaLockM
 COREC,コレック
 URIHO
 
-=2019-09-10T14:28:36+09:00 Computer/トピック/社会動向/企業/ラディウス・ファイブ/keywords
+=2020-08-27T12:49:33+09:00 Computer/トピック/社会動向/企業/ラディウス・ファイブ/keywords
 彩ちゃん
+Enpainter
 
 =2019-02-10T15:30:14+09:00 Computer/トピック/社会動向/企業/ラトックシステム/keywords
 ラトック,ラトックシステム
@@ -5616,9 +5640,10 @@ Nimbo
 AiLingual,アイリンガル
 ヤラクゼン
 
-=2018-11-20T19:48:50+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
+=2020-08-27T12:49:34+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
 トッパン,凸版
 BotFriends
+navima
 
 =2020-01-30T13:28:39+09:00 Computer/トピック/社会動向/企業/十印/keywords
 T-tact AN-ZIN
