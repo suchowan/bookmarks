@@ -187,7 +187,7 @@ Solid
 DBpedia
 LOD,Linked Open Data
 
-=2020-04-23T13:32:54+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2020-09-03T13:33:12+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
@@ -215,6 +215,7 @@ Inferentia
 gpu
 WSE
 アクセラレータ
+Power Architecture
 
 =2019-03-11T12:37:51+09:00 Computer/トピック/ツール/keywords
 Ghidra
@@ -654,7 +655,7 @@ Google アシスタント
 オーケー、グーグル
 OK Google
 
-=2020-07-16T13:17:40+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2020-09-03T13:33:12+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -674,9 +675,11 @@ AI案内
 渋谷さくら
 窓口
 reco!
+応対
 
-=2018-09-14T12:11:21+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
+=2020-09-03T13:33:11+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
+ヘイシリ
 
 =2017-03-22T09:31:41+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/りんな/keywords
 りんな,Rinna
@@ -909,7 +912,7 @@ Hire
 Dating
 名刺将棋
 
-=2020-07-09T16:06:51+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2020-09-03T13:33:11+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -989,8 +992,9 @@ MRI
 睡眠
 殺菌
 医薬
+服薬
 
-=2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
+=2020-09-03T13:33:10+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
 ワイン
 ビール
@@ -1000,6 +1004,7 @@ MRI
 食品
 Retty
 トッピング
+食
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
@@ -1192,7 +1197,7 @@ CHIVOX
 性別
 字幕
 
-=2020-08-27T12:49:34+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2020-09-03T13:33:10+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1215,6 +1220,7 @@ CHIVOX
 農薬
 魚群
 ミツバチ
+農
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -1488,6 +1494,9 @@ A.L.I.,ALI Technologies
 
 =2017-03-30T11:24:24+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
 アリババ,Alibaba
+
+=2020-09-03T13:33:11+09:00 Computer/トピック/社会動向/企業/All Turtles/keywords
+mmhmm
 
 =2017-10-10T08:40:34+09:00 Computer/トピック/社会動向/企業/Alpaca/keywords
 Capitalico,キャピタリコ
@@ -4586,7 +4595,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2019-06-17T13:56:31+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2020-09-03T13:33:13+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -4602,6 +4611,7 @@ SPRESENSE
 SIE
 PS
 Prediction One
+ピコトンズ
 
 =2020-07-02T14:08:05+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -5731,6 +5741,9 @@ Mendel Analyst
 =2020-07-02T14:06:00+09:00 Computer/トピック/社会動向/企業/情報工場/keywords
 SERENDIP
 
+=2020-09-03T13:33:59+09:00 Computer/トピック/社会動向/企業/愛眼/keywords
+アイガン,愛眼
+
 =2017-04-11T09:30:16+09:00 Computer/トピック/社会動向/企業/文化放送/keywords
 ラジオプリント
 
@@ -5794,6 +5807,9 @@ NI+C,日本情報通信
 
 =2017-04-11T13:48:39+09:00 Computer/トピック/社会動向/企業/日本気象協会/keywords
 SOLASAT,ソラサット
+
+=2020-09-03T13:33:10+09:00 Computer/トピック/社会動向/企業/日本法務システム研究所/keywords
+LAWGUE
 
 =2019-05-12T14:34:16+09:00 Computer/トピック/社会動向/企業/日本製鉄/日鉄ソリューションズ/keywords
 新日鉄住金ソリューションズ,日鉄ソリューションズ,NSSOL
