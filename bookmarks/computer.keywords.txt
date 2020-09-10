@@ -44,7 +44,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-08-20T12:26:40+09:00 Computer/トピック/セキュリティ/keywords
+=2020-09-10T14:07:30+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -165,6 +165,8 @@ encrypted
 テロ防止
 消失
 P2P
+通話記録
+インシデント
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -557,12 +559,13 @@ HOME IoT
 HomeKit
 玄関
 
-=2018-07-30T09:22:32+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
+=2020-09-10T14:07:27+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
 製造業,マニュファクチャリング
 FIELD system
 オフィス
 Cognitive Factory
+生産ライン
 
 =2018-10-05T11:35:53+09:00 Computer/トピック/ビッグデータ/SNS/keywords
 Manyverse
@@ -741,7 +744,7 @@ Quicksilver
 似合う
 レコメンデーション
 
-=2020-07-30T11:56:20+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2020-09-10T14:07:27+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -767,6 +770,7 @@ HEMS
 ネットワークカメラ
 ベビーテック
 混雑マップ
+ルート決定
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -833,13 +837,14 @@ JINS
 服装
 化粧品
 
-=2020-02-07T14:45:20+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
+=2020-09-10T14:07:26+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
 フライホイール
 顧客分析
 ダイナミックプライシング
 PR
 デジタルマーケ
+カスタマー・エンゲージメント
 
 =2018-06-16T17:22:18+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/keywords
 Google Analytics,Googleアナリティクス
@@ -912,7 +917,7 @@ Hire
 Dating
 名刺将棋
 
-=2020-09-03T13:33:11+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2020-09-10T14:07:28+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -993,8 +998,9 @@ MRI
 殺菌
 医薬
 服薬
+顔色
 
-=2020-09-03T13:33:10+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
+=2020-09-10T14:07:29+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
 ワイン
 ビール
@@ -1005,6 +1011,7 @@ MRI
 Retty
 トッピング
 食
+フードテック
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
@@ -1021,7 +1028,7 @@ Read Along
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
 
-=2020-06-25T15:04:18+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
+=2020-09-10T14:07:27+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
 自動彩色,カラー化,色塗り,着彩,着色,Colorization
 画像合成
 作画
@@ -1049,6 +1056,7 @@ ColouriseSG
 ディープフェイク
 マスク処理
 モザイク
+イメージング
 
 =2020-06-11T14:11:08+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
@@ -1239,7 +1247,7 @@ InsurTech
 mecelo
 トレーダー
 
-=2020-01-30T13:28:39+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2020-09-10T14:07:27+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1265,6 +1273,7 @@ Ponta
 無人販売
 Payment
 改札機
+入出金
 
 =2019-10-03T12:14:24+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1634,6 +1643,9 @@ beepシフト
 =2020-02-20T14:42:16+09:00 Computer/トピック/社会動向/企業/Bell Textron/keywords
 Bell,Bell Textron
 
+=2020-09-10T14:08:43+09:00 Computer/トピック/社会動向/企業/Biogen/keywords
+バイオジェン,Biogen
+
 =2017-07-04T07:33:01+09:00 Computer/トピック/社会動向/企業/bitFlyer/keywords
 miyabi
 
@@ -1714,6 +1726,9 @@ Live Shop!
 
 =2017-08-18T07:41:05+09:00 Computer/トピック/社会動向/企業/Carat/keywords
 GLIT,グリット
+
+=2020-09-10T14:07:29+09:00 Computer/トピック/社会動向/企業/CARCH/keywords
+SmartDish
 
 =2020-08-27T12:51:50+09:00 Computer/トピック/社会動向/企業/Cardio Intelligence/keywords
 カルディオインテリジェンス,Cardio Intelligence
@@ -2590,6 +2605,9 @@ MSE,Magic Software,マジックソフトウェア
 
 =2019-01-30T13:12:17+09:00 Computer/トピック/社会動向/企業/MAMORIO/keywords
 wiffy
+
+=2020-09-10T14:07:31+09:00 Computer/トピック/社会動向/企業/MANOI/keywords
+あつぎロボットフィールド
 
 =2018-09-23T14:49:24+09:00 Computer/トピック/社会動向/企業/MARIANA OCEAN JAPAN/keywords
 ObotAI
@@ -3800,8 +3818,9 @@ muddica
 =2018-01-31T16:38:29+09:00 Computer/トピック/社会動向/企業/アップ・スウェル/keywords
 JouleLife,ジュールライフ
 
-=2019-10-14T13:13:53+09:00 Computer/トピック/社会動向/企業/アトモフ/keywords
+=2020-09-10T14:07:33+09:00 Computer/トピック/社会動向/企業/アトモフ/keywords
 Atmoph Window
+Panorama Wall
 
 =2017-07-24T08:26:57+09:00 Computer/トピック/社会動向/企業/アトラエ/keywords
 TalentBase,タレントベース
@@ -4128,6 +4147,9 @@ kabukiペディア
 カルチュア・コンビニエンス・クラブ,CCC
 D-AI
 
+=2020-09-10T14:07:32+09:00 Computer/トピック/社会動向/企業/カワダロボティクス/keywords
+NEXTAGE
+
 =2017-08-01T08:11:50+09:00 Computer/トピック/社会動向/企業/ガネット/keywords
 G-careネット
 
@@ -4138,8 +4160,8 @@ Gmail HR tech
 =2017-12-08T13:23:25+09:00 Computer/トピック/社会動向/企業/キャメル/keywords
 Edia for リクルート
 
-=2019-09-01T15:38:16+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
-CANON
+=2020-09-10T14:09:46+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
+CANON,キャノン,キヤノン
 Web Performer
 GUARDIANWALL Mail
 GUARDIANWALL WebFilter
@@ -4525,6 +4547,9 @@ snaq.me
 
 =2017-03-30T14:57:32+09:00 Computer/トピック/社会動向/企業/スパイスボックス/keywords
 DialogOneメディカルパッケージ
+
+=2020-09-10T14:10:23+09:00 Computer/トピック/社会動向/企業/スピークバディ/keywords
+SpeakBuddy,スピークバディ
 
 =2017-04-04T14:56:19+09:00 Computer/トピック/社会動向/企業/スピーシーズ/keywords
 高坂ここな
@@ -5363,6 +5388,9 @@ AIポジショニングマップMr.DATA
 =2017-08-30T08:55:46+09:00 Computer/トピック/社会動向/企業/メトロリー/keywords
 メトロリー,metroly
 
+=2020-09-10T14:07:29+09:00 Computer/トピック/社会動向/企業/メドレー/keywords
+Pharms
+
 =2017-09-15T11:01:33+09:00 Computer/トピック/社会動向/企業/メリービズ/keywords
 バーチャル経理アシスタント
 
@@ -5900,6 +5928,9 @@ HubSpot
 =2020-03-19T14:18:23+09:00 Computer/トピック/社会動向/企業/沖電気工業/keywords
 沖電気,沖電気工業
 
+=2020-09-10T14:07:32+09:00 Computer/トピック/社会動向/企業/津田工務店/keywords
+OHACO
+
 =2019-12-26T12:55:33+09:00 Computer/トピック/社会動向/企業/滴滴出行/keywords
 DiDi,滴滴出行
 
@@ -6016,8 +6047,8 @@ COBOTTA
 Ha:mo RIDE,ハーモ・ライド
 QAネットワーク
 
-=2020-02-27T13:35:50+09:00 Computer/トピック/社会動向/企業/自動車/ホンダ/keywords
-本田技研,ホンダ,Honda
+=2020-09-10T14:11:27+09:00 Computer/トピック/社会動向/企業/自動車/ホンダ/keywords
+本田技術研究所,本田技研,ホンダ,Honda
 LogR
 
 =2017-11-12T15:54:42+09:00 Computer/トピック/社会動向/企業/自動車/三菱自動車/keywords
