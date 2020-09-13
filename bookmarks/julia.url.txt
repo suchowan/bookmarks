@@ -799,6 +799,9 @@ URL=https://twitter.com/kdwkshh/status/1204682453920571393
 =2020-01-11T08:25:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「いまだにいまいち @ generated function まわりの型推論のタイミングがよく分かってない。
 URL=https://twitter.com/kdwkshh/status/1215746091716448256
 
+=2020-09-10T22:00:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「そうです！ 抽象解釈は実際に実行されないところも見るのでもしかしたらデッドコードなだけなのかもしれませんが、この`z`が未定義変数であるのには変わらないので、
+URL=https://twitter.com/kdwkshh/status/1304041984768663554
+
 =2020-01-20T07:59:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Shuhei KadowakiさんはTwitterを使っています 「フィボナッチ数を計算する関数をマクロにして展開してみたら計算の過程がわかって面白かった p #julialang （不用意なマクロの使用ダメ，絶対） httpst.coIcMXAI
 URL=https://twitter.com/kdwkshh/status/1218938256370176000
 
@@ -816,6 +819,9 @@ URL=https://machakann.hatenablog.com/entry/2019/03/15/202716
 
 =2019-02-08T07:27:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Yuki Nagaiさんのツイート PythonでSciPyで疎行列Aで絶対値最小の固有値を求めるときは、SMモードではなく、sigma=0としてA^-1を解くモードにしてその最大固有値を求めるためにLMモードにすればよいようだ。JuliaのArp
 URL=https://twitter.com/cometscome_phys/status/1093662740424474624
+
+=2020-09-12T21:55:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Yukihiro MatsumotoさんはTwitterを使っています 「@miura1729 「高度なアイデアは愚かに見える」って奴ですね(そうだといいなあ)」 Twitter
+URL=https://twitter.com/yukihiro_matz/status/1304765668936409088
 
 =2019-12-25T08:06:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/[Julia] Holy trait - 共通の関数定義を気軽に記述しよう - Qiita
 URL=https://qiita.com/tenfu2tea/items/09c3528b2144d1eac74a
@@ -888,6 +894,12 @@ URL=https://twitter.com/goropikari_/status/1041245147193782272
 
 =2019-02-08T07:29:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゴロピカリさんのツイート 言われてみれば、まぁ出来るかと思いはするけど自力でこれは思いつけないな。多重ディスパッチ面白いなぁ。 httpst.co1M2KRaD1vN…
 URL=https://twitter.com/goropikari_/status/1093874568958140417
+
+=2019-01-20T15:21:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/プログラミング言語におけるremとmod - MyEnigma
+URL=https://myenigma.hatenablog.com/entry/2019/01/20/110825
+
+=2020-09-11T17:37:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ミスたこiPad廉価航空さんはTwitterを使っています 「引数（変数）が1次元ベクトル配列になるような関数は大変。記号のまえにドットマークが必要な場合があるようだ。
+URL=https://twitter.com/missTakoiPad/status/1304338289944440833
 
 =2019-12-30T14:35:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/寝てる君さんはTwitterを使っています 「#Julia言語 FortranをJuliaから呼び出す方法について。引数リストが何だか面倒そうだが。。。
 URL=https://twitter.com/general_ts/status/1211498773085450240
