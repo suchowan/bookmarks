@@ -268,6 +268,9 @@ URL=https://twitter.com/Ag_smith/status/1175328636347416578
 =2018-08-17T22:11:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/いずれPythonのライバルに？新言語「Julia」の人気が急上昇（ZDNet Japan） - Yahoo!ニュース
 URL=https://headlines.yahoo.co.jp/hl?a=20180817-35124177-zdnet-sci
 
+=2020-08-23T18:09:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/これから人気が出そうなプログラミング言語はありますか？ - Quora
+URL=https://jp.quora.com/%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E4%BA%BA%E6%B0%97%E3%81%8C%E5%87%BA%E3%81%9D%E3%81%86%E3%81%AA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%E3%81%AF%E3%81%82%E3%82%8A?ch=2&srid=aoGGw
+
 =2020-03-24T16:11:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/しぶてぃさんはTwitterを使っています 「#1から始めるJuliaプログラミング 読み終わりました。Twitterに投稿しようと思って書いた感想の下書きが消えてしまったので，様子を見ながらゆるーく感想をpostしようと思います。 #julial
 URL=https://twitter.com/takuizum/status/1242161806983852032
 
@@ -820,6 +823,9 @@ URL=https://machakann.hatenablog.com/entry/2019/03/15/202716
 =2019-02-08T07:27:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Yuki Nagaiさんのツイート PythonでSciPyで疎行列Aで絶対値最小の固有値を求めるときは、SMモードではなく、sigma=0としてA^-1を解くモードにしてその最大固有値を求めるためにLMモードにすればよいようだ。JuliaのArp
 URL=https://twitter.com/cometscome_phys/status/1093662740424474624
 
+=2020-09-14T18:34:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Yuki NagaiさんはTwitterを使っています 「ある配列aを用意して、その配列aをメンバーにもつstructのTestを作って、b=Test(a)をした時、多分メモリーのコピーは起こってない」 Twitter
+URL=https://twitter.com/cometscome_phys/status/1305439729572179969
+
 =2020-09-12T21:55:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Yukihiro MatsumotoさんはTwitterを使っています 「@miura1729 「高度なアイデアは愚かに見える」って奴ですね(そうだといいなあ)」 Twitter
 URL=https://twitter.com/yukihiro_matz/status/1304765668936409088
 
@@ -1164,6 +1170,9 @@ URL=https://twitter.com/genkuroki/status/1296725916215779329
 
 =2020-04-26T08:11:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RT Juliaでは【people tend to have very long running REPL sessions】 まさにそれ！ 直接REPL内に留まり続けたり、J
 URL=https://twitter.com/genkuroki/status/1254170133322297344
+
+=2020-09-15T10:55:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RTs 仮定：誰かが行列のFooMatrix型を定義し、それについての基本演算を独自に実装し、FooMatricesという名前のパッケージとして配布しており、そこにcholes
+URL=https://twitter.com/genkuroki/status/1305686720172548097
 
 =2019-03-13T05:46:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「ああ、こんな時間にやっちゃいけないこと始めてしまった。 texliveのネットワークインストーラーを起動してしまった。」 Twitter
 URL=https://twitter.com/genkuroki/status/1105552529222336512
