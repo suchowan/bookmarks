@@ -772,6 +772,9 @@ URL=https://twitter.com/KB_satou/status/1095314492999651332
 =2020-09-16T23:09:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/kashiさんはTwitterを使っています 「Juliaはやっぱり丸めモード変えられないの何とかならんのかなあ。mpfrは変えられるようだが肝心のfloatとdoubleが変えられない。version 0.5くらいまでは出来てたのが消されて
 URL=https://twitter.com/mkashi/status/1306233664229974021
 
+=2020-09-17T11:09:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/kashiさんはTwitterを使っています 「行列に自動微分型が入って、その中に区間型が入って、その中にdouble(や他の型)が入って、という複雑な入れ子構造を、それぞれの型を互いに知らない状態で独立に書いてなお組み合わせたらちゃんと動くっての
+URL=https://twitter.com/mkashi/status/1306414926559195137
+
 =2020-08-24T18:01:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/KatoKさんはTwitterを使っています 「juliaのswitch case無い問題macroで解決してたけど普通にMatch.jlなるものがあるのか知らんかった」 Twitter
 URL=https://twitter.com/__KatoK__/status/1297821313835257856
 
