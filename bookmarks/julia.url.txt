@@ -649,6 +649,9 @@ URL=https://twitter.com/Atsushi_twi/status/1188017864936083457
 =2020-08-12T19:09:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Atsushi SakaiさんはTwitterを使っています 「最近Juliaで導入した便利な設定。Revise.jlのユーザで、自分みたいに、怠惰にいろんなJuliaスクリプトをインクルードして使っている人の場合、この関数をstartup.jlに
 URL=https://twitter.com/Atsushi_twi/status/1293458069322514433
 
+=2020-09-23T00:17:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/bra-ketくんさんはTwitterを使っています 「こういうことがしたかったけど、これで上手く行ってるのだろうか？ macro structimport(obj,expr) syms = fieldnames(typeof(eval(obj))
+URL=https://twitter.com/mac_wac/status/1308425241543274497
+
 =2018-08-11T08:24:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ceptree@DDEさんのツイート Juliaのシェルモード知らなかった。;を打った瞬間に切り替わって,
 URL=https://twitter.com/ceptree/status/1028199978496286720
 
@@ -804,6 +807,9 @@ URL=https://twitter.com/LirimyDh/status/1282974834507436032
 
 =2019-09-18T07:37:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/lさんはTwitterを使っています 「人のコードで気づいたけど、#julia言語 で f(x,y,z)=x+3y-z みたいな複数の引数の関数に a=[3,4,10] f(a...) って配列とかにまとめて、「...」で渡せるのか 関数の拡張とか
 URL=https://twitter.com/ppp3141592ppp/status/1174292273632165889
+
+=2020-09-17T18:38:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/NABさんはTwitterを使っています 「httpst.coKeYbrHXqHG」 Twitter
+URL=https://twitter.com/vnb15_19hus/status/1306527962552889346
 
 =2020-09-05T19:33:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/NyohoさんはTwitterを使っています 「#Julia言語 でprintfデバッグみたいなのじゃないデバッグメッセージどうやって出すのかと思って調べました。
 URL=https://twitter.com/NeXTSTEP2OSX/status/1302031286396100608
