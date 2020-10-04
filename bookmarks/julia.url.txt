@@ -1021,6 +1021,9 @@ URL=https://twitter.com/missTakoiPad/status/1304238684904894464
 =2020-09-11T17:37:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ミスたこiPad廉価航空さんはTwitterを使っています 「引数（変数）が1次元ベクトル配列になるような関数は大変。記号のまえにドットマークが必要な場合があるようだ。
 URL=https://twitter.com/missTakoiPad/status/1304338289944440833
 
+=2020-10-03T13:58:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/守鈴さんはTwitterを使っています 「@genkuroki Rust のマクロを定義する方法は複数あります。 一つは AST を引数に取り AST を返す関数を定義してそれがマクロとして使えるように属性をつけることです。
+URL=https://twitter.com/rithmety/status/1312255735305175042
+
 =2019-12-30T14:35:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/寝てる君さんはTwitterを使っています 「#Julia言語 FortranをJuliaから呼び出す方法について。引数リストが何だか面倒そうだが。。。
 URL=https://twitter.com/general_ts/status/1211498773085450240
 
@@ -2640,6 +2643,9 @@ URL=https://twitter.com/genkuroki/status/1293802983176601601
 
 =2020-09-16T22:30:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RTs 徹底的に最適化されたライブラリは速い。 だが、そういうライブラリが例えばC++でしか使えないようだと使う人は減る。 高速なライブラリを習得し易い言語から使えるようにする
 URL=https://twitter.com/genkuroki/status/1306224058392915968
+
+=2020-10-02T23:46:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「「使用可能な道具の範囲内での手軽な高速化」のために「メモリの無駄遣いを気にせずに行列算化する」という話であれば実践的に合理的な場合もあると思うが、そういうやり方が普遍的に
+URL=https://twitter.com/genkuroki/status/1312041224035987457
 
 =2019-12-01T07:48:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「以前から強調しているように #Julia言語 についてはその話題が結構重要だと思っています。 #統計 がらみの数値実験を多数やると、
 URL=https://twitter.com/genkuroki/status/1201003398008573960
