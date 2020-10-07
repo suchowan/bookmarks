@@ -1471,6 +1471,9 @@ URL=https://twitter.com/Dolphin7473/status/1287982168342269952
 =2019-04-28T06:58:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/DSM-Design Structure MatrixをJulia言語のheatmap(by Seaborn)で描画＆ネットワーク可視化(by GraphPlot) - システムとモデリング
 URL=http://otepipi.hatenablog.com/entry/2019/04/28/225139
 
+=2020-10-05T10:54:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/eval parseさんはTwitterを使っています 「Birthday paradox states that in a room of 23, 50% chance 2 or more have same birthday
+URL=https://twitter.com/evalparse/status/1312934146965078016
+
 =2020-03-15T08:06:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Franklin.jl で数学・Juliaに関するドキュメントを執筆する - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/3b3dadc593eb9a85e2dd
 
@@ -1746,6 +1749,9 @@ URL=https://twitter.com/hyper0dietter/status/1053641348903919616
 
 =2017-01-13T07:40:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/最適化における Julia - JuMP で最長しりとり？ - Qiita
 URL=https://qiita.com/tenfu2tea/items/7f6c58d02edadca0aff1
+
+=2020-10-05T07:55:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/水素原子の基底状態解は原点での値を用いずに特徴付けられる - わかばめにっき
+URL=https://wakabame.hatenablog.com/entry/2020/10/05/215503
 
 =2018-10-20T05:02:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/海子さんのツイート juliaでアニメーションどうやって作るのかな～～～　って軽い気持ちで調べた僕を覗き込む赤い顔達…
 URL=https://twitter.com/umikoz/status/1053585984040820737
@@ -2275,6 +2281,9 @@ URL=https://twitter.com/sakamurray/status/1277742599005069313
 =2019-12-30T14:35:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/寝てる君さんはTwitterを使っています 「#Julia言語 FortranをJuliaから呼び出す方法について。引数リストが何だか面倒そうだが。。。
 URL=https://twitter.com/general_ts/status/1211498773085450240
 
+=2020-10-05T15:19:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/心停止(パワポ作る人)さんはTwitterを使っています 「3年生で1人パソコン持ってなかった子がいて注文してたらしく、そのパソコンが届いた。
+URL=https://twitter.com/hayabusa_0613/status/1313000792417214464
+
 =2019-02-07T07:46:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/数値解析学模様の岡本さんのツイート Juliaをオンラインで学ぶ新しいプラットフォーム，JuliaAcademyがローンチされたとメールがきた．Introduction to Julia, Introduction to Machine Learn
 URL=https://twitter.com/kaisekigakumoyo/status/1093177374936629249
 
@@ -2643,6 +2652,9 @@ URL=https://twitter.com/genkuroki/status/1293802983176601601
 
 =2020-09-16T22:30:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RTs 徹底的に最適化されたライブラリは速い。 だが、そういうライブラリが例えばC++でしか使えないようだと使う人は減る。 高速なライブラリを習得し易い言語から使えるようにする
 URL=https://twitter.com/genkuroki/status/1306224058392915968
+
+=2020-10-04T17:42:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「ReRTs「函数実行時に引数の型に合わせて即時コンパイルして実行する仕組み」には即時コンパイルでオーバーヘッドが生じるという欠点があるが、与えた引数の型の組み合わせについて最適な
+URL=https://twitter.com/genkuroki/status/1312674546206429185
 
 =2020-10-02T23:46:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「「使用可能な道具の範囲内での手軽な高速化」のために「メモリの無駄遣いを気にせずに行列算化する」という話であれば実践的に合理的な場合もあると思うが、そういうやり方が普遍的に
 URL=https://twitter.com/genkuroki/status/1312041224035987457
