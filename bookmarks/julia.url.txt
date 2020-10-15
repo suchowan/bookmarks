@@ -2536,6 +2536,9 @@ URL=https://twitter.com/genkuroki/status/1295894887913545729
 =2020-07-18T19:24:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 すでにJupyterも使えているJulia環境で「外部の」Jupyterを使いたいならば、例えば、 julia&gt; ENV[JUPYTER] = CAnacon
 URL=https://twitter.com/genkuroki/status/1284386515775184898
 
+=2020-10-14T16:46:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 たぶん、Juliaが好きな人は、JuliaからRを使う練習をすると自然にRにも詳しくなります。
+URL=https://twitter.com/genkuroki/status/1316284183451299840
+
 =2020-09-08T06:22:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 の例えばDifferentialEquations.jlの開発者はJuliaで開発した微分方程式のパッケージ(GPUも利用可能)をPythonやRでも使えるようにし
 URL=https://twitter.com/genkuroki/status/1303081167441113088
 
