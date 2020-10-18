@@ -1573,6 +1573,9 @@ URL=https://twitter.com/genkuroki/status/1305686720172548097
 =2019-03-13T05:46:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「ああ、こんな時間にやっちゃいけないこと始めてしまった。 texliveのネットワークインストーラーを起動してしまった。」 Twitter
 URL=https://twitter.com/genkuroki/status/1105552529222336512
 
+=2020-10-16T19:27:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「インデックスの始まりを0とか1に固定されると不便なので、0-basedも1-basedもどちらもダメだと思う。 抽象化が足りていない。
+URL=https://twitter.com/genkuroki/status/1317049601187139584
+
 =2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
 URL=https://twitter.com/bicycle1885/status/1085492920113717248
 
@@ -1783,6 +1786,9 @@ URL=https://twitter.com/kjunichi/status/1139826687787655169
 =2020-05-05T07:11:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Lorenz96モデルのデータ同化準備編 - Qiita
 URL=https://qiita.com/litharge3141/items/41b8dd3104413529407f
 
+=2020-10-18T03:28:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Lyndon Frames WhiteさんはTwitterを使っています 「Finally returned to my Project Management library, redoing the PERT chart visualisation
+URL=https://twitter.com/oxinabox_frames/status/1317532973059768320
+
 =2020-09-16T13:00:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/l_pppさんはTwitterを使っています 「#Julia言語 遊び Diniの曲面 3D曲面plotは、格子網を捩じったヤツの交点xyz座標を それぞれ2次元配列で格納させるかんじ GRバックエンドは対応してないっぽいな httpst.co
 URL=https://twitter.com/ppp3141592ppp/status/1306080523438096386
 
@@ -1806,6 +1812,9 @@ URL=https://qiita.com/yoyoyoh-yohyoh/items/fa18829a26953a7804f3
 
 =2019-04-17T07:34:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Pythonのseleniumライブラリを使ってJuliaLangでwebスクレイピング - snovaのブログ
 URL=https://snova301.hatenablog.com/entry/2019/04/17/225451
+
+=2020-10-17T23:03:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Shuhei KadowakiさんはTwitterを使っています 「同じ論文を1週間何度も何度も読んでるけど、一箇所どうしても分からない... A Graph-Free Approach to Data-Flow Analysis読んだ方いらっしゃ
+URL=https://twitter.com/kdwkshh/status/1317466316161208326
 
 =2020-09-23T23:32:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/SizumiさんはTwitterを使っています 「そういえば、 Yao.jlで量子エンタングルメント作った話です。後編は3qubit、4qubitになります。
 URL=https://twitter.com/sizumi_maimu/status/1308776149946785794
@@ -2668,6 +2677,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/302c3e555f65798f1f74
 =2020-06-25T20:01:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/puzz(意識低い系!)さんはTwitterを使っています 「各種プログラミング言語を調べていたら、kuinという日本の言語を見つけたが... Windowsでしか動かないのか... Windows限定の言語は使わないな... 日本からもJulia
 URL=https://twitter.com/puzzler2012/status/1275940091110674432
 
+=2020-10-17T19:17:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Ryotatsu YanagimotoさんはTwitterを使っています 「自動的にまとめて最初にメモリを確保してるっぽい？」 Twitter
+URL=https://twitter.com/yanagimotor/status/1317409304962498561
+
 =2019-04-18T13:45:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Rは本当に遅いのか？Juliaとの比較例 - Qiita
 URL=https://qiita.com/nozma/items/0025ce9e84ffbc7b18c2
 
@@ -2739,6 +2751,9 @@ URL=https://twitter.com/hayato_VTA/status/1293849574507810819
 
 =2020-10-09T22:48:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/メンヘラサイコパスちゃんさんはTwitterを使っています 「今更ながら、知識の穴を全て潰そうとか思い立って、Andrew NGさんの機械学習の講義を聞いていたら、2016年時点で、線形モデルの深い理解と正則化とoverfitを理解していれば、
 URL=https://twitter.com/nardtree/status/1314563452388564992
+
+=2020-10-17T12:21:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/守鈴さんはTwitterを使っています 「うーん…。 httpst.co4nf65Ox4TG」 Twitter
+URL=https://twitter.com/rithmety/status/1317304634042507264
 
 =2020-10-04T00:57:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/心停止(パワポ作る人)さんはTwitterを使っています 「@ timeで実行時間を計測するJuliaに対して、Cの実行時間の計測面倒すぎんか？」 Twitter
 URL=https://twitter.com/hayabusa_0613/status/1312421526784733185
