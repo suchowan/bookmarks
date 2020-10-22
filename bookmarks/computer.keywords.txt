@@ -45,7 +45,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-10-15T12:30:40+09:00 Computer/トピック/セキュリティ/keywords
+=2020-10-22T14:26:13+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -180,6 +180,9 @@ IPアドレス
 Trickbot
 復旧
 悪用
+デジタルアイデンティティ
+エクスプロイト
+防犯
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -678,7 +681,7 @@ Google アシスタント
 オーケー、グーグル
 OK Google
 
-=2020-10-15T12:30:36+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2020-10-22T14:26:13+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -700,6 +703,7 @@ AI案内
 reco!
 応対
 KUZEN
+FaceMe
 
 =2020-09-03T13:33:11+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -1237,7 +1241,7 @@ CHIVOX
 性別
 字幕
 
-=2020-09-03T13:33:10+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2020-10-22T14:26:13+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1261,6 +1265,8 @@ CHIVOX
 魚群
 ミツバチ
 農
+肥料
+鶏舎
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -1279,7 +1285,7 @@ InsurTech
 mecelo
 トレーダー
 
-=2020-09-10T14:07:27+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2020-10-22T14:26:12+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1306,6 +1312,8 @@ Ponta
 Payment
 改札機
 入出金
+ICOCA
+入金
 
 =2019-10-03T12:14:24+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -1861,6 +1869,9 @@ CTC-AICON
 
 =2017-03-28T14:55:22+09:00 Computer/トピック/社会動向/企業/Curious Edge/keywords
 Commu
+
+=2020-10-22T14:28:20+09:00 Computer/トピック/社会動向/企業/CyberLink/keywords
+サイバーリンク,CyberLink
 
 =2017-07-31T09:39:25+09:00 Computer/トピック/社会動向/企業/CyberZ/keywords
 Zinnia
@@ -2558,6 +2569,9 @@ HOTEL BAMPKY
 =2017-09-07T11:33:29+09:00 Computer/トピック/社会動向/企業/Kofax/keywords
 Kapow10,カパゥテン
 
+=2020-10-22T14:26:14+09:00 Computer/トピック/社会動向/企業/KOSKA/keywords
+GenKan
+
 =2018-03-20T14:56:15+09:00 Computer/トピック/社会動向/企業/KSKアナリティクス/keywords
 RapidMiner
 
@@ -2696,9 +2710,9 @@ McAfee,マカフィー
 =2019-02-21T11:56:47+09:00 Computer/トピック/社会動向/企業/McCormick/keywords
 マコーミック,McCormick
 
-=2019-10-14T13:18:45+09:00 Computer/トピック/社会動向/企業/Megvii Technology/keywords
+=2020-10-22T14:29:02+09:00 Computer/トピック/社会動向/企業/Megvii Technology/keywords
 Face++,フェイス++,フェイスプラスプラス
-曠視科技,Megvii,Megvii Technology
+メグビー,曠視科技,Megvii,Megvii Technology
 
 =2019-10-14T13:21:08+09:00 Computer/トピック/社会動向/企業/Meiya Pico/keywords
 美亜柏科,Meiya Pico
@@ -2787,6 +2801,9 @@ MKT METAL
 
 =2019-01-30T13:14:16+09:00 Computer/トピック/社会動向/企業/Mobileye/keywords
 モービルアイ,Mobileye
+
+=2020-10-22T14:27:37+09:00 Computer/トピック/社会動向/企業/Mobility Technologies/keywords
+MoT,Mobility Technologies
 
 =2017-10-16T08:57:33+09:00 Computer/トピック/社会動向/企業/Moff/keywords
 モフ測
@@ -2970,8 +2987,9 @@ Oshi-el,オシエル
 Nuance,ニュアンス・コミュニケーションズ・ジャパン,ニュアンス・コミュニケーションズ
 Dragon Drive
 
-=2020-05-07T13:59:46+09:00 Computer/トピック/社会動向/企業/NUWA Robotics/keywords
+=2020-10-22T14:26:13+09:00 Computer/トピック/社会動向/企業/NUWA Robotics/keywords
 NUWAロボティクス,NUWA Robotics
+Kebbi Air
 
 =2018-10-22T10:59:53+09:00 Computer/トピック/社会動向/企業/NVIDIA/ARM/keywords
 PSA
@@ -3007,6 +3025,9 @@ ONE PAY
 
 =2019-06-01T11:40:05+09:00 Computer/トピック/社会動向/企業/Onplanetz/keywords
 On AI
+
+=2020-10-22T14:26:12+09:00 Computer/トピック/社会動向/企業/OPSION/keywords
+RISA
 
 =2018-08-21T11:30:04+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
 オラクル,Oracle
@@ -6311,7 +6332,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-10-15T12:30:39+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-10-22T14:26:13+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -6329,6 +6350,11 @@ UCLA
 テキサス大学
 ケンブリッジ大
 ペンシルベニア州立大
+チューリッヒ工科大学
+イェール大
+ブリストル大
+南洋理工大学
+ワシントン大
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
