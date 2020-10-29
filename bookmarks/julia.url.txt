@@ -574,6 +574,9 @@ URL=https://twitter.com/u_ribo/status/1314347143776202752
 =2020-10-13T09:25:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Valentin ChuravyさんはTwitterを使っています 「@JuliaLanguage we run PackageEvaluator.jl over the entire (registered) Julia ecosystem to
 URL=https://twitter.com/vchuravy/status/1315810802276818944
 
+=2020-10-28T07:55:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/WebIO チュートリアル  GitHub
+URL=https://gist.github.com/terasakisatoshi/9b6f5ea9ced565dd3d197687fb59328b
+
 =2019-03-12T07:05:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/wint ドライアイ+花粉症さんのツイート おっ、scikit-learn の Julia 版あるじゃん
 URL=https://twitter.com/wint7/status/1105397946575548416
 
@@ -603,6 +606,9 @@ URL=https://twitter.com/MathSorcerer/status/1315878075993710592
 
 =2020-10-20T18:08:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ごまふあざらしさんはTwitterを使っています 「Julia -&gt; Package 作り -&gt; PackageCompiler.jl で Pacckage の関数を sysimage に焼く -&gt; 焼いた sysimage を共
 URL=https://twitter.com/MathSorcerer/status/1318479241386717184
+
+=2020-10-28T23:57:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ごまふあざらしさんはTwitterを使っています 「自作 JLL を作るたびにビルダーとjll用のリポジトリとそれを使うためのパッケージのリポジトリが増える #Julia言語」 Twitter
+URL=https://twitter.com/MathSorcerer/status/1321466239663755264
 
 =2019-11-29T06:46:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/へいほぅさんはTwitterを使っています 「Weave.jl 知らなかった 便利そうhttpst.co89YmeF3llM #juliatokyo」 Twitter
 URL=https://twitter.com/5ebec/status/1200358734125387777
@@ -1537,6 +1543,9 @@ URL=https://twitter.com/genkuroki/status/1315096639598551041
 =2020-08-05T07:11:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 小ネタ httpst.co7XM7Gr7hde LinRange(a, b, n) と range(a, b, length=n) はほぼ同等なのですが、後者の方が
 URL=https://twitter.com/genkuroki/status/1291022817186570242
 
+=2020-10-29T01:52:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 数値的に(許容する誤差を設定して)kernelを計算してくれる函数 LinearAlgebra.nullspace があります。
+URL=https://twitter.com/genkuroki/status/1321495046605033472
+
 =2020-08-30T14:49:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 数学の勉強の仕方との類似 数学 ①試行錯誤用の計算用紙 ②清書されたノート Julia ①REPL (Revise.jlを使う) ②パッケージのjlファイル Jup
 URL=https://twitter.com/genkuroki/status/1299911129947234307
 
@@ -1755,6 +1764,9 @@ URL=http://marui.hatenablog.com/entry/2018/09/14/134118
 
 =2020-09-29T04:04:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia ComputingさんはTwitterを使っています 「Researchers use #Julialang on a #NERSC #supercomputer (650,000 cores) to speed astronomica
 URL=https://twitter.com/JuliaComputing/status/1310656730108313600
+
+=2020-10-29T01:05:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia ComputingさんはTwitterを使っています 「Researchers use #Julialang on a @NERSC #supercomputer (650,000 cores) to speed astronomica
+URL=https://twitter.com/JuliaComputing/status/1321483273093017600
 
 =2020-08-23T19:29:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia Jupyter での画像表示を実装する - Qiita
 URL=https://qiita.com/Lirimy/items/b5604b41247ba8ca7a00
@@ -2737,6 +2749,9 @@ URL=https://twitter.com/genkuroki/status/1306296200019103745
 =2020-10-12T19:10:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「@kikumaco @mrkn #Julia言語 ああ、なるほど、それは難しい場合です。
 URL=https://twitter.com/genkuroki/status/1315595609961689088
 
+=2020-10-28T18:00:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「@SGThr7 #Julia言語 バックエンドの問題です。 Plots.jl のバックエンドとしてデフォルトのgr()は速くて便利なのですが、細部がちょっと雑。 pyplot()の方
+URL=https://twitter.com/genkuroki/status/1321376158387064832
+
 =2020-08-06T19:45:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RT Pythonから #Julia言語 への引っ越しが全面的に起こるとか、RからJuliaへの引越しが全面的に起こるというようなことは、普通に常識がある人であれば考えないと思
 URL=https://twitter.com/genkuroki/status/1291214577816891394
 
@@ -2892,6 +2907,9 @@ URL=https://twitter.com/MathSorcerer/status/1286991601672187905
 
 =2020-03-14T08:10:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ごまふあざらしさんはTwitterを使っています 「Honer法を Julia のmacroで書くとなんで速くなるん？ なとぴっく。 日本のプログラミング質問サイトじゃここまで付き合ってくれる人いないでしょうね。
 URL=https://twitter.com/MathSorcerer/status/1238490851547873281
+
+=2020-10-28T16:30:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/てらモスさんはTwitterを使っています 「というか動作原理的には値を確定させてから LLVM に落とし込む Julia の方が外せないとおかしい」 Twitter
+URL=https://twitter.com/termoshtt/status/1321353579005767680
 
 =2020-07-16T07:39:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/ともそーくんさんはTwitterを使っています 「今度からJuliaの高速化の方法を聞かれたらこのURLを教えてあげることにしよう。 httpst.copHrzH05ePu」 Twitter
 URL=https://twitter.com/tomosoeoc/status/1283664782768267264
