@@ -45,7 +45,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-10-22T14:26:13+09:00 Computer/トピック/セキュリティ/keywords
+=2020-11-05T12:57:57+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -183,6 +183,7 @@ Trickbot
 デジタルアイデンティティ
 エクスプロイト
 防犯
+腐敗
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1654,6 +1655,9 @@ Xvision
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/AVA Intelligence/keywords
 AVA Travel
 
+=2020-11-05T13:02:25+09:00 Computer/トピック/社会動向/企業/avatarin/keywords
+アバターイン,avatarin
+
 =2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/Avidbots/keywords
 Neo
 
@@ -2217,6 +2221,9 @@ Genpact Cora
 =2020-07-02T14:06:00+09:00 Computer/トピック/社会動向/企業/getAbstract AG/keywords
 getAbstract
 
+=2020-11-05T13:02:05+09:00 Computer/トピック/社会動向/企業/Getinge/keywords
+ゲティンゲグループ,Getinge
+
 =2018-08-14T15:27:32+09:00 Computer/トピック/社会動向/企業/GINKAN/keywords
 シンクロライフ
 
@@ -2746,7 +2753,7 @@ CALNA
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
 
-=2020-07-23T14:13:22+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2020-11-05T12:57:56+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -2779,6 +2786,7 @@ Outlook
 Teams
 FAMGA
 Dataflex
+Lobe
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
@@ -3447,6 +3455,9 @@ Stitch Fix,SFIX
 
 =2019-03-26T14:32:27+09:00 Computer/トピック/社会動向/企業/STMicroelectronics/keywords
 STマイクロエレクトロニクス,STMicroelectronics
+
+=2020-11-05T12:57:57+09:00 Computer/トピック/社会動向/企業/StockGraphy/keywords
+DigireBUILD
 
 =2018-02-23T14:59:57+09:00 Computer/トピック/社会動向/企業/StockMark/keywords
 AI アルケミスト
@@ -4287,10 +4298,11 @@ Vision Edition-U
 =2020-05-21T13:21:07+09:00 Computer/トピック/社会動向/企業/ギフトモール/keywords
 Giftmall,ギフトモール
 
-=2020-09-17T12:49:41+09:00 Computer/トピック/社会動向/企業/ギリア/keywords
+=2020-11-05T12:57:56+09:00 Computer/トピック/社会動向/企業/ギリア/keywords
 清水亮
 GHELIA,ギリア
 Deep Analyzer
+Spectre
 
 =2017-09-07T10:26:59+09:00 Computer/トピック/社会動向/企業/ギークス/keywords
 ギークス,geechs
@@ -4725,6 +4737,9 @@ CLIP STUDIO PAINT
 =2018-03-12T11:00:23+09:00 Computer/トピック/社会動向/企業/セレス/keywords
 モッピー
 
+=2020-11-05T13:33:06+09:00 Computer/トピック/社会動向/企業/セーフィー/keywords
+Safie,セーフィー
+
 =2019-06-24T12:17:02+09:00 Computer/トピック/社会動向/企業/ゼスティーソリューションズ/keywords
 AiME
 
@@ -4737,7 +4752,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2020-09-03T13:33:13+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2020-11-05T12:57:56+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -4754,6 +4769,7 @@ SIE
 PS
 Prediction One
 ピコトンズ
+QRIO
 
 =2020-07-02T14:08:05+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -5384,6 +5400,9 @@ KARTE,カルテ
 =2020-06-18T16:25:15+09:00 Computer/トピック/社会動向/企業/プレナス/keywords
 やよい軒
 
+=2020-11-05T12:57:57+09:00 Computer/トピック/社会動向/企業/プレースホルダ/keywords
+リトルプラネット
+
 =2018-03-27T17:29:17+09:00 Computer/トピック/社会動向/企業/プロジェクト・メイ/keywords
 Minutes Mayker
 
@@ -5449,6 +5468,9 @@ Neo
 Menlo Security
 マクニカネット,マクニカネットワークス
 
+=2020-11-05T12:57:57+09:00 Computer/トピック/社会動向/企業/マックス/keywords
+StoreScope
+
 =2019-04-14T14:02:21+09:00 Computer/トピック/社会動向/企業/マツリカ/keywords
 マツリカ
 Senses,センシーズ
@@ -5465,8 +5487,9 @@ MFクラウド確定申告
 =2017-04-11T10:09:57+09:00 Computer/トピック/社会動向/企業/マージェリック/keywords
 バンブーシュート,bambooshoot
 
-=2017-12-13T10:01:37+09:00 Computer/トピック/社会動向/企業/ミクシィ/keywords
+=2020-11-05T12:57:57+09:00 Computer/トピック/社会動向/企業/ミクシィ/keywords
 ミクシィ,mixi
+Romi
 
 =2017-12-13T10:02:42+09:00 Computer/トピック/社会動向/企業/ミクシィ/フンザ/keywords
 チケットキャンプ
@@ -5547,10 +5570,11 @@ Yappli,yappli,ヤプリ
 =2018-04-28T12:27:19+09:00 Computer/トピック/社会動向/企業/ヤマト運輸/keywords
 ヤマト
 
-=2017-11-11T16:19:29+09:00 Computer/トピック/社会動向/企業/ヤマハ/keywords
+=2020-11-05T12:57:57+09:00 Computer/トピック/社会動向/企業/ヤマハ/keywords
 HEAR Talk
 ViReal
 MOTOBOT
+Charlie
 
 =2017-10-02T14:07:32+09:00 Computer/トピック/社会動向/企業/ユカイ工学/keywords
 BOCCO
@@ -6132,6 +6156,9 @@ Ford,フォード
 =2020-04-02T16:56:29+09:00 Computer/トピック/社会動向/企業/自動車/Geely Auto/keywords
 Geely,Geely Auto
 
+=2020-11-05T13:01:22+09:00 Computer/トピック/社会動向/企業/自動車/Harley-Davidson/keywords
+ハーレーダビッドソン,Harley-Davidson
+
 =2017-09-07T10:34:58+09:00 Computer/トピック/社会動向/企業/自動車/Jaguar/keywords
 Sayer
 
@@ -6347,7 +6374,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-10-29T14:27:45+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-11-05T12:57:56+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -6371,6 +6398,7 @@ UCLA
 南洋理工大学
 ワシントン大
 コペンハーゲン大学
+南カリフォルニア大学
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
