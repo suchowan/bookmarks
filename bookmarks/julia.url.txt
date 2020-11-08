@@ -625,6 +625,9 @@ URL=https://twitter.com/MathSorcerer/status/1323214926660300806
 =2020-10-20T18:08:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ごまふあざらしさんはTwitterを使っています 「Julia -&gt; Package 作り -&gt; PackageCompiler.jl で Pacckage の関数を sysimage に焼く -&gt; 焼いた sysimage を共
 URL=https://twitter.com/MathSorcerer/status/1318479241386717184
 
+=2020-11-05T13:31:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ごまふあざらしさんはTwitterを使っています 「PrettyTables.jl かっちょいい httpst.coDYo5r4W8cU httpst.cosfrz5QKuYR」 Twitter
+URL=https://twitter.com/MathSorcerer/status/1324207588221743105
+
 =2020-10-28T23:57:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ごまふあざらしさんはTwitterを使っています 「自作 JLL を作るたびにビルダーとjll用のリポジトリとそれを使うためのパッケージのリポジトリが増える #Julia言語」 Twitter
 URL=https://twitter.com/MathSorcerer/status/1321466239663755264
 
@@ -1780,6 +1783,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/3b3dadc593eb9a85e2dd
 =2018-09-20T17:58:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/FreshAndEarlyさんのツイート Julia 1.0 でMeCabを使いたい方は下記のフォークでどうぞ。本家のchezouさんがプルリクエストに対応するかは分かりません。
 URL=https://twitter.com/snthotto/status/1042591888098779136
 
+=2020-11-06T16:36:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Gnuplot.jl を使用して、論文用の図(eps,latex)を作成する - Qiita
+URL=https://qiita.com/QQQ_0018/items/9296c7e6aa7418579d45
+
 =2018-06-17T18:43:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/GPU でイジングモデルを計算する - Qiita
 URL=https://qiita.com/Lirimy/items/3ecb550af79cc674e480
 
@@ -2002,6 +2008,9 @@ URL=https://twitter.com/TomiyaAkio/status/1323422808626536448
 =2020-10-26T19:16:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/trmrさんはTwitterを使っています 「なんか凄そうなのきたhttpst.coGBXu9CFG5p」 Twitter
 URL=https://twitter.com/glakneshoe/status/1320670552575492096
 
+=2020-10-29T06:07:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Turing.jlで欠損値付きデータに対して線形回帰を行う - my blog
+URL=https://tetuppei.hatenablog.com/entry/2020/10/29/183157
+
 =2020-09-01T07:25:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/VoxEUアブストラクト「経済研究に最良のプログラミング言語はどれか：Juliaか，Matlabか，Pythonか，Rか」（2020年8月20日） - 経済学101
 URL=https://econ101.jp/voxeu%e3%82%a2%e3%83%96%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%88%e3%80%8c%e7%b5%8c%e6%b8%88%e7%a0%94%e7%a9%b6%e3%81%ab%e6%9c%80%e8%89%af%e3%81%ae%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f/
 
@@ -2211,6 +2220,9 @@ URL=https://twitter.com/genkuroki/status/1251449298820071430
 
 =2020-03-09T19:35:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#統計 #Julia言語 ああ、なるほど、それは面白いな。 実際に試してみました(瞬殺！笑)。 ヒストグラムをnの分割とみなしたときの多項分布モデルでのAICを最小化して分割の幅を最
 URL=https://twitter.com/genkuroki/status/1236887433439883266
+
+=2020-11-08T12:22:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#統計 #数楽 #Julia言語 左右非対称な分布でも中心極限定理を数値的に確認すると楽しめます。
+URL=https://twitter.com/genkuroki/status/1325277468299649025
 
 =2020-03-24T07:48:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#統計 httpst.coZHJEpTcPZO 驚異のアニヲタ社会復帰の予備 2020-03-19 COVID-19 の潜伏期間をrstanで推定する とほぼ同じと思われることを #
 URL=https://twitter.com/genkuroki/status/1242136665868529679
