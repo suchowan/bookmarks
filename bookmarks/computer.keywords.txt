@@ -758,7 +758,7 @@ AIライター
 執筆
 GPT-3
 
-=2019-04-25T18:55:20+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
+=2020-11-12T12:23:10+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
 ピッタリ
 指南
@@ -770,8 +770,9 @@ Quicksilver
 お薦め
 似合う
 レコメンデーション
+レコメンド
 
-=2020-09-17T12:49:41+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2020-11-12T12:23:09+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -799,6 +800,7 @@ HEMS
 混雑マップ
 ルート決定
 Ops
+品質管理
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -1151,6 +1153,9 @@ GACHA
 自律運転
 Self-Driving
 
+=2020-11-12T12:23:09+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/船舶/keywords
+自律航行
+
 =2017-03-23T10:41:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/FEP/keyword
 かな漢字変換
 ATOK
@@ -1186,7 +1191,7 @@ gensim
 =2017-03-23T11:00:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/ナイーブベイズ/keywords
 ベイジアンフィルタ
 
-=2019-04-10T11:48:05+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/keywords
+=2020-11-12T12:23:09+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/keywords
 MeCab
 Kuromoji
 JUMAN
@@ -1195,6 +1200,7 @@ LUIS
 字句解析
 BERT
 ELMo
+湯婆婆
 
 =2019-06-05T11:57:52+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
 手書き
@@ -1635,6 +1641,9 @@ LOOGUE
 =2017-11-22T16:58:40+09:00 Computer/トピック/社会動向/企業/Ascent Robotics/keywords
 ATLAS,アトラス
 
+=2020-11-12T12:23:11+09:00 Computer/トピック/社会動向/企業/AssistMotion/keywords
+curara
+
 =2019-03-29T18:35:41+09:00 Computer/トピック/社会動向/企業/ASUS/keywords
 Zenbo
 Asus,ASUS
@@ -1703,6 +1712,9 @@ Blabo!
 
 =2018-01-10T10:50:51+09:00 Computer/トピック/社会動向/企業/BLACK STAR&CO/keywords
 SPINDLE,スピンドル
+
+=2020-11-12T12:24:22+09:00 Computer/トピック/社会動向/企業/BlackBerry/keywords
+ブラックベリー,BlackBerry
 
 =2019-03-29T18:38:39+09:00 Computer/トピック/社会動向/企業/BlackLine/keywords
 ブラックライン,BlackLine
@@ -2065,6 +2077,9 @@ Essential Phone
 
 =2020-08-20T12:26:42+09:00 Computer/トピック/社会動向/企業/Eta Compute/keywords
 TENSAI Flow
+
+=2020-11-12T12:23:09+09:00 Computer/トピック/社会動向/企業/Eukarya/keywords
+Re:Earth
 
 =2019-05-12T14:48:47+09:00 Computer/トピック/社会動向/企業/Everalbum/keywords
 Ever
@@ -4487,12 +4502,13 @@ EndoBRAIN
 AIメッセンジャー,AI Messenger
 AI アウトバウンド
 
-=2019-06-01T11:40:04+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/keywords
+=2020-11-12T12:23:10+09:00 Computer/トピック/社会動向/企業/サイバーエージェント/keywords
 サイバーエージェント,CyberAgent,Cyber Agent
 AIR TRACK
 CA DATABANK
 AJA
 マッチングエージェント
+極予測AI人間
 
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/サイバーセキュリティクラウド/keywords
 Cyneural
@@ -4812,6 +4828,9 @@ commubo
 =2017-08-22T07:46:44+09:00 Computer/トピック/社会動向/企業/ソフトブレーン/keywords
 eレセプションマネージャー for Guide
 eセールスマネージャーRemix Cloud
+
+=2020-11-12T12:24:01+09:00 Computer/トピック/社会動向/企業/ソミックマネージメントホールディングス/keywords
+SMHD,ソミックマネージメントホールディングス
 
 =2018-10-05T11:36:57+09:00 Computer/トピック/社会動向/企業/ソラコム/keywords
 SORACOM,ソラコム
@@ -5803,7 +5822,7 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2020-09-17T12:49:42+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2020-11-12T12:23:09+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東
 JR九州
 NewDays
@@ -5811,6 +5830,8 @@ JTB
 Osaka Metro,大阪メトロ
 相鉄
 みんなのタクシー
+富士急行
+新宿駅
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
