@@ -628,6 +628,9 @@ URL=https://twitter.com/MathSorcerer/status/1318479241386717184
 =2020-11-05T13:31:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ごまふあざらしさんはTwitterを使っています 「PrettyTables.jl かっちょいい httpst.coDYo5r4W8cU httpst.cosfrz5QKuYR」 Twitter
 URL=https://twitter.com/MathSorcerer/status/1324207588221743105
 
+=2020-11-09T13:55:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ごまふあざらしさんはTwitterを使っています 「なるほど httpst.coPJbjGn3elV」 Twitter
+URL=https://twitter.com/MathSorcerer/status/1325663154467008512
+
 =2020-10-28T23:57:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ごまふあざらしさんはTwitterを使っています 「自作 JLL を作るたびにビルダーとjll用のリポジトリとそれを使うためのパッケージのリポジトリが増える #Julia言語」 Twitter
 URL=https://twitter.com/MathSorcerer/status/1321466239663755264
 
@@ -1146,6 +1149,9 @@ URL=https://twitter.com/muuumin20/status/1314618959115689984
 
 =2020-09-28T20:25:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/むううみんさんはTwitterを使っています 「私はそれに加えて環境構築の容易さも挙げたい。Juliaの環境構築はインストーラを押すだけなのでとても簡単。
 URL=https://twitter.com/muuumin20/status/1310541241839308800
+
+=2020-11-10T01:16:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ゆうだいさんはTwitterを使っています 「関数名にアンダースコア _ を使わない縛りきつくね？」 Twitter
+URL=https://twitter.com/physics303/status/1325834730495909890
 
 =2020-08-02T07:05:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/アヲギリさんはTwitterを使っています 「Julia、DBからとってきた行の構造体にカラム名のメソッドが生えるの謎だったけど、Base.getpropertyがドットアクセスのエイリアス？だったのか（Tables.jlのコード見てようやくわかった
 URL=https://twitter.com/Aogiri_m2d/status/1289936803705716742

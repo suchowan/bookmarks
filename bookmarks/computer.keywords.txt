@@ -298,9 +298,6 @@ Sumerian
 Amazon EMR
 DeepLens
 
-=2020-10-15T12:30:36+09:00 Computer/トピック/ツール/クラウド/Blue Prism/keywords
-Blue Prism Cloud
-
 =2019-11-21T14:00:02+09:00 Computer/トピック/ツール/クラウド/GoogleCloudPlatform/Colaboratory/keywords
 Collab
 Colab
@@ -350,6 +347,9 @@ BingWebSearchAPI
 
 =2017-08-21T12:36:00+09:00 Computer/トピック/ツール/クラウド/その他/AIエージェントAPI/keywords
 横浜市のごみ分別AI
+
+=2020-10-15T12:30:36+09:00 Computer/トピック/ツール/クラウド/その他/Blue Prism/keywords
+Blue Prism Cloud
 
 =2017-10-20T08:13:12+09:00 Computer/トピック/ツール/クラウド/その他/Dialogflow/keywords
 API.AI
