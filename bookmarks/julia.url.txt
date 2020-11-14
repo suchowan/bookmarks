@@ -475,6 +475,9 @@ URL=https://twitter.com/_cormullion/status/1224640188518932483
 =2018-12-23T08:32:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/CUDAnative.jlで爆速並列計算 Qrunch（クランチ）
 URL=https://qrunch.net/@ToTTi95U/entries/CdiwaufzPkivty36
 
+=2020-11-13T18:22:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/dc1394さんはTwitterを使っています 「Gauss求積のために、Legendre多項式の根を高精度かつ高速に求める方法を探しています…。
+URL=https://twitter.com/dc1394/status/1327180079818891265
+
 =2019-12-21T07:53:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Docker, GitHub Actions を組み合わせた Julia パッケージ開発環境を作るよ． - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/88ff6a1e9351cec6aafe
 
@@ -660,6 +663,9 @@ URL=https://twitter.com/5ebec/status/1200358734125387777
 
 =2020-08-04T08:58:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/もじゃもじゃのほう (Koki Tsuyuzaki)さんはTwitterを使っています 「生命科学で利用されるデータベースやデータ解析手法をR,Julia,PythonのパッケージにするBioPackathonは昨今の状況を踏まえ、バーチャル開催で
 URL=https://twitter.com/antiplastics/status/1290660511869173766
+
+=2020-11-13T01:59:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ゆうだい.jlさんはTwitterを使っています 「SVDでrランク近似するの、普通にnumpy.linalg.svd使うとO(n^3)やん。
+URL=https://twitter.com/physics303/status/1326932745151340544
 
 =2018-10-30T11:12:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/ゴロピカリさんのツイート パッケージの雛形を作ってくれる PkgTemplates.jl が Julia 1.0 に対応！#julialang httpst.coRjwQpct6J0
 URL=https://twitter.com/goropikari_/status/1057054032508796929
@@ -2397,6 +2403,9 @@ URL=https://twitter.com/KB_satou/status/1064570051586486275
 
 =2018-10-24T17:01:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Keno Fischerさんのツイート Our new paper today httpst.coVCjosWR2zo. Compile your #julialang code straight to @Google's #CloudTPU. M
 URL=https://twitter.com/KenoFischer/status/1054893946978086912
+
+=2020-11-14T02:37:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/LambdaClassさんはTwitterを使っています 「New article!  @ChrisRackauckas answers our questions about SciML, an open source software or
+URL=https://twitter.com/ClassLambda/status/1327304689055129604
 
 =2019-07-01T20:00:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/MIT、「Julia」上で動作する初心者向け汎用AIプログラミングシステム「Gen」を発表 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35139247/
