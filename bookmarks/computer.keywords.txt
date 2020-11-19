@@ -1777,6 +1777,9 @@ C CHANNEL
 =2018-02-13T12:23:28+09:00 Computer/トピック/社会動向/企業/CAC/keywords
 心sensor
 
+=2020-11-19T11:50:07+09:00 Computer/トピック/社会動向/企業/Cambridge Consultants/keywords
+Cambridge Consultants
+
 =2017-08-15T07:18:17+09:00 Computer/トピック/社会動向/企業/CAMPFIRE/keywords
 FIREX
 CAMPFIRE レンディング
@@ -2202,6 +2205,9 @@ GAテクノロジーズ,GA technologies
 
 =2017-03-29T09:56:38+09:00 Computer/トピック/社会動向/企業/Gamalon/keywords
 Gamalon,ガマロン
+
+=2020-11-19T11:52:50+09:00 Computer/トピック/社会動向/企業/Garmin/keywords
+ガーミン,Garmin
 
 =2020-10-01T17:03:18+09:00 Computer/トピック/社会動向/企業/GATARI/keywords
 Auris
@@ -6395,7 +6401,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-11-05T12:57:56+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-11-19T11:50:05+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -6420,6 +6426,7 @@ UCLA
 ワシントン大
 コペンハーゲン大学
 南カリフォルニア大学
+カリフォルニア大
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
