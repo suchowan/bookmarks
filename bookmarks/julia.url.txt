@@ -1135,6 +1135,9 @@ URL=https://twitter.com/MathSorcerer/status/1313802262859321345
 =2019-08-03T06:40:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんはTwitterを使っています 「#Julia言語 において X が配列のときに 2X とかの部分を 2 . X としてくれるもんだと勝手に思ってたけれど，実はそうじゃないみたい．メモリも消費するし，
 URL=https://twitter.com/MathSorcerer/status/1157332272900558849
 
+=2020-11-20T13:19:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんはTwitterを使っています 「x-&gt;y-&gt;z みたいに連続で -&gt; 使うの通るんだ． Example 作るとなるほどなーって思ってしまった． httpst.coG4LtC8LL8a」 Twitter
+URL=https://twitter.com/MathSorcerer/status/1329640435329814528
+
 =2020-07-21T08:56:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんはTwitterを使っています 「あー便利ぃ- julia&gt; using Revise julia&gt; includet(yourcode.jl) # yourfunc が定義されている julia&gt; yourfu
 URL=https://twitter.com/MathSorcerer/status/1285560754033307658
 
@@ -1149,6 +1152,9 @@ URL=https://twitter.com/takuizum/status/1291630489267105799
 
 =2020-09-16T13:38:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/すむーずぷりんちゃんさんはTwitterを使っています 「Julia で array X が与えられているときに、例えば縦に3つつなげたもの作るなら [X; X; X] って書けるけど、縦に n 個つなげたものを作りたい場合ってどう書けばいいん
 URL=https://twitter.com/mat_der_D/status/1306090070688972800
+
+=2020-11-20T14:38:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/たけむらしんいち@小学校プログラミング教育支援プログラミング教室KOTONOHAさんはTwitterを使っています 「ですです デザインパタンの一つですね １システムで２０サービス（フロー）くらいの開発をしていたので多用していました サービス判定か
+URL=https://twitter.com/shin_corno/status/1329660405136850944
 
 =2019-08-17T09:40:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ちくわさんはTwitterを使っています 「今までは，Pythonみたいなユーザフレンドリな文法の言語でアルゴリズムのプロトタイプを作り，CとかFortranに書き直して高速化する
 URL=https://twitter.com/pavlov469/status/1162690394695487490
