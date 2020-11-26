@@ -1202,7 +1202,7 @@ BERT
 ELMo
 湯婆婆
 
-=2019-06-05T11:57:52+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
+=2020-11-26T11:37:45+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
 手書き
 古文書
 くずし字
@@ -1210,6 +1210,7 @@ ELMo
 自動文字起こし
 OCR
 Amazon Textract
+Kuzushiji
 
 =2017-03-23T10:47:49+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/特徴語/keywords
 専門用語
@@ -1658,6 +1659,9 @@ Stride
 =2020-01-02T12:52:59+09:00 Computer/トピック/社会動向/企業/Augmedics/keywords
 Xvision
 
+=2020-11-26T11:38:03+09:00 Computer/トピック/社会動向/企業/Autodesk/keywords
+オートデスク,Autodesk
+
 =2019-05-28T11:33:34+09:00 Computer/トピック/社会動向/企業/Automation Anywhere/keywords
 オートメーション・エニウェア,Automation Anywhere
 
@@ -1915,6 +1919,9 @@ Darktrace,ダークトレース
 
 =2019-12-12T12:05:29+09:00 Computer/トピック/社会動向/企業/DATAFLUCT/keywords
 DATAFLUCT agri.
+
+=2020-11-26T11:37:45+09:00 Computer/トピック/社会動向/企業/DataHax/keywords
+AutoCode
 
 =2017-03-29T08:41:19+09:00 Computer/トピック/社会動向/企業/DataRobot/keywords
 DataRobot,データロボット
@@ -6401,7 +6408,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-11-19T11:50:05+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-11-26T11:37:47+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -6427,6 +6434,7 @@ UCLA
 コペンハーゲン大学
 南カリフォルニア大学
 カリフォルニア大
+インペリアル・カレッジ・ロンドン
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
@@ -6496,7 +6504,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-10-29T14:27:45+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-11-26T11:37:45+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -6575,6 +6583,7 @@ TSUBAME
 鳥取県
 村上市
 沖縄県
+福井県
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
