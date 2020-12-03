@@ -1,4 +1,4 @@
-=2020-10-01T17:03:17+09:00 Computer/トピック/VR・AR・MR/keywords
+=2020-12-03T13:15:30+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -34,6 +34,7 @@ xR
 バーチャルカメラ
 VFX
 接続現実
+空間再現
 
 =2019-12-26T15:34:27+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Ｖチューバー,Vチューバー,Vtuber,VTuber
@@ -45,7 +46,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-11-05T12:57:57+09:00 Computer/トピック/セキュリティ/keywords
+=2020-12-03T13:15:30+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -184,6 +185,7 @@ Trickbot
 エクスプロイト
 防犯
 腐敗
+クッキー
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -852,8 +854,9 @@ Atari
 =2018-05-13T08:06:16+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/囲碁/keywords
 PhoenixGo
 
-=2019-05-04T11:23:08+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/将棋/keywords
+=2020-12-03T13:15:29+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/将棋/keywords
 AobaZero
+GCT
 
 =2020-08-13T12:38:48+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
 airCloset
@@ -2944,6 +2947,9 @@ PaPeRo
 =2018-01-04T09:09:52+09:00 Computer/トピック/社会動向/企業/NEOPOP/keywords
 Petrone
 
+=2020-12-03T13:15:29+09:00 Computer/トピック/社会動向/企業/Neura Robotics/keywords
+LARA
+
 =2020-10-29T14:27:45+09:00 Computer/トピック/社会動向/企業/NeuralX/keywords
 Presence.fit
 
@@ -3401,6 +3407,9 @@ AICO,アイコ
 シーメンス,Siemens
 MindSphere3
 
+=2020-12-03T13:15:30+09:00 Computer/トピック/社会動向/企業/silvereye/keywords
+RehaVR
+
 =2017-04-17T09:13:30+09:00 Computer/トピック/社会動向/企業/Sisense/keywords
 Sisense Pulse
 
@@ -3720,6 +3729,9 @@ WD,ウエスタンデジタル
 
 =2018-03-05T14:15:17+09:00 Computer/トピック/社会動向/企業/webintPro/keywords
 HIWIRE
+
+=2020-12-03T13:15:31+09:00 Computer/トピック/社会動向/企業/Whirly Max/keywords
+Yardroid
 
 =2017-08-23T07:27:59+09:00 Computer/トピック/社会動向/企業/White Motion/keywords
 White Motion,ホワイトモーション
@@ -5335,6 +5347,9 @@ cakes
 ファミマ,ファミリーマート
 ファミペイ
 
+=2020-12-03T13:16:48+09:00 Computer/トピック/社会動向/企業/ファンズ/keywords
+Funds,ファンズ
+
 =2018-01-13T12:01:55+09:00 Computer/トピック/社会動向/企業/ファンタラクティブ/keywords
 WW checker,ダブダブチェッカー
 
@@ -5634,6 +5649,9 @@ Autoブラウザ名人
 =2017-04-11T10:30:55+09:00 Computer/トピック/社会動向/企業/ユーザベース/keywords
 SPEEDA
 
+=2020-12-03T13:15:31+09:00 Computer/トピック/社会動向/企業/ユーハイム/keywords
+THEO
+
 =2017-04-11T10:35:01+09:00 Computer/トピック/社会動向/企業/ライスカレー製作所/keywords
 オードブル
 
@@ -5835,7 +5853,7 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2020-11-12T12:23:09+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2020-12-03T13:17:40+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東
 JR九州
 NewDays
@@ -5845,6 +5863,7 @@ Osaka Metro,大阪メトロ
 みんなのタクシー
 富士急行
 新宿駅
+東急,東急電鉄
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
@@ -6408,7 +6427,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-11-26T11:37:47+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-12-03T13:15:31+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -6435,6 +6454,8 @@ UCLA
 南カリフォルニア大学
 カリフォルニア大
 インペリアル・カレッジ・ロンドン
+ETHチューリッヒ
+ダブリン工科大学
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
