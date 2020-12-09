@@ -607,6 +607,9 @@ URL=https://qiita.com/STInverSpinel/items/94600300633a23512aa5
 =2020-11-10T20:06:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Shuhei KadowakiさんはTwitterを使っています 「Julia製のSSG Franklin.jlを使ってブログを作ったんだけど、拡張性が高くていい感じ。
 URL=https://twitter.com/kdwkshh/status/1326118907841662977
 
+=2020-12-07T22:03:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Shuhei KadowakiさんはTwitterを使っています 「ちなみにusing XXXはそんなに凶悪なことはしてないです。package側でexportされたものだけを使う側のglobal名前空間に引っ張ってくる。 &gt; Pythonで
+URL=https://twitter.com/kdwkshh/status/1335933032172199937
+
 =2020-10-09T08:29:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Uryu ShinyaさんはTwitterを使っています 「個人的には imprt ... as ... 構文は 好きではない。 コードを書いた時は楽だろうけど、 省略形が統一されていなったら混乱するし。 入力が面倒なのもわかるけど、
 URL=https://twitter.com/u_ribo/status/1314347143776202752
 
