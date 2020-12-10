@@ -1068,7 +1068,7 @@ Read Along
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
 
-=2020-09-10T14:07:27+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
+=2020-12-10T11:58:40+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
 自動彩色,カラー化,色塗り,着彩,着色,Colorization
 画像合成
 作画
@@ -1097,6 +1097,7 @@ ColouriseSG
 マスク処理
 モザイク
 イメージング
+今の顔
 
 =2020-06-11T14:11:08+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
@@ -1253,7 +1254,7 @@ CHIVOX
 性別
 字幕
 
-=2020-10-22T14:26:13+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2020-12-10T11:58:40+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1279,6 +1280,7 @@ CHIVOX
 農
 肥料
 鶏舎
+豊漁
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -3569,6 +3571,9 @@ TX,Telexistence
 =2017-04-10T14:29:59+09:00 Computer/トピック/社会動向/企業/Teradata/keyowords
 Teradata,テラデータ
 
+=2020-12-10T11:58:40+09:00 Computer/トピック/社会動向/企業/TERASS/keywords
+Agently
+
 =2020-03-05T14:46:44+09:00 Computer/トピック/社会動向/企業/Thales/keywords
 タレス,Thales
 
@@ -5716,6 +5721,9 @@ eigyo intelligence
 RICOH,リコー
 RICOH 360 for Ad
 
+=2020-12-10T11:58:36+09:00 Computer/トピック/社会動向/企業/リコー/ベクノス/keywords
+IQUI
+
 =2019-12-19T16:35:58+09:00 Computer/トピック/社会動向/企業/リノベる/keywords
 リノベる。
 sugata
@@ -6525,7 +6533,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-11-26T11:37:45+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-12-10T11:58:40+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -6605,6 +6613,7 @@ TSUBAME
 村上市
 沖縄県
 福井県
+警察庁
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC

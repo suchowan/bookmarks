@@ -163,6 +163,9 @@ URL=http://bicycle1885.hatenablog.com/entry/2016/12/01/210618
 =2020-11-22T05:48:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia言語で入門するプログラミング(その1) - SE教育パパむううみんのブログ
 URL=https://muuuminsan.hatenablog.com/entry/2020/11/22/022956
 
+=2020-12-06T06:55:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia言語で入門するプログラミング(その3) - SE教育パパむううみんのブログ
+URL=https://muuuminsan.hatenablog.com/entry/2020/12/06/020124
+
 =2020-07-26T20:09:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia言語のよく使う基礎的な関数一覧 - Qiita
 URL=https://qiita.com/I_ppp/items/4af1a8adb0906a6e97b1
 
@@ -847,6 +850,9 @@ URL=https://qiita.com/antimon2/items/d58262acbcd24a92abf6
 =2020-10-08T23:46:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Cure-RiceさんはTwitterを使っています 「ダイクストラがプログラミング原論で多重代入の問題点を指摘していたが･･･ x = 99 x, y, x = 1, x, 3 println(x, ' ', y) 実行結果 julia 1 99
 URL=https://twitter.com/Fortran2008/status/1314215529817600006
 
+=2020-12-06T19:51:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Daisuke KATOさんはTwitterを使っています 「Juliaの関数において、do-syntaxの観点からは第一引数は特別なんですね。
+URL=https://twitter.com/Dsuke_KATO/status/1335537269889847296
+
 =2020-09-15T06:57:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/DSCF_1224_openさんはTwitterを使っています 「Juliaでの自作複合型に対する演算子オーバーロード httpst.co2BGmcnP7rn」 Twitter
 URL=https://twitter.com/DSCF_1224_open/status/1305626863092473856
 
@@ -927,6 +933,9 @@ URL=https://qiita.com/hasimonasu/items/8eafca88e15055b347e1
 
 =2018-12-19T17:05:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaでAtCoderに臨む上で気を付けるべき点 - Qiita
 URL=https://qiita.com/pohe/items/5d9b91ba5d9a634abc40
+
+=2020-12-06T12:02:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaでJuliaのコードをインプットとする - Qiita
+URL=https://qiita.com/cometscome_phys/items/916adbfe6f853cf4417d
 
 =2019-04-07T07:15:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/JuliaでPythonみたいに作ったプログラムをモジュールにして他のファイルから利用する方法（改訂版） - Qiita
 URL=https://qiita.com/Masaya_1997/items/d49d2870dda8bfc1124c
@@ -1018,6 +1027,9 @@ URL=https://twitter.com/energyrevo21/status/1075343151668199424
 =2019-10-13T06:39:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/KeiさんはTwitterを使っています 「@whitefaced0wl Juliaの場合はそもそもオブジェクト指向言語ではなく、同じく手続き型であるGoのように構造体にメソッドを紐付ける事も出来ないのですが、
 URL=https://twitter.com/energyrevo21/status/1183379839689998336
 
+=2020-12-06T07:48:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Keno FischerさんはTwitterを使っています 「1 Something I've learned over the years of #julialang development is to not stop debugging I 
+URL=https://twitter.com/KenoFischer/status/1335355306847637510
+
 =2020-07-22T07:48:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Keno FischerさんはTwitterを使っています 「Spurred by the discussion of `nothing` in httpst.cohyQ7TNtP9V, I thought it might be fun to l
 URL=https://twitter.com/KenoFischer/status/1285813405002211328
 
@@ -1104,6 +1116,9 @@ URL=https://tpapp.github.io/post/common-lisp-to-julia/
 
 =2020-08-31T07:41:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Tom KwongさんはTwitterを使っています 「The #julialang defines a number of standard constants and operators as Unicode symbols. Want to 
 URL=https://twitter.com/tomkwong/status/1300189885475614721
+
+=2020-12-06T16:02:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Tomiya (機械学習∩物理)さんはTwitterを使っています 「toml か。Julia の管理に使われてるという程度しか知らんかったけど、良さげ。
+URL=https://twitter.com/TomiyaAkio/status/1335479638458576896
 
 =2019-03-15T13:55:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Vim で Unicode 記号の入力補完をする - 書いたものなど
 URL=https://machakann.hatenablog.com/entry/2019/03/15/202716
@@ -1987,6 +2002,9 @@ URL=https://qiita.com/msekino/items/6d81b8f99189057c8956
 =2020-12-01T07:21:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでエッジ検出や射影変換などの画像処理をやっていきます
 URL=https://zenn.dev/hyrodium/articles/5dc951f378b46bedb211
 
+=2020-12-09T12:40:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでシミュレーテッドアニーリング改善版！ blueqat
+URL=https://blueqat.com/yuichiro_minato2/0048d624-4499-4f7a-b869-b2a76cb90da9
+
 =2019-02-26T07:00:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaでスクレイピング 1m - 眠気.jl
 URL=https://www.mathwithjulia.com/entry/2019/02/26/202915
 
@@ -2034,6 +2052,9 @@ URL=https://qiita.com/Shoichiro-Tsutsui/items/1144622ad039b4b56951
 
 =2020-07-05T18:45:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで非正方格子のイジングモデルをシミュレーションしてみた - Qiita
 URL=https://qiita.com/oki_mebarun/items/25cf371601e8075458f9
+
+=2020-12-07T18:38:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaとPythonを併用したデータ処理のススメ - Techブログ - MNTSQ, Ltd.
+URL=https://tech.mntsq.co.jp/entry/2020/12/07/154854
 
 =2019-04-30T06:08:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia言語からmruby-webcamを使ってWebカメラの画像を取得した - non vorrei lavorare
 URL=https://abrakatabura.hatenablog.com/entry/2019/04/30/152311
@@ -2086,6 +2107,9 @@ URL=https://qiita.com/ryuNagai/items/11013165924e81d9858f
 =2020-10-14T00:46:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Matteo AngelinelliさんはTwitterを使っています 「Today I gave a talk to present the results of my first year of PhD. This is a short movie
 URL=https://twitter.com/MatteoAnge/status/1316042544241930244
 
+=2020-12-06T18:55:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Miles LucasさんはTwitterを使っています 「Excited to announce PSFModels.jl The goal is to offer fast PSF models like Airy disks and Ga
+URL=https://twitter.com/mileslucas_/status/1335523137908334600
+
 =2020-09-06T07:32:22+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/n個の要素からr個を選ぶ組み合わせを得るためのJuliaプログラム - Qiita
 URL=https://qiita.com//toshi-ara/items/43b0369bf68a0cdb2c61
 
@@ -2121,6 +2145,9 @@ URL=https://twitter.com/JuliaLanguage/status/1324033871999078400
 
 =2020-11-27T17:04:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Tomiya (˙ꓷ˙ɥԀ)さんはTwitterを使っています 「QCD simulation by Julia and plotting it by Julia. Everything done by Julia. #JuliaLang http
 URL=https://twitter.com/TomiyaAkio/status/1332233757420556291
+
+=2020-12-05T13:52:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Tomiya (機械学習∩物理)さんはTwitterを使っています 「#JuliaLang Now Julia can simulate quarks and gluons! Visit our github httpst.cohn8OZtbNaN
+URL=https://twitter.com/TomiyaAkio/status/1335084676390805510
 
 =2020-10-23T22:03:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Tomiya DLと物理学 発売中さんはTwitterを使っています 「httpst.co1iBAa7wNdw おそらく全世界で初めてJuliaで書かれたFull QCD のコード。
 URL=https://twitter.com/TomiyaAkio/status/1319625516509429761
@@ -2214,6 +2241,9 @@ URL=https://twitter.com/nekoningen1/status/1323224442688819200
 
 =2020-07-24T07:10:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/まえがき - Juliaで学ぶ計算論的神経科学
 URL=https://compneuro-julia.github.io/preface.html
+
+=2020-12-01T16:58:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/ゆうだい.jlさんはTwitterを使っています 「@MathSorcerer ありがとうございます．でも，解決したっぽいです．sklearnの結果と一致せず，自分のコードに問題があるとばかり思ってましたが，コスト関数を書いてみると，自分の実装の方
+URL=https://twitter.com/physics303/status/1333681767841075202
 
 =2020-07-10T09:00:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/よこえもんさんはTwitterを使っています 「なお講演タイトルは「高水準言語 Julia を用いた計算機数論システム開発について」です。
 URL=https://twitter.com/yokoemon2112/status/1281244988064464896
@@ -2538,6 +2568,9 @@ URL=https://qiita.com//yshutaro/items/e0a3a6c9ea84f8ab0fd3
 
 =2020-08-11T07:21:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/【Julia1.5】KaggleノートブックでJuliaを使用してタイタニック - Qiita
 URL=https://qiita.com/Kazuhito/items/ed33a38f22f6b0e1595d
+
+=2020-12-08T01:00:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/あびこ（牛）さんはTwitterを使っています 「適当にまるめてやると正定値になるけど julia&gt; Sig = inv(H) 2×2 Array{Float64,2} 0.0695584 0.0166137 0.0166137 0.0474
+URL=https://twitter.com/cowabiko/status/1335977514770939904
 
 =2018-10-14T22:08:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/いのうえさんのツイート juliaで機械学習、 純正はKnetとFluxってのがあって、ひとまずFluxでMNISTの学習とテストまで
 URL=https://twitter.com/earlylifely/status/1051350418922459136
