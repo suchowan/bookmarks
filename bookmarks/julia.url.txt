@@ -838,6 +838,9 @@ URL=https://twitter.com/mac_wac/status/1322907381152403457
 =2020-09-23T00:17:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/bra-ketくんさんはTwitterを使っています 「こういうことがしたかったけど、これで上手く行ってるのだろうか？ macro structimport(obj,expr) syms = fieldnames(typeof(eval(obj))
 URL=https://twitter.com/mac_wac/status/1308425241543274497
 
+=2020-12-10T13:58:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ceptree.pptさんはTwitterを使っています 「数学だと適当に同一視してるだけで、ベクトルとその随伴との行列積と同じような演算で実数を返すもの、なんていうのは普通考えてないんじゃないかな(試みとしては面白いが」 Twitter
+URL=https://twitter.com/ceptree/status/1336898070097719301
+
 =2018-08-11T08:24:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ceptree@DDEさんのツイート Juliaのシェルモード知らなかった。;を打った瞬間に切り替わって,
 URL=https://twitter.com/ceptree/status/1028199978496286720
 
@@ -3453,6 +3456,9 @@ URL=https://twitter.com/genkuroki/status/1290890626389536769
 
 =2020-08-13T18:50:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RTs #Julia言語 httpst.coYAwgfFv2ji Performace Tips というページがあって、優先順位順に説明が書いてある。
 URL=https://twitter.com/genkuroki/status/1293802983176601601
+
+=2020-12-11T23:08:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RTs 円周率にモンテカルロ計算について、gccでJuliaを速度的にやっつけようとしたときのことを思い出した。負けました。 gccのrand()がよくないことに気付いて
+URL=https://twitter.com/genkuroki/status/1337398901624619009
 
 =2020-09-16T22:30:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「Re RTs 徹底的に最適化されたライブラリは速い。 だが、そういうライブラリが例えばC++でしか使えないようだと使う人は減る。 高速なライブラリを習得し易い言語から使えるようにする
 URL=https://twitter.com/genkuroki/status/1306224058392915968
