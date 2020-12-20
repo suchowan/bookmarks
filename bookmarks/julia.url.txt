@@ -1072,6 +1072,12 @@ URL=https://twitter.com/ppp3141592ppp/status/1324681218382688256
 =2019-09-18T07:37:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/lさんはTwitterを使っています 「人のコードで気づいたけど、#julia言語 で f(x,y,z)=x+3y-z みたいな複数の引数の関数に a=[3,4,10] f(a...) って配列とかにまとめて、「...」で渡せるのか 関数の拡張とか
 URL=https://twitter.com/ppp3141592ppp/status/1174292273632165889
 
+=2020-12-19T10:34:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/M1-Macに乗り換えさんはTwitterを使っています 「forループ、スライス、Broadcastを関数で比較したときに疑問に思ったこと 今までは、配列はポインタで渡されて、関数内で配列自体に代入すると呼び出し元も変更されるものと思っていた
+URL=https://twitter.com/kabukauna/status/1340108125475639298
+
+=2020-12-19T19:25:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Miura HidekiさんはTwitterを使っています 「抽象実行による型解析で精度と速度の両立を行う画期的なアイデアが思い浮かんだけど140文字では狭すぎる　(嘘、次にその概要を書きます。
+URL=https://twitter.com/miura1729/status/1340241756667842561
+
 =2020-09-17T18:38:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/NABさんはTwitterを使っています 「httpst.coKeYbrHXqHG」 Twitter
 URL=https://twitter.com/vnb15_19hus/status/1306527962552889346
 
