@@ -46,7 +46,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-12-03T13:15:30+09:00 Computer/トピック/セキュリティ/keywords
+=2020-12-24T12:07:23+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -186,6 +186,7 @@ Trickbot
 防犯
 腐敗
 クッキー
+顔パス
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1647,11 +1648,11 @@ Mac
 FAMGA
 iPad
 
+=2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/企業/AquaFusion/keywords
+AquaMagic
+
 =2017-09-19T07:47:12+09:00 Computer/トピック/社会動向/企業/ARアドバンストテクノロジ/keywords
 LOOGUE
-
-=2017-11-22T16:58:40+09:00 Computer/トピック/社会動向/企業/Ascent Robotics/keywords
-ATLAS,アトラス
 
 =2020-11-12T12:23:11+09:00 Computer/トピック/社会動向/企業/AssistMotion/keywords
 curara
@@ -1883,8 +1884,9 @@ Comma One
 =2020-01-23T20:33:32+09:00 Computer/トピック/社会動向/企業/Companion Labs/keywords
 CompanionPro
 
-=2017-04-03T08:22:37+09:00 Computer/トピック/社会動向/企業/COMPASS/keywords
+=2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/企業/COMPASS/keywords
 Qubena,キュビナ
+SODAMO
 
 =2018-05-19T11:12:03+09:00 Computer/トピック/社会動向/企業/ConsenSys/keywords
 Kaleido
@@ -3235,6 +3237,9 @@ Progress Corticon
 =2017-04-05T07:48:52+09:00 Computer/トピック/社会動向/企業/PROPELa/keywords
 amblate
 
+=2020-12-24T12:07:21+09:00 Computer/トピック/社会動向/企業/Psychic VR Lab/keywords
+STYLY for Nreal
+
 =2017-08-08T10:57:16+09:00 Computer/トピック/社会動向/企業/PSソリューションズ/keywords
 e-kakashi
 
@@ -3976,14 +3981,19 @@ Jijilla
 LOHACO
 マナミさん
 
+=2020-12-24T12:07:21+09:00 Computer/トピック/社会動向/企業/アスツール/keywords
+Smooz
+
 =2017-11-22T16:48:25+09:00 Computer/トピック/社会動向/企業/アストラゼネカ/keywords
 タグリッソ
 
 =2017-07-24T10:42:40+09:00 Computer/トピック/社会動向/企業/アスラテック/keywords
 DOKA ROBO
 
-=2018-11-29T13:53:38+09:00 Computer/トピック/社会動向/企業/アセントロボティクス/keywords
+=2020-12-24T12:07:21+09:00 Computer/トピック/社会動向/企業/アセントロボティクス/keywords
 Ascent Robotics,アセントロボティクス
+ATLAS,アトラス
+Ascent Pick
 
 =2017-07-24T12:25:06+09:00 Computer/トピック/社会動向/企業/アタラ合同会社/keywords
 Unyoo.jp
@@ -4203,6 +4213,9 @@ ConyacDATA
 
 =2019-11-28T13:13:02+09:00 Computer/トピック/社会動向/企業/エビソル/keywords
 ebica予約台帳
+
+=2020-12-24T12:07:20+09:00 Computer/トピック/社会動向/企業/エフィシエント/keywords
+Steach
 
 =2017-10-04T09:14:11+09:00 Computer/トピック/社会動向/企業/エフセキュア/keywords
 F-Secure Computer Protection
@@ -4776,6 +4789,9 @@ CANDY
 =2019-12-26T15:35:55+09:00 Computer/トピック/社会動向/企業/セイコーエプソン/keywords
 WorkSense
 エプソン,セイコーエプソン
+
+=2020-12-24T12:07:22+09:00 Computer/トピック/社会動向/企業/セカイセールスコンサルティング/keywords
+フォトン
 
 =2018-11-29T13:48:59+09:00 Computer/トピック/社会動向/企業/セカンドサイト/keywords
 SkyFox
@@ -5639,8 +5655,9 @@ teacha
 =2018-10-22T11:00:57+09:00 Computer/トピック/社会動向/企業/メルティンMMI/keywords
 メルティン,メルティンMMI
 
-=2019-10-31T13:09:39+09:00 Computer/トピック/社会動向/企業/モビルス/keywords
+=2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/企業/モビルス/keywords
 モビエージェント
+mobiVoice
 
 =2017-10-10T13:36:28+09:00 Computer/トピック/社会動向/企業/モーションポートレート/keywords
 ようこそパニックマンションへVR
@@ -5897,7 +5914,7 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2020-12-03T13:17:40+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東
 JR九州
 NewDays
@@ -5908,6 +5925,7 @@ Osaka Metro,大阪メトロ
 富士急行
 新宿駅
 東急,東急電鉄
+横浜シティ・エア・ターミナル
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
@@ -6153,6 +6171,9 @@ Taskus
 東洋ビジネスエンジニアリング,B-EN-G
 Business b-ridge
 
+=2020-12-24T12:07:21+09:00 Computer/トピック/社会動向/企業/東洋製罐/keywords
+SABOT
+
 =2019-03-29T18:34:54+09:00 Computer/トピック/社会動向/企業/東芝/keywords
 RECAIUS,リカイアス
 Visconti
@@ -6296,10 +6317,11 @@ Asales Slide Finder
 =2019-07-02T16:03:00+09:00 Computer/トピック/社会動向/企業/自動車/ダイハツ/keywords
 ダイハツ工業,ダイハツ
 
-=2017-12-09T10:52:10+09:00 Computer/トピック/社会動向/企業/自動車/デンソー/keywords
+=2020-12-24T12:08:28+09:00 Computer/トピック/社会動向/企業/自動車/デンソー/keywords
 DELITA
 マルチモーダルAIロボット
 COBOTTA
+DENSO,デンソー
 
 =2018-05-03T18:47:59+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
 トヨタ,Toyota
@@ -6477,7 +6499,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-12-03T13:15:31+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2020-12-24T12:07:22+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -6506,6 +6528,7 @@ UCLA
 インペリアル・カレッジ・ロンドン
 ETHチューリッヒ
 ダブリン工科大学
+モンテレイ工科大
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
@@ -6575,7 +6598,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-12-17T12:37:28+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -6658,6 +6681,7 @@ TSUBAME
 警察庁
 京都市
 石川県
+岡山県
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
