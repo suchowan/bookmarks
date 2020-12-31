@@ -929,7 +929,7 @@ RoboCup
 =2019-05-24T12:10:09+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボホン/keywords
 RoBoHoN,ロボホン
 
-=2020-08-27T12:49:34+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2020-12-31T18:05:57+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -950,6 +950,7 @@ Hire
 オーディション
 Dating
 名刺将棋
+婚活
 
 =2020-12-17T12:37:27+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -1911,6 +1912,9 @@ LocusLabs
 =2017-03-28T14:55:22+09:00 Computer/トピック/社会動向/企業/Curious Edge/keywords
 Commu
 
+=2020-12-31T18:09:53+09:00 Computer/トピック/社会動向/企業/Cybereason/keywords
+サイバーリーズン,Cybereason
+
 =2020-10-22T14:28:20+09:00 Computer/トピック/社会動向/企業/CyberLink/keywords
 サイバーリンク,CyberLink
 
@@ -2026,6 +2030,9 @@ Twist
 
 =2019-04-14T14:02:10+09:00 Computer/トピック/社会動向/企業/dotstudio/keywords
 ProtoOut
+
+=2020-12-31T18:05:57+09:00 Computer/トピック/社会動向/企業/Dreamtonics/keywords
+Synthesizer V AI
 
 =2020-02-27T13:35:51+09:00 Computer/トピック/社会動向/企業/DSLAB GLOBAL/keywords
 Click AI
@@ -2963,6 +2970,9 @@ PaPeRo
 =2018-01-04T09:09:52+09:00 Computer/トピック/社会動向/企業/NEOPOP/keywords
 Petrone
 
+=2020-12-31T18:10:40+09:00 Computer/トピック/社会動向/企業/Netflix/keywords
+ネッフリ,Netflix
+
 =2020-12-17T12:37:27+09:00 Computer/トピック/社会動向/企業/neumo/keywords
 PitchOn Measure
 
@@ -3797,6 +3807,9 @@ xenoBrain
 =2017-03-30T10:53:26+09:00 Computer/トピック/社会動向/企業/Xilinx/keywords
 Xilinx,ザイリンクス
 
+=2020-12-31T18:05:58+09:00 Computer/トピック/社会動向/企業/XYEED/keywords
+キューボ
+
 =2017-07-24T10:01:31+09:00 Computer/トピック/社会動向/企業/Yandex/keywords
 CatBoost
 MatrixNet
@@ -3917,6 +3930,9 @@ AIsmily,アイスマイリー
 
 =2017-06-08T07:26:05+09:00 Computer/トピック/社会動向/企業/アイティメディア/keywords
 TechFactory
+
+=2020-12-31T18:05:57+09:00 Computer/トピック/社会動向/企業/アイディオット/keywords
+DP2brain
 
 =2017-09-14T11:00:01+09:00 Computer/トピック/社会動向/企業/アイデミー/keywords
 アイデミー,Aidemy
@@ -4723,6 +4739,9 @@ MAJIN
 =2019-06-13T13:04:34+09:00 Computer/トピック/社会動向/企業/ジーンアイドル/keywords
 Gene A.I.dols,ジーンアイドル
 
+=2020-12-31T18:12:08+09:00 Computer/トピック/社会動向/企業/スカイエステート/keywords
+SKY ESTATE,スカイエステート
+
 =2019-03-29T18:34:54+09:00 Computer/トピック/社会動向/企業/スカイディスク/keywords
 SkyAI
 
@@ -4822,6 +4841,9 @@ CLIP STUDIO PAINT
 
 =2018-03-12T11:00:23+09:00 Computer/トピック/社会動向/企業/セレス/keywords
 モッピー
+
+=2020-12-31T18:05:58+09:00 Computer/トピック/社会動向/企業/セントマティック/keywords
+KAORIUM
 
 =2020-11-05T13:33:06+09:00 Computer/トピック/社会動向/企業/セーフィー/keywords
 Safie,セーフィー
@@ -5526,6 +5548,9 @@ Integrated Classification Engine
 LINE カスタマーコネクト
 BellCloud AI for SNS
 
+=2020-12-31T18:05:57+09:00 Computer/トピック/社会動向/企業/ベルズシステム/keywords
+ロアンナ
+
 =2018-04-17T09:43:44+09:00 Computer/トピック/社会動向/企業/ベーシック/keywords
 ferret One
 
@@ -5914,7 +5939,7 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2020-12-31T18:05:58+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東
 JR九州
 NewDays
@@ -5926,6 +5951,7 @@ Osaka Metro,大阪メトロ
 新宿駅
 東急,東急電鉄
 横浜シティ・エア・ターミナル
+南海電鉄
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
@@ -6343,6 +6369,9 @@ Easy Ride
 起亜,KIA
 Kian
 
+=2020-12-31T18:11:34+09:00 Computer/トピック/社会動向/企業/都市再生機構/keywords
+UR,都市再生機構
+
 =2019-06-28T13:34:30+09:00 Computer/トピック/社会動向/企業/都築電気/keywords
 KitFit Silverland気
 
@@ -6598,7 +6627,7 @@ TSUBAME
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
 
-=2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2020-12-31T18:05:58+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -6682,6 +6711,8 @@ TSUBAME
 京都市
 石川県
 岡山県
+新潟県
+富良野市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
