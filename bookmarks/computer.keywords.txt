@@ -46,7 +46,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2020-12-24T12:07:23+09:00 Computer/トピック/セキュリティ/keywords
+=2021-01-07T11:41:18+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -187,6 +187,7 @@ Trickbot
 腐敗
 クッキー
 顔パス
+住民情報
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -775,7 +776,7 @@ Quicksilver
 レコメンデーション
 レコメンド
 
-=2020-11-12T12:23:09+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2021-01-07T11:41:18+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -804,6 +805,7 @@ HEMS
 ルート決定
 Ops
 品質管理
+見守る
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -952,7 +954,7 @@ Dating
 名刺将棋
 婚活
 
-=2020-12-17T12:37:27+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2021-01-07T11:41:19+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1040,6 +1042,8 @@ MRI
 アルツハイマー
 関節症
 ジャーナリング
+見守る
+車椅子
 
 =2020-12-17T12:37:26+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1350,7 +1354,7 @@ Magenta
 楽譜
 音感
 
-=2020-07-23T14:13:21+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2021-01-07T11:41:19+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1402,6 +1406,7 @@ ReStGAN
 解釈性
 StyleGAN
 ノーフリーランチ定理
+ニューロモーフィックコンピューティング
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1414,7 +1419,7 @@ TensorFlow
 Keras
 Chainer
 
-=2020-01-16T14:59:56+09:00 Computer/トピック/社会動向/keywords
+=2021-01-07T11:41:19+09:00 Computer/トピック/社会動向/keywords
 五反田バレー
 EXPO
 HITL
@@ -1427,6 +1432,7 @@ AI Quest
 インテリジェントオートメーション
 サブレットエコノミー
 JEITA
+2027年
 
 =2019-12-12T12:05:28+09:00 Computer/トピック/社会動向/シンギュラリティ/keywords
 雇用大崩壊
@@ -1561,8 +1567,9 @@ DeepAnime
 =2019-06-01T11:41:41+09:00 Computer/トピック/社会動向/企業/ALI Technologies/keywords
 A.L.I.,ALI Technologies
 
-=2017-03-30T11:24:24+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
+=2021-01-07T11:41:19+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
 アリババ,Alibaba
+ジャック・マー
 
 =2020-09-03T13:33:11+09:00 Computer/トピック/社会動向/企業/All Turtles/keywords
 mmhmm
@@ -2640,6 +2647,9 @@ RapidMiner
 
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/L is B/keywords
 daab
+
+=2021-01-07T11:41:19+09:00 Computer/トピック/社会動向/企業/Lacicu/keywords
+Liew
 
 =2020-08-27T12:49:32+09:00 Computer/トピック/社会動向/企業/Langogo Technology/keywords
 Summit
@@ -6558,6 +6568,9 @@ UCLA
 ETHチューリッヒ
 ダブリン工科大学
 モンテレイ工科大
+
+=2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
+大分大,大分大学
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
