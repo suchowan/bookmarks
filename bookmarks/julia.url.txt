@@ -475,6 +475,9 @@ URL=https://qiita.com//SatoshiTerasaki/items/3bf91c5d400b0deb3f8d
 =2019-07-09T06:12:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/山本 卓さんのツイート #Julia言語 1.2。このコミット（↓）が取り込まれ、ついにWindowsでもパッケージダウンロードにcurlが使われるようになる…つまりhttps_proxy環境変数でプロキシ越え（認証も）
 URL=https://twitter.com/sgryjp/status/1148602745701773313
 
+=2021-01-08T18:27:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/藤村　龍2.5さんはTwitterを使っています 「モジュールRyuは、浮動小数点を10進数の文字列に高速に変換するものらしい。 もともとDragonと呼ばれていたものを、進化させて漢語圏の龍と名付けたらしい。 すなわち、モジュール龍。 晩御飯でも
+URL=https://twitter.com/sphiarno_88/status/1347475017689309192
+
 =2020-07-27T08:05:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 2018年8月にJuliaがついにv1.0.0になった後は仕様は安定していて安心して使えます。
 URL=https://twitter.com/genkuroki/status/1287426836264177664
 
