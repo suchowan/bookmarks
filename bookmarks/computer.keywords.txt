@@ -46,7 +46,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-01-21T13:24:10+09:00 Computer/トピック/セキュリティ/keywords
+=2021-01-28T12:13:10+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -189,6 +189,8 @@ Trickbot
 顔パス
 住民情報
 安全
+入退館
+PPAP
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -958,7 +960,7 @@ Dating
 名刺将棋
 婚活
 
-=2021-01-21T13:24:10+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2021-01-28T12:13:09+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1049,6 +1051,7 @@ MRI
 見守る
 車椅子
 デジタルヘルス
+体外受精
 
 =2020-12-17T12:37:26+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -2298,6 +2301,9 @@ getAbstract
 =2017-09-11T08:40:32+09:00 Computer/トピック/社会動向/企業/GIコンサルティングパートナーズ/keywords
 UPXEED
 
+=2021-01-28T12:13:10+09:00 Computer/トピック/社会動向/企業/Gloture/keywords
+BCON
+
 =2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/GMO/GMOペパボ/keywords
 ペパボ研究所
 
@@ -3184,6 +3190,9 @@ Pega Robotic Automation
 =2019-02-06T18:16:29+09:00 Computer/トピック/社会動向/企業/Pepsi/keywords
 ペプシ,Pepsi,PepsiCo
 
+=2021-01-28T12:13:09+09:00 Computer/トピック/社会動向/企業/PerceptIn/keywords
+Mopi
+
 =2018-01-22T11:52:37+09:00 Computer/トピック/社会動向/企業/Percepto/keywords
 Sparrow
 
@@ -3733,6 +3742,9 @@ innto
 
 =2019-01-30T13:13:29+09:00 Computer/トピック/社会動向/企業/Valeo/keywords
 ヴァレオ,Valeo
+
+=2021-01-28T12:13:09+09:00 Computer/トピック/社会動向/企業/VALUECARE/keywords
+見守り猫さん
 
 =2018-06-15T17:13:16+09:00 Computer/トピック/社会動向/企業/Valve/keywords
 Steam
@@ -4790,6 +4802,9 @@ FACY,フェイシー
 =2017-07-31T10:37:11+09:00 Computer/トピック/社会動向/企業/スタディスト/keywords
 Teachme Biz
 
+=2021-01-28T12:13:09+09:00 Computer/トピック/社会動向/企業/スターティアレイズ/keywords
+セキュアSAMBA
+
 =2018-04-06T13:38:20+09:00 Computer/トピック/社会動向/企業/スタートトゥデイ/keywords
 ゾゾタウン
 
@@ -5463,6 +5478,9 @@ WW checker,ダブダブチェッカー
 =2017-04-11T09:42:40+09:00 Computer/トピック/社会動向/企業/フィスコ/keywords
 フィスコ,FISCO
 
+=2021-01-28T12:13:09+09:00 Computer/トピック/社会動向/企業/フィックスターズ/keywords
+GENESIS
+
 =2017-04-11T09:44:06+09:00 Computer/トピック/社会動向/企業/フィリップス/keywords
 フィリップス,Philips
 
@@ -5475,8 +5493,9 @@ mimi
 =2020-07-16T13:17:40+09:00 Computer/トピック/社会動向/企業/フェンリル/keywords
 reco!
 
-=2017-10-16T11:15:12+09:00 Computer/トピック/社会動向/企業/フォトシンス/keywords
+=2021-01-28T12:14:23+09:00 Computer/トピック/社会動向/企業/フォトシンス/keywords
 Akerun Pro
+Photosynth,フォトシンス
 
 =2018-02-23T15:32:14+09:00 Computer/トピック/社会動向/企業/フォレスト/keywords
 ATLS,アトラス
@@ -5641,9 +5660,10 @@ MFクラウド確定申告
 =2017-04-11T10:09:57+09:00 Computer/トピック/社会動向/企業/マージェリック/keywords
 バンブーシュート,bambooshoot
 
-=2020-11-05T12:57:57+09:00 Computer/トピック/社会動向/企業/ミクシィ/keywords
+=2021-01-28T12:13:09+09:00 Computer/トピック/社会動向/企業/ミクシィ/keywords
 ミクシィ,mixi
 Romi
+TIPSTAR
 
 =2017-12-13T10:02:42+09:00 Computer/トピック/社会動向/企業/ミクシィ/フンザ/keywords
 チケットキャンプ
@@ -5998,8 +6018,8 @@ Osaka Metro,大阪メトロ
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
 
-=2017-04-11T14:03:34+09:00 Computer/トピック/社会動向/企業/任天堂/keywords
-任天堂,Nintendo
+=2021-01-28T12:15:19+09:00 Computer/トピック/社会動向/企業/任天堂/keywords
+ニンテンドー,Nintendo,任天堂
 
 =2020-09-24T13:31:31+09:00 Computer/トピック/社会動向/企業/住友電工/keywords
 QuickSolution
@@ -6573,7 +6593,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2020-12-24T12:07:22+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2021-01-28T12:16:51+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -6603,6 +6623,7 @@ UCLA
 ETHチューリッヒ
 ダブリン工科大学
 モンテレイ工科大
+コロンビア大,コロンビア大学
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
@@ -6671,6 +6692,9 @@ TSUBAME
 
 =2019-01-19T16:48:56+09:00 Computer/トピック/社会動向/大学/金沢工業大学/keywords
 金沢工大,金沢工業大学
+
+=2021-01-28T12:17:19+09:00 Computer/トピック/社会動向/大学/関東学院大学/keywords
+関東学院大,関東学院大学
 
 =2017-03-28T14:03:09+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大学,電通大
