@@ -46,7 +46,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-01-28T12:13:10+09:00 Computer/トピック/セキュリティ/keywords
+=2021-02-04T12:49:44+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -191,6 +191,7 @@ Trickbot
 安全
 入退館
 PPAP
+真正性
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -931,7 +932,7 @@ RoboCup
 パワードスーツ
 パワースーツ
 
-=2017-08-28T10:34:01+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
+=2021-02-04T12:54:07+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Roomba/keywords
 ルンバ,Roomba
 
 =2019-05-24T12:10:09+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボホン/keywords
@@ -1304,6 +1305,9 @@ CHIVOX
 FPoS
 InsurTech
 
+=2021-02-04T12:49:44+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/会計/keywords
+レシート
+
 =2020-05-13T15:59:17+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/投資/keywords
 資産運用
 アルゴリズム取引
@@ -1346,10 +1350,11 @@ Payment
 ICOCA
 入金
 
-=2019-10-03T12:14:24+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
+=2021-02-04T12:49:44+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
 信用
 スコアリング
+カードローン
 
 =2020-12-17T12:37:27+09:00 Computer/トピック/機械学習/機械学習応用/音楽/keywords
 作曲
@@ -1735,6 +1740,9 @@ beepシフト
 =2020-02-20T14:42:16+09:00 Computer/トピック/社会動向/企業/Bell Textron/keywords
 Bell,Bell Textron
 
+=2021-02-04T12:48:34+09:00 Computer/トピック/社会動向/企業/between the arts/keywords
+美術倉庫
+
 =2020-09-10T14:08:43+09:00 Computer/トピック/社会動向/企業/Biogen/keywords
 バイオジェン,Biogen
 
@@ -1769,10 +1777,11 @@ Booking.com,ブッキング・ドットコム
 =2019-06-05T11:57:53+09:00 Computer/トピック/社会動向/企業/Books&Company/keywords
 easy writer
 
-=2020-06-04T14:00:33+09:00 Computer/トピック/社会動向/企業/Boston Dynamics/keywords
+=2021-02-04T12:48:35+09:00 Computer/トピック/社会動向/企業/Boston Dynamics/keywords
 Boston Dynamics,ボストンダイナミクス,ボストン・ダイナミクス
 Atlas
 SpotMini
+Spot
 
 =2017-10-20T07:43:58+09:00 Computer/トピック/社会動向/企業/BoT/keywords
 CASPAR
@@ -2282,8 +2291,9 @@ C by GE
 =2017-07-04T10:31:24+09:00 Computer/トピック/社会動向/企業/Gemalto/keywords
 Gemalto,ジェムアルト
 
-=2019-10-18T11:14:45+09:00 Computer/トピック/社会動向/企業/GenHigh/keywords
+=2021-02-04T12:49:44+09:00 Computer/トピック/社会動向/企業/GenHigh/keywords
 Yiida
+Neabot NoMo
 
 =2017-07-05T07:23:30+09:00 Computer/トピック/社会動向/企業/Genpact/keywords
 Genpact,ジェンパクト
@@ -2563,8 +2573,9 @@ flick
 みんなの顔文字キーボード
 みんなの顔文字辞典
 
-=2017-03-29T11:28:04+09:00 Computer/トピック/社会動向/企業/iRobot/keywords
+=2021-02-04T12:48:35+09:00 Computer/トピック/社会動向/企業/iRobot/keywords
 ルンバ
+Root
 
 =2017-03-30T13:47:35+09:00 Computer/トピック/社会動向/企業/ISID/keywords
 ISID,電通国際情報サービス
@@ -3065,13 +3076,14 @@ SpeechRec
 BizFront/RIC
 BioPassport
 
-=2018-07-01T08:23:43+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/keywords
+=2021-02-04T12:48:34+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/keywords
 テクノマーク クラウド＋
 NATESAS
 AICYCLE
 Hinemos
 AI.Studio
 intra-mart
+SocietyOS
 
 =2019-04-06T11:58:33+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ,Docomo,DOCOMO,docomo
@@ -3220,6 +3232,9 @@ DynaEye
 
 =2017-07-04T11:14:38+09:00 Computer/トピック/社会動向/企業/Phybbit/keywords
 SpiderAF
+
+=2021-02-04T12:51:42+09:00 Computer/トピック/社会動向/企業/pickupon/keywords
+ピクポン,pickupon
 
 =2020-09-24T13:30:11+09:00 Computer/トピック/社会動向/企業/Piezo Sonic/keywords
 Mighty
@@ -3749,6 +3764,9 @@ innto
 =2018-06-15T17:13:16+09:00 Computer/トピック/社会動向/企業/Valve/keywords
 Steam
 
+=2021-02-04T12:48:34+09:00 Computer/トピック/社会動向/企業/Vanguard Industries/keywords
+もふりん
+
 =2019-06-17T13:58:06+09:00 Computer/トピック/社会動向/企業/Varjo/keywords
 ヴァルヨ,Varjo
 
@@ -3887,9 +3905,10 @@ Zigbee,Zigbee Alliance
 =2019-11-14T15:03:46+09:00 Computer/トピック/社会動向/企業/ZIRITZ/keywords
 StockFormer
 
-=2018-07-07T10:02:03+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
+=2021-02-04T12:48:35+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
 CarriRo Delivery
 CarriRo
+デリロ
 
 =2020-04-16T13:29:07+09:00 Computer/トピック/社会動向/企業/Zoom/keywords
 ズーム,Zoom
@@ -4110,6 +4129,9 @@ Letro
 
 =2018-01-13T11:49:05+09:00 Computer/トピック/社会動向/企業/アラン・プロダクツ/keywords
 ヘアラボカルテ
+
+=2021-02-04T12:53:05+09:00 Computer/トピック/社会動向/企業/アルファクス・フード・システム/keywords
+AFS,アルファクス・フード・システム
 
 =2017-05-15T10:41:36+09:00 Computer/トピック/社会動向/企業/アルファコム/keywords
 Smart M Talk
@@ -5998,8 +6020,8 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2021-01-21T13:24:11+09:00 Computer/トピック/社会動向/企業/交通/keywords
-JR東
+=2021-02-04T12:53:36+09:00 Computer/トピック/社会動向/企業/交通/keywords
+JR東,東日本旅客鉄道
 JR九州
 NewDays
 JTB
@@ -6014,6 +6036,7 @@ Osaka Metro,大阪メトロ
 関東自動車
 阪神電鉄
 小田急
+神奈中
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP

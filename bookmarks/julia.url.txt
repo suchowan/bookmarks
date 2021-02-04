@@ -526,6 +526,9 @@ URL=https://twitter.com/_cormullion/status/1224640188518932483
 =2018-12-23T08:32:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/CUDAnative.jlで爆速並列計算 Qrunch（クランチ）
 URL=https://qrunch.net/@ToTTi95U/entries/CdiwaufzPkivty36
 
+=2021-02-02T23:47:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Daisuke KATOさんはTwitterを使っています 「とりあえず画像処理アルゴリズムの実装を見たいときに参考にするリポジトリたち。
+URL=https://twitter.com/Dsuke_KATO/status/1356615271444869122
+
 =2020-11-13T18:22:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/dc1394さんはTwitterを使っています 「Gauss求積のために、Legendre多項式の根を高精度かつ高速に求める方法を探しています…。
 URL=https://twitter.com/dc1394/status/1327180079818891265
 
@@ -1861,6 +1864,9 @@ URL=https://twitter.com/genkuroki/status/1320244005267927040
 =2020-10-26T09:54:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 ディスパッチについて単純化した説明 集合Ωの部分集合A,B,C,D上で同名の函数fが定義されていたとしましょう。
 URL=https://twitter.com/genkuroki/status/1320529320566124544
 
+=2021-02-03T23:54:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 パイプをもっと便利に使うためのツールは色々ありますが、 httpst.coT9laLiuElE が便利だと思う。
+URL=https://twitter.com/genkuroki/status/1356979494624522245
+
 =2020-09-05T19:37:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 パッケージ Foo と Bar で名前がかち合う場合には using Foo Foo using Bar Bar として、両パッケージのexportを無効にして使う
 URL=https://twitter.com/genkuroki/status/1302167377296019456
 
@@ -2391,6 +2397,9 @@ URL=https://twitter.com/oxinabox_frames/status/1317532973059768320
 
 =2020-09-16T13:00:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/l_pppさんはTwitterを使っています 「#Julia言語 遊び Diniの曲面 3D曲面plotは、格子網を捩じったヤツの交点xyz座標を それぞれ2次元配列で格納させるかんじ GRバックエンドは対応してないっぽいな httpst.co
 URL=https://twitter.com/ppp3141592ppp/status/1306080523438096386
+
+=2021-02-03T11:53:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/M. KanamaruさんはTwitterを使っています 「前回の動画と見た目は変わらないですが、精度の高い軌道積分法（４次のエルミート法）を実装しました。
+URL=https://twitter.com/asteroid_maru/status/1356798002787016706
 
 =2021-01-22T12:04:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/M. KanamaruさんはTwitterを使っています 「３体問題できた（かわいい） #Julia言語 #julialang httpst.coDdnmqoCLZN」 Twitter
 URL=https://twitter.com/asteroid_maru/status/1352451948360863746
