@@ -1267,6 +1267,9 @@ URL=https://twitter.com/hyotang666/status/1315110965831110657
 =2017-10-15T07:14:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Switching from Common Lisp to Julia
 URL=https://tpapp.github.io/post/common-lisp-to-julia/
 
+=2021-02-05T10:54:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Tanaka AkiraさんはTwitterを使っています 「新たにローカル変数が作られるって、本当かなぁ 引数を参照するクロージャを作って呼び出すと、代入が反映されることを確認できる。
+URL=https://twitter.com/tanaka_akr/status/1357507962009358337
+
 =2020-08-31T07:41:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Tom KwongさんはTwitterを使っています 「The #julialang defines a number of standard constants and operators as Unicode symbols. Want to 
 URL=https://twitter.com/tomkwong/status/1300189885475614721
 
@@ -1404,6 +1407,9 @@ URL=https://twitter.com/tenfu2tea/status/1242472394154967041
 
 =2021-01-09T23:44:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/み　ぽさんはTwitterを使っています 「「Juliaで有限環の単元群を具体的に求めてみた」という記事を書きました！ F_p[T](T^2+1)の単元群に関することを、Julia言語で色々求めてみました！龍孫江さんの動画を見て「書いてみるぞ-！」
 URL=https://twitter.com/nekomath271828/status/1347917091597217792
+
+=2021-02-05T11:13:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/みょうがさんはTwitterを使っています 「@genkuroki @kikumaco @hhhzzzttt 新しいローカル変数が作られてるのではなくて、コード最適化のための番号付けだと思いますよ。
+URL=https://twitter.com/mrkn/status/1357512707197390849
 
 =2020-10-08T21:46:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/むううみんさんはTwitterを使っています 「@antimon2 素晴らしいマクロです。私はJuliaのマクロの構文の力を過小評価していたようです。
 URL=https://twitter.com/muuumin20/status/1314185504049381376
