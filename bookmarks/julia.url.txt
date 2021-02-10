@@ -931,6 +931,9 @@ URL=https://twitter.com/bicycle1885/status/1288462698422792194
 =2020-12-23T12:21:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/(｢・ω・)｢ｶﾞｵｰさんはTwitterを使っています 「Juliaみたいな動的言語ではnothingを返すのは普通の慣習かと思います。
 URL=https://twitter.com/bicycle1885/status/1341584774398320642
 
+=2021-02-07T07:42:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/@timeと@code_warntypeの使い方 - Jupyter Notebook Viewer
+URL=https://nbviewer.jupyter.org/gist/genkuroki/e233435a2674e25625919290543e43a5
+
 =2020-03-24T07:50:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/abapさんはTwitterを使っています 「Juliaで関数の定義を取り出す方法が知りたいです。 例えば、 `` f(x) = x^2 + 3x + 4 ``` という関数があるとして, fを参照してx^2 + 3x + 4を得たいです。(文字列
 URL=https://twitter.com/abap34/status/1242449747928944640
 
