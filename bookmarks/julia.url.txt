@@ -1807,6 +1807,9 @@ URL=https://twitter.com/genkuroki/status/1306262175728594949
 =2020-08-16T20:37:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 「structとクラスの類似性」という発想をしがちなのですが、Juliaで名前空間の分離はmoduleで行うので、moduleの方にも注目する必要がある。
 URL=https://twitter.com/genkuroki/status/1294880603918053377
 
+=2021-02-11T18:25:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 「これはやめてくれ」と言いたくなる内包表記は ran = range(0, π; length=10^6) dx = step(ran) a = [sin(x) f
+URL=https://twitter.com/genkuroki/status/1359795705758425088
+
 =2020-10-31T12:45:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 「動的型付け」のように見ずに、「多重ディスパッチ」(函数はデフォルトでテンプレート化)と「型情報の伝搬」の組み合わせだと見ればモヤっとせずに済むと思う。
 URL=https://twitter.com/genkuroki/status/1322384047172038657
 
@@ -2200,6 +2203,9 @@ URL=https://twitter.com/genkuroki/status/1105552529222336512
 =2020-10-16T19:27:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「インデックスの始まりを0とか1に固定されると不便なので、0-basedも1-basedもどちらもダメだと思う。 抽象化が足りていない。
 URL=https://twitter.com/genkuroki/status/1317049601187139584
 
+=2021-02-11T18:41:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「最近のプログラミング言語では名前に日本語を含むユニコード文字全般が使えることが普通。
+URL=https://twitter.com/genkuroki/status/1359799765710508032
+
 =2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
 URL=https://twitter.com/bicycle1885/status/1085492920113717248
 
@@ -2436,6 +2442,9 @@ URL=https://blueqat.com/yuichiro_minato/a6be5a6e-2566-442a-8b7c-b467f3c760df
 
 =2020-07-05T18:45:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaで非正方格子のイジングモデルをシミュレーションしてみた - Qiita
 URL=https://qiita.com/oki_mebarun/items/25cf371601e8075458f9
+
+=2021-02-11T07:46:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaとmodelicaで倒立振子のアニメーション - システムとモデリング
+URL=https://otepipi.hatenablog.com/entry/2021/02/11/204028
 
 =2021-02-09T17:28:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Juliaとmodelicaで魚の体重をPI制御する - システムとモデリング
 URL=https://otepipi.hatenablog.com/entry/2021/02/09/073314
@@ -3888,6 +3897,9 @@ URL=https://twitter.com/genkuroki/status/1179741779064582145
 
 =2020-07-20T09:12:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Dockerを使うこととPlots.jlなどの初回実行が遅い問題の解決は無関係です。
 URL=https://twitter.com/genkuroki/status/1285166018520743941
+
+=2021-02-11T20:22:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 f(N) = sum(rand(Bool) for _ in 1N) よりも using Random g(N, rng = Random.default_rng(
+URL=https://twitter.com/genkuroki/status/1359825195033268225
 
 =2020-10-17T22:15:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 for-loop内で大域変数のΓ1,Γ2を使っているせいでfor-loop側が数十倍遅くなっているのですが、そこを訂正してもTensorOperations.jlが
 URL=https://twitter.com/genkuroki/status/1317454274373189633
