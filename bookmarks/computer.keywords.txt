@@ -404,6 +404,9 @@ Stepsize
 Airbnb
 データ可視化
 
+=2021-02-18T17:11:17+09:00 Computer/トピック/ツール/ソフトウェアシステム/ソフトウェアツール/VSCode/keywords
+Visual Studio
+
 =2019-05-16T11:16:06+09:00 Computer/トピック/ツール/ソフトウェアシステム/形態素解析/MeCab/keywords
 mecab,MeCab
 
@@ -1057,7 +1060,7 @@ MRI
 体外受精
 心拍
 
-=2020-12-17T12:37:26+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
+=2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
 ワイン
 ビール
@@ -1070,6 +1073,7 @@ Retty
 食
 フードテック
 ガストロノミー
+配膳
 
 =2020-10-15T12:30:39+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
@@ -1088,7 +1092,7 @@ Read Along
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
 
-=2021-01-14T13:01:30+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
+=2021-02-18T17:11:16+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
 自動彩色,カラー化,色塗り,着彩,着色,Colorization
 画像合成
 作画
@@ -1119,8 +1123,12 @@ ColouriseSG
 イメージング
 今の顔
 DALL-E
+動画
 
-=2021-02-12T11:17:18+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像検索/keywords
+Same Energy
+
+=2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -1160,6 +1168,7 @@ DeepSolar
 気分
 画像識別
 ビデオ
+マルチモーダル
 
 =2020-06-25T15:04:17+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -3152,6 +3161,9 @@ ForeWave
 OMNIS,オムニス
 SUSTINA,サスティナ
 
+=2021-02-18T17:17:06+09:00 Computer/トピック/社会動向/企業/ON-ART/keywords
+オンアート,ON-ART
+
 =2017-03-29T14:39:55+09:00 Computer/トピック/社会動向/企業/ONE ACT/keywords
 piece
 
@@ -3318,6 +3330,9 @@ e-kakashi
 =2017-11-15T15:24:07+09:00 Computer/トピック/社会動向/企業/PTC/keywords
 ThingWorx
 
+=2021-02-18T17:11:16+09:00 Computer/トピック/社会動向/企業/Pudu/keywords
+BellaBot
+
 =2017-12-12T13:54:24+09:00 Computer/トピック/社会動向/企業/Pulse Secure/keywords
 Pulse Secure,パルスセキュア
 
@@ -3394,6 +3409,13 @@ SteelConnect
 
 =2018-01-22T13:10:44+09:00 Computer/トピック/社会動向/企業/RoboMarketer/keywords
 Roboma,ロボマ
+
+=2017-09-14T11:15:28+09:00 Computer/トピック/社会動向/企業/Robot Home/iVacation/keywords
+TRIP PHONE
+
+=2021-02-18T17:12:40+09:00 Computer/トピック/社会動向/企業/Robot Home/keywords
+インベスターズクラウド,TATERU,ロボットホーム,Robot Home
+TATERU Bot AI
 
 =2017-12-08T11:57:01+09:00 Computer/トピック/社会動向/企業/Robot4U/keywords
 SHUILA
@@ -3584,6 +3606,9 @@ Starbucks,スターバックス
 =2019-04-25T18:58:07+09:00 Computer/トピック/社会動向/企業/Starship Technologies/keywords
 Starship,Starship Technologies
 
+=2021-02-18T17:13:16+09:00 Computer/トピック/社会動向/企業/Station Digital Media/keywords
+Station,Station Digital Media
+
 =2017-11-11T06:12:32+09:00 Computer/トピック/社会動向/企業/Stitch Fix/keywords
 Stitch Fix,SFIX
 
@@ -3641,16 +3666,6 @@ HRport
 =2020-05-07T13:58:47+09:00 Computer/トピック/社会動向/企業/Tanium/keywords
 タニウム,Tanium
 
-=2017-09-14T11:15:28+09:00 Computer/トピック/社会動向/企業/TATERU/iVacation/keywords
-TRIP PHONE
-
-=2017-12-15T15:19:33+09:00 Computer/トピック/社会動向/企業/TATERU/keywords
-インベスターズクラウド,TATERU
-ATERU Bot AI
-
-=2020-09-17T12:52:34+09:00 Computer/トピック/社会動向/企業/TATERU/Robot Home/keywords
-ロボットホーム,Robot Home
-
 =2018-11-16T10:00:18+09:00 Computer/トピック/社会動向/企業/TBS/keywords
 もじひかクン
 
@@ -3703,6 +3718,9 @@ Pico Neo 2 Eye
 
 =2019-09-10T14:28:37+09:00 Computer/トピック/社会動向/企業/toraru/keywords
 GENCHI
+
+=2021-02-18T17:11:17+09:00 Computer/トピック/社会動向/企業/TranSe/keywords
+your school
 
 =2017-03-30T10:40:51+09:00 Computer/トピック/社会動向/企業/TRC/keywords
 ADEAC
@@ -3920,10 +3938,11 @@ Zigbee,Zigbee Alliance
 =2019-11-14T15:03:46+09:00 Computer/トピック/社会動向/企業/ZIRITZ/keywords
 StockFormer
 
-=2021-02-04T12:48:35+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
+=2021-02-18T17:11:17+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
 CarriRo Delivery
 CarriRo
 デリロ
+ラクロシェア
 
 =2020-04-16T13:29:07+09:00 Computer/トピック/社会動向/企業/Zoom/keywords
 ズーム,Zoom
@@ -4979,7 +4998,7 @@ SMN,ソネット・メディア・ネットワークス
 =2020-09-24T13:30:34+09:00 Computer/トピック/社会動向/企業/ソフトバンク/BOLDLY/keywords
 SBドライブ,BOLDLY
 
-=2020-12-17T12:37:23+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2021-02-18T17:11:17+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフトバンク,SoftBank
 Musio
 Pepper
@@ -5001,6 +5020,7 @@ SB C&S
 SBクラウド
 LiVR
 SBクリエイティブ
+Servi
 
 =2020-03-05T15:31:38+09:00 Computer/トピック/社会動向/企業/ソフトバンク/日本コンピュータビジョン/keywords
 JCV,日本コンピュータビジョン
@@ -5970,6 +5990,9 @@ Harris Hawk
 =2017-08-30T07:21:30+09:00 Computer/トピック/社会動向/企業/ロボケン/keywords
 epRobo,エピロボ
 
+=2021-02-18T17:16:18+09:00 Computer/トピック/社会動向/企業/ロボット/keywords
+ROBOT,ロボット
+
 =2019-05-16T11:17:19+09:00 Computer/トピック/社会動向/企業/ロレアル/keywords
 ロレアルグループ,ロレアル
 
@@ -6477,6 +6500,9 @@ LogR
 
 =2017-11-12T15:54:42+09:00 Computer/トピック/社会動向/企業/自動車/三菱自動車/keywords
 三菱自
+
+=2021-02-18T17:15:36+09:00 Computer/トピック/社会動向/企業/自動車/上海汽車/keywords
+SAIC,上海汽車
 
 =2017-12-15T16:11:06+09:00 Computer/トピック/社会動向/企業/自動車/日産/keywords
 Easy Ride
