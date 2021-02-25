@@ -46,7 +46,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-02-04T12:49:44+09:00 Computer/トピック/セキュリティ/keywords
+=2021-02-25T12:34:10+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -192,6 +192,7 @@ Trickbot
 入退館
 PPAP
 真正性
+万引き
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -785,7 +786,7 @@ Quicksilver
 レコメンデーション
 レコメンド
 
-=2021-01-14T13:01:31+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
+=2021-02-25T12:34:10+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
 異常検知
 工程管理
@@ -817,6 +818,7 @@ Ops
 見守る
 見守り
 オンデマンド交通
+報連相
 
 =2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
@@ -966,7 +968,7 @@ Dating
 名刺将棋
 婚活
 
-=2021-02-12T11:17:18+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2021-02-25T12:34:10+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1059,6 +1061,7 @@ MRI
 デジタルヘルス
 体外受精
 心拍
+Health
 
 =2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1370,7 +1373,7 @@ ICOCA
 スコアリング
 カードローン
 
-=2020-12-17T12:37:27+09:00 Computer/トピック/機械学習/機械学習応用/音楽/keywords
+=2021-02-25T12:34:10+09:00 Computer/トピック/機械学習/機械学習応用/音楽/keywords
 作曲
 マスタリング
 Amper Music
@@ -1381,6 +1384,7 @@ Magenta
 グルーヴ
 楽譜
 音感
+演奏
 
 =2021-01-14T13:01:30+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
@@ -1694,6 +1698,9 @@ AquaMagic
 =2017-09-19T07:47:12+09:00 Computer/トピック/社会動向/企業/ARアドバンストテクノロジ/keywords
 LOOGUE
 
+=2021-02-25T12:37:06+09:00 Computer/トピック/社会動向/企業/asken/keywords
+あすけん,asken
+
 =2020-11-12T12:23:11+09:00 Computer/トピック/社会動向/企業/AssistMotion/keywords
 curara
 
@@ -1836,6 +1843,9 @@ C CHANNEL
 
 =2018-02-13T12:23:28+09:00 Computer/トピック/社会動向/企業/CAC/keywords
 心sensor
+
+=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/CAIメディア/keywords
+チャーピー
 
 =2020-11-19T11:50:07+09:00 Computer/トピック/社会動向/企業/Cambridge Consultants/keywords
 Cambridge Consultants
@@ -2352,7 +2362,7 @@ AlphaStar
 =2020-02-07T14:45:18+09:00 Computer/トピック/社会動向/企業/Google/Jigsaw/keywords
 Assembler
 
-=2020-06-04T13:57:42+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2021-02-25T12:34:09+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -2400,6 +2410,7 @@ Socratic
 Privacy Sandbox
 Pixel 4
 FAMGA
+TalkBack
 
 =2019-02-28T15:50:59+09:00 Computer/トピック/社会動向/企業/Google/YouTube/keywords
 Youtube,YouTube
@@ -3506,6 +3517,9 @@ SELFLY
 カラフル・ボード
 SENSY BOT for Biz
 
+=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/SEQUENCE/keywords
+SQ-2 SECURITY ROBOT
+
 =2020-05-21T13:19:21+09:00 Computer/トピック/社会動向/企業/Serif/keywords
 Affinty
 
@@ -4361,6 +4375,9 @@ AI Activity Analytics
 LP-tech
 IMACEL,イマセル
 
+=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/エンカレッジ・テクノロジ/keywords
+ESS REC NEAO
+
 =2017-03-30T11:58:23+09:00 Computer/トピック/社会動向/企業/エン・ジャパン/keywords
 エン転職
 
@@ -4394,10 +4411,10 @@ Just Realize!
 =2017-03-30T13:30:08+09:00 Computer/トピック/社会動向/企業/オムロン/keywords
 オムロン,OMRON
 
-=2020-07-30T11:56:20+09:00 Computer/トピック/社会動向/企業/オリィ研究所/keywords
+=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/オリィ研究所/keywords
 OriHime eye
 OriHime-D
-OriHime
+Orihime,OriHime
 吉藤オリィ
 
 =2017-04-13T10:27:49+09:00 Computer/トピック/社会動向/企業/オリックス/keywords
@@ -4655,6 +4672,9 @@ HowMaスマート不動産売却
 
 =2018-02-06T14:39:00+09:00 Computer/トピック/社会動向/企業/コラージュ・ゼロ/keywords
 CREATIVE BRAIN
+
+=2021-02-25T12:34:09+09:00 Computer/トピック/社会動向/企業/コロプラ/keywords
+360Channel
 
 =2017-09-11T09:24:42+09:00 Computer/トピック/社会動向/企業/コンカー/keywords
 Concur Expense
@@ -6067,7 +6087,7 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2021-02-04T12:53:36+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東,東日本旅客鉄道
 JR九州
 NewDays
@@ -6084,6 +6104,7 @@ Osaka Metro,大阪メトロ
 阪神電鉄
 小田急
 神奈中
+京阪電車
 
 =2017-04-11T11:00:17+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
@@ -6105,11 +6126,12 @@ Nimbo
 AiLingual,アイリンガル
 ヤラクゼン
 
-=2020-10-15T12:30:40+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
+=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
 トッパン,凸版
 BotFriends
 navima
 WithShot
+ふみのはゼミ
 
 =2020-01-30T13:28:39+09:00 Computer/トピック/社会動向/企業/十印/keywords
 T-tact AN-ZIN
@@ -6253,6 +6275,9 @@ LUNA
 
 =2020-03-12T11:34:39+09:00 Computer/トピック/社会動向/企業/日本レストランエンタプライズ/keywords
 NRE,日本レストランエンタプライズ
+
+=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/日本信号/keywords
+ekibo
 
 =2017-04-11T13:51:03+09:00 Computer/トピック/社会動向/企業/日本光電工業/keywords
 NATESAS
@@ -6906,6 +6931,9 @@ RICO,Responsible Initial Coin Offering
 
 =2018-12-30T14:00:21+09:00 Computer/トピック/社会動向/研究機関/国立国語研究所/keywords
 国語研,国立国語研究所
+
+=2021-02-25T12:34:53+09:00 Computer/トピック/社会動向/研究機関/国立国際医療研究センター/keywords
+NCGM,国立国際医療研究センター
 
 =2020-10-15T12:30:39+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
 CERN
