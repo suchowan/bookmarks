@@ -46,7 +46,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-02-25T12:34:10+09:00 Computer/トピック/セキュリティ/keywords
+=2021-03-04T10:57:38+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -193,6 +193,8 @@ Trickbot
 PPAP
 真正性
 万引き
+ペアレンタルコントロール
+口座情報
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -2842,6 +2844,9 @@ McAfee,マカフィー
 =2019-02-21T11:56:47+09:00 Computer/トピック/社会動向/企業/McCormick/keywords
 マコーミック,McCormick
 
+=2021-03-04T10:57:37+09:00 Computer/トピック/社会動向/企業/Mediplat/keywords
+スギサポeats
+
 =2020-10-22T14:29:02+09:00 Computer/トピック/社会動向/企業/Megvii Technology/keywords
 Face++,フェイス++,フェイスプラスプラス
 メグビー,曠視科技,Megvii,Megvii Technology
@@ -3689,6 +3694,9 @@ Chirp
 =2017-04-21T07:35:16+09:00 Computer/トピック/社会動向/企業/Tealium/keywords
 Universal Data Hub
 
+=2021-03-04T10:57:38+09:00 Computer/トピック/社会動向/企業/Teamport/keywords
+Around
+
 =2018-07-19T08:43:19+09:00 Computer/トピック/社会動向/企業/TECHFUND/keywords
 ACCEL BaaS
 
@@ -4490,6 +4498,9 @@ KAWACHO　RICE,カワチョー・ライス
 =2017-08-01T08:11:50+09:00 Computer/トピック/社会動向/企業/ガネット/keywords
 G-careネット
 
+=2021-03-04T10:58:20+09:00 Computer/トピック/社会動向/企業/キアラ/keywords
+Kiara,キアラ
+
 =2017-03-30T14:01:28+09:00 Computer/トピック/社会動向/企業/キャスレーコンサルティング/keywords
 キャスレーコンサルティング,Casley Consulting
 Gmail HR tech
@@ -4869,6 +4880,9 @@ SkyAI
 
 =2017-09-19T11:35:58+09:00 Computer/トピック/社会動向/企業/スカイロボット/keywords
 SKY ANIMALS
+
+=2021-03-04T10:57:37+09:00 Computer/トピック/社会動向/企業/スギ薬局/keywords
+スギサポeats
 
 =2018-10-22T11:02:13+09:00 Computer/トピック/社会動向/企業/スクウェア・エニックス/keywords
 スクエニ,スクウェア・エニックス
@@ -5529,6 +5543,9 @@ PR Analyzer
 =2017-04-10T15:00:44+09:00 Computer/トピック/社会動向/企業/ビースポーク/keywords
 Bebot
 
+=2021-03-04T10:57:38+09:00 Computer/トピック/社会動向/企業/ビーラボ/keywords
+GUARDIAN Security Tag
+
 =2019-05-04T11:24:11+09:00 Computer/トピック/社会動向/企業/ピクスタ/keywords
 PIXTA,ピクスタ
 
@@ -6180,10 +6197,6 @@ MMCloud
 =2017-04-11T10:56:07+09:00 Computer/トピック/社会動向/企業/安藤ハザマ/keywords
 AHSES,Adjusting to Human Smart Energy System
 
-=2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/富士ゼロックス/keywords
-SCQM,Supply Chain Quality Management System
-Smart Data Entry
-
 =2017-04-11T14:32:28+09:00 Computer/トピック/社会動向/企業/富士ソフト/keywords
 PALRO,パルロ
 
@@ -6191,6 +6204,11 @@ PALRO,パルロ
 富士フィルム,富士フイルム
 SYNAPSE Case Match
 ひびみっけ
+
+=2021-03-04T10:56:04+09:00 Computer/トピック/社会動向/企業/富士フイルム/富士フイルムビジネスイノベーション/keywords
+SCQM,Supply Chain Quality Management System
+Smart Data Entry
+富士ゼロックス,富士フイルムビジネスイノベーション
 
 =2020-08-06T14:07:20+09:00 Computer/トピック/社会動向/企業/富士通/keywords
 Zinrai,ジンライ
