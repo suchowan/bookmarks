@@ -475,6 +475,9 @@ URL=https://twitter.com/oxinabox_frames/status/1360958984086310915
 =2020-11-10T14:23:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Ryotatsu YanagimotoさんはTwitterを使っています 「一般の量子シミュレーションというとpythonのQuTiPが一番先に出てくるけど、juliaのQuantumOptics.jlでも同じことができるのを推していきたい（しかも
 URL=https://twitter.com/yanagimotor/status/1326032694715641856
 
+=2021-03-11T12:23:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Shuhei KadowakiさんはTwitterを使っています 「Here is another type inference improvement for #julialang v1.7 )
+URL=https://twitter.com/kdwkshh/status/1369811752188223492
+
 =2020-09-26T19:10:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Yuki FukudaさんはTwitterを使っています 「撤回します。申し訳ございません。 最近のJuliaを追えていないのも事実ですので、またLTSの登場するあたりに試してみたいと思います。
 URL=https://twitter.com/Y_F_Acoustics/status/1309797430372696064
 
@@ -2212,6 +2215,9 @@ URL=https://twitter.com/genkuroki/status/1298103406607781888
 =2019-10-12T18:16:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私はJulia初心者なのですが、Juliaで配列を大量に使用する場合には無駄なメモリアロケーションを避ける方法の習得を最優先事項にする必要があります。 具体的には 
 URL=https://twitter.com/genkuroki/status/1182804725034442753
 
+=2021-03-11T12:23:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私はnightly build httpst.coBC2T4YX6mW を使っています。
+URL=https://twitter.com/genkuroki/status/1369824588394229766
+
 =2020-09-16T00:31:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私は、函数の中で局所的に size という名前のローカル変数を使ったことがあります。
 URL=https://twitter.com/genkuroki/status/1305891974126346242
 
@@ -2430,6 +2436,9 @@ URL=https://qiita.com/SatoshiTerasaki/items/3b3dadc593eb9a85e2dd
 
 =2018-09-20T17:58:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/FreshAndEarlyさんのツイート Julia 1.0 でMeCabを使いたい方は下記のフォークでどうぞ。本家のchezouさんがプルリクエストに対応するかは分かりません。
 URL=https://twitter.com/snthotto/status/1042591888098779136
+
+=2021-03-10T07:35:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Genie.jlを使ってJuMPの計算をAPI化する実験 Knapsack問題を例にして
+URL=https://zenn.dev/takilog/articles/3deedcf601d99cc3c227
 
 =2021-02-15T19:56:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Genki YonezawaさんはTwitterを使っています 「Juliaでも同じような計算(線形演算子の固有値問題)ができたら嬉しいのですが，やり方がわかりません． 詳しい方がおられましたら，教えていただきたいです． #Julia言語」
 URL=https://twitter.com/GenkiYonezawa/status/1361268055838363648
@@ -3093,6 +3102,9 @@ URL=https://twitter.com/genkuroki/status/1234753711412350976
 
 =2020-04-18T18:42:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#数楽 少し偏った微積分の勉強をして楽しみたい人は httpst.coYN8sTAO9h9 にある #Julia言語 のJupyter notebooksとそのPDF化がお勧め。
 URL=https://twitter.com/genkuroki/status/1251449298820071430
+
+=2021-03-10T22:22:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#物理 #数楽 #Julia言語 バネで繋がった2つの質点の片方が自由な質点に弾性衝突する様子を数値計算で動画にしてみました。
+URL=https://twitter.com/genkuroki/status/1369639911263854594
 
 =2021-01-31T09:57:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#統計 #Julia言語 2種類のデータ取得法(試行回数nを固定、成功回数kを固定) 損失函数は予測誤差(KL情報量)、二乗誤差、差の絶対値の標本分布に関する期待値の未知の真の成功確律
 URL=https://twitter.com/genkuroki/status/1355681481167761408
