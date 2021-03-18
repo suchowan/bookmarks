@@ -1261,6 +1261,9 @@ URL=http://bicycle1885.hatenablog.com/entry/2015/08/15/143620
 =2020-10-10T18:52:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaのマクロは凄かった。Lispは果たして勝てるのか？ - SE教育パパむううみんのブログ
 URL=https://muuuminsan.hatenablog.com/entry/2020/10/10/022816
 
+=2021-03-17T07:21:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの型変換とpromotion(昇格) ShibaInu-Doc
+URL=https://abap34.github.io/my-website/julialang/2021/03/17/promote-type.html
+
 =2020-09-28T07:32:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Juliaの型推論について - isaで条件分岐したブロックにおける推論 Zenn
 URL=https://zenn.dev/aviatesk/articles/juliatypeinference20200927aviatesk
 
@@ -1530,6 +1533,9 @@ URL=https://twitter.com/MathSorcerer/status/1352602161675264004
 
 =2021-02-02T14:36:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんはTwitterを使っています 「.= のお話 #Julia言語 の Performance Tips より引用 httpst.coy9phdOfaVe」 Twitter
 URL=https://twitter.com/MathSorcerer/status/1356476648397262853
+
+=2021-03-17T10:24:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんはTwitterを使っています 「2x を 2 x として看做されるロジックってどのレベルで処理されてるんだ？（実装どこ？） #Julia言語」 Twitter
+URL=https://twitter.com/MathSorcerer/status/1371995894590050309
 
 =2021-01-24T11:00:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/ごまふあざらしさんはTwitterを使っています 「fontface(Zapinfo) を使うと Luxor.jl での文字出力がめっちゃカッコよくなる. #JuliaLang #Julia言語 httpst.coUrf4mATw4T」 Twitt
 URL=https://twitter.com/MathSorcerer/status/1353160701943009280
@@ -1873,6 +1879,9 @@ URL=https://twitter.com/genkuroki/status/1313112487378649088
 =2020-08-27T16:58:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaの abstract and composite types の tree を見たければ using AbstractTrees AbstractTree
 URL=https://twitter.com/genkuroki/status/1298846384120934403
 
+=2021-03-17T19:19:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaの型について十分な理解がない段階でJuliaで型を明示的に書くと、大抵の場合ろくなことにならないし(バグの原因になる)、理解が進むと、型を明示的に書いた方
+URL=https://twitter.com/genkuroki/status/1372130359987433476
+
 =2020-10-20T19:09:22+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaの型のツリーは using AbstractTrees AbstractTrees.children(TType) = subtypes(T) print
 URL=https://twitter.com/genkuroki/status/1318494511757107200
 
@@ -1992,6 +2001,9 @@ URL=https://twitter.com/genkuroki/status/1359795705758425088
 
 =2020-10-31T12:45:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 「動的型付け」のように見ずに、「多重ディスパッチ」(函数はデフォルトでテンプレート化)と「型情報の伝搬」の組み合わせだと見ればモヤっとせずに済むと思う。
 URL=https://twitter.com/genkuroki/status/1322384047172038657
+
+=2021-03-17T21:51:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 【ネタ】 添付画像① pi = 1 としてしまうと「しまった！」となるのですが、Base.pi に元の pi は残っています。
+URL=https://twitter.com/genkuroki/status/1372168647284695042
 
 =2020-10-10T01:10:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 【ネタ】tuple processing language S式っぽいタプルでJuliaの式を与えると、それを解釈して実行してくれるマクロ(笑) 空行とコメントを合
 URL=https://twitter.com/genkuroki/status/1314599165637267458
