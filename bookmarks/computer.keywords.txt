@@ -47,7 +47,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-03-11T12:10:06+09:00 Computer/トピック/セキュリティ/keywords
+=2021-03-25T12:57:08+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -197,6 +197,7 @@ PPAP
 ペアレンタルコントロール
 口座情報
 安全保障
+顔認証
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -671,7 +672,7 @@ TensorFlow
 Keras
 Chainer
 
-=2020-10-15T12:30:37+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
+=2021-03-25T12:57:09+09:00 Computer/トピック/機械学習/機械学習入門/機械学習導入/keywords
 DMP
 情シス,情報システム部
 失敗例
@@ -686,6 +687,7 @@ AI開発
 支援
 機械学習運用
 DX
+AI実装
 
 =2018-05-30T14:34:04+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Alexa/keywords
 Alexa,アレクサ
@@ -699,7 +701,7 @@ Google アシスタント
 オーケー、グーグル
 OK Google
 
-=2021-02-12T11:17:17+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
+=2021-03-25T12:57:09+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/keywords
 チャットボット,Chatbot
 コンシェルジュ
 スマートスピーカ
@@ -723,6 +725,7 @@ reco!
 KUZEN
 FaceMe
 バーチャルヒューマン
+サポートデスク
 
 =2020-09-03T13:33:11+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
@@ -1484,8 +1487,9 @@ JEITA
 =2019-03-07T16:09:46+09:00 Computer/トピック/社会動向/企業/+Style/keywords
 プラススタイル,+Style
 
-=2019-05-16T11:19:20+09:00 Computer/トピック/社会動向/企業/10X/keywords
+=2021-03-25T12:57:08+09:00 Computer/トピック/社会動向/企業/10X/keywords
 タベリー
+Stailer
 
 =2021-02-12T11:17:17+09:00 Computer/トピック/社会動向/企業/1SEC/keywords
 AIヒューマン
@@ -3424,6 +3428,9 @@ MiiTel
 =2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/Rice Robotics/keywords
 Rice
 
+=2021-03-25T12:57:09+09:00 Computer/トピック/社会動向/企業/Ridge-i/keywords
+GRASP EARTH
+
 =2020-08-27T12:50:59+09:00 Computer/トピック/社会動向/企業/rinna/keywords
 りんな,rinna
 
@@ -4841,6 +4848,9 @@ eCOM-82
 =2017-03-30T14:52:59+09:00 Computer/トピック/社会動向/企業/シンクロ・フード/keywors
 Foodist JOB
 
+=2021-03-25T12:57:09+09:00 Computer/トピック/社会動向/企業/シンテックホズミ/keywords
+AISLE
+
 =2020-01-30T13:28:42+09:00 Computer/トピック/社会動向/企業/シーイーシー/keywords
 EdaGlass
 
@@ -6123,6 +6133,9 @@ ZUKKU,ズック
 =2020-03-19T14:19:07+09:00 Computer/トピック/社会動向/企業/中興通訊/keywords
 ZTE,中興通訊
 
+=2021-03-25T12:57:09+09:00 Computer/トピック/社会動向/企業/丸文/keywords
+Aeolus Robotics
+
 =2017-09-12T08:03:34+09:00 Computer/トピック/社会動向/企業/丸紅/keywords
 丸紅情報システムズ,MSYS
 TRASCOPE,トラスコープ
@@ -6860,7 +6873,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2021-03-18T12:50:13+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2021-03-25T12:57:09+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -6951,6 +6964,7 @@ TSUBAME
 青森県
 浜松市
 枚方市
+藤沢市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC

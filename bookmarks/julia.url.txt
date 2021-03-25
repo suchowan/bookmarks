@@ -1861,6 +1861,9 @@ URL=https://twitter.com/genkuroki/status/1358434356910383111
 =2020-09-08T16:37:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.cohBt58PSLDG の使い方。
 URL=https://twitter.com/genkuroki/status/1303236057110949889
 
+=2021-03-24T23:23:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.corhPJqHaJJ3 の @ avxt マクロを使うとブロードキャストも並列化できるんですね。
+URL=https://twitter.com/genkuroki/status/1374728614600581121
+
 =2020-09-02T18:47:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.coW2ei9YNAxb 統計学入門の教科書では、仮説検定におけるP値(函数)と区間推定における信頼区間の関係が明瞭に説明されていないせいで、多くの人
 URL=https://twitter.com/genkuroki/status/1301082929922060288
 
@@ -3190,6 +3193,9 @@ URL=https://twitter.com/genkuroki/status/1364278090835263488
 =2021-01-24T08:06:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #統計 真の成功確率qのベルヌイ試行n回分のデータから、成功確率の推定値pを事前分布Beta(a, a)のベイズ法で求め、二乗誤差(p - q)²に比例した罰金を支
 URL=https://twitter.com/genkuroki/status/1353117007382597633
 
+=2021-03-25T02:28:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 (1-2^(1-s))ζ(s) は交代級数になりEuler変換が使える。
+URL=https://twitter.com/genkuroki/status/1374775063040335873
+
 =2021-03-21T22:49:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 10行では無理なやつ 正方形上の自由境界条件の波動方程式の離散化をDifferentialEquations.jlで数値的に解いて動画を作ってみた↓ httpst.
 URL=https://twitter.com/genkuroki/status/1373632866832191501
 
@@ -3247,11 +3253,17 @@ URL=https://twitter.com/genkuroki/status/1303215726640070656
 =2020-09-26T12:20:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 こういう反応があるのはとてもうれしく、刺激されて、犬猫例のヴァリエーションを作ってみました。
 URL=https://twitter.com/genkuroki/status/1309694264972984323
 
+=2021-03-25T02:45:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 これ、非常にいい話。 ブラジルでの宇宙開発でJuliaをv0.3のときからずっと使い続けて来たという話。スクリーンショットも載せてくれている。 宇宙開発の仕事で実際
+URL=https://twitter.com/genkuroki/status/1374779511099695106
+
 =2020-08-25T13:32:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 そんなあなたに Ising2D.jl pkg&gt; add Ising2D でインストールできる。
 URL=https://twitter.com/genkuroki/status/1298052517385785344
 
 =2021-03-17T17:52:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 でJulia集合の動画を作成 ソースコード↓ httpst.coTormeXXi8q この手の作品では色の付け方が結構重要なポイントになることが多い。
 URL=https://twitter.com/genkuroki/status/1372108540903448576
+
+=2021-03-25T00:00:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 もう何度目になるか分かりませんが、私もdual numbersを実装してみた。
+URL=https://twitter.com/genkuroki/status/1374737977356656640
 
 =2020-09-21T19:20:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 ものすごく昔からある定番のネタなのですが、やはり「簡易リスプの実装」は面白かった！ 何度でも楽しめる。
 URL=https://twitter.com/genkuroki/status/1307988159251140610
