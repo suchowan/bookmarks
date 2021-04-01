@@ -175,6 +175,9 @@ URL=http://bicycle1885.hatenablog.com/entry/2016/12/01/210618
 =2020-11-22T05:48:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia言語で入門するプログラミング(その1) - SE教育パパむううみんのブログ
 URL=https://muuuminsan.hatenablog.com/entry/2020/11/22/022956
 
+=2021-03-30T08:20:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia言語で入門するプログラミング(その10) - SE教育パパむううみんのブログ
+URL=https://muuuminsan.hatenablog.com/entry/2021/03/30/011511
+
 =2020-12-06T06:55:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/まとめ/Julia言語で入門するプログラミング(その3) - SE教育パパむううみんのブログ
 URL=https://muuuminsan.hatenablog.com/entry/2020/12/06/020124
 
@@ -534,6 +537,9 @@ URL=https://codezine.jp/article/detail/12684
 
 =2020-03-25T08:23:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/プログラミング言語「Julia 1.4」リリース OSDN Magazine
 URL=https://mag.osdn.jp/20/03/25/150000
+
+=2021-03-30T07:05:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/プログラミング言語「Julia」1.6.0が公開 スラド デベロッパー
+URL=https://developers.srad.jp/story/21/03/29/0015251/
 
 =2019-10-27T12:31:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/各バージョンのJuliaで同一のスクリプトを動かしてみる（ポエム） - Qiita
 URL=https://qiita.com//SatoshiTerasaki/items/3bf91c5d400b0deb3f8d
@@ -2887,6 +2893,9 @@ URL=https://twitter.com/KelMarkert/status/1315740789335621632
 =2019-06-15T18:41:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/kjunichiさんのツイート #julialang で #pasori を使って #pasmo の残高を読めた！ httpst.comw0Td2E3Tc…
 URL=https://twitter.com/kjunichi/status/1139826687787655169
 
+=2017-09-04T06:33:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Lasso正則化とRidge正則化の概要とJuliaによる最適化サンプルコード - MyEnigma
+URL=https://myenigma.hatenablog.com/entry/2017/09/04/040248
+
 =2020-05-05T07:11:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Lorenz96モデルのデータ同化準備編 - Qiita
 URL=https://qiita.com/litharge3141/items/41b8dd3104413529407f
 
@@ -2949,6 +2958,9 @@ URL=https://twitter.com/kdwkshh/status/1319859301968539648
 
 =2020-10-17T23:03:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Shuhei KadowakiさんはTwitterを使っています 「同じ論文を1週間何度も何度も読んでるけど、一箇所どうしても分からない... A Graph-Free Approach to Data-Flow Analysis読んだ方いらっしゃ
 URL=https://twitter.com/kdwkshh/status/1317466316161208326
+
+=2021-03-31T09:26:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Simon FrostさんはTwitterを使っています 「I updated my @epirecipes #julialang repository of SIR models to include an example using Algeb
+URL=https://twitter.com/sdwfrost/status/1377054743911010305
 
 =2020-09-23T23:32:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/SizumiさんはTwitterを使っています 「そういえば、 Yao.jlで量子エンタングルメント作った話です。後編は3qubit、4qubitになります。
 URL=https://twitter.com/sizumi_maimu/status/1308776149946785794
@@ -4224,6 +4236,9 @@ URL=https://twitter.com/dc1394/status/1360841304721133568
 
 =2020-09-27T21:35:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/dc1394さんはTwitterを使っています 「C++とJuliaで、Gauss-Legendre積分の速度比較をやってみます。JuliaのGauss-Legendre積分には、教えてもらったFastGaussQuadrature.jlを使って、
 URL=https://twitter.com/dc1394/status/1310196435720130561
+
+=2021-03-31T13:53:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/Dries BenoitさんはTwitterを使っています 「Almost 6y ago, I did a small speed comparison of #Julialang, #Fortran and #Rstats on Bayesian
+URL=https://twitter.com/_3s_/status/1377121861041938432
 
 =2020-08-11T07:38:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/fireflyさんはTwitterを使っています 「juliaのpackage compilerってやつでコンパイルしたら関数の初回呼び出しがバカ速くなった httpst.co4MKksNsLoA」 Twitter
 URL=https://twitter.com/ynhrt1250/status/1293115812715180033

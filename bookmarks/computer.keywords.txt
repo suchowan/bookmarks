@@ -975,7 +975,7 @@ Dating
 名刺将棋
 婚活
 
-=2021-02-25T12:34:10+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2021-04-01T15:31:21+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1069,6 +1069,7 @@ MRI
 体外受精
 心拍
 Health
+除菌
 
 =2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1206,6 +1207,9 @@ Self-Driving
 かな漢字変換
 ATOK
 Google日本語入力
+
+=2021-04-01T15:31:19+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/FEP/keywords
+Simeji
 
 =2020-04-16T13:04:01+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/keywords
 NLP
@@ -2052,6 +2056,9 @@ MOV
 ディー・エヌ・エー,DeNA
 Rerep
 
+=2021-04-01T15:33:30+09:00 Computer/トピック/社会動向/企業/Denodo Technologies/keywords
+Denodo,Denodo Technologies
+
 =2018-11-29T13:54:05+09:00 Computer/トピック/社会動向/企業/DigitalGlobe/keywords
 デジタルグローブ,DigitalGlobe
 
@@ -2355,8 +2362,9 @@ getAbstract
 =2017-09-11T08:40:32+09:00 Computer/トピック/社会動向/企業/GIコンサルティングパートナーズ/keywords
 UPXEED
 
-=2021-01-28T12:13:10+09:00 Computer/トピック/社会動向/企業/Gloture/keywords
+=2021-04-01T15:31:20+09:00 Computer/トピック/社会動向/企業/Gloture/keywords
 BCON
+surco
 
 =2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/GMO/GMOペパボ/keywords
 ペパボ研究所
@@ -2848,6 +2856,9 @@ Kuri
 
 =2019-09-14T12:21:49+09:00 Computer/トピック/社会動向/企業/Mayo Clinic/keywords
 メイヨー・クリニック,Mayo Clinic
+
+=2021-04-01T15:33:04+09:00 Computer/トピック/社会動向/企業/MAZDA Incredible Lab/keywords
+MAZDA,AZDA Incredible Lab
 
 =2017-09-27T08:41:50+09:00 Computer/トピック/社会動向/企業/McAfee/keywords
 McAfee,マカフィー
@@ -4266,6 +4277,9 @@ YaDoc
 =2017-11-11T07:37:24+09:00 Computer/トピック/社会動向/企業/インテリジェント ウェイブ/keywords
 CWAT
 
+=2021-04-01T15:31:21+09:00 Computer/トピック/社会動向/企業/インテージ/keywords
+SEEC
+
 =2017-12-12T15:21:11+09:00 Computer/トピック/社会動向/企業/インフォテリア/keywords
 Platio
 
@@ -4884,6 +4898,9 @@ My Home Market
 =2018-03-02T08:39:11+09:00 Computer/トピック/社会動向/企業/ジャストシステム/keywors
 ATOK
 スマート名刺管理
+
+=2021-04-01T15:31:20+09:00 Computer/トピック/社会動向/企業/ジャパン・カレント/keywords
+Pixial
 
 =2017-08-28T11:52:13+09:00 Computer/トピック/社会動向/企業/ジュピターテクノロジー/keywords
 ObserveIT
@@ -5572,6 +5589,9 @@ Mobile Reach MAX
 =2020-02-27T13:35:51+09:00 Computer/トピック/社会動向/企業/ビビッドガーデン/keywords
 食べチョク
 
+=2021-04-01T15:31:20+09:00 Computer/トピック/社会動向/企業/ビヘイビア/keywords
+Nerve
+
 =2020-01-23T20:33:32+09:00 Computer/トピック/社会動向/企業/ビルコム/keywords
 PR Analyzer
 
@@ -5899,6 +5919,9 @@ flowkey
 BOCCO
 Qoobo,クーボ
 
+=2021-04-01T15:32:28+09:00 Computer/トピック/社会動向/企業/ユキヤマ/keywords
+yukiyama,ユキヤマ
+
 =2018-09-23T14:52:59+09:00 Computer/トピック/社会動向/企業/ユニクロ/keywords
 ユニクロ,UNIQLO,ファーストリテイリング,ファストリ
 UNIQLO IQ
@@ -6133,6 +6156,9 @@ ZUKKU,ズック
 =2020-03-19T14:19:07+09:00 Computer/トピック/社会動向/企業/中興通訊/keywords
 ZTE,中興通訊
 
+=2021-04-01T15:31:21+09:00 Computer/トピック/社会動向/企業/中西金属工業/keywords
+R-Paca
+
 =2021-03-25T12:57:09+09:00 Computer/トピック/社会動向/企業/丸文/keywords
 Aeolus Robotics
 
@@ -6185,12 +6211,13 @@ Nimbo
 AiLingual,アイリンガル
 ヤラクゼン
 
-=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
+=2021-04-01T15:31:22+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
 トッパン,凸版
 BotFriends
 navima
 WithShot
 ふみのはゼミ
+IoANeck
 
 =2020-01-30T13:28:39+09:00 Computer/トピック/社会動向/企業/十印/keywords
 T-tact AN-ZIN
