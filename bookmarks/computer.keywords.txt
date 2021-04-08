@@ -757,8 +757,9 @@ RPA,Robotic Process Automation
 地震
 洪水
 
-=2018-12-11T08:01:55+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/物性/keywords
+=2021-04-08T11:37:42+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/物性/keywords
 AlphaFold
+創薬
 
 =2019-05-28T11:32:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/行動/keywords
 排卵日
@@ -3414,6 +3415,9 @@ HiT
 =2020-02-20T14:40:58+09:00 Computer/トピック/社会動向/企業/QuickWork/keywords
 Daniel
 
+=2021-04-08T11:37:42+09:00 Computer/トピック/社会動向/企業/RABO/keywords
+Catlog
+
 =2017-11-19T14:52:24+09:00 Computer/トピック/社会動向/企業/Rapyuta Robotics/keywords
 Rapyuta Robotics,ラピュタ・ロボティクス
 
@@ -3827,6 +3831,9 @@ ULA,United Launch Alliance
 
 =2018-11-29T13:51:42+09:00 Computer/トピック/社会動向/企業/UNIBOT/keywords
 ユニボット,UNIBOT
+
+=2021-04-08T11:39:02+09:00 Computer/トピック/社会動向/企業/Unity Technologies/keywords
+ユニティ・テクノロジーズ,Unity Technologies
 
 =2019-02-06T18:17:12+09:00 Computer/トピック/社会動向/企業/Universal City Studios/keywords
 ユニバーサル・スタジオ,Universal City Studios
@@ -5084,8 +5091,8 @@ SMN,ソネット・メディア・ネットワークス
 =2020-09-24T13:30:34+09:00 Computer/トピック/社会動向/企業/ソフトバンク/BOLDLY/keywords
 SBドライブ,BOLDLY
 
-=2021-02-18T17:11:17+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
-ソフトバンク,SoftBank
+=2021-04-08T11:40:09+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+ソフバン,ソフトバンク,SoftBank
 Musio
 Pepper
 Airblock
@@ -6018,8 +6025,7 @@ RICOH 360 for Ad
 =2020-12-10T11:58:36+09:00 Computer/トピック/社会動向/企業/リコー/ベクノス/keywords
 IQUI
 
-=2019-12-19T16:35:58+09:00 Computer/トピック/社会動向/企業/リノベる/keywords
-リノベる。
+=2021-04-08T11:45:21+09:00 Computer/トピック/社会動向/企業/リノベる/keywords
 sugata
 
 =2017-04-11T10:38:59+09:00 Computer/トピック/社会動向/企業/リブセンス/keywords
@@ -6169,7 +6175,7 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2021-04-08T11:37:42+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東,東日本旅客鉄道
 JR九州
 NewDays
@@ -6187,6 +6193,7 @@ Osaka Metro,大阪メトロ
 小田急
 神奈中
 京阪電車
+NEXCO
 
 =2021-03-11T12:10:06+09:00 Computer/トピック/社会動向/企業/京セラ/KCCS/keywords
 SHELF EYE
