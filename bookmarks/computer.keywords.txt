@@ -47,7 +47,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-04-15T12:25:19+09:00 Computer/トピック/セキュリティ/keywords
+=2021-04-29T13:52:46+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -199,6 +199,7 @@ PPAP
 安全保障
 顔認証
 特権アクセス
+Prometei
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -621,7 +622,7 @@ ImageNet
 情報銀行
 アノテーション
 
-=2021-04-22T13:35:38+09:00 Computer/トピック/ブロックチェーン/keywords
+=2021-04-29T13:52:46+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -643,6 +644,7 @@ Randpay
 トークン
 クリプト
 ドージコイン
+Prometei
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -1143,7 +1145,7 @@ DALL-E
 =2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像検索/keywords
 Same Energy
 
-=2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2021-04-29T13:52:46+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -1184,6 +1186,7 @@ DeepSolar
 画像識別
 ビデオ
 マルチモーダル
+バーコード
 
 =2020-06-25T15:04:17+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -1203,8 +1206,9 @@ GACHA
 自律運転
 Self-Driving
 
-=2020-11-12T12:23:09+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/船舶/keywords
+=2021-04-29T13:52:46+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/船舶/keywords
 自律航行
+帆船
 
 =2017-03-23T10:41:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/FEP/keyword
 かな漢字変換
@@ -1303,7 +1307,7 @@ CHIVOX
 性別
 字幕
 
-=2020-12-10T11:58:40+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2021-04-29T13:52:45+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1330,6 +1334,7 @@ CHIVOX
 肥料
 鶏舎
 豊漁
+漁場
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -1672,6 +1677,9 @@ COZMO
 
 =2020-12-17T12:37:26+09:00 Computer/トピック/社会動向/企業/any/keywords
 Qast
+
+=2021-04-29T13:52:47+09:00 Computer/トピック/社会動向/企業/ANYbotics/keywords
+ANYmal
 
 =2017-09-14T08:53:43+09:00 Computer/トピック/社会動向/企業/AnyPay/keywords
 ANGOプロジェクト
@@ -2021,6 +2029,9 @@ Kaltura
 
 =2017-03-29T08:38:23+09:00 Computer/トピック/社会動向/企業/Darktrace/keywords
 Darktrace,ダークトレース
+
+=2021-04-29T13:52:45+09:00 Computer/トピック/社会動向/企業/DataCurrent/keywords
+viz
 
 =2019-12-12T12:05:29+09:00 Computer/トピック/社会動向/企業/DATAFLUCT/keywords
 DATAFLUCT agri.
@@ -2390,9 +2401,10 @@ getAbstract
 =2017-09-11T08:40:32+09:00 Computer/トピック/社会動向/企業/GIコンサルティングパートナーズ/keywords
 UPXEED
 
-=2021-04-01T15:31:20+09:00 Computer/トピック/社会動向/企業/Gloture/keywords
+=2021-04-29T13:52:46+09:00 Computer/トピック/社会動向/企業/Gloture/keywords
 BCON
 surco
+GoHERO
 
 =2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/GMO/GMOペパボ/keywords
 ペパボ研究所
@@ -2721,6 +2733,9 @@ QooCam
 =2017-10-25T14:26:42+09:00 Computer/トピック/社会動向/企業/Kaspersky/keywords
 Kaspersky,カスペルスキー
 
+=2021-04-29T13:52:46+09:00 Computer/トピック/社会動向/企業/KC Technologies/keywords
+OYO LIFE
+
 =2019-03-14T18:01:33+09:00 Computer/トピック/社会動向/企業/KDDI/keywords
 Fleksy
 KDDI AI翻訳
@@ -2966,9 +2981,6 @@ Lobe
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
 
-=2019-10-14T13:13:55+09:00 Computer/トピック/社会動向/企業/Mira Robotics/keywords
-ugo
-
 =2017-10-10T13:20:35+09:00 Computer/トピック/社会動向/企業/Mirantis/keywords
 Mirantis,ミランティス
 
@@ -3201,11 +3213,12 @@ Dragon Drive
 NUWAロボティクス,NUWA Robotics
 Kebbi Air
 
-=2018-10-22T10:59:53+09:00 Computer/トピック/社会動向/企業/NVIDIA/ARM/keywords
+=2021-04-29T13:55:14+09:00 Computer/トピック/社会動向/企業/NVIDIA/ARM/keywords
 PSA
 Kigen
 Pelion
 Neoverse
+アーム,ARM
 
 =2021-01-14T13:03:50+09:00 Computer/トピック/社会動向/企業/NVIDIA/ARM/TREASURE DATA/keywords
 トレジャーデータ,TREASURE DATA
@@ -3630,6 +3643,9 @@ Deeplearning4j,DL4J
 =2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Slack/keywords
 Actions
 
+=2021-04-29T13:53:48+09:00 Computer/トピック/社会動向/企業/smartLure/keywords
+スマートルアー,smartLure
+
 =2020-07-23T14:13:22+09:00 Computer/トピック/社会動向/企業/Smith&Nephew/keywords
 CORI Surgical System
 
@@ -3866,6 +3882,9 @@ Cruzr
 清水亮
 CSLAIER
 
+=2021-04-29T13:54:24+09:00 Computer/トピック/社会動向/企業/ugo/keywords
+Mira Robotics,ugo
+
 =2017-03-30T10:43:27+09:00 Computer/トピック/社会動向/企業/ULA/keywords
 ULA,United Launch Alliance
 
@@ -4025,6 +4044,9 @@ HACREW
 =2017-03-30T10:55:14+09:00 Computer/トピック/社会動向/企業/YouAppi/keywords
 OneRun
 
+=2021-04-29T13:52:47+09:00 Computer/トピック/社会動向/企業/Yper/keywords
+オキッパ
+
 =2020-04-30T12:25:07+09:00 Computer/トピック/社会動向/企業/YUNJI TECHNOLOGY/keywords
 云迹机器人,YUNJI TECHNOLOGY
 
@@ -4073,6 +4095,9 @@ Roquro
 
 =2019-04-06T11:58:47+09:00 Computer/トピック/社会動向/企業/いるかラボ/keywords
 AI air
+
+=2021-04-29T13:52:46+09:00 Computer/トピック/社会動向/企業/うるる/keywords
+eas
 
 =2017-05-15T09:59:19+09:00 Computer/トピック/社会動向/企業/お金のデザイン/keywords
 THEO
@@ -6740,6 +6765,9 @@ Morgan Stanley,モルガン・スタンレー
 =2020-08-06T12:55:52+09:00 Computer/トピック/社会動向/企業/金融・保険/PayPay銀行/keywords
 ジャパンネット銀行,PayPay銀行
 
+=2021-04-29T13:56:00+09:00 Computer/トピック/社会動向/企業/金融・保険/SBI/keywords
+SBIHD,SBI
+
 =2019-02-21T11:57:21+09:00 Computer/トピック/社会動向/企業/金融・保険/SOMPO/keywords
 損保ジャパン,SOMPO
 
@@ -7122,6 +7150,9 @@ HRP-5P
 
 =2019-07-24T13:53:29+09:00 Computer/トピック/社会動向/研究機関/統計数理研究所/keywords
 統数研,統計数理研究所
+
+=2021-04-29T13:57:15+09:00 Computer/トピック/社会動向/研究機関/農研機構/keywords
+農研,農業・食品産業技術総合研究機構,農研機構
 
 =2019-06-24T12:19:50+09:00 Computer/トピック/社会動向/研究機関/防災科学技術研究所/keywords
 NIED,防災科学研究所,防災科学技術研究所

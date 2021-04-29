@@ -598,6 +598,9 @@ URL=https://twitter.com/bicycle1885/status/1085492920113717248
 =2019-04-09T07:02:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/(｢・ω・)｢ｶﾞｵｰさんのツイート へーPFNも字句解析器実装したんだー。そういえばーおれも昔Julia向けのやつ作ったなー。
 URL=https://twitter.com/bicycle1885/status/1115493289572966400
 
+=2021-04-29T01:09:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/(｢・ω・)｢ｶﾞｵｰさんはTwitterを使っています 「Fmt.jlに有理数を（指定された桁まで）正確に表現する機能を入れてみた。
+URL=https://twitter.com/bicycle1885/status/1387438758069301249
+
 =2021-04-22T10:38:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/(｢・ω・)｢ｶﾞｵｰさんはTwitterを使っています 「JuliaのDataFrames.jlがついにバージョン1.0に httpst.coiarOSXAYAo」 Twitter
 URL=https://twitter.com/bicycle1885/status/1385045260540145665
 
@@ -786,6 +789,9 @@ URL=https://qiita.com/I_ppp/items/dca3552affa6a672e4bd
 
 =2020-07-28T07:50:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaでのデータの保存と読み込み：HDF5を使ってみる - Qiita
 URL=https://qiita.com//cometscome_phys/items/7ced3362ac64b98129d1
+
+=2021-04-29T07:01:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaで並列計算：DistributedArrays.jlを使う - Qiita
+URL=https://qiita.com/cometscome_phys/items/f940a863f0e37f3600db
 
 =2021-03-14T07:15:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Juliaで常微分方程式を解く - Qiita
 URL=https://qiita.com/P_Fermat/items/ff4e32051ff3565488ba
