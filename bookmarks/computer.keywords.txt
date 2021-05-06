@@ -1109,7 +1109,7 @@ STEM
 =2019-02-14T13:43:41+09:00 Computer/トピック/機械学習/機械学習応用/画像/keywords
 ImageNet
 
-=2021-02-18T17:11:16+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
+=2021-05-06T12:14:05+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/keywords
 自動彩色,カラー化,色塗り,着彩,着色,Colorization
 画像合成
 作画
@@ -1141,6 +1141,7 @@ ColouriseSG
 今の顔
 DALL-E
 動画
+マスキング
 
 =2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像検索/keywords
 Same Energy
@@ -1307,7 +1308,7 @@ CHIVOX
 性別
 字幕
 
-=2021-04-29T13:52:45+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2021-05-06T12:14:04+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1335,6 +1336,7 @@ CHIVOX
 鶏舎
 豊漁
 漁場
+リンゴ
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -1406,7 +1408,7 @@ Magenta
 音感
 演奏
 
-=2021-03-11T12:10:05+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2021-05-06T12:14:04+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1461,6 +1463,7 @@ StyleGAN
 ニューロモーフィックコンピューティング
 DALL-E
 SEER
+BERT
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -2859,6 +2862,9 @@ GLOW
 =2017-12-25T16:00:24+09:00 Computer/トピック/社会動向/企業/Mafengwo/keywords
 Mafengwo,螞蜂窩
 
+=2021-05-06T12:14:04+09:00 Computer/トピック/社会動向/企業/Magic Data Tech/keywords
+MagicHub.io
+
 =2018-10-13T07:44:02+09:00 Computer/トピック/社会動向/企業/Magic Leap/keywords
 MICA
 
@@ -3123,6 +3129,9 @@ Presence.fit
 
 =2019-07-02T16:02:07+09:00 Computer/トピック/社会動向/企業/New Deal Design/keywords
 Spot
+
+=2021-05-06T12:14:04+09:00 Computer/トピック/社会動向/企業/New Innovations/keywords
+root C
 
 =2020-06-25T15:04:17+09:00 Computer/トピック/社会動向/企業/NEWJI/keywords
 NEWJI VR
@@ -3787,6 +3796,9 @@ Around
 
 =2018-07-19T08:43:19+09:00 Computer/トピック/社会動向/企業/TECHFUND/keywords
 ACCEL BaaS
+
+=2021-05-06T12:14:04+09:00 Computer/トピック/社会動向/企業/TechMagic/keywords
+finibo
 
 =2020-07-16T13:19:06+09:00 Computer/トピック/社会動向/企業/Telexistence/keywords
 TX,Telexistence
@@ -6536,6 +6548,9 @@ hitoe
 CX-M
 CX-W
 
+=2021-05-06T12:14:05+09:00 Computer/トピック/社会動向/企業/東京フォト委員会/keywords
+HYPER EDITION
+
 =2018-03-08T17:56:18+09:00 Computer/トピック/社会動向/企業/東急不動産/keywords
 Taskus
 
@@ -6768,8 +6783,9 @@ Morgan Stanley,モルガン・スタンレー
 =2021-04-29T13:56:00+09:00 Computer/トピック/社会動向/企業/金融・保険/SBI/keywords
 SBIHD,SBI
 
-=2019-02-21T11:57:21+09:00 Computer/トピック/社会動向/企業/金融・保険/SOMPO/keywords
+=2021-05-06T12:14:05+09:00 Computer/トピック/社会動向/企業/金融・保険/SOMPO/keywords
 損保ジャパン,SOMPO
+ジャパンダ
 
 =2017-08-29T08:59:38+09:00 Computer/トピック/社会動向/企業/金融・保険/ふくおかフィナンシャルグループ/keywords
 ふくおかフィナンシャルグループ,FFG

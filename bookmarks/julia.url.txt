@@ -916,6 +916,9 @@ URL=https://twitter.com/kdwkshh/status/1326118907841662977
 =2020-12-07T22:03:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Shuhei KadowakiさんはTwitterを使っています 「ちなみにusing XXXはそんなに凶悪なことはしてないです。package側でexportされたものだけを使う側のglobal名前空間に引っ張ってくる。 &gt; Pythonで
 URL=https://twitter.com/kdwkshh/status/1335933032172199937
 
+=2021-05-05T05:49:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Symbolics.jlを試してみる - システムとモデリング
+URL=https://otepipi.hatenablog.com/entry/2021/05/05/200911
+
 =2021-01-15T14:20:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Tak itoshiさんはTwitterを使っています 「「Juliaで精度保証付き数値計算 」更新しました。 ベクトルの内積・行列ベクトル積・行列積の区間演算 httpst.covEsZ7QYTeC 数値線形代数の話。
 URL=https://twitter.com/takitoshi/status/1349949666754891778
 
@@ -1720,6 +1723,9 @@ URL=https://twitter.com/tomkwong/status/1300189885475614721
 =2020-12-06T16:02:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Tomiya (機械学習∩物理)さんはTwitterを使っています 「toml か。Julia の管理に使われてるという程度しか知らんかったけど、良さげ。
 URL=https://twitter.com/TomiyaAkio/status/1335479638458576896
 
+=2021-05-05T23:59:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/UkicodeさんはTwitterを使っています 「動的型付け言語による代入の動作まとめ シャロ―コピー： Python, JavaScript, Ruby, Julia ディープコピー： Perl, PHP 多分俺が静的型付け言語に触れていること
+URL=https://twitter.com/opaupafz2/status/1389957919593009153
+
 =2019-03-15T13:55:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Vim で Unicode 記号の入力補完をする - 書いたものなど
 URL=https://machakann.hatenablog.com/entry/2019/03/15/202716
 
@@ -2488,6 +2494,9 @@ URL=https://twitter.com/genkuroki/status/1253979243588890624
 =2019-10-21T08:39:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 はmultiple dispatchなので、 メソッドfがどの型(クラス)で使用可能か？ 型(クラス)Tで使用可能なメソッド達は何か？
 URL=https://twitter.com/genkuroki/status/1186293099867168774
 
+=2021-05-06T07:10:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 はPythonに似ていると言う人がいるけど、私__も__JuliaはPythonには全然似ていないと思う。
+URL=https://twitter.com/genkuroki/status/1390066361896816642
+
 =2021-02-14T14:43:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 は引数の具体的な型名を一切書かずに書いたコードが高速に動くように設計されているのに、なぜか、 function f(AMatrix{Float64}) printl
 URL=https://twitter.com/genkuroki/status/1360826954815926276
 
@@ -3013,6 +3022,9 @@ URL=https://twitter.com/yuifu/status/1065463976257966080
 =2021-04-27T00:23:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/hctaw_srpさんはTwitterを使っています 「StatcastデータをダウンロードしてDataFrameにしてくれるJuliaファンクション。
 URL=https://twitter.com/hctaw_srp/status/1386702429987639305
 
+=2021-05-06T00:52:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Hideki Kawahara WAH (Work@Home)さんはTwitterを使っています 「音声に特化した関数はJuliaでも書いておきたい。
+URL=https://twitter.com/hidekikawahara/status/1389971330137612293
+
 =2020-01-06T13:40:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Hiroharu SugawaraさんはTwitterを使っています 「工学系大学新入生向けに 2018年から Julia 言語を用いたプログラミング演習を行っています。その狙いを #juliatokyo 8 で紹介しました #julialang 
 URL=https://twitter.com/hsugawa/status/1214071818446721025
 
@@ -3093,6 +3105,9 @@ URL=https://machakann.hatenablog.com/entry/2020/03/31/221555
 
 =2021-03-12T08:15:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaCon 2021さんはTwitterを使っています 「Check out Natural Language Processing in #JuliaLang presented by Ayush Kaushal @ JuliaCon 20
 URL=https://twitter.com/JuliaConOrg/status/1370151298239242241
+
+=2021-05-05T16:15:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaCon 2021さんはTwitterを使っています 「Solving Neuroinformatics' Three Language Problem With Julia Presented by Zachary P Christens
+URL=https://twitter.com/JuliaConOrg/status/1389841038525747202
 
 =2019-08-31T08:15:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/JuliaGPU CUDAnative でイジングモデルを計算する - Qiita
 URL=https://qiita.com/Lirimy/items/e25efa016c54d07368c8
@@ -3495,6 +3510,9 @@ URL=https://twitter.com/nekoningen1/status/1323224442688819200
 
 =2020-12-30T13:40:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/にちかさんはTwitterを使っています 「httpst.coPk1pZIiWj2 Julia で有限体が扱えると聞いたので試してみた． 簡単に冪乗計算が出来るし，多倍長クラスも扱えるので暗号の勉強に良さそう（画像は2048 bit の冪乗計算） 
 URL=https://twitter.com/lxacas/status/1344141214837182465
+
+=2021-05-05T15:48:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/ぴるてぃさんはTwitterを使っています 「MFCC抽出できた。Python実装の移植だけど、昔に比べてスムーズにJuliaに変換できたのでJulia力は上がった気がした httpst.coWbjgfVUfhx」 Twitter
+URL=https://twitter.com/piruty_/status/1389834267815866371
 
 =2020-07-24T07:10:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/まえがき - Juliaで学ぶ計算論的神経科学
 URL=https://compneuro-julia.github.io/preface.html
