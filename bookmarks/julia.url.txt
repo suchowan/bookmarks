@@ -1207,6 +1207,9 @@ URL=https://twitter.com/genkuroki/status/1303081167441113088
 =2021-03-04T10:21:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 の行列計算は、多くの場合にOpenBLAS(やusing MKLした場合にはMKL)を使っているので、普通に速いです。
 URL=https://twitter.com/genkuroki/status/1367283944077496327
 
+=2021-05-12T19:44:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 パッケージAでの型A. Fooには有用な機能達が多数定義されているとする。
+URL=https://twitter.com/genkuroki/status/1392430598933811203
+
 =2021-03-11T16:15:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 以下のリンク先はDifferentialEquations.jlの初歩的な応用。
 URL=https://twitter.com/genkuroki/status/1369909824079622148
 
@@ -2041,6 +2044,9 @@ URL=https://twitter.com/chor0sK/status/1238862267355037698
 =2021-04-22T15:18:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/虚無●ナマコさんはTwitterを使っています 「あとjuliaならsomefunc.(arr1, arr2)で済ませられることをpythonだとわざわざ[some_func(x, y) for x, y in zip(arr1, arr2)]とか
 URL=https://twitter.com/chor0sK/status/1385115867222974466
 
+=2021-05-12T17:53:43+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/門脇 瑞斗さんはTwitterを使っています 「#Julia の普段あんま使わない描画で遊んだ． 2次元plotのときいつも y = f.(x)みたくやって描画してたからそれをやらずともplot(x,f)で良いことに間接的に気づいた． httpst
+URL=https://twitter.com/kado_judo0312/status/1392402597550575616
+
 =2021-05-04T19:22:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/門脇 瑞斗さんはTwitterを使っています 「Juliaで，@ animateしてgif()で動いている状態のグラフを以下の画像のように並べて出力したいのですが，gif(p1,p2)みたいにしてはエラーをはくようでした．．．どなたか対処法わかる方
 URL=https://twitter.com/kado_judo0312/status/1389525840401035272
 
@@ -2199,6 +2205,9 @@ URL=https://twitter.com/genkuroki/status/1222358822259322886
 
 =2021-04-07T17:22:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 include(foo.jl) はパッケージ内のファイルでしかほぼ行わない。
 URL=https://twitter.com/genkuroki/status/1379711259533189121
+
+=2021-05-12T19:12:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Int64[] == Int64[] は true になる。
+URL=https://twitter.com/genkuroki/status/1392422538962030601
 
 =2020-09-09T10:20:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Intであって欲しいグローバル変数aを、函数の中で aInt と書いて使うことはパフォーマンスに効く。
 URL=https://twitter.com/genkuroki/status/1303503630134198272
@@ -2464,6 +2473,9 @@ URL=https://twitter.com/genkuroki/status/1304667375199952896
 =2020-09-27T18:20:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 たぶん、根本的な解決法は、Base.@ irrational マクロで定義されるIrrational型定数とは違う別の定数のシステムを自分で作ること。
 URL=https://twitter.com/genkuroki/status/1310147243060592640
 
+=2021-05-13T06:15:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 ちなみに、Juliaで、計画行列Xとデータyに関する最小二乗法は b = X y の1行で可能。
+URL=https://twitter.com/genkuroki/status/1392589214940753921
+
 =2019-10-21T07:21:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 で Float128 を使うには ]add Quadmath using Quadmath Float128(π) 使用例が
 URL=https://twitter.com/genkuroki/status/1185945718332084225
 
@@ -2625,6 +2637,9 @@ URL=https://twitter.com/genkuroki/status/1381510435153739776
 
 =2021-03-25T10:21:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 リポジトリの方の公式マニュアルに以下が追加されましたね。
 URL=https://twitter.com/genkuroki/status/1374894086100946946
+
+=2021-05-12T15:29:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 レジストリを壊してしまった疑いがある場合には以下を試してみる。
+URL=https://twitter.com/genkuroki/status/1392366230338609155
 
 =2021-03-20T12:03:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 以下のリンク先のケースでは、P値函数やモデルのパラメータ値が信頼区間に含まれる確率を求める函数は1行で書いた方が抽象化された読み易いコードになります。
 URL=https://twitter.com/genkuroki/status/1373107963334782976
@@ -3708,6 +3723,9 @@ URL=https://twitter.com/ytaki0801/status/1307536616869646336
 
 =2021-01-10T21:39:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/炎の空心菜さんはTwitterを使っています 「英語では文字の出現頻度で「e」が多い、みたいなことがタイ語でもあるのだろうか、ということで #タイ文字 の出現頻度を #julia言語 で調べてみました。
 URL=https://twitter.com/faidaeng/status/1348248091787345931
+
+=2021-05-08T06:44:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/無料のデータ分析サービス Mi-Analyzer のサーバー構成を解説します！ - What is it, naokirin
+URL=https://naokirin.hatenablog.com/entry/2021/05/08/173804
 
 =2019-12-11T07:21:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/眠気.jlさんはTwitterを使っています 「大流行のQuantum Algorithmが大流行のJulia言語で書かれてる httpst.coHjt11r6br9」 Twitter
 URL=https://twitter.com/nomorepython/status/1204459333322330112
