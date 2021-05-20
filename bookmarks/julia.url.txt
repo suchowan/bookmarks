@@ -2353,6 +2353,9 @@ URL=https://twitter.com/genkuroki/status/1388345640124514305
 =2021-02-15T20:58:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 NamedTupleを (; var1, var2, var3) とかで簡単に作れることを知らなかった。
 URL=https://twitter.com/genkuroki/status/1361283629150736387
 
+=2021-05-19T15:05:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 NaNが作画されないことを使えます。 httpst.co29R7zu3iKn 遠くになる値をNaNの変換してからプロットするとよいです。 Plots.jlの使い方に
+URL=https://twitter.com/genkuroki/status/1394896908066299904
+
 =2021-05-09T08:13:10+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 nightly build (v1.7) では p = (a = 1.0, b = 2.0, c = 3.0) または Base.@ kwdef struct Fo
 URL=https://twitter.com/genkuroki/status/1391169331908648964
 
@@ -3750,6 +3753,9 @@ URL=http://dotnsf.blog.jp/archives/1071192012.html
 
 =2020-09-27T07:33:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/ユニークな文字列かを判定するアルゴリズムの概要とJuliaサンプルコード - EurekaMoments
 URL=https://www.eureka-moments-blog.com/entry/2020/09/27/175658
+
+=2021-05-19T21:19:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/リニア・テック 別府 伸耕さんはTwitterを使っています 「Plotsパッケージによるグラフ描画ですが，今度はPyPlotバックエンドを使ってみました．例によって複素正弦波です． もともとPython + matplotlib を使っていたので
+URL=https://twitter.com/linear_tec/status/1394991129695825922
 
 =2020-04-30T17:43:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/万博@盲学校マジックさんはTwitterを使っています 「結局、数学の現場（というほど数学やってないけど）ではJuliaを使ってるんだから、Juliaを教えるべき。」 Twitter
 URL=https://twitter.com/bampaku/status/1255469203676635136

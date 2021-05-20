@@ -1150,7 +1150,7 @@ DALL-E
 =2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像検索/keywords
 Same Energy
 
-=2021-04-29T13:52:46+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2021-05-20T12:51:15+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -1192,6 +1192,7 @@ DeepSolar
 ビデオ
 マルチモーダル
 バーコード
+SLAM
 
 =2020-06-25T15:04:17+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -2699,9 +2700,10 @@ CloudAI
 =2019-01-30T13:17:13+09:00 Computer/トピック/社会動向/企業/JDI/keywords
 ジャパンディスプレイ,JDI
 
-=2017-03-29T11:34:08+09:00 Computer/トピック/社会動向/企業/Jetrunテクノロジ/keywords
+=2021-05-20T12:51:15+09:00 Computer/トピック/社会動向/企業/Jetrunテクノロジ/keywords
 TrueTALK,トゥルートーク
 TrueText,トゥルーテキスト
+Steer AI
 
 =2017-11-11T08:11:05+09:00 Computer/トピック/社会動向/企業/JFE/keywords
 JFEスチール,JFES
@@ -3427,6 +3429,9 @@ Progress Corticon
 =2017-04-05T07:48:52+09:00 Computer/トピック/社会動向/企業/PROPELa/keywords
 amblate
 
+=2021-05-20T12:51:15+09:00 Computer/トピック/社会動向/企業/Proxima Technology/keywords
+DVF SLAM
+
 =2021-01-14T13:01:31+09:00 Computer/トピック/社会動向/企業/Psychic VR Lab/keywords
 STYLY for Nreal
 STYLY
@@ -3981,6 +3986,9 @@ Shoe-Craft-Terminal
 =2018-07-14T13:23:39+09:00 Computer/トピック/社会動向/企業/VISITS Technologies/keywords
 ideagram
 
+=2021-05-20T12:51:15+09:00 Computer/トピック/社会動向/企業/VividWorks/keywords
+vrTours3D
+
 =2017-09-04T09:45:53+09:00 Computer/トピック/社会動向/企業/VMware/keywords
 AirWatch
 AppDefense
@@ -4090,11 +4098,12 @@ Zigbee,Zigbee Alliance
 =2019-11-14T15:03:46+09:00 Computer/トピック/社会動向/企業/ZIRITZ/keywords
 StockFormer
 
-=2021-02-18T17:11:17+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
+=2021-05-20T12:51:15+09:00 Computer/トピック/社会動向/企業/ZMP/keywords
 CarriRo Delivery
 CarriRo
 デリロ
 ラクロシェア
+RakuRo
 
 =2020-04-16T13:29:07+09:00 Computer/トピック/社会動向/企業/Zoom/keywords
 ズーム,Zoom
@@ -4717,7 +4726,7 @@ NODALVIEW
 =2017-09-25T10:04:46+09:00 Computer/トピック/社会動向/企業/クリエイティブテクノロジー/keywords
 synco,シンコー
 
-=2017-12-26T07:50:45+09:00 Computer/トピック/社会動向/企業/クリックテック・ジャパン/keywords
+=2017-12-26T07:50:45+09:00 Computer/トピック/社会動向/企業/クリックテック/keywords
 Qlik Sense
 
 =2017-09-11T07:30:04+09:00 Computer/トピック/社会動向/企業/クリプトン・フューチャー・メディア/keywords
@@ -5487,6 +5496,9 @@ Dwango,DWANGO,ドワンゴ
 ニコ動
 ARTILIFE
 TUNEDiD
+
+=2021-05-20T12:51:15+09:00 Computer/トピック/社会動向/企業/ドーナッツロボティク/keywords
+C-FACE
 
 =2018-01-17T15:35:28+09:00 Computer/トピック/社会動向/企業/ナイル/keywords
 カルモ
