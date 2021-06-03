@@ -1216,6 +1216,9 @@ Self-Driving
 自律航行
 帆船
 
+=2021-06-03T11:41:35+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/飛行機/keywords
+自律飛行
+
 =2017-03-23T10:41:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/FEP/keyword
 かな漢字変換
 ATOK
@@ -3967,9 +3970,10 @@ Steam
 =2017-09-04T09:01:36+09:00 Computer/トピック/社会動向/企業/Vector/keywords
 Vector,ベクター
 
-=2019-06-28T12:56:15+09:00 Computer/トピック/社会動向/企業/Veeam Software/keywords
+=2021-06-03T11:41:34+09:00 Computer/トピック/社会動向/企業/Veeam Software/keywords
 Veeam,Veeam Software
 Veeam Recovery to Microsoft Azure with Veeam PN
+Kasten
 
 =2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/Verint Systems/keywords
 Verint
@@ -4801,6 +4805,9 @@ MAGELLAN BLOCKS
 
 =2017-07-24T10:49:06+09:00 Computer/トピック/社会動向/企業/グレープシティ/keywords
 Wikitude SDK 7
+
+=2021-06-03T11:41:34+09:00 Computer/トピック/社会動向/企業/グローバルウォーカーズ/keywords
+GW-Retail
 
 =2019-01-19T16:53:20+09:00 Computer/トピック/社会動向/企業/グローバルトラストネットワークス/keywords
 GTN,グローバルトラストネットワークス
@@ -5856,6 +5863,9 @@ KEYVOX
 
 =2017-04-11T09:54:21+09:00 Computer/トピック/社会動向/企業/ブロードバンドタワー/keywords
 ブロードバンドタワー,BBT
+
+=2021-06-03T11:45:57+09:00 Computer/トピック/社会動向/企業/プライム ライフ テクノロジーズ/keywords
+PLT,プライム ライフ テクノロジーズ
 
 =2017-03-30T09:58:06+09:00 Computer/トピック/社会動向/企業/プラネット・テーブル/keywords
 プラネット・テーブル,Planet Table
@@ -6966,7 +6976,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2021-05-13T12:37:34+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2021-06-03T11:41:35+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -7001,12 +7011,16 @@ ETHチューリッヒ
 EPFL
 トロント大学
 ジョージア工科大
+ジョージタウン大学
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
 
 =2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
+
+=2021-06-03T11:46:31+09:00 Computer/トピック/社会動向/大学/宮崎大学/keywords
+宮崎大,宮崎大学
 
 =2019-05-12T14:50:03+09:00 Computer/トピック/社会動向/大学/広島大学/keywords
 広島大,広島大学
