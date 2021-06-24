@@ -1327,6 +1327,9 @@ URL=https://twitter.com/genkuroki/status/1289548115301634048
 =2020-08-14T15:00:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 using Plots で長さによる設定が必要な場合には using Plots.PlotMeasures しておくと、mmやcmなどが使えるようになる。
 URL=https://twitter.com/genkuroki/status/1294119785744093184
 
+=2021-06-23T22:54:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 「Juliaの」→「Plots.jlの」 「リスト」→「1次元配列」=「ベクトル」 Plots.jlのquiverの仕様は「ベクトル場のプロットに特化していない」感
+URL=https://twitter.com/genkuroki/status/1407698649140711430
+
 =2021-01-05T05:36:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 「うまく行かない場合の例」を見るのが好きな人はすぐに見るべし！ 楽しいです。
 URL=https://twitter.com/genkuroki/status/1346193924767899648
 
@@ -5373,6 +5376,9 @@ URL=https://twitter.com/genkuroki/status/1399274786568560644
 
 =2021-06-15T00:13:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 WindowsユーザーでJulia+αのインストールに自信がない人は httpst.coc70NW0obKa ↓ httpst.coH3pRiUjEEM を試してみ
 URL=https://twitter.com/genkuroki/status/1404457037627478018
+
+=2021-06-23T20:47:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 ①安定板Julia公式インストーラ + VS Code ②安定板Julia公式インストーラ + Pluto はマジで非常に簡単。
+URL=https://twitter.com/genkuroki/status/1407666737823182855
 
 =2020-12-17T23:50:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 おお！RCall.jlのビルドがそういう仕様になっていることを知らなかった。
 URL=https://twitter.com/genkuroki/status/1339583852071636992
