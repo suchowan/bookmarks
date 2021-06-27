@@ -682,6 +682,9 @@ URL=https://twitter.com/genkuroki/status/1398815255300493318
 =2021-04-16T04:45:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaがv1.0になった2018年8月にv1.0になったより前のコードは現在のJuliaで動かないことが多いので要注意。
 URL=https://twitter.com/genkuroki/status/1382782094510755842
 
+=2021-06-26T06:16:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 LTS = long term support 版のJuliaは我々一般Juliaユーザーには無関係の代物でその存在を無視してよいと思います。
+URL=https://twitter.com/genkuroki/status/1408534501064536064
+
 =2021-05-04T11:04:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 v1.5→v1.6 遅延問題が大幅に緩和 v1.6→v1.7 (nightly build) MKLをusing MKLで使用可能 2√3 と書ける。
 URL=https://twitter.com/genkuroki/status/1389400582692036611
 
@@ -1072,6 +1075,9 @@ URL=https://twitter.com/u_ribo/status/1314347143776202752
 =2020-10-13T09:25:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Valentin ChuravyさんはTwitterを使っています 「@JuliaLanguage we run PackageEvaluator.jl over the entire (registered) Julia ecosystem to
 URL=https://twitter.com/vchuravy/status/1315810802276818944
 
+=2021-06-25T23:28:37+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Victor ZさんはTwitterを使っています 「[13] Happy to announce a new release of InfiniteOpt.jl. This is a #JuliaLang modeling package for
+URL=https://twitter.com/MadVictorZ/status/1408431942090084352
+
 =2021-06-12T01:16:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/Viral B. ShahさんはTwitterを使っています 「CUDA.jl 3.3 brings some very interesting possibilities. Support for union types paves the pa
 URL=https://twitter.com/Viral_B_Shah/status/1403385556516622343
 
@@ -1224,6 +1230,9 @@ URL=https://twitter.com/chor0sK/status/1267068075750256640
 
 =2018-10-20T21:05:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/覇権を取る、Juliaパッケージの作り方 Part1 - ログミーTech
 URL=https://logmi.jp/tech/articles/321564
+
+=2021-06-26T22:34:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/門脇 瑞斗さんはTwitterを使っています 「#Julia言語 微分，簡単すぎてわろた Plotsも普通に通るので最高 httpst.conIDov8BfB3」 Twitter
+URL=https://twitter.com/kado_judo0312/status/1408780596453646342
 
 =2018-09-05T18:26:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen Kurokiさんのツイート #Julia言語 v1.0では高速に代数計算をしてくれるNemo.jlパッケージも使えます。 httpst.coVdWZwMLdp6 このパッケージを研究に使う人が出て
 URL=https://twitter.com/genkuroki/status/1054015482624266242
@@ -1822,6 +1831,9 @@ URL=https://twitter.com/LirimyDh/status/1282974834507436032
 =2021-04-14T13:41:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/LirimyさんはTwitterを使っています 「異なるサブタイプのフィールドが同一で構わないなら、これでいけると思います。 httpst.coVN7alpmI5P」 Twitter
 URL=https://twitter.com/LirimyDh/status/1382192227003162625
 
+=2021-06-26T03:33:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Lorenzo StellaさんはTwitterを使っています 「Come to the #JuliaLang side, we have multiple dispatch」 Twitter
+URL=https://twitter.com/lostella/status/1408493620815187972
+
 =2020-12-23T06:53:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Lyndon Frames WhiteさんはTwitterを使っています 「Cthulu.jl is one of the most useful #JuliaLang developer tools. httpst.copO7Fns7foV It
 URL=https://twitter.com/oxinabox_frames/status/1341502229010931713
 
@@ -2307,6 +2319,9 @@ URL=https://twitter.com/genkuroki/status/1165594837237682176
 
 =2020-10-14T01:52:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #macro macro Expr_quote(x) Expr(quote, x) end と macro QuoteNode(x) QuoteNode(x) en
 URL=https://twitter.com/genkuroki/status/1316059139135602688
+
+=2021-06-24T18:26:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #Python 「内包表記」という用語について httpst.coGsOsS3r8K0 ↓ httpst.cor4LJtDen3z 内包表記 リスト内包表記 セット
+URL=https://twitter.com/genkuroki/status/1407993496485597189
 
 =2020-09-25T20:35:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 #数値計算 小ネタ sum(f(i) for i in 1N) と sum(f, 1N) の違い。
 URL=https://twitter.com/genkuroki/status/1309456460263297024
@@ -2974,6 +2989,9 @@ URL=https://twitter.com/genkuroki/status/1372879434231861257
 =2020-10-26T09:54:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 ディスパッチについて単純化した説明 集合Ωの部分集合A,B,C,D上で同名の函数fが定義されていたとしましょう。
 URL=https://twitter.com/genkuroki/status/1320529320566124544
 
+=2021-06-27T11:01:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 デフォルトでの foo[x] の値が sin(x) になる配列もどきの構成 デフォルト値は foo[π6] = 30 とか foo[range(0, π2; len
+URL=https://twitter.com/genkuroki/status/1408968615320199174
+
 =2021-02-03T23:54:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 パイプをもっと便利に使うためのツールは色々ありますが、 httpst.coT9laLiuElE が便利だと思う。
 URL=https://twitter.com/genkuroki/status/1356979494624522245
 
@@ -3454,6 +3472,9 @@ URL=https://twitter.com/genkuroki/status/1392649615237795842
 =2019-01-16T07:04:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/(｢・ω・)｢ｶﾞｵｰさんのツイート Jupyter Notebookでタンパク質等の分子構造を見られるJuliaのパッケージだ
 URL=https://twitter.com/bicycle1885/status/1085492920113717248
 
+=2016-10-29T07:05:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/17がつくる楕円をJulia言語でプロットする - non vorrei lavorare
+URL=https://abrakatabura.hatenablog.com/entry/2016/10/29/075535
+
 =2020-01-22T07:33:51+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/1次元シュレーディンガー方程式を有限要素法で解いてみる in Julia - Qiita
 URL=https://qiita.com/cometscome_phys/items/fbeaa92fcb4b6d8c6240
 
@@ -3586,6 +3607,9 @@ URL=https://twitter.com/jordydavelaar/status/1384142346812416011
 =2018-09-14T13:41:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia 1.0でオーディオ入出力（とインパルス応答測定） - 丸井綜研
 URL=http://marui.hatenablog.com/entry/2018/09/14/134118
 
+=2021-06-26T10:37:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia BloggersさんはTwitterを使っています 「Ghess How to write a Chess Engine (Re-post) httpst.coHBTs0QFO8I」 Twitter
+URL=https://twitter.com/juliabloggers/status/1408600265469558784
+
 =2021-04-21T04:29:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia BloggersさんはTwitterを使っています 「New post Ghess How to write a Chess Engine - httpst.coj3Slro6Evf #julialang」 Twitter
 URL=https://twitter.com/juliabloggers/status/1384590106279911429
 
@@ -3609,6 +3633,9 @@ URL=https://twitter.com/julialang_news/status/1050450012684132352
 
 =2019-10-27T12:30:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia でカメラから取得した画像を描画できましたね． - Qiita
 URL=https://qiita.com/SatoshiTerasaki/items/00a921be69e1e1235ab4
+
+=2021-06-26T18:14:16+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/julia でスクレイピング - Qiita
+URL=https://qiita.com/kogad/items/0b501e642789d9478a8c
 
 =2019-05-01T17:34:06+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Julia でテキスト処理 - Qiita
 URL=https://qiita.com/Rshimura/items/4389d164840589a14ec6
@@ -4246,6 +4273,9 @@ URL=https://twitter.com/chor0sK/status/1303279345339740166
 =2021-02-04T18:30:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/講談社サイエンティフィクさんはTwitterを使っています 「『スタンフォード　ベクトル・行列からはじめる最適化数学』（225より順次発売） 298問の章末問題とは別に、Juliaによるプログラミング課題が原著者のサイトで公開されています。
 URL=https://twitter.com/kspub_kodansha/status/1357260106489090048
 
+=2021-06-26T12:54:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/門脇 瑞斗さんはTwitterを使っています 「Juliaで球面調和関数をl,mを自在に変化させてプロットできるようにしたいと思うのだが、ルジャンドル陪関数が微分を含む式なので毎回そこで頓挫する 微分を素敵にこなしてくれるパッケージを探すところから
+URL=https://twitter.com/kado_judo0312/status/1408634744225492994
+
 =2020-09-08T02:55:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/電子計算機の沼さんはTwitterを使っています 「でもコンテナに行列ファイル突っ込むだけで連立一次方程式とか固有値が解けると答え合わせが楽になるんだ 自分でソルバを書いたときにコンテナに突っ込むだけでEigenなりLisなりが呼ばれて
 URL=https://twitter.com/Hishinuma_t/status/1303029087401844736
 
@@ -4339,11 +4369,20 @@ URL=https://twitter.com/genkuroki/status/1390481047033245699
 =2021-04-16T05:04:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.cooORAZ3KGvE Dan Padilha - Modern Numerical Programming with Julia for Astrodynamic Trajectory Design
 URL=https://twitter.com/genkuroki/status/1382786811173380097
 
+=2021-06-25T18:35:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.coSx2owIFTtl httpst.coz3Bv6MX2BD の2つを参考にして書いた1次元配列のすべての置換を生成するための函数を書いた。
+URL=https://twitter.com/genkuroki/status/1408358097815363592
+
+=2021-06-25T21:13:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 httpst.coY8ROn7IXq2 意訳要約【リアルタイムシステムの開発で、最終製品Rust・プロトタイピングJuliaの組み合わせでJuliaを使いたければ使
+URL=https://twitter.com/genkuroki/status/1408397865374781450
+
 =2021-05-05T05:38:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaが説明抜きで理解可能なすっきりした文法を持ち、数式と相性がよいことを使って、以前だったら擬似コードでアルゴリズムを説明する場面で、実際に動くJuliaのコ
 URL=https://twitter.com/genkuroki/status/1389680969129496576
 
 =2020-09-04T07:32:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 JuliaでODEのEuler法をシンプルに書くとこうなります。
 URL=https://twitter.com/genkuroki/status/1301832571131633665
+
+=2021-06-24T20:18:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaで書かれた商用ソフトウェアの事例が紹介されていた ↓ httpst.coaMnivm0Sua Pumas httpst.cog7N17hOaVC Juli
+URL=https://twitter.com/genkuroki/status/1408021675828867074
 
 =2021-03-16T20:59:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Julia言語で10行 httpst.coTormeXXi8q (15) 二項分布モデル内の標本分布で測った95%信頼区間にモデルのパラメーター値が含まれる確率のプ
 URL=https://twitter.com/genkuroki/status/1371793118203322374
@@ -4773,6 +4812,9 @@ URL=https://twitter.com/genkuroki/status/1166007744148594688
 
 =2020-06-30T08:06:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 でのデータフレームの取り扱いをパズルを例に解説。 Juliaのコードに対応するPythonとRのコードも載っているので、PythonまたはRのユーザーも楽しめるかも
 URL=https://twitter.com/genkuroki/status/1277647201586405376
+
+=2021-06-27T03:57:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 の良いところ：NumPyの類が無用になること。 Juliaではデフォルト状態で効率的で抽象化された多次元配列を使えます。 Pythonの悪いところ：NumPyのよう
+URL=https://twitter.com/genkuroki/status/1408862042010755077
 
 =2020-08-05T21:48:01+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 よくある誤解 「PythonもNumpyを使ってforループを消せば速い」は事実でしょうが、「Juliaはforループが速い」ことと対比させるのは、ひどく 　　　　
 URL=https://twitter.com/genkuroki/status/1290900708200345602
@@ -5358,6 +5400,9 @@ URL=https://twitter.com/genkuroki/status/1386155791376211968
 
 =2021-05-30T11:49:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Pluto.jlでRevise.jlを使用できれば問題解決だと思うのですが、その方法がさっぱり分からない。
 URL=https://twitter.com/genkuroki/status/1398833794073862147
+
+=2021-06-25T20:59:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Plutoを使っている人は多いと思うのですが、デフォルトのセルの幅が狭いと思っている人は結構いると思う。
+URL=https://twitter.com/genkuroki/status/1408394424644603904
 
 =2021-04-07T14:54:48+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 PyCall.jlが全く使えないということなのかな？私も最初ハマった。
 URL=https://twitter.com/genkuroki/status/1379673998292701186
@@ -5997,6 +6042,9 @@ URL=https://twitter.com/genkuroki/status/1310814237392949250
 
 =2021-06-05T12:45:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 のPerformance Tipsの最初の節は httpst.co9bsQxvXJhV Avoid global variables グローバル変数を使った計算をし
 URL=https://twitter.com/genkuroki/status/1401022376813359110
+
+=2021-06-26T08:47:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 のコードが本番品質のFortranの同等のアルゴリズムである特殊関数の実装よりも高速であることがよくある実例 【JuliaがFortranコードを打ち負かすことがで
+URL=https://twitter.com/genkuroki/status/1408572479950315521
 
 =2020-07-15T14:17:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 の分かりやすい欠点は、パッケージの読み込みやJITコンパイルに時間が取られることです。
 URL=https://twitter.com/genkuroki/status/1283093968020926496
