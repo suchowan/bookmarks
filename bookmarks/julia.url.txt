@@ -6166,6 +6166,9 @@ URL=https://twitter.com/genkuroki/status/1339895508094001152
 =2020-10-07T14:08:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私のスキルでは直接的な証拠を示すことができないので、簡単な実験をしてみました。
 URL=https://twitter.com/genkuroki/status/1313707640099270657
 
+=2021-07-01T01:16:53+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私の環境では 9.63 sec ← Python 3.8.5 0.361 sec ←Python 3.8.5 + numba 0.53.1 0.185 sec ← 
+URL=https://twitter.com/genkuroki/status/1410271129323786244
+
 =2020-08-17T08:01:04+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 私の環境では、100×100の周期境界条件の盤面の1000回更新に 42.5 ms かかりました。
 URL=https://twitter.com/genkuroki/status/1295260080691060737
 
