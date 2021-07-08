@@ -2653,6 +2653,9 @@ URL=https://twitter.com/genkuroki/status/1386822470682906629
 =2020-10-01T15:33:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 nothing と missing の違い nothing は「何もないこと」を意味し、「値を何も返さない函数の返り値」として使われる。
 URL=https://twitter.com/genkuroki/status/1311554849406775297
 
+=2021-07-07T16:55:07+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 pairs函数はkeys函数を使っていて、keys函数は辞書に対応しているだけではなく、配列にも対応していて、任意始まりインデックスにも対応している。
+URL=https://twitter.com/genkuroki/status/1412681572805795846
+
 =2021-05-18T19:39:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Plots.plot などは NaN を作画しないので、プロットして欲しくない場所の値はNaNにしておくとよいです。
 URL=https://twitter.com/genkuroki/status/1394603598353367042
 
@@ -3280,6 +3283,9 @@ URL=https://twitter.com/genkuroki/status/1305891974126346242
 =2021-04-28T02:44:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 素晴らしい！しかし惜しい！ @. y = sin(x + 2t) は本質的に y .= sin.(x .+ 2 . t) と等価。
 URL=https://twitter.com/genkuroki/status/1387100354454585344
 
+=2021-07-07T19:58:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 結構便利なのが julia&gt; help&gt; splat のように で囲んで検索できること。 r～ で正規表現も使える。
+URL=https://twitter.com/genkuroki/status/1412727652201340933
+
 =2021-04-09T00:11:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 絶対値が1e-10以下なら0にする函数を書く small2zero(x, ε=1e-10) = ifelse(abs(x) ≤ ε, zero(x), x) 配列A
 URL=https://twitter.com/genkuroki/status/1380176459218612226
 
@@ -3388,8 +3394,14 @@ URL=https://twitter.com/genkuroki/status/1392081337893355520
 =2020-10-22T04:12:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@phasetrbot #Julia言語 既存の型についての理解はそのまま自前の型の定義に繋がります。
 URL=https://twitter.com/genkuroki/status/1318993646541131776
 
+=2021-07-07T17:20:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@physics303 #Julia言語 ああ、ミスリードして無駄な手間をかけさせてしまったようでごめんなさい。
+URL=https://twitter.com/genkuroki/status/1412688060521717761
+
 =2020-12-10T14:16:13+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@physics303 @antimon2 #Julia言語 s = (4, 3, 2) X = Array{Float64, 3}(undef, s) だと、型名を知っていないとダ
 URL=https://twitter.com/genkuroki/status/1336902520308867073
+
+=2021-07-07T17:15:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@physics303 @ppp3141592ppp #Julia言語 CartesianIndex型オブジェクトのタプルのフィールドに直接アクセスするのはちょっと気持ち悪いので、
+URL=https://twitter.com/genkuroki/status/1412686654154833922
 
 =2020-12-02T07:46:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@physics303 @triwave33 #Julia言語 おお！ httpst.co4VGQZ9EfRN はシンプルでよくできていますね！(添付画像3) これに頼らない方法とし
 URL=https://twitter.com/genkuroki/status/1333905344536350721
@@ -4200,6 +4212,9 @@ URL=https://twitter.com/nekomath271828/status/1342430212059885569
 
 =2021-03-01T21:02:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/み　ぽさんはTwitterを使っています 「「pは素数、2p+1も素数、2(2p+1)+1も素数…みたいな列ってどんくらい続くのかな？」という素朴な疑問でプログラミングしてたら、これは第1種カニンガム鎖というやつだった！調べてみよう！…という記事を
 URL=https://twitter.com/nekomath271828/status/1366358196923719680
+
+=2021-07-07T20:24:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/み　ぽさんはTwitterを使っています 「「あああああああああああ」ってなるコラッツ予想の55（Juliaで計算しました） httpst.cofWPaI6tCcF」 Twitter
+URL=https://twitter.com/nekomath271828/status/1412734255457705988
 
 =2021-01-02T18:59:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/み　ぽさんはTwitterを使っています 「【AbstractAlgebra.jl】Juliaで代数学をやってみたいんじゃ② ～剰余環を使って√2やiをつくろう～ 「剰余環を使える！？ではJuliaで代数的数をつくるぞ！」という内容です。
 URL=https://twitter.com/nekomath271828/status/1345308727100932103
@@ -5028,6 +5043,9 @@ URL=https://qiita.com/Ag_smith/items/0352890b8cf3420765d0
 
 =2019-02-01T07:50:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/JuliaからRustの関数を呼び出す - Qiita
 URL=https://qiita.com/termoshtt/items/65c47069fa67037f972d
+
+=2021-07-07T05:58:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/JuliaでPyCallを使うあなたへ～PyObjectってどうやって扱うねんっていう気持ちに対しての一考察～ - Qiita
+URL=https://qiita.com/takahashi-ry/items/3c247bb30fad12168c96
 
 =2019-02-13T07:52:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Juliaで関数呼び出しでどのメソッドが実行されてるかを表示するマクロを書いてみた。ちょっと便利。
 URL=https://twitter.com/bicycle1885/status/1095506806611238913
