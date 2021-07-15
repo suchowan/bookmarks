@@ -48,7 +48,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-06-24T13:50:50+09:00 Computer/トピック/セキュリティ/keywords
+=2021-07-15T13:28:23+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -205,6 +205,7 @@ Prometei
 デジタルキー
 ISRG
 不具合
+ライフログ
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -840,7 +841,7 @@ Ops
 オンデマンド交通
 報連相
 
-=2020-06-18T16:25:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
+=2021-07-15T13:28:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
 映え
 裁判官
@@ -860,6 +861,7 @@ MMEye
 感情分析
 ダイナミックプライシング
 価値
+採寸
 
 =2020-08-27T12:49:34+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/keywords
 囲碁
@@ -989,7 +991,7 @@ Dating
 名刺将棋
 婚活
 
-=2021-04-01T15:31:21+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2021-07-15T13:28:22+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1084,8 +1086,9 @@ MRI
 心拍
 Health
 除菌
+リハビリ
 
-=2021-05-13T12:37:34+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
+=2021-07-15T13:28:23+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
 ワイン
 ビール
@@ -1100,6 +1103,8 @@ Retty
 ガストロノミー
 配膳
 飲料
+バウムクーヘン
+アロマ
 
 =2021-03-18T12:50:14+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
@@ -1802,6 +1807,9 @@ AxelGlobe
 
 =2017-09-15T11:11:54+09:00 Computer/トピック/社会動向/企業/AZAPA/keywords
 DBT,Deep Binary Tree
+
+=2021-07-15T13:29:10+09:00 Computer/トピック/社会動向/企業/Azmee/keywords
+アズミー,Azmee
 
 =2017-11-22T16:46:42+09:00 Computer/トピック/社会動向/企業/B.b.designLab/keywords
 IPD-360VR
@@ -2541,6 +2549,9 @@ Youtube,YouTube
 =2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/企業/GoPro/keywords
 Karma
 
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/Gorilla Technology/keywords
+IVAR
+
 =2019-04-02T11:44:22+09:00 Computer/トピック/社会動向/企業/grabss/keywords
 TIGET
 FaceOpen
@@ -2771,6 +2782,9 @@ megaro
 puzzle
 マネージドAzure
 
+=2021-07-15T13:32:22+09:00 Computer/トピック/社会動向/企業/Jij/keywords
+ジェイアイジェイ,Jij
+
 =2017-09-04T12:24:06+09:00 Computer/トピック/社会動向/企業/JIT/keywords
 ICO MARKET
 
@@ -2864,6 +2878,9 @@ Leaner
 =2019-05-16T11:13:58+09:00 Computer/トピック/社会動向/企業/Lenovo/keywords
 Lenovo,レノボ
 ThinkReality
+
+=2021-07-15T13:28:22+09:00 Computer/トピック/社会動向/企業/LEOC/keywords
+Lappy
 
 =2018-05-24T10:25:30+09:00 Computer/トピック/社会動向/企業/LG/keywords
 ThinQ AI
@@ -3061,6 +3078,9 @@ Lobe
 
 =2017-03-29T11:53:02+09:00 Computer/トピック/社会動向/企業/Mighty AI/keywords
 Mighty AI,マイティAI
+
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/Miletos/keywords
+SAPPHIRE
 
 =2017-10-10T13:20:35+09:00 Computer/トピック/社会動向/企業/Mirantis/keywords
 Mirantis,ミランティス
@@ -4189,6 +4209,9 @@ CoeFont STUDIO
 =2019-10-14T13:21:49+09:00 Computer/トピック/社会動向/企業/Yixin Science/keywords
 頤信科技,Yixin Science
 
+=2021-07-15T13:29:37+09:00 Computer/トピック/社会動向/企業/YOJO Technologies/keywords
+YOJO,YOJO Technologies
+
 =2018-06-15T17:13:16+09:00 Computer/トピック/社会動向/企業/Yoki/keywords
 HACO
 HACREW
@@ -4578,6 +4601,9 @@ JouleLife,ジュールライフ
 =2017-03-30T11:46:55+09:00 Computer/トピック/社会動向/企業/ウォンテッドリー/keywords
 ウォンテッドリー,Wantedly
 Wantedly People
+
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/ウォンバットテクノロジ/keywords
+Nitte
 
 =2017-08-14T12:34:25+09:00 Computer/トピック/社会動向/企業/ウォーターセル/keywords
 アグリノート
@@ -5273,9 +5299,9 @@ BoID
 =2017-04-04T15:01:21+09:00 Computer/トピック/社会動向/企業/スリーアイズ/keywords
 CANDY
 
-=2019-12-26T15:35:55+09:00 Computer/トピック/社会動向/企業/セイコーエプソン/keywords
+=2021-07-15T13:31:27+09:00 Computer/トピック/社会動向/企業/セイコーエプソン/keywords
 WorkSense
-エプソン,セイコーエプソン
+セイコー,エプソン,セイコーエプソン
 
 =2020-12-24T12:07:22+09:00 Computer/トピック/社会動向/企業/セカイセールスコンサルティング/keywords
 フォトン
@@ -5315,7 +5341,8 @@ CLIP STUDIO PAINT
 =2018-03-12T11:00:23+09:00 Computer/トピック/社会動向/企業/セレス/keywords
 モッピー
 
-=2020-12-31T18:05:58+09:00 Computer/トピック/社会動向/企業/セントマティック/keywords
+=2021-07-15T12:32:52+09:00 Computer/トピック/社会動向/企業/セントマティック/keywords
+SCENTMATIC,セントマティック
 KAORIUM
 
 =2020-11-05T13:33:06+09:00 Computer/トピック/社会動向/企業/セーフィー/keywords
@@ -5487,6 +5514,9 @@ Advertising as a Service,AaaS
 =2021-04-15T12:25:20+09:00 Computer/トピック/社会動向/企業/ツインプラネット/keywords
 NEO AVATAR GOVERNANCE
 
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/ツクルバ/keywords
+cowcamo
+
 =2018-03-08T17:56:12+09:00 Computer/トピック/社会動向/企業/ティアフォー/keywords
 ティアフォー,Tier IV
 Milee,マイリー
@@ -5511,6 +5541,9 @@ mijin
 
 =2017-04-10T14:26:42+09:00 Computer/トピック/社会動向/企業/テックファーム/keywords
 テックファーム,Techfirm
+
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/テトラ・アビエーション/keywords
+Mk-5
 
 =2019-11-21T14:00:07+09:00 Computer/トピック/社会動向/企業/テムザック/keywords
 SOWAN
@@ -5899,6 +5932,9 @@ Bebot
 =2021-03-04T10:57:38+09:00 Computer/トピック/社会動向/企業/ビーラボ/keywords
 GUARDIAN Security Tag
 
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/ピクシーダストテクノロジーズ/keywords
+DeepWear
+
 =2019-05-04T11:24:11+09:00 Computer/トピック/社会動向/企業/ピクスタ/keywords
 PIXTA,ピクスタ
 
@@ -6168,6 +6204,9 @@ miel
 =2017-03-30T11:37:26+09:00 Computer/トピック/社会動向/企業/メタデータ/keywords
 Montage
 AIポジショニングマップMr.DATA
+
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/メディロム/keywords
+MOTHER
 
 =2017-04-26T07:46:33+09:00 Computer/トピック/社会動向/企業/メトロエンジン/keywords
 民泊ダッシュボード
@@ -6848,9 +6887,10 @@ GAIA
 MagicPrice
 ホテル番付
 
-=2019-06-13T12:59:41+09:00 Computer/トピック/社会動向/企業/空色/keywords
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/空色/keywords
 OK SKY
 クロちゃん音声AIボット
+WhatYa
 
 =2017-04-11T13:16:17+09:00 Computer/トピック/社会動向/企業/竹中工務店/keywords
 ビルコミュニケーションシステム,ビルコミ
@@ -7110,6 +7150,9 @@ People Driven Marketing
 電通国際情報サービス,ISID
 IoVB,Internet of Value by Blockchain
 
+=2021-07-15T13:31:54+09:00 Computer/トピック/社会動向/企業/青山/keywords
+青山,青山商事
+
 =2018-01-17T15:05:53+09:00 Computer/トピック/社会動向/企業/飼育係/keywords
 Coin Tool,コインツール
 
@@ -7270,7 +7313,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2021-03-25T12:57:09+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -7362,6 +7405,7 @@ TSUBAME
 浜松市
 枚方市
 藤沢市
+南相馬市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
