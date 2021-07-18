@@ -553,6 +553,9 @@ URL=https://twitter.com/genkuroki/status/1375592072904728576
 =2021-06-06T10:30:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 は大学院生のお兄さん達が草の根で作り始めたプログラミング言語なのですが、そこに十代の少年も開発に参加して来た。
 URL=https://twitter.com/genkuroki/status/1401350791303098372
 
+=2021-07-18T15:30:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 は超巨大企業の支援を受けていたり、超巨大な潜在的開発者集団を抱えているプロジェクトではないです。
+URL=https://twitter.com/genkuroki/status/1416646611719970825
+
 =2021-03-28T16:53:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 リポジトリを覗くと、Juliaのコア開発者の側がabstract typeにフィールドを付けられるようにすることを提案し、議論の結果、そうしない方が良いことを説得さ
 URL=https://twitter.com/genkuroki/status/1376079979293724673
 
@@ -630,6 +633,9 @@ URL=https://www.eureka-moments-blog.com/entry/2020/09/06/102455
 
 =2021-04-18T08:13:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Juliaのバージョンを上げる手順
 URL=https://zenn.dev/hctaw_srp/articles/d6047b7cce7894
+
+=2021-07-17T19:01:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Katabira not SUSY しろっこーさんはTwitterを使っています 「いつの間にかTOMLが1.0になってていつの間にかJuliaのTOML parserが標準化してる上にいつの間にかv1.0に対応してる...」 Twitter
+URL=https://twitter.com/ultimatile/status/1416337358551617536
 
 =2020-08-31T07:19:22+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/バージョン/Ki7cbさんはTwitterを使っています 「Julia 1.5からbitreverseっていうbit列順番を反転させる関数が実装されてた 地味に嬉しい reverse(bitstring(0xa06e)) == bitstring(bitrev
 URL=https://twitter.com/Ki7cb/status/1300366584439996417
@@ -1924,6 +1930,9 @@ URL=https://twitter.com/tchaikovsky1026/status/1363780513396269064
 =2020-09-17T18:38:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/NABさんはTwitterを使っています 「httpst.coKeYbrHXqHG」 Twitter
 URL=https://twitter.com/vnb15_19hus/status/1306527962552889346
 
+=2021-07-15T08:14:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Natsulait(なつれ)@WissensdurstigさんはTwitterを使っています 「#JuliaLang Pluto.jlでprintlnしたいとき，with_terminal() do をつけないと出力されないけれど，少し面倒な気がす
+URL=https://twitter.com/NatsureNatsure/status/1415449720487481344
+
 =2020-09-05T19:33:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/NyohoさんはTwitterを使っています 「#Julia言語 でprintfデバッグみたいなのじゃないデバッグメッセージどうやって出すのかと思って調べました。
 URL=https://twitter.com/NeXTSTEP2OSX/status/1302031286396100608
 
@@ -2616,6 +2625,9 @@ URL=https://twitter.com/genkuroki/status/1347121454932873216
 
 =2020-12-24T01:45:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaは begin-origin. 例えば0始まりだったり、-100始まりのインデックスであることもあり得る。
 URL=https://twitter.com/genkuroki/status/1341787008797081600
+
+=2021-07-18T01:50:28+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaは、人間が引数の型などを書かなくても、コンピュータの性能を使い切るようなネイティブコードにコンパイルして実行できる仕様になっています。
+URL=https://twitter.com/genkuroki/status/1416440174263689219
 
 =2020-10-26T08:34:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Juliaは実行前にすべてを静的に型チェックをしてから実行可能な仕組みではないので、【型を指定することによって、より厳格かつ正確なプログラムを作成することができます
 URL=https://twitter.com/genkuroki/status/1320508951335587840
@@ -3997,6 +4009,9 @@ URL=https://qiita.com/ryuNagai/items/11013165924e81d9858f
 =2020-10-14T00:46:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Matteo AngelinelliさんはTwitterを使っています 「Today I gave a talk to present the results of my first year of PhD. This is a short movie
 URL=https://twitter.com/MatteoAnge/status/1316042544241930244
 
+=2021-07-15T06:14:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/Michael P.H. StumpfさんはTwitterを使っています 「Useful thread full of arguments why #julialang is good for scientific computing, and h
+URL=https://twitter.com/theosysbio/status/1415419443488780289
+
 =2021-04-07T14:05:49+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/miguelrazさんはTwitterを使っています 「Step 1 Someone asks about a function to count primes smaller than n on the Julia Discourse.
 URL=https://twitter.com/miguelraz_/status/1379661668779651074
 
@@ -4398,6 +4413,9 @@ URL=https://twitter.com/kado_judo0312/status/1408634744225492994
 
 =2021-07-08T16:34:50+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/門脇 瑞斗さんはTwitterを使っています 「初期値を[1.0,5.0]で選んでもcurve_fitで[1.0,2.0]くらいまで推定してくれる，これは普通？優秀だと思ってるんだけど httpst.coIX4Jjr40kB」 Twitter
 URL=https://twitter.com/kado_judo0312/status/1413038856132198400
+
+=2021-07-15T07:16:59+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/階層モデルの予測分布 数値実験部屋
+URL=https://kita-py-yuru.com/articles/2021-07-15.html
 
 =2020-09-08T02:55:18+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/電子計算機の沼さんはTwitterを使っています 「でもコンテナに行列ファイル突っ込むだけで連立一次方程式とか固有値が解けると答え合わせが楽になるんだ 自分でソルバを書いたときにコンテナに突っ込むだけでEigenなりLisなりが呼ばれて
 URL=https://twitter.com/Hishinuma_t/status/1303029087401844736
@@ -5923,6 +5941,9 @@ URL=http://lpha-z.hatenablog.com/entry/2020/10/04/231500
 =2020-12-30T07:10:17+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/【Julia 】ループをつかった多次元配列アクセスの速度比較
 URL=https://zenn.dev/akio_tomiya/articles/8390fe04d18827
 
+=2021-07-16T20:06:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/あんちもん2さんはTwitterを使っています 「@dhotta_met 手元の環境でJuliav1.6.1(+CUDA.jl)で試しました（コア数12なのでJULIA_NUM_THREADS=10で）が約3倍速にはなりました。
+URL=https://twitter.com/antimon2/status/1415991186142089220
+
 =2020-07-17T20:22:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/かなまろさんはTwitterを使っています 「#Julia言語 StaticArrays.jlで計算がめっちゃ速くなって、思わず悲鳴が出た。
 URL=https://twitter.com/kanamaro_san/status/1283808132171366400
 
@@ -6231,6 +6252,9 @@ URL=https://twitter.com/genkuroki/status/1290900708200345602
 
 =2020-04-05T07:56:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 を使い始める人は、計算速度の気軽な向上に興味がある人だと思うので、公式ドキュメントの httpst.coQnrgjWNFPi Performance Tips から
 URL=https://twitter.com/genkuroki/status/1246726529909813250
+
+=2021-07-17T21:03:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 を使っていて楽しいのは、ちょっとした最適化で爆速になる場合なのですが、function f(XVector{Float64}) ～ end のように引数の型を無駄に
+URL=https://twitter.com/genkuroki/status/1416367957601525765
 
 =2021-06-22T03:35:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 グローバルスコープで a = 1.0 hoge(x, a) = exp(-x^2(2a)) f(x) = hoge(x, a) と書くと、函数f(x)の中で引数を経
 URL=https://twitter.com/genkuroki/status/1407044525177118725
