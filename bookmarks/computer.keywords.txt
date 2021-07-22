@@ -1,4 +1,4 @@
-=2021-06-17T13:41:07+09:00 Computer/トピック/VR・AR・MR/keywords
+=2021-07-22T13:23:13+09:00 Computer/トピック/VR・AR・MR/keywords
 HoloLens
 Owlii
 cybARnet
@@ -37,6 +37,7 @@ VFX
 空間再現
 立体映像
 360度映像
+バーチャルツアー
 
 =2019-12-26T15:34:27+09:00 Computer/トピック/VR・AR・MR/VTuber/keywords
 Ｖチューバー,Vチューバー,Vtuber,VTuber
@@ -841,7 +842,7 @@ Ops
 オンデマンド交通
 報連相
 
-=2021-07-15T13:28:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
+=2021-07-22T13:23:13+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
 映え
 裁判官
@@ -862,6 +863,7 @@ MMEye
 ダイナミックプライシング
 価値
 採寸
+反社チェック
 
 =2020-08-27T12:49:34+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/keywords
 囲碁
@@ -991,7 +993,7 @@ Dating
 名刺将棋
 婚活
 
-=2021-07-15T13:28:22+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2021-07-22T13:23:13+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1087,6 +1089,7 @@ MRI
 Health
 除菌
 リハビリ
+マラリア
 
 =2021-07-15T13:28:23+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -2017,6 +2020,9 @@ CM総研,CM総合研究所
 
 =2017-08-21T10:37:35+09:00 Computer/トピック/社会動向/企業/Cobalt/keywords
 コバルト,cobalt
+
+=2021-07-22T13:23:15+09:00 Computer/トピック/社会動向/企業/Coeto/keywords
+Wacha
 
 =2019-01-03T11:31:48+09:00 Computer/トピック/社会動向/企業/Cogent Labs/keywords
 Tegaki
@@ -3240,6 +3246,9 @@ root C
 =2020-06-25T15:04:17+09:00 Computer/トピック/社会動向/企業/NEWJI/keywords
 NEWJI VR
 
+=2021-07-22T13:24:43+09:00 Computer/トピック/社会動向/企業/Next Insurance/keywords
+ネクスト・インシュアランス,Next Insurance
+
 =2017-04-11T09:35:05+09:00 Computer/トピック/社会動向/企業/Nextremer/keywords
 AI Samurai
 MINARAI
@@ -3894,6 +3903,9 @@ Pagez Marketing Cloud
 
 =2017-03-29T09:37:51+09:00 Computer/トピック/社会動向/企業/Studio Ousia/keywords
 QA Engine
+
+=2021-07-22T13:23:14+09:00 Computer/トピック/社会動向/企業/subLimer/keywords
+ベックスバーガー
 
 =2019-02-28T15:47:53+09:00 Computer/トピック/社会動向/企業/Super AI/keywords
 Superb AI
@@ -4628,12 +4640,13 @@ Pairs
 =2017-03-30T11:52:53+09:00 Computer/トピック/社会動向/企業/エキサイト/keywords
 wisteria
 
-=2020-01-23T20:33:33+09:00 Computer/トピック/社会動向/企業/エクサウィザーズ/keywords
+=2021-07-22T13:23:14+09:00 Computer/トピック/社会動向/企業/エクサウィザーズ/keywords
 エクサウィザーズ,ExaWizards
 エクサインテリジェンス,ExaIntelligence
 デジタルセンセーション
 exaBase
 Qontextual
+CareWiz
 
 =2017-03-30T11:53:26+09:00 Computer/トピック/社会動向/企業/エクスウェア/keywords
 TalkQA
@@ -6331,6 +6344,9 @@ Mono Painter
 =2019-02-10T15:30:14+09:00 Computer/トピック/社会動向/企業/ラトックシステム/keywords
 ラトック,ラトックシステム
 
+=2021-07-22T13:24:23+09:00 Computer/トピック/社会動向/企業/ラピッドセブン/keywords
+Rapid7,ラピッドセブン
+
 =2017-04-24T07:27:17+09:00 Computer/トピック/社会動向/企業/ランサーズ/keywords
 ランサーズ,LANCERS
 pook
@@ -6416,6 +6432,9 @@ SilentLog Analytics
 
 =2018-08-04T07:26:23+09:00 Computer/トピック/社会動向/企業/レッジ/keywords
 Ledge.ai
+
+=2021-07-22T13:23:14+09:00 Computer/トピック/社会動向/企業/レッドホースコーポレーション/keywords
+REDEE
 
 =2017-05-09T07:27:20+09:00 Computer/トピック/社会動向/企業/レトリバ/keywords
 Sedue,セデュー
@@ -6768,12 +6787,13 @@ LAWGUE
 DataRobot
 absonne,アブソンヌ
 
-=2021-02-12T11:17:19+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
+=2021-07-22T13:23:14+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
 日本郵便
 ゆうちょ銀行
 郵便局
 ゆうちょ
+郵便
 
 =2017-12-15T16:08:50+09:00 Computer/トピック/社会動向/企業/日本電産/keywords
 Motorize
