@@ -1780,8 +1780,8 @@ curara
 Zenbo
 Asus,ASUS
 
-=2018-10-01T11:15:55+09:00 Computer/トピック/社会動向/企業/atama plus/keywords
-atama＋,atama plus
+=2021-07-29T11:56:26+09:00 Computer/トピック/社会動向/企業/atama plus/keywords
+アタマプラス,atama＋,atama plus
 
 =2017-09-19T08:24:36+09:00 Computer/トピック/社会動向/企業/Atlassian/keywords
 Atlassian,アトラシアン
@@ -2414,6 +2414,9 @@ Coroban
 
 =2018-02-02T09:06:13+09:00 Computer/トピック/社会動向/企業/FUGU INNOVATIONS/keywords
 AUDUBE
+
+=2021-07-29T11:54:49+09:00 Computer/トピック/社会動向/企業/G1 Technology/keywords
+Vnode
 
 =2020-10-01T14:22:26+09:00 Computer/トピック/社会動向/企業/GA technologies/keywords
 Renosy
@@ -4080,6 +4083,9 @@ UR5e
 =2018-12-16T11:09:41+09:00 Computer/トピック/社会動向/企業/USEN-NEXT/keywords
 USEN,U-NEXT,USEN-NEXT
 innto
+
+=2021-07-29T11:54:49+09:00 Computer/トピック/社会動向/企業/UsideU/keywords
+TimeRep
 
 =2019-01-30T13:13:29+09:00 Computer/トピック/社会動向/企業/Valeo/keywords
 ヴァレオ,Valeo
@@ -5877,7 +5883,7 @@ PASMO,パスモ
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2021-02-12T11:17:18+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2021-07-29T11:54:49+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
@@ -5892,6 +5898,7 @@ HOSPI
 Aug Lab
 PiiMo
 NICOBO
+WisTalk
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
@@ -7212,7 +7219,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2021-07-08T12:54:41+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2021-07-29T11:54:49+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -7251,6 +7258,7 @@ EPFL
 カリフォルニア工科大
 ミュンヘン工科大学
 南カリフォルニア大
+南オーストラリア大学
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
