@@ -3076,6 +3076,9 @@ URL=https://twitter.com/genkuroki/status/1310561009069744129
 =2020-09-15T21:48:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 のmultiple dispatchを使い始めたとき、最初に出会う「うざいこと」は 　　MethodError f(～) is ambiguous と言われまくるこ
 URL=https://twitter.com/genkuroki/status/1305851097341333504
 
+=2021-08-05T02:02:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 の「お気楽にも使用可能」という特徴を支えているのは、計算速度その他の点で悪者扱いされがちな型不安定なコードでも動いてくれること。
+URL=https://twitter.com/genkuroki/status/1422966093690277892
+
 =2020-04-26T08:13:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 の「べからず集」の httpst.costETLyAcLx JuliaLang Antipatterns が結構おもろい。 最初の例は、安易な方法で実装されていない
 URL=https://twitter.com/genkuroki/status/1254338077457145856
 
@@ -5341,6 +5344,9 @@ URL=https://twitter.com/KTYDRCB/status/1413294183217958914
 =2020-08-07T07:38:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/LirimyさんはTwitterを使っています 「JuliaCon の動画を見て雰囲気はつかめたと思うので、BinaryBuilder.jl によるバイナリの生成・配布の流れをまとめていきたい。
 URL=https://twitter.com/LirimyDh/status/1291727201176436736
 
+=2021-08-05T06:22:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/M1 macでjuliaをVSCodeで使いたい。できればJupyterで。
+URL=https://zenn.dev/dannchu/articles/44c981b37c28a7
+
 =2020-12-20T12:26:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/M1-Macに乗り換えさんはTwitterを使っています 「M1 MacでもJuliaからPyPlot使えるようになった Juliaのconda仮想環境でPython3.85のmatplotlibとnumpyも動くようだ #Julia言語 #M1M
 URL=https://twitter.com/kabukauna/status/1340498854999805952
 
@@ -5367,6 +5373,9 @@ URL=https://twitter.com/msekino_ml/status/1321324724912156672
 
 =2020-10-18T09:22:30+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/msekino_mlさんはTwitterを使っています 「JuliaからPython呼ぶPyCallがめちゃくちゃ快適で驚いている・・ using PyCall @ pyimport lightgbm as lgb X = rand(100, 2)
 URL=https://twitter.com/msekino_ml/status/1317622044373086208
+
+=2021-08-04T20:37:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Natsulait(なつれ)@WissensdurstigさんはTwitterを使っています 「#julialang #Pluto #julia Juliaを立ち上げて，Pluto notebookを立ち上げるためのコマンドusing Pluto;
+URL=https://twitter.com/NatsureNatsure/status/1422884514955612160
 
 =2021-08-01T00:10:20+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Natsulait(なつれ)@WissensdurstigさんはTwitterを使っています 「#Pluto #julialang Pluto.jlで綺麗にボックスを描けたのでシェア． `!!! note 定義`以降のインデントが大事．インデントが
 URL=https://twitter.com/NatsureNatsure/status/1421488406668857346
@@ -5484,6 +5493,9 @@ URL=https://twitter.com/yuichiro_minato/status/1338755251558498304
 
 =2020-11-27T17:45:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Yuki NagaiさんはTwitterを使っています 「ExcelでJulia動かすプロジェクトがあるのか… JuliaPro - Julia Computing httpst.compmuDdoZsJ」 Twitter
 URL=https://twitter.com/cometscome_phys/status/1332244132467654656
+
+=2021-08-05T00:28:41+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/Yuki NagaiさんはTwitterを使っています 「外部パッケージの追加が容易な点？c++やFortranで誰かが作ったパッケージを使おうとするとそのインストールのためのコンパイルが大変で、複数あると整合性を保ってインストールするのが難しい。
+URL=https://twitter.com/cometscome_phys/status/1422942574671585284
 
 =2020-11-03T13:48:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/環境/zumi3さんはTwitterを使っています 「Windows10のWSl2にUbuntu20.4+Docker構築完了！これで、jupyterJuliaRstudioCudaを使い分けて、分析PJごとに柔軟な分析環境を実現できた。
 URL=https://twitter.com/zuminor3/status/1323487241545527297
