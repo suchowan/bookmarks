@@ -1447,6 +1447,9 @@ URL=https://twitter.com/genkuroki/status/1407698649140711430
 =2021-01-05T05:36:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 「うまく行かない場合の例」を見るのが好きな人はすぐに見るべし！ 楽しいです。
 URL=https://twitter.com/genkuroki/status/1346193924767899648
 
+=2021-08-11T23:53:11+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 あるパッケージが古いパッケージに依存していると、すべてのパッケージを最新にできなくなったりします。
+URL=https://twitter.com/genkuroki/status/1425470356312100871
+
 =2021-07-14T20:16:26+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/パッケージ/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 では julia&gt; ] pkg&gt; generate Hoge pkg&gt; dev .Hoge だけで自作パッケージのひな型Hogeを作って使えるので
 URL=https://twitter.com/genkuroki/status/1415268948312920066
 
@@ -2001,6 +2004,9 @@ URL=https://twitter.com/vnb15_19hus/status/1306527962552889346
 
 =2021-07-15T08:14:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Natsulait(なつれ)@WissensdurstigさんはTwitterを使っています 「#JuliaLang Pluto.jlでprintlnしたいとき，with_terminal() do をつけないと出力されないけれど，少し面倒な気がす
 URL=https://twitter.com/NatsureNatsure/status/1415449720487481344
+
+=2021-08-11T09:13:23+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Natsulait(なつれ)@WissensdurstigさんはTwitterを使っています 「#julialang `cutoff_points(Type{NoCutoff}) = 0` 引数の名前が書かれてないけど，型が書かれているのはどう解釈
+URL=https://twitter.com/NatsureNatsure/status/1425248947635777538
 
 =2021-07-23T09:57:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Natsulait(なつれ)@WissensdurstigさんはTwitterを使っています 「#julialang どうやって任意のインターバルでベクトルの要素をとって来れるだろうか．例えばPythonではarray[10]とできるけれど，
 URL=https://twitter.com/NatsureNatsure/status/1418374562736005122
@@ -3069,6 +3075,9 @@ URL=https://twitter.com/genkuroki/status/1395413218038730752
 
 =2021-03-09T20:28:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 どのパッケージでプロットしたのか分かりませんが、左端または右端に達たら値を NaN に設定しておけば余計な横線を消せると思います。
 URL=https://twitter.com/genkuroki/status/1369248680658620424
+
+=2021-08-12T06:33:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 どれだけ楽に、他人が書いたコードに変更を要求することなく、新しい型やメソッドを付け加えることができるようになるか、という問題はソフトウェアエンジニアリングの基本的な
+URL=https://twitter.com/genkuroki/status/1425571132636229632
 
 =2021-02-11T18:04:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 などにおけるドット記法によるブロードキャストは、函数 fA→B を函数 f. Vector{A} → Vector{B} などに対応させる函手(functor)であ
 URL=https://twitter.com/genkuroki/status/1359790463658520580
@@ -4530,6 +4539,9 @@ URL=https://twitter.com/rencho111620/status/1347574036256104449
 
 =2021-03-02T07:47:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/半量子動力学シミュレーション：古典的ガウス波束 - Qiita
 URL=https://qiita.com/sage-git/items/5175df2a7caafc9d88ac
+
+=2021-08-11T06:18:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/同じものを含む円順列の総数（julia版）
+URL=https://zenn.dev/dannchu/articles/2a27581585a338
 
 =2018-10-20T05:02:02+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/志位＋＋和夫さんのツイート #TSUTAYA_AI はJuliaで動いています。是非Juliaの速度を体感ください。 #JuliaTokyo
 URL=https://twitter.com/hyper0dietter/status/1053641348903919616
