@@ -394,6 +394,9 @@ URL=https://twitter.com/bicycle1885/status/1101336817977057280
 =2019-08-11T08:14:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Juliaは、データ解析やAIの分野で、Python人気を追い越すでしょうか？どのぐらい時間を要するでしょうか？ - Quora
 URL=https://jp.quora.com/Julia-ha-de-ta-kaiseki-ya-AI-no-bunya-de-Python-ninki-wo-oikosu-de-shou-ka-dono-gurai-jikan-wo-yousu-ru-de-shou-ka
 
+=2021-08-22T06:02:08+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Juliaコンパイラ開発レポート Advanced Technology Lab
+URL=https://atl.recruit-tech.co.jp/blog/5216/
+
 =2020-09-13T06:25:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/トピック/Kareem CarrさんはTwitterを使っています 「Julia fans! Can you describe a few real-world data science scenarios where Julia makes
 URL=https://twitter.com/kareem_carr/status/1304893837341601792
 
@@ -1770,6 +1773,9 @@ URL=https://twitter.com/JuliaComputing/status/1379149340799737857
 
 =2021-05-13T02:19:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia ComputingさんはTwitterを使っています 「Writing type-stable Julia code This #blog by Philippe Mainçon explains an important concep
 URL=https://twitter.com/JuliaComputing/status/1392529887496445957
+
+=2021-08-24T10:32:03+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia InclusiveさんはTwitterを使っています 「Some heartening news Out of respondents to the @StackOverflow survey, Julia is the 3rd mos
+URL=https://twitter.com/juliainclusive/status/1429979784424140802
 
 =2019-06-03T19:36:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/Julia Jupyter での画像表示を実装する - Qiita
 URL=https://qiita.com/Lirimy/items/b5604b41247ba8ca7a00#comment-f300b423014439481670
@@ -5169,6 +5175,9 @@ URL=https://twitter.com/Michielstock/status/1404791698304253958
 
 =2019-07-01T20:00:19+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/MIT、「Julia」上で動作する初心者向け汎用AIプログラミングシステム「Gen」を発表 - ZDNet Japan
 URL=https://japan.zdnet.com/article/35139247/
+
+=2021-08-23T04:41:52+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/MNISTをMLPで推論(JuliaFlux実装) Ryosuke Yoneda's Homepage
+URL=https://yonesuke.github.io/posts/mnist_mlp/
 
 =2018-10-24T06:19:35+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/機械学習/Montreal.AIさんのツイート Automatic Full Compilation of Julia Programs and ML Models to Cloud TPUs By Keno Fischer, Elliot Saba htt
 URL=https://twitter.com/Montreal_AI/status/1055072888519319553
