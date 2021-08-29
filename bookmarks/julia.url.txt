@@ -2578,6 +2578,9 @@ URL=https://twitter.com/genkuroki/status/1311390445289701377
 =2020-09-01T15:35:24+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Base.@irrational  1.41421356237309504880 √big(2) const bear =  詳しくは↓ httpst.co
 URL=https://twitter.com/genkuroki/status/1300612776956633088
 
+=2021-08-26T14:31:58+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Base.Cartesianのマクロの使い方の例 httpst.cowmkDXLUCbn using Base.Cartesian @ nexprs 4 d -&g
+URL=https://twitter.com/genkuroki/status/1430764939744931840
+
 =2021-03-22T22:10:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Base.summarysizeというのがあります。
 URL=https://twitter.com/genkuroki/status/1373985546813329415
 
@@ -3577,6 +3580,9 @@ URL=https://twitter.com/genkuroki/status/1361688418338529284
 =2020-08-12T06:46:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@hanatmetal #Julia言語 昔のPyCall.jlの使い方で a[b][c] のように書かれている部分は今では a.b.c のように書けるようになっていて、ほぼPyth
 URL=https://twitter.com/genkuroki/status/1293509261847228419
 
+=2021-08-28T10:44:27+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@hattarist 私は以下のようにしています。 ① docstringに書く。(非常に便利。
+URL=https://twitter.com/genkuroki/status/1431432459053252611
+
 =2020-10-09T19:02:21+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@hayabusa_0613 #Julia言語 enumerate、zip、内包表記はPython特有の機能ではないので、Juliaでも同じ。
 URL=https://twitter.com/genkuroki/status/1314506479488049152
 
@@ -3849,6 +3855,9 @@ URL=https://github.com/cometscome/QM
 
 =2020-11-25T07:24:57+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/COVID-19 初心者のためのCOVID-19 Data Hubの使い方, julia, python, r ver. 2 - Think it aloud
 URL=http://www.mishou.be/2020/11/25/covid-19-covid-19-data-hub%e3%81%ae%e4%bd%bf%e3%81%84%e6%96%b9-julia-python-r-ver-1/
+
+=2021-08-28T05:57:36+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/daikatsu yasuyukiさんはTwitterを使っています 「#プログラミング勉強中 #programming #julia言語 #julialange #julia #ハートの生成  #heartgeneration #heart 
+URL=https://twitter.com/yasudaidai/status/1431360272208318468
 
 =2021-04-10T20:53:55+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/dc1394さんはTwitterを使っています 「#Julia言語 で、Thomas-Fermi方程式をFEMで解くプログラム作ってみた。
 URL=https://twitter.com/dc1394/status/1380851535890948096
@@ -6469,6 +6478,9 @@ URL=https://twitter.com/genkuroki/status/1046279862468542466
 =2018-10-06T07:33:45+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen Kurokiさんのツイート Pythonから #Julia言語 に来た人がpush!を使って配列の長さを1つずつ増やすコードを計算速度が重要な場面でも書いているのをよく見かける。
 URL=https://twitter.com/genkuroki/status/1048430370645934080
 
+=2021-08-28T06:32:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Juiia言語 Juliaでは函数の引数の型を書いても速くならない。
+URL=https://twitter.com/genkuroki/status/1431368977926615040
+
 =2021-06-28T22:29:05+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#JuliaLang 1.9 sec (2040002 allocations 4.65 GiB) ↓ ↓ reducing allocations ↓ 0.96 sec (1600
 URL=https://twitter.com/genkuroki/status/1409504125142720525
 
@@ -6588,6 +6600,9 @@ URL=https://twitter.com/genkuroki/status/1361203824090734594
 
 =2020-07-03T08:35:54+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Python側で特別にがんばってなくて、forループが必要なケースでは、通常Julia側が数十倍以上速くなります。
 URL=https://twitter.com/genkuroki/status/1278759173254045696
+
+=2021-08-28T18:48:47+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 Threads.@ threads の代わりに使用できそうな Polyester.@ batch 物理コア数分の並列化と最大スレッド数分の並列化をオプションで選べる
+URL=https://twitter.com/genkuroki/status/1431554346697646083
 
 =2020-08-06T19:45:25+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/黒木玄 Gen KurokiさんはTwitterを使っています 「#Julia言語 type unstableのままで速度的な劣化が(ほぼ)ない場合 以前のJulia v0.6.4までは、添付画像の函数 f のような場合の速度的な劣化が非常に大きか
 URL=https://twitter.com/genkuroki/status/1291221633672400898
