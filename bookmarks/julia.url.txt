@@ -3577,6 +3577,9 @@ URL=https://twitter.com/genkuroki/status/1428355389666455564
 =2021-02-16T23:46:32+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@antimon2 @zobomi #Julia言語 クロージャの例を追加 ①函数E, Vを函数内で作って、その外部で使用している。
 URL=https://twitter.com/genkuroki/status/1361688418338529284
 
+=2021-08-29T15:58:12+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@Hals_SC #Julia言語 こんな感じのことがしたいのかな？ struct Foo{T} sString aVector{T} end Foo(sAbstractString
+URL=https://twitter.com/genkuroki/status/1431873803085234178
+
 =2020-08-12T06:46:56+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@hanatmetal #Julia言語 昔のPyCall.jlの使い方で a[b][c] のように書かれている部分は今では a.b.c のように書けるようになっていて、ほぼPyth
 URL=https://twitter.com/genkuroki/status/1293509261847228419
 
@@ -3663,6 +3666,9 @@ URL=https://twitter.com/genkuroki/status/1186976073327640577
 
 =2021-01-31T19:38:09+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@tsatie 「通底するコンセプト」も公式ドキュメントを見れば結構分かります。
 URL=https://twitter.com/genkuroki/status/1355827705967611908
+
+=2021-08-31T16:59:44+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@wasisama @antimon2 #JuliaLang NamedTuple(k =&gt; v for (k, v) in pairs(nt) if !isnothing(v
+URL=https://twitter.com/genkuroki/status/1432614065113763841
 
 =2020-09-27T23:38:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「@zyuer Juliaのパースの仕方は独特で、 &lt; Func の部分が &lt;(Func) とパースされていて、本当は &lt;(Hoge, Func) と引数が2つなけれ
 URL=https://twitter.com/genkuroki/status/1310227315255726080
@@ -4977,6 +4983,9 @@ URL=https://twitter.com/genkuroki/status/1325334443049902081
 
 =2020-12-27T03:12:31+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「#統計 色々刺激されて、楽しめているので、 #Julia言語 で Some Problems Connected with Statistical Inference
 URL=https://twitter.com/genkuroki/status/1342896087141498881
+
+=2021-08-29T15:22:40+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「@1789aorhow @togekiss1234 #Julia言語 using Distributions, Plots dist = Uniform(-2, 4) X = ran
+URL=https://twitter.com/genkuroki/status/1431864862137745411
 
 =2021-02-18T15:29:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/応用例/黒木玄 Gen KurokiさんはTwitterを使っています 「@Hals_SC @abap34 #Julia言語 無意味な回答になりますが、公開されているn,eについて、nをn=pqと2つの異なる素数に分解できれば(ここが大変)、b = p
 URL=https://twitter.com/genkuroki/status/1362288147007115267
