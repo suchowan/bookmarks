@@ -1339,7 +1339,7 @@ CHIVOX
 性別
 字幕
 
-=2021-05-06T12:14:04+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2021-09-02T15:28:55+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1368,6 +1368,7 @@ CHIVOX
 豊漁
 漁場
 リンゴ
+ビニールハウス
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -3711,7 +3712,7 @@ back check
 =2018-04-22T06:48:56+09:00 Computer/トピック/社会動向/企業/RPAテクノロジーズ/keywords
 BizRobo!
 
-=2018-10-22T10:59:54+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
+=2021-09-02T15:28:53+09:00 Computer/トピック/社会動向/企業/Salesforce/keywords
 Salesforce,セールスフォース
 Salesforce Einstein,Einstein
 Salesforceコマースクラウド
@@ -3724,6 +3725,7 @@ Trailhead
 Skills Graph
 Quip
 Dreamforce
+AppExchange
 
 =2020-01-16T15:02:32+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
@@ -5357,6 +5359,9 @@ Akerun
 =2017-10-10T13:15:07+09:00 Computer/トピック/社会動向/企業/スペクトラム・テクノロジー/keywords
 ホワイトハッカ育成ツール
 
+=2021-09-02T15:28:55+09:00 Computer/トピック/社会動向/企業/スポーツレジャーシステムズ/keywords
+GADeRo
+
 =2019-12-19T16:35:58+09:00 Computer/トピック/社会動向/企業/スマイループス/keywords
 ジョブクルバイト
 ジョブクルダイレクト
@@ -5432,7 +5437,7 @@ ZERO ZONE
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2021-06-24T13:50:49+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2021-09-02T15:28:53+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -5452,6 +5457,7 @@ Prediction One
 QRIO
 amue link
 MEEQ
+PS5
 
 =2020-07-02T14:08:05+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -5881,8 +5887,9 @@ Housmart,ハウスマート
 =2019-02-10T15:29:38+09:00 Computer/トピック/社会動向/企業/ハグカム/keywords
 GLOBAL CROWN
 
-=2020-06-25T15:04:18+09:00 Computer/トピック/社会動向/企業/ハシラス/keywords
+=2021-09-02T15:28:55+09:00 Computer/トピック/社会動向/企業/ハシラス/keywords
 キネトスケイプ
+めちゃバース
 
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/ハタプロ/keywords
 ZUKKU
@@ -5971,6 +5978,9 @@ TIG
 
 =2017-04-10T14:45:08+09:00 Computer/トピック/社会動向/企業/パークシャテクノロジー/keywords
 TATERU Bot AI
+
+=2021-09-02T15:28:53+09:00 Computer/トピック/社会動向/企業/パースペクティブ/keywords
+tebra Navi
 
 =2021-08-25T15:33:49+09:00 Computer/トピック/社会動向/企業/パートナーエージェント/keywords
 sieger
@@ -6093,6 +6103,9 @@ ClearBox Cloud
 
 =2017-04-11T09:55:24+09:00 Computer/トピック/社会動向/企業/フロムスクラッチ/keywords
 B→Dash
+
+=2021-09-02T15:28:53+09:00 Computer/トピック/社会動向/企業/ブイキューブ/keywords
+Touchcast
 
 =2017-10-20T10:39:21+09:00 Computer/トピック/社会動向/企業/ブイキューブ/ブイキューブロボティクス/keywords
 ブイキューブロボティクス,VRJ
@@ -6284,6 +6297,9 @@ miel
 =2017-03-30T11:37:26+09:00 Computer/トピック/社会動向/企業/メタデータ/keywords
 Montage
 AIポジショニングマップMr.DATA
+
+=2021-09-02T15:28:54+09:00 Computer/トピック/社会動向/企業/メダップ/keywords
+foro CRM
 
 =2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/メディロム/keywords
 MOTHER
@@ -6590,8 +6606,9 @@ toppi!,トッピ
 SAIVS,Spider Artificial Intelligence Vulnerability Scanner
 Suup
 
-=2019-05-20T13:05:04+09:00 Computer/トピック/社会動向/企業/三菱地所/keywords
+=2021-09-02T15:28:56+09:00 Computer/トピック/社会動向/企業/三菱地所/keywords
 Marble
+CREPE
 
 =2019-01-22T18:37:31+09:00 Computer/トピック/社会動向/企業/三菱総合研究所/keywords
 三菱総研,三菱総合研究所,MRI
@@ -7416,7 +7433,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2021-08-12T13:29:59+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2021-09-02T15:28:55+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -7510,6 +7527,7 @@ TSUBAME
 藤沢市
 南相馬市
 佐賀市
+杉並区
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
