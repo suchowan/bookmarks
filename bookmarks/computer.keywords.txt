@@ -1441,7 +1441,7 @@ Magenta
 音感
 演奏
 
-=2021-06-10T14:13:37+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2021-09-09T12:14:23+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1499,6 +1499,7 @@ SEER
 BERT
 汎化法
 ブレインテック
+BMI
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -2071,6 +2072,9 @@ Collet
 =2018-01-22T13:28:54+09:00 Computer/トピック/社会動向/企業/Crowdroid/keywords
 Amaterras,アマテラス
 
+=2021-09-09T12:14:23+09:00 Computer/トピック/社会動向/企業/Crown Technologies/keywords
+Ella
+
 =2021-04-22T13:36:21+09:00 Computer/トピック/社会動向/企業/cryptomall ou/keywords
 クリプトモール オーユー,cryptomall ou
 
@@ -2371,6 +2375,9 @@ WazzUp！,ワズアップ
 =2017-11-23T08:14:07+09:00 Computer/トピック/社会動向/企業/Fano Labs/keywords
 Fano Labs,有光科技
 
+=2021-09-09T12:14:24+09:00 Computer/トピック/社会動向/企業/FiBe/keywords
+icey
+
 =2018-07-21T13:44:34+09:00 Computer/トピック/社会動向/企業/Finatext/keywords
 STREAM
 
@@ -2499,6 +2506,9 @@ BCON
 surco
 GoHERO
 Anylocksafe
+
+=2021-09-09T12:14:24+09:00 Computer/トピック/社会動向/企業/Gloval/keywords
+HelloWork+
 
 =2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/GMO/GMOペパボ/keywords
 ペパボ研究所
@@ -2764,8 +2774,8 @@ Optane
 Cyclone V
 Habana Labs
 
-=2018-09-10T11:46:54+09:00 Computer/トピック/社会動向/企業/Intuitive Surgical/keywords
-da Vinci
+=2021-09-09T12:17:07+09:00 Computer/トピック/社会動向/企業/Intuitive Surgical/keywords
+da Vinci,インテュイティブサージカル
 
 =2017-04-10T08:10:37+09:00 Computer/トピック/社会動向/企業/IO Inc/keywords
 IO Inc.,IO Inc,アイオーインク,IO株式会社
@@ -3954,6 +3964,9 @@ Superb AI
 =2017-09-20T08:13:01+09:00 Computer/トピック/社会動向/企業/Supersoftware/keywords
 SuperFace
 
+=2021-09-09T12:14:23+09:00 Computer/トピック/社会動向/企業/SUPWAT/keywords
+WALL
+
 =2017-03-30T10:32:04+09:00 Computer/トピック/社会動向/企業/SUSQUE/keywords
 サブロク
 
@@ -4478,6 +4491,9 @@ Smooz
 =2017-07-24T10:42:40+09:00 Computer/トピック/社会動向/企業/アスラテック/keywords
 DOKA ROBO
 
+=2021-09-09T12:14:23+09:00 Computer/トピック/社会動向/企業/アズワン/keywords
+Lab BRAINS
+
 =2020-12-24T12:07:21+09:00 Computer/トピック/社会動向/企業/アセントロボティクス/keywords
 Ascent Robotics,アセントロボティクス
 ATLAS,アトラス
@@ -4885,6 +4901,9 @@ NEXTAGE
 =2020-12-17T12:38:19+09:00 Computer/トピック/社会動向/企業/カワチョー・ライス/keywords
 KAWACHO　RICE,カワチョー・ライス
 
+=2021-09-09T12:15:27+09:00 Computer/トピック/社会動向/企業/カンリー/keywords
+Canly,カンリー
+
 =2017-08-01T08:11:50+09:00 Computer/トピック/社会動向/企業/ガネット/keywords
 G-careネット
 
@@ -5007,6 +5026,9 @@ antenna*
 =2017-09-14T10:57:10+09:00 Computer/トピック/社会動向/企業/グラッドキューブ/keywords
 SiTest
 SPAIA
+
+=2021-09-09T12:16:05+09:00 Computer/トピック/社会動向/企業/グラファー/keywords
+Graffer,グラファー
 
 =2019-09-28T12:46:06+09:00 Computer/トピック/社会動向/企業/グリッジ/keywords
 tone
@@ -6003,6 +6025,9 @@ Biz-Rensaring
 =2017-03-29T15:02:14+09:00 Computer/トピック/社会動向/企業/ビズリーチ/keywords
 HRMOS,ハーモス
 
+=2021-09-09T12:14:23+09:00 Computer/トピック/社会動向/企業/ビット・トレード・ワン/keywords
+クアッド・クローラーAI
+
 =2017-09-04T09:47:56+09:00 Computer/トピック/社会動向/企業/ビデオリサーチ/keywords
 ビデオリサーチ,ビデオリサーチインタラクティブ,VRI
 Mobile Reach MAX
@@ -6022,8 +6047,9 @@ Bebot
 =2021-03-04T10:57:38+09:00 Computer/トピック/社会動向/企業/ビーラボ/keywords
 GUARDIAN Security Tag
 
-=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/ピクシーダストテクノロジーズ/keywords
+=2021-09-09T12:16:42+09:00 Computer/トピック/社会動向/企業/ピクシーダストテクノロジーズ/keywords
 DeepWear
+PxDT,ピクシーダストテクノロジーズ
 
 =2019-05-04T11:24:11+09:00 Computer/トピック/社会動向/企業/ピクスタ/keywords
 PIXTA,ピクスタ
