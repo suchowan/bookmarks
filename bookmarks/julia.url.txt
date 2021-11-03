@@ -3595,6 +3595,9 @@ URL=https://twitter.com/genkuroki/status/1373852729425022977
 =2021-04-02T17:22:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#数楽 #Julia言語 新学期の講義のためのC^∞級函数の例の準備で、 f(x) = if x &gt; 0 exp(-1x) else 0 end のような函数を扱っている人もい
 URL=https://twitter.com/genkuroki/status/1377899278312501249
 
+=2021-10-31T14:52:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「#数楽 以下のリンク先に話は非常に教育的な話。 大学の数学科では順序構造についても色々習いますが、その手の素養は「コンパイラのコードを書いて」いるときにも役に立つという話。」
+URL=https://twitter.com/genkuroki/status/1454687720865812484
+
 =2021-02-08T00:41:33+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/備忘録/黒木玄 Gen KurokiさんはTwitterを使っています 「0始まりインデックスでの a[i] には、#Julia言語 における a[begin+i] が対応していることを知っていれば、まごつかずに済むかも。
 URL=https://twitter.com/genkuroki/status/1358440774879170563
 
