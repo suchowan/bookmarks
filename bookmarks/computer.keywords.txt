@@ -237,7 +237,7 @@ Solid
 DBpedia
 LOD,Linked Open Data
 
-=2020-09-03T13:33:12+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2021-11-04T14:36:12+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
@@ -266,6 +266,7 @@ gpu
 WSE
 アクセラレータ
 Power Architecture
+ムーアの法則
 
 =2019-03-11T12:37:51+09:00 Computer/トピック/ツール/keywords
 Ghidra
@@ -1557,6 +1558,9 @@ Stailer
 AIヒューマン
 アデラ
 
+=2021-11-04T14:36:12+09:00 Computer/トピック/社会動向/企業/1st PLACE/keywords
+OИE
+
 =2019-03-03T19:29:06+09:00 Computer/トピック/社会動向/企業/1→10Robotics/keywords
 ワントゥーテン,1→10Robotics
 
@@ -2106,6 +2110,9 @@ LocusLabs
 
 =2021-07-01T12:18:28+09:00 Computer/トピック/社会動向/企業/Ctrl IQ/keywords
 CIQ,Ctrl IQ
+
+=2021-11-04T14:36:13+09:00 Computer/トピック/社会動向/企業/CuboRex/keywords
+CuGo
 
 =2017-03-28T14:55:22+09:00 Computer/トピック/社会動向/企業/Curious Edge/keywords
 Commu
@@ -3593,6 +3600,9 @@ Mighty
 
 =2019-07-15T12:47:09+09:00 Computer/トピック/社会動向/企業/Pixellot/keywords
 スターコミュニケーションズ
+
+=2021-11-04T14:38:59+09:00 Computer/トピック/社会動向/企業/pixiv/keywords
+ピクシブ,pixiv
 
 =2021-06-17T13:41:06+09:00 Computer/トピック/社会動向/企業/PKSHA Technology/keywords
 Camphr
@@ -6069,6 +6079,9 @@ STAFF START
 =2017-04-10T14:56:04+09:00 Computer/トピック/社会動向/企業/バリュークリエーション/keywords
 Vasta,ヴァスタ
 
+=2021-11-04T14:36:14+09:00 Computer/トピック/社会動向/企業/バルテス/keywords
+T-DASH
+
 =2019-06-24T11:19:04+09:00 Computer/トピック/社会動向/企業/バンク/keywords
 CASH
 
@@ -6179,6 +6192,9 @@ PIXTA,ピクスタ
 
 =2017-09-26T07:28:54+09:00 Computer/トピック/社会動向/企業/ピケ/keywords
 Frasco
+
+=2021-11-04T14:36:12+09:00 Computer/トピック/社会動向/企業/ピラミッドフィルム クアドラ/keywords
+猫見障子
 
 =2017-03-30T11:31:55+09:00 Computer/トピック/社会動向/企業/ピースオブケイク/keywords
 cakes
@@ -6687,6 +6703,9 @@ REDEE
 Sedue,セデュー
 Answer Finder
 VoC Analyzer
+
+=2021-11-04T14:36:14+09:00 Computer/トピック/社会動向/企業/レボーン/keywords
+調香AI
 
 =2017-05-29T09:21:33+09:00 Computer/トピック/社会動向/企業/レモネード/keywords
 INFLUENCER ONE
@@ -7622,7 +7641,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2021-10-28T13:54:33+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2021-11-04T14:36:15+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -7718,6 +7737,7 @@ TSUBAME
 佐賀市
 杉並区
 岐阜市
+鹿児島県
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
@@ -7770,6 +7790,9 @@ NASA
 ローレンス・バークレー国立研究所
 Fraunhofer
 アレン人工知能研究所
+
+=2021-11-04T14:39:37+09:00 Computer/トピック/社会動向/研究機関/日本医療研究開発機構/keywords
+AMED,日本医療研究開発機構
 
 =2021-06-24T13:55:41+09:00 Computer/トピック/社会動向/研究機関/炭素回収技術研究機構/keywords
 CRRA,炭素回収技術研究機構
