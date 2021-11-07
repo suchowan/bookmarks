@@ -429,9 +429,6 @@ Stepsize
 Airbnb
 データ可視化
 
-=2021-02-18T17:11:17+09:00 Computer/トピック/ツール/ソフトウェアシステム/ソフトウェアツール/VSCode/keywords
-Visual Studio
-
 =2019-05-16T11:16:06+09:00 Computer/トピック/ツール/ソフトウェアシステム/形態素解析/MeCab/keywords
 mecab,MeCab
 
@@ -445,6 +442,9 @@ git
 
 =2017-03-21T14:00:06+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/HP Codar/keywords
 HPE,Hewlett Packard Enterprise
+
+=2021-02-18T17:11:17+09:00 Computer/トピック/ツール/ソフトウェアシステム/開発環境/VSCode/keywords
+Visual Studio
 
 =2019-02-21T11:55:25+09:00 Computer/トピック/ツール/ソフトウェア言語/C++/keywords
 c++,C++
