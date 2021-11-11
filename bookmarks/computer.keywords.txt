@@ -50,7 +50,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-10-21T13:28:21+09:00 Computer/トピック/セキュリティ/keywords
+=2021-11-11T10:44:46+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -215,6 +215,7 @@ ISRG
 薬物取引
 XDR
 氏名
+泥棒
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1331,7 +1332,7 @@ IMAKITA
 件名
 見出し
 
-=2021-05-13T12:37:33+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
+=2021-11-11T10:44:47+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
 音声処理
 ヨミ子さん
 合成音声
@@ -1340,6 +1341,7 @@ IMAKITA
 声変換
 音声配信
 VOICE AVATAR
+音声プラットフォーム
 
 =2020-07-16T13:17:38+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声認識/keywords
 声認識
@@ -1695,9 +1697,9 @@ DeepAnime
 =2019-06-01T11:41:41+09:00 Computer/トピック/社会動向/企業/ALI Technologies/keywords
 A.L.I.,ALI Technologies
 
-=2021-01-07T11:41:19+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
+=2021-11-11T11:01:07+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
 アリババ,Alibaba
-ジャック・マー
+ジャック・マー,ジャック･マー
 
 =2020-09-03T13:33:11+09:00 Computer/トピック/社会動向/企業/All Turtles/keywords
 mmhmm
@@ -1992,8 +1994,10 @@ SmartDish
 =2017-10-24T07:35:21+09:00 Computer/トピック/社会動向/企業/CEC/keywords
 CEC,シーイーシー
 
-=2020-12-17T12:37:25+09:00 Computer/トピック/社会動向/企業/CENTMATIC/keywords
+=2021-11-11T08:17:54+09:00 Computer/トピック/社会動向/企業/CENTMATIC/keywords
+セントマティック,SCENTMATIC
 KAORIUM for Sake
+KAORIUM
 
 =2017-03-28T14:48:47+09:00 Computer/トピック/社会動向/企業/CEVA/keywords
 CDNN
@@ -2661,9 +2665,9 @@ Be&Do
 =2017-11-11T06:45:43+09:00 Computer/トピック/社会動向/企業/hackjpn/keywords
 hunterbook
 
-=2019-10-03T12:16:06+09:00 Computer/トピック/社会動向/企業/Hanson Robotics/keywords
+=2021-11-11T11:02:49+09:00 Computer/トピック/社会動向/企業/Hanson Robotics/keywords
 ハンソン・ロボティクス,Hanson Robotics
-Sofhia
+Sofhia,ソフィア
 
 =2018-12-11T08:04:26+09:00 Computer/トピック/社会動向/企業/HCL Technologies/keywords
 HCL,HCL Technologies
@@ -3179,6 +3183,9 @@ SAPPHIRE
 =2017-10-10T13:20:35+09:00 Computer/トピック/社会動向/企業/Mirantis/keywords
 Mirantis,ミランティス
 
+=2021-11-11T10:44:47+09:00 Computer/トピック/社会動向/企業/Miso Robotics/keywords
+Flippy
+
 =2019-04-18T13:09:38+09:00 Computer/トピック/社会動向/企業/misosil/keywords
 Tofu
 
@@ -3383,6 +3390,9 @@ Notion,Notion Labs
 
 =2021-06-10T14:17:51+09:00 Computer/トピック/社会動向/企業/NSGホールディングス/keywords
 NSG,NSGホールディングス
+
+=2021-11-11T10:44:47+09:00 Computer/トピック/社会動向/企業/NSO Group/keywords
+Pegasus
 
 =2021-06-10T14:13:37+09:00 Computer/トピック/社会動向/企業/NTT/keywords
 corevo
@@ -3776,6 +3786,9 @@ Qレール
 =2018-01-22T13:10:44+09:00 Computer/トピック/社会動向/企業/RoboMarketer/keywords
 Roboma,ロボマ
 
+=2021-11-11T10:44:46+09:00 Computer/トピック/社会動向/企業/RoboSapiens/keywords
+Karugaroo
+
 =2017-09-14T11:15:28+09:00 Computer/トピック/社会動向/企業/Robot Home/iVacation/keywords
 TRIP PHONE
 
@@ -3923,6 +3936,9 @@ Deeplearning4j,DL4J
 
 =2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Slack/keywords
 Actions
+
+=2021-11-11T10:44:46+09:00 Computer/トピック/社会動向/企業/Smart Eye/keywords
+Affdex
 
 =2021-04-29T13:53:48+09:00 Computer/トピック/社会動向/企業/smartLure/keywords
 スマートルアー,smartLure
@@ -5569,10 +5585,6 @@ CLIP STUDIO PAINT
 =2018-03-12T11:00:23+09:00 Computer/トピック/社会動向/企業/セレス/keywords
 モッピー
 
-=2021-07-15T12:32:52+09:00 Computer/トピック/社会動向/企業/セントマティック/keywords
-SCENTMATIC,セントマティック
-KAORIUM
-
 =2020-11-05T13:33:06+09:00 Computer/トピック/社会動向/企業/セーフィー/keywords
 Safie,セーフィー
 
@@ -6088,6 +6100,9 @@ CASH
 =2018-10-01T11:15:03+09:00 Computer/トピック/社会動向/企業/バンダイナムコ/keywords
 バンダイ,バンナム,バンダイナムコ
 ガンシェルジュ ハロ
+
+=2021-11-11T10:44:46+09:00 Computer/トピック/社会動向/企業/バーチャルライツ/keywords
+NeosVR
 
 =2017-04-10T14:45:54+09:00 Computer/トピック/社会動向/企業/バーチャレクス/keywords
 バーチャレクス,virtualex
@@ -6784,9 +6799,10 @@ Sota
 =2017-04-11T11:35:22+09:00 Computer/トピック/社会動向/企業/三井不動産/keywords
 toppi!,トッピ
 
-=2021-01-14T13:01:31+09:00 Computer/トピック/社会動向/企業/三井物産/keywords
+=2021-11-11T10:44:46+09:00 Computer/トピック/社会動向/企業/三井物産/keywords
 SAIVS,Spider Artificial Intelligence Vulnerability Scanner
 Suup
+VOOX
 
 =2021-09-02T15:28:56+09:00 Computer/トピック/社会動向/企業/三菱地所/keywords
 Marble
@@ -7641,7 +7657,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2021-11-04T14:36:15+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2021-11-11T10:44:46+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -7738,6 +7754,7 @@ TSUBAME
 杉並区
 岐阜市
 鹿児島県
+小菅村
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
