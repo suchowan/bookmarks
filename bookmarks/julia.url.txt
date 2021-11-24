@@ -6511,6 +6511,9 @@ URL=https://twitter.com/natrium11321/status/1292048144293756929
 =2020-08-09T08:03:14+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/科学にはOSSを@外出禁止令のため在宅勤務中さんはTwitterを使っています 「あれ、ちょっと混乱してきた。 Julia の precompile って JIT 結果を cache しているわけではない 2 回目以降の using XXX で時間
 URL=https://twitter.com/biochem_fan/status/1292394159547068419
 
+=2021-11-23T13:58:38+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/遅いPythonの処理は、Juliaにやらせよう - Qiita
+URL=https://qiita.com/malo21st/items/3b0f96713cb433202725
+
 =2021-08-14T20:03:15+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/門脇 瑞斗さんはTwitterを使っています 「Julia で空の配列定義して要素入れるのどうすんの-の試してるついでに Benchmarktools.jl 見てみた 黒木さんの過去ツイートにあったようにFloat64で指定すると早い
 URL=https://twitter.com/kado_judo0312/status/1426499654821179395
 
