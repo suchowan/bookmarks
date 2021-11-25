@@ -50,7 +50,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-11-18T11:37:20+09:00 Computer/トピック/セキュリティ/keywords
+=2021-11-25T12:45:45+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -217,6 +217,7 @@ XDR
 氏名
 泥棒
 Cookie
+Lock
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -642,7 +643,7 @@ ImageNet
 情報銀行
 アノテーション
 
-=2021-10-21T13:31:25+09:00 Computer/トピック/ブロックチェーン/keywords
+=2021-11-25T12:45:46+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -666,6 +667,7 @@ Randpay
 ドージコイン
 Prometei
 CBDC
+柴犬コイン
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -1238,13 +1240,14 @@ SLAM
 Drone,ドローン
 無人航空機
 
-=2020-10-29T14:27:45+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
+=2021-11-25T12:45:45+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/keywords
 無人運転車
 自律自動車
 DeepRacer
 GACHA
 自律運転
 Self-Driving
+無人搬送車
 
 =2021-09-16T14:54:55+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/船舶/keywords
 自律航行
@@ -2038,6 +2041,9 @@ Webex
 
 =2020-02-13T13:17:56+09:00 Computer/トピック/社会動向/企業/Clearview AI/keywords
 Clearview,Clearview AI
+
+=2021-11-25T12:45:45+09:00 Computer/トピック/社会動向/企業/Cleo/keywords
+Dronut X1
 
 =2021-04-15T12:25:19+09:00 Computer/トピック/社会動向/企業/Click Holdings/keywords
 Honbike
@@ -3051,6 +3057,9 @@ FITO TAP PRO
 
 =2018-06-02T14:32:05+09:00 Computer/トピック/社会動向/企業/Lunch Actually Group/keywords
 VIOLA  AI
+
+=2021-11-25T12:47:31+09:00 Computer/トピック/社会動向/企業/LUSH/keywords
+ラッシュ,LUSH
 
 =2020-08-27T12:51:25+09:00 Computer/トピック/社会動向/企業/Lyft/keywords
 リフト,Lyft
@@ -6352,6 +6361,9 @@ KEYVOX
 =2021-06-03T11:45:57+09:00 Computer/トピック/社会動向/企業/プライム ライフ テクノロジーズ/keywords
 PLT,プライム ライフ テクノロジーズ
 
+=2021-11-25T12:45:45+09:00 Computer/トピック/社会動向/企業/プラスアルファ・コンサルティング/keywords
+Talent Palette
+
 =2017-03-30T09:58:06+09:00 Computer/トピック/社会動向/企業/プラネット・テーブル/keywords
 プラネット・テーブル,Planet Table
 SEND
@@ -7678,9 +7690,8 @@ TSUBAME
 =2021-01-28T12:17:19+09:00 Computer/トピック/社会動向/大学/関東学院大学/keywords
 関東学院大,関東学院大学
 
-=2021-11-18T12:56:16+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
+=2021-11-25T10:09:54+09:00 Computer/トピック/社会動向/大学/電気通信大学/keywords
 電気通信大,電通大,電気通信大学
-
 
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
