@@ -644,7 +644,7 @@ ImageNet
 情報銀行
 アノテーション
 
-=2021-11-25T12:45:46+09:00 Computer/トピック/ブロックチェーン/keywords
+=2021-12-16T13:09:28+09:00 Computer/トピック/ブロックチェーン/keywords
 ブロックチェーン,ブロックチェイン,Blockchain
 仮想通貨
 暗号通貨
@@ -669,6 +669,7 @@ Randpay
 Prometei
 CBDC
 柴犬コイン
+JPYT
 
 =2017-03-22T09:14:22+09:00 Computer/トピック/機械学習/keywords
 機械学習,Machine Learning
@@ -1607,6 +1608,10 @@ Kar-go
 =2019-05-24T12:07:25+09:00 Computer/トピック/社会動向/企業/ACES/keywords
 SHARON
 
+=2021-12-16T13:09:28+09:00 Computer/トピック/社会動向/企業/ACSL/keywords
+ACSL,自律制御システム研究所
+SOTEN
+
 =2017-09-14T10:37:12+09:00 Computer/トピック/社会動向/企業/Active Intelligence Pte/keywords
 Active.Ai
 
@@ -1813,6 +1818,9 @@ iPad
 
 =2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/企業/AquaFusion/keywords
 AquaMagic
+
+=2021-12-16T13:09:30+09:00 Computer/トピック/社会動向/企業/ARPARA GLOBAL TECHNOLOGY/keywords
+arpara
 
 =2017-09-19T07:47:12+09:00 Computer/トピック/社会動向/企業/ARアドバンストテクノロジ/keywords
 LOOGUE
@@ -3018,6 +3026,9 @@ AI Dungeon
 =2018-10-26T11:26:56+09:00 Computer/トピック/社会動向/企業/Lattice Semiconductor/keywords
 ラティス,Lattice,Lattice Semiconductor
 
+=2021-12-16T13:09:29+09:00 Computer/トピック/社会動向/企業/LayerX/keywords
+バクラク
+
 =2019-05-24T12:07:25+09:00 Computer/トピック/社会動向/企業/Leaner Technologies/keywords
 Leaner
 
@@ -3091,6 +3102,9 @@ FITO TAP PRO
 =2021-06-24T13:55:07+09:00 Computer/トピック/社会動向/企業/log build/keywords
 ログビルド,log build
 
+=2021-12-16T13:09:30+09:00 Computer/トピック/社会動向/企業/LogMeIn/keywords
+LastPass
+
 =2021-10-28T13:54:32+09:00 Computer/トピック/社会動向/企業/LOVO/keywords
 ボイススキン
 
@@ -3123,6 +3137,9 @@ MSE,Magic Software,マジックソフトウェア
 
 =2019-01-30T13:12:17+09:00 Computer/トピック/社会動向/企業/MAMORIO/keywords
 wiffy
+
+=2021-12-16T13:10:06+09:00 Computer/トピック/社会動向/企業/Mandiant/keywords
+マンディアント,Mandiant
 
 =2020-09-10T14:07:31+09:00 Computer/トピック/社会動向/企業/MANOI/keywords
 あつぎロボットフィールド
@@ -3738,6 +3755,9 @@ Serve
 =2017-09-25T08:02:22+09:00 Computer/トピック/社会動向/企業/PR TIMES/keywords
 Jooto,ジョートー
 
+=2021-12-16T13:09:29+09:00 Computer/トピック/社会動向/企業/primeNumber/keywords
+trocco
+
 =2018-08-16T08:00:07+09:00 Computer/トピック/社会動向/企業/Primer/keywords
 Quicksilver
 
@@ -3948,9 +3968,10 @@ Purple Team
 =2021-03-11T12:10:05+09:00 Computer/トピック/社会動向/企業/Seeed/keywords
 Odyssey
 
-=2019-01-07T12:15:08+09:00 Computer/トピック/社会動向/企業/SEGWAY/keywords
+=2021-12-16T13:09:29+09:00 Computer/トピック/社会動向/企業/SEGWAY/keywords
 セグウェイ,Segway,SEGWAY
 SEGWAY BASE
+COCO
 
 =2017-03-30T09:55:29+09:00 Computer/トピック/社会動向/企業/SELF/keywords
 タルるートくん
@@ -4098,8 +4119,9 @@ Rapid Liquid Printing
 =2017-11-11T06:12:32+09:00 Computer/トピック/社会動向/企業/Stitch Fix/keywords
 Stitch Fix,SFIX
 
-=2019-03-26T14:32:27+09:00 Computer/トピック/社会動向/企業/STMicroelectronics/keywords
+=2021-12-16T13:09:29+09:00 Computer/トピック/社会動向/企業/STMicroelectronics/keywords
 STマイクロエレクトロニクス,STMicroelectronics
+NanoEdge AI Studio
 
 =2020-11-05T12:57:57+09:00 Computer/トピック/社会動向/企業/StockGraphy/keywords
 DigireBUILD
@@ -4511,11 +4533,12 @@ RakuRo
 =2020-04-16T13:29:07+09:00 Computer/トピック/社会動向/企業/Zoom/keywords
 ズーム,Zoom
 
-=2019-09-01T15:38:15+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
+=2021-12-16T13:09:30+09:00 Computer/トピック/社会動向/企業/ZOZO/keywords
 ZOZOSUIT
 WEAR
 ZOZOUSED
 ZOZOTOWN
+前澤
 
 =2018-05-30T14:35:55+09:00 Computer/トピック/社会動向/企業/Zscaler/keywords
 Zscaler,ゼットスケーラー
@@ -5080,6 +5103,9 @@ FraudAlert
 価格.com
 食べログ
 
+=2021-12-16T13:09:30+09:00 Computer/トピック/社会動向/企業/カクシン/keywords
+VIRGO
+
 =2017-08-21T12:29:29+09:00 Computer/トピック/社会動向/企業/カクテルメイク/keywords
 RICHKA
 
@@ -5092,6 +5118,9 @@ QUANTITEXTURE
 
 =2017-03-30T13:53:40+09:00 Computer/トピック/社会動向/企業/カブキ/keywords
 kabukiペディア
+
+=2021-12-16T13:09:29+09:00 Computer/トピック/社会動向/企業/カメラブ/keywords
+GooPass
 
 =2017-11-11T10:17:30+09:00 Computer/トピック/社会動向/企業/カラクリ/keywords
 カラクリ,Karakuri
@@ -7337,6 +7366,9 @@ BAI
 =2019-03-29T18:37:30+09:00 Computer/トピック/社会動向/企業/美的集団/keywords
 マイディアグループ,美的集団
 
+=2021-12-16T13:09:29+09:00 Computer/トピック/社会動向/企業/羽田みらい開発/keywords
+HICity
+
 =2017-12-20T16:21:11+09:00 Computer/トピック/社会動向/企業/自動車/AImotive/keywords
 aiWare
 aiDrive
@@ -7442,9 +7474,6 @@ Easy Ride
 =2017-11-25T08:42:22+09:00 Computer/トピック/社会動向/企業/自動車/起亜/keywords
 起亜,KIA
 Kian
-
-=2021-02-12T11:18:01+09:00 Computer/トピック/社会動向/企業/自律制御システム研究所/keywords
-ACSL,自律制御システム研究所
 
 =2021-04-22T13:35:37+09:00 Computer/トピック/社会動向/企業/華和結ホールディングス/keywords
 AiBank.jp
