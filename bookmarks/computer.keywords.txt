@@ -241,7 +241,7 @@ Solid
 DBpedia
 LOD,Linked Open Data
 
-=2021-11-04T14:36:12+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2021-12-23T12:57:16+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
@@ -271,6 +271,7 @@ WSE
 アクセラレータ
 Power Architecture
 ムーアの法則
+SPARC
 
 =2019-03-11T12:37:51+09:00 Computer/トピック/ツール/keywords
 Ghidra
@@ -2314,6 +2315,9 @@ Synthesizer V AI
 DFA,Drone Future Aviation
 BellaBot
 
+=2021-12-23T12:57:17+09:00 Computer/トピック/社会動向/企業/DroneUp/keywords
+AirMap
+
 =2020-02-27T13:35:51+09:00 Computer/トピック/社会動向/企業/DSLAB GLOBAL/keywords
 Click AI
 
@@ -3099,8 +3103,9 @@ FITO TAP PRO
 =2019-03-07T16:10:49+09:00 Computer/トピック/社会動向/企業/LIXIL/keywords
 リクシル,LIXIL
 
-=2021-06-24T13:55:07+09:00 Computer/トピック/社会動向/企業/log build/keywords
+=2021-12-23T12:57:17+09:00 Computer/トピック/社会動向/企業/log build/keywords
 ログビルド,log build
+Log Kun
 
 =2021-12-16T13:09:30+09:00 Computer/トピック/社会動向/企業/LogMeIn/keywords
 LastPass
@@ -3308,6 +3313,9 @@ Atlas DBaaS
 
 =2017-10-17T08:23:58+09:00 Computer/トピック/社会動向/企業/monopo/keywords
 SQUEEZE MUSIC
+
+=2021-12-23T12:57:18+09:00 Computer/トピック/社会動向/企業/Moorebot/keywords
+Scout
 
 =2020-12-17T12:37:27+09:00 Computer/トピック/社会動向/企業/MoreVision/keywords
 MiRAVEL
@@ -3861,6 +3869,9 @@ Rice
 =2021-03-25T12:57:09+09:00 Computer/トピック/社会動向/企業/Ridge-i/keywords
 GRASP EARTH
 
+=2021-12-23T12:57:16+09:00 Computer/トピック/社会動向/企業/Right Brothers/keywords
+DEFASTA
+
 =2020-08-27T12:50:59+09:00 Computer/トピック/社会動向/企業/rinna/keywords
 りんな,rinna
 
@@ -3949,6 +3960,9 @@ Viya
 
 =2019-11-14T15:03:46+09:00 Computer/トピック/社会動向/企業/Savioke/keywords
 Relay
+
+=2021-12-23T12:58:42+09:00 Computer/トピック/社会動向/企業/Schoo/keywords
+スクー,Schoo
 
 =2020-03-05T14:46:23+09:00 Computer/トピック/社会動向/企業/SchooMy/keywords
 スクーミー,SchooMy
@@ -4330,6 +4344,9 @@ UFR,Universal Field Robots
 ユニバーサルロボット,Universal Robots
 UR5e
 
+=2021-12-23T12:57:16+09:00 Computer/トピック/社会動向/企業/Unlace/keywords
+感情ダッシュボード
+
 =2018-12-16T11:09:41+09:00 Computer/トピック/社会動向/企業/USEN-NEXT/keywords
 USEN,U-NEXT,USEN-NEXT
 innto
@@ -4568,6 +4585,9 @@ THEO
 竹井戸村
 きのあ将棋
 きのあ囲碁
+
+=2021-12-23T12:57:18+09:00 Computer/トピック/社会動向/企業/さかい新事業創造センター/keywords
+S-Cube
 
 =2020-04-16T13:04:01+09:00 Computer/トピック/社会動向/企業/さくらインターネット/keywords
 Tellus
@@ -4915,6 +4935,9 @@ Nitte
 ウフル,uhuru
 enebular
 
+=2021-12-23T12:57:16+09:00 Computer/トピック/社会動向/企業/エアモビリティ/keywords
+AirNavi
+
 =2017-03-30T11:51:45+09:00 Computer/トピック/社会動向/企業/エアロセンス/keywords
 エアロセンス,AeroSense
 
@@ -4938,6 +4961,9 @@ wisteria
 exaBase
 Qontextual
 CareWiz
+
+=2021-12-23T12:57:17+09:00 Computer/トピック/社会動向/企業/エクス/keywords
+Owlgarden
 
 =2017-03-30T11:53:26+09:00 Computer/トピック/社会動向/企業/エクスウェア/keywords
 TalkQA
@@ -5036,8 +5062,9 @@ Just Realize!
 =2019-09-24T12:16:01+09:00 Computer/トピック/社会動向/企業/オプテージ/keywords
 オミセノテック
 
-=2017-03-30T13:30:08+09:00 Computer/トピック/社会動向/企業/オムロン/keywords
+=2021-12-23T12:57:18+09:00 Computer/トピック/社会動向/企業/オムロン/keywords
 オムロン,OMRON
+Toritoss
 
 =2021-07-01T12:17:48+09:00 Computer/トピック/社会動向/企業/オリィ研究所/keywords
 OriHime eye
@@ -5406,8 +5433,9 @@ Cyneural
 サイバーダイン,CYBERDYNE
 ロボットスーツHAL
 
-=2021-09-30T13:09:32+09:00 Computer/トピック/社会動向/企業/サイバートラスト/keywords
+=2021-12-23T12:57:16+09:00 Computer/トピック/社会動向/企業/サイバートラスト/keywords
 CyberTrust,サイバートラスト
+MIRACLE LINUX
 
 =2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/企業/サイバーマトリックス/keywords
 CyberNEO
@@ -6276,6 +6304,9 @@ HIMBOT
 =2017-10-16T11:14:14+09:00 Computer/トピック/社会動向/企業/ヒューマンテクノロジーズ/keywords
 KING OF TIME
 
+=2021-12-23T12:57:18+09:00 Computer/トピック/社会動向/企業/ビジョナル/keywords
+yamory
+
 =2017-07-24T08:24:31+09:00 Computer/トピック/社会動向/企業/ビズインテグラル/keywords
 Biz∫
 
@@ -6683,6 +6714,9 @@ Pedia ICO Database
 
 =2020-07-09T16:06:49+09:00 Computer/トピック/社会動向/企業/ユニバーサルミュージック/keywords
 LIVE-X
+
+=2021-12-23T12:58:12+09:00 Computer/トピック/社会動向/企業/ユニフィニティー/keywords
+Unifinity,ユニフィニティー
 
 =2017-04-11T10:33:07+09:00 Computer/トピック/社会動向/企業/ユニロボット/keywords
 unibo
@@ -7196,6 +7230,9 @@ NATESAS
 NCT,日販コンピュータテクノロジイ
 こくり
 
+=2021-12-23T12:57:18+09:00 Computer/トピック/社会動向/企業/日本動物高度医療センター/keywords
+PLUS CYCLE
+
 =2021-10-14T13:32:56+09:00 Computer/トピック/社会動向/企業/日本化薬/keywords
 PARASAFE
 
@@ -7452,11 +7489,12 @@ DELITA
 COBOTTA
 DENSO,デンソー
 
-=2018-05-03T18:47:59+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
+=2021-12-23T12:57:17+09:00 Computer/トピック/社会動向/企業/自動車/トヨタ/keywords
 トヨタ,Toyota
 プリウス,PRIUS
 Ha:mo RIDE,ハーモ・ライド
 QAネットワーク
+豊田中央研究所
 
 =2020-09-10T14:11:27+09:00 Computer/トピック/社会動向/企業/自動車/ホンダ/keywords
 本田技術研究所,本田技研,ホンダ,Honda
@@ -7749,6 +7787,9 @@ TSUBAME
 
 =2018-12-16T11:39:40+09:00 Computer/トピック/社会動向/大学/東京藝術大学/keywords
 東京芸術大学,東京藝術大学
+
+=2021-12-23T12:59:36+09:00 Computer/トピック/社会動向/大学/東京農工大学/keywords
+東京農工大,東京農工大学
 
 =2017-04-11T15:04:39+09:00 Computer/トピック/社会動向/大学/東京都市大学/keywords
 東京都市大学,東京都市大
