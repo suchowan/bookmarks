@@ -50,7 +50,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2021-12-02T14:01:47+09:00 Computer/トピック/セキュリティ/keywords
+=2021-12-30T12:05:23+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -219,6 +219,7 @@ XDR
 Cookie
 Lock
 CronRAT
+故意
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1115,7 +1116,7 @@ Health
 処方箋
 傷口
 
-=2021-07-15T13:28:23+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
+=2021-12-30T12:05:26+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
 ワイン
 ビール
@@ -1132,6 +1133,7 @@ Retty
 飲料
 バウムクーヘン
 アロマ
+香り
 
 =2021-03-18T12:50:14+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
@@ -1360,7 +1362,7 @@ CHIVOX
 性別
 字幕
 
-=2021-09-02T15:28:55+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2021-12-30T12:05:24+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1390,6 +1392,7 @@ CHIVOX
 漁場
 リンゴ
 ビニールハウス
+釣り
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -1462,7 +1465,7 @@ Magenta
 音感
 演奏
 
-=2021-11-18T11:37:22+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2021-12-30T12:05:23+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1522,6 +1525,7 @@ BERT
 ブレインテック
 BMI
 教師なしAI
+GLIDE
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1852,6 +1856,9 @@ Xvision
 =2019-05-28T11:33:34+09:00 Computer/トピック/社会動向/企業/Automation Anywhere/keywords
 オートメーション・エニウェア,Automation Anywhere
 
+=2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/企業/Automattic/keywords
+WordPress
+
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/AVA Intelligence/keywords
 AVA Travel
 
@@ -2018,9 +2025,6 @@ SmartDish
 
 =2021-05-27T12:03:44+09:00 Computer/トピック/社会動向/企業/Caterpillar/keywords
 キャタピラー,Caterpillar
-
-=2020-06-11T14:11:58+09:00 Computer/トピック/社会動向/企業/CCC/keywords
-ツタヤ,蔦屋,TSUTAYA,CCC
 
 =2017-10-24T07:35:21+09:00 Computer/トピック/社会動向/企業/CEC/keywords
 CEC,シーイーシー
@@ -2308,8 +2312,8 @@ NFTPLUS
 =2021-04-15T12:25:19+09:00 Computer/トピック/社会動向/企業/Dreame Technology/keywords
 Dreame Bot
 
-=2020-12-31T18:05:57+09:00 Computer/トピック/社会動向/企業/Dreamtonics/keywords
-Synthesizer V AI
+=2021-12-30T12:20:36+09:00 Computer/トピック/社会動向/企業/Dreamtonics/keywords
+Synthesizer V
 
 =2021-02-12T11:18:36+09:00 Computer/トピック/社会動向/企業/Drone Future Aviation/keywords
 DFA,Drone Future Aviation
@@ -2622,7 +2626,7 @@ MuJoCo
 =2020-02-07T14:45:18+09:00 Computer/トピック/社会動向/企業/Google/Jigsaw/keywords
 Assembler
 
-=2021-02-25T12:34:09+09:00 Computer/トピック/社会動向/企業/Google/keywords
+=2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/企業/Google/keywords
 Google,グーグル
 A.I. Experiments
 RAISR
@@ -2671,6 +2675,7 @@ Privacy Sandbox
 Pixel 4
 FAMGA
 TalkBack
+Hangouts
 
 =2019-02-28T15:50:59+09:00 Computer/トピック/社会動向/企業/Google/YouTube/keywords
 Youtube,YouTube
@@ -3698,6 +3703,9 @@ gita
 
 =2020-09-24T13:30:11+09:00 Computer/トピック/社会動向/企業/Piezo Sonic/keywords
 Mighty
+
+=2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/企業/PINE64/keywords
+PineNote
 
 =2019-07-15T12:47:09+09:00 Computer/トピック/社会動向/企業/Pixellot/keywords
 スターコミュニケーションズ
@@ -5152,8 +5160,8 @@ GooPass
 =2017-11-11T10:17:30+09:00 Computer/トピック/社会動向/企業/カラクリ/keywords
 カラクリ,Karakuri
 
-=2019-10-18T11:14:44+09:00 Computer/トピック/社会動向/企業/カルチュア・コンビニエンス・クラブ/keywords
-カルチュア・コンビニエンス・クラブ,CCC
+=2021-12-30T10:43:51+09:00 Computer/トピック/社会動向/企業/カルチュア・コンビニエンス・クラブ/keywords
+ツタヤ,蔦屋,TSUTAYA,CCC,カルチュア・コンビニエンス・クラブ
 D-AI
 
 =2021-09-30T13:05:33+09:00 Computer/トピック/社会動向/企業/カワダロボティクス/keywords
@@ -5769,7 +5777,7 @@ SMN,ソネット・メディア・ネットワークス
 =2020-09-24T13:30:34+09:00 Computer/トピック/社会動向/企業/ソフトバンク/BOLDLY/keywords
 SBドライブ,BOLDLY
 
-=2021-04-08T11:40:09+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2021-12-30T12:05:25+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフバン,ソフトバンク,SoftBank
 Musio
 Pepper
@@ -5792,6 +5800,7 @@ SBクラウド
 LiVR
 SBクリエイティブ
 Servi
+孫正義
 
 =2020-03-05T15:31:38+09:00 Computer/トピック/社会動向/企業/ソフトバンク/日本コンピュータビジョン/keywords
 JCV,日本コンピュータビジョン
@@ -5812,10 +5821,11 @@ SORACOM,ソラコム
 =2019-03-18T13:44:31+09:00 Computer/トピック/社会動向/企業/ソリトンシステムズ/keywords
 ソリトン,ソリトンシステムズ
 
-=2021-08-05T13:45:36+09:00 Computer/トピック/社会動向/企業/ソースネクスト/keywords
+=2021-12-30T12:05:26+09:00 Computer/トピック/社会動向/企業/ソースネクスト/keywords
 ロゼッタストーン
 POCKETALK
 ポケトーク
+AutoMemo
 
 =2017-10-16T09:26:10+09:00 Computer/トピック/社会動向/企業/ゾーホージャパン/keywords
 ManageEngine OpManager,OpManager
@@ -6824,6 +6834,9 @@ RICOH Live Streaming API
 =2020-12-10T11:58:36+09:00 Computer/トピック/社会動向/企業/リコー/ベクノス/keywords
 IQUI
 
+=2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/企業/リチェルカセキュリティ/keywords
+fuzzuf
+
 =2021-04-08T11:45:21+09:00 Computer/トピック/社会動向/企業/リノベる/keywords
 sugata
 
@@ -7149,6 +7162,9 @@ Fugaku,富岳
 
 =2020-01-30T13:28:42+09:00 Computer/トピック/社会動向/企業/山本光学/keywords
 Versatile
+
+=2021-12-30T12:05:22+09:00 Computer/トピック/社会動向/企業/山洋電気/keywords
+SANMOTION
 
 =2019-02-21T11:54:13+09:00 Computer/トピック/社会動向/企業/川崎重工業/keywords
 川崎重工業,川崎重工,Kawasaki
@@ -7538,6 +7554,9 @@ aslead
 =2018-10-05T11:38:55+09:00 Computer/トピック/社会動向/企業/金融・保険/Aflac/keywords
 アフラック,Afrac
 
+=2021-12-30T12:05:56+09:00 Computer/トピック/社会動向/企業/金融・保険/Credit Suisse/keywords
+クレディ・スイス,Credit Suisse
+
 =2017-04-11T11:03:06+09:00 Computer/トピック/社会動向/企業/金融・保険/Goldman Sachs/keywords
 Goldman Sachs,ゴールドマン・サックス,ゴールドマン
 
@@ -7614,6 +7633,9 @@ SMBC,三井住友
 
 =2020-05-13T16:50:30+09:00 Computer/トピック/社会動向/企業/金融・保険/野村HD/keywords
 野村證券,野村証券,野村HD
+
+=2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/企業/鈴茂器工/keywords
+日本システムプロジェクト
 
 =2019-07-15T12:57:36+09:00 Computer/トピック/社会動向/企業/阿芙/keywords
 Smart Camera
@@ -7833,7 +7855,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2021-11-11T10:44:46+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -7931,6 +7953,7 @@ TSUBAME
 岐阜市
 鹿児島県
 小菅村
+横手市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
@@ -7975,7 +7998,7 @@ RICO,Responsible Initial Coin Offering
 =2021-02-25T12:34:53+09:00 Computer/トピック/社会動向/研究機関/国立国際医療研究センター/keywords
 NCGM,国立国際医療研究センター
 
-=2021-10-28T13:54:33+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
+=2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
 CERN
 DARPA
 NASA
@@ -7983,6 +8006,7 @@ NASA
 ローレンス・バークレー国立研究所
 Fraunhofer
 アレン人工知能研究所
+サンディア国立研究所
 
 =2021-11-04T14:39:37+09:00 Computer/トピック/社会動向/研究機関/日本医療研究開発機構/keywords
 AMED,日本医療研究開発機構
