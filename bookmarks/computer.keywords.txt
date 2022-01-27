@@ -50,7 +50,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2022-01-20T12:57:40+09:00 Computer/トピック/セキュリティ/keywords
+=2022-01-27T12:09:03+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -222,6 +222,8 @@ CronRAT
 故意
 データロケーション
 サイバー
+悪質
+乗っ取り
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -822,7 +824,7 @@ AIライター
 GPT-3
 イラスト
 
-=2020-11-12T12:23:10+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
+=2022-01-27T12:08:59+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
 ピッタリ
 指南
@@ -835,6 +837,7 @@ Quicksilver
 似合う
 レコメンデーション
 レコメンド
+決議
 
 =2021-08-05T13:45:37+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/管理・監視/keywords
 HEMS
@@ -1285,14 +1288,13 @@ Simeji
 NLP
 言語処理
 
-=2018-09-25T10:16:02+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/keywords
+=2022-01-27T12:22:03+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/keywords
 コーパス
-wikipedia
-Wikipedia
+wikipedia,Wikipedia
+言語モデル
 
-=2020-07-23T14:13:20+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
-Word2Vec
-word2vec
+=2022-01-27T12:22:56+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
+Word2Vec,word2vec
 Doc2Vec
 fastText
 単語ベクトル
@@ -1312,7 +1314,7 @@ gensim
 =2017-03-23T11:00:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/ナイーブベイズ/keywords
 ベイジアンフィルタ
 
-=2020-11-12T12:23:09+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/keywords
+=2022-01-27T12:08:59+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/keywords
 MeCab
 Kuromoji
 JUMAN
@@ -1322,6 +1324,7 @@ LUIS
 BERT
 ELMo
 湯婆婆
+言語モデル
 
 =2020-11-26T11:37:45+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
 手書き
@@ -1345,12 +1348,13 @@ STACL
 誤訳
 DeepL
 
-=2019-06-09T15:47:58+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
+=2022-01-27T12:08:59+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
 議事録
 秘書
 IMAKITA
 件名
 見出し
+決議
 
 =2021-11-11T10:44:47+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
 音声処理
@@ -1873,8 +1877,9 @@ WordPress
 =2019-08-12T10:35:19+09:00 Computer/トピック/社会動向/企業/AVA Intelligence/keywords
 AVA Travel
 
-=2020-11-05T13:02:25+09:00 Computer/トピック/社会動向/企業/avatarin/keywords
+=2022-01-27T12:09:02+09:00 Computer/トピック/社会動向/企業/avatarin/keywords
 アバターイン,avatarin
+newme
 
 =2020-02-13T13:16:14+09:00 Computer/トピック/社会動向/企業/Avidbots/keywords
 Neo
@@ -2359,6 +2364,9 @@ SYMMETRY
 =2017-03-29T08:50:59+09:00 Computer/トピック/社会動向/企業/DYSON/keywords
 ダイソン,DYSON
 
+=2022-01-27T12:09:00+09:00 Computer/トピック/社会動向/企業/e-Janネットワークス/keywords
+NinjaConnect
+
 =2021-04-22T13:35:39+09:00 Computer/トピック/社会動向/企業/e-novia/keywords
 YAPE
 
@@ -2761,6 +2769,9 @@ HCL,HCL Technologies
 =2020-07-16T13:17:38+09:00 Computer/トピック/社会動向/企業/Hello Robot/keywords
 Stretch
 
+=2022-01-27T12:10:09+09:00 Computer/トピック/社会動向/企業/HERMES/keywords
+エルメス,HERMES
+
 =2018-03-08T17:56:17+09:00 Computer/トピック/社会動向/企業/HEROZ/keywords
 将棋ウォーズ
 CHESS HEROZ
@@ -3045,6 +3056,9 @@ RapidMiner
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/L is B/keywords
 daab
 
+=2022-01-27T12:09:02+09:00 Computer/トピック/社会動向/企業/LABOT/keywords
+CODEGYM
+
 =2021-01-07T11:41:19+09:00 Computer/トピック/社会動向/企業/Lacicu/keywords
 Liew
 
@@ -3195,6 +3209,9 @@ ObotAI
 =2018-05-10T09:36:47+09:00 Computer/トピック/社会動向/企業/Marketo/keywords
 Marketo,マルケト
 AudienceAI
+
+=2022-01-27T12:10:31+09:00 Computer/トピック/社会動向/企業/Mason Rothschild/keywords
+メイソン・ロスチャイルド,Mason Rothschild
 
 =2017-08-21T08:04:48+09:00 Computer/トピック/社会動向/企業/massive lngg/keywords
 massive stay
@@ -3648,6 +3665,9 @@ FLAPTALK
 =2019-06-01T11:40:05+09:00 Computer/トピック/社会動向/企業/Onplanetz/keywords
 On AI
 
+=2022-01-27T12:08:59+09:00 Computer/トピック/社会動向/企業/Opera Software/keywords
+Crypto Browser
+
 =2020-10-22T14:26:12+09:00 Computer/トピック/社会動向/企業/OPSION/keywords
 RISA
 
@@ -3834,9 +3854,10 @@ amblate
 =2021-05-20T12:51:15+09:00 Computer/トピック/社会動向/企業/Proxima Technology/keywords
 DVF SLAM
 
-=2021-01-14T13:01:31+09:00 Computer/トピック/社会動向/企業/Psychic VR Lab/keywords
+=2022-01-27T12:08:59+09:00 Computer/トピック/社会動向/企業/Psychic VR Lab/keywords
 STYLY for Nreal
 STYLY
+XRscape
 
 =2017-08-08T10:57:16+09:00 Computer/トピック/社会動向/企業/PSソリューションズ/keywords
 e-kakashi
@@ -3890,6 +3911,9 @@ HiT
 
 =2020-02-20T14:40:58+09:00 Computer/トピック/社会動向/企業/QuickWork/keywords
 Daniel
+
+=2022-01-27T12:09:00+09:00 Computer/トピック/社会動向/企業/QYSEA/keywords
+FIFISH
 
 =2021-04-08T11:37:42+09:00 Computer/トピック/社会動向/企業/RABO/keywords
 Catlog
@@ -4788,6 +4812,9 @@ Ascent Robotics,アセントロボティクス
 ATLAS,アトラス
 Ascent Pick
 
+=2022-01-27T12:08:59+09:00 Computer/トピック/社会動向/企業/アタラキシアディーエックス/keywords
+KetsuGI
+
 =2017-07-24T12:25:06+09:00 Computer/トピック/社会動向/企業/アタラ合同会社/keywords
 Unyoo.jp
 
@@ -5600,6 +5627,9 @@ EdaGlass
 =2017-03-30T14:42:16+09:00 Computer/トピック/社会動向/企業/シーサイド/keywords
 C.VIEW
 
+=2022-01-27T12:11:11+09:00 Computer/トピック/社会動向/企業/シー・エフ・デー販売/keywords
+CFD販売,シー・エフ・デー販売
+
 =2021-09-23T11:43:59+09:00 Computer/トピック/社会動向/企業/シー・システム/keywords
 AI JIMY OCR
 
@@ -6199,6 +6229,9 @@ itSnap
 Cacoo
 Backlog
 
+=2022-01-27T12:08:59+09:00 Computer/トピック/社会動向/企業/ネイキッド/keywords
+NAKED FLOWERS
+
 =2020-12-17T12:37:24+09:00 Computer/トピック/社会動向/企業/ネイティブキャンプ/keywords
 3Dキャラクター先生
 
@@ -6332,7 +6365,7 @@ PASMO,パスモ
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2021-07-29T11:54:49+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2022-01-27T12:08:59+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
@@ -6348,6 +6381,7 @@ Aug Lab
 PiiMo
 NICOBO
 WisTalk
+Vieureka
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
@@ -7054,10 +7088,11 @@ Hitomean
 TOMONI
 PLATTER Auto
 
-=2019-04-25T18:55:17+09:00 Computer/トピック/社会動向/企業/三菱電機/keywords
+=2022-01-27T12:09:03+09:00 Computer/トピック/社会動向/企業/三菱電機/keywords
 Maisart,マイサート
 e-F@ctory
 GX-F
+MELDY
 
 =2017-08-04T08:43:07+09:00 Computer/トピック/社会動向/企業/三越伊勢丹/keywords
 ZUKKU,ズック
@@ -7931,7 +7966,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-01-20T12:57:41+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-01-27T12:09:00+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -8033,6 +8068,7 @@ TSUBAME
 長崎県
 デジタル庁
 個人情報保護委員会
+福島県
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
