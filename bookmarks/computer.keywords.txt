@@ -50,7 +50,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2022-01-27T12:09:03+09:00 Computer/トピック/セキュリティ/keywords
+=2022-02-03T11:29:37+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -224,6 +224,7 @@ CronRAT
 サイバー
 悪質
 乗っ取り
+意図せず
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -733,8 +734,8 @@ Amazon Echo,AmazonEcho
 Echosim.io
 アマゾン・エコー
 
-=2022-01-06T09:44:07+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Clova/keywords
-Hyper CLOVA
+=2022-02-03T11:53:31+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Clova/keywords
+Hyper CLOVA,HyperCLOVA
 
 =2020-04-09T16:39:27+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Google Assistant/keywords
 Google Home
@@ -2014,6 +2015,9 @@ C CHANNEL
 =2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/CAIメディア/keywords
 チャーピー
 
+=2022-02-03T11:32:49+09:00 Computer/トピック/社会動向/企業/calibrite/keywords
+キャリブライト,calibrite
+
 =2020-11-19T11:50:07+09:00 Computer/トピック/社会動向/企業/Cambridge Consultants/keywords
 Cambridge Consultants
 
@@ -2769,6 +2773,9 @@ HCL,HCL Technologies
 =2020-07-16T13:17:38+09:00 Computer/トピック/社会動向/企業/Hello Robot/keywords
 Stretch
 
+=2022-02-03T11:31:42+09:00 Computer/トピック/社会動向/企業/hemVR/keywords
+ヘムVR,hemVR
+
 =2022-01-27T12:10:09+09:00 Computer/トピック/社会動向/企業/HERMES/keywords
 エルメス,HERMES
 
@@ -3095,6 +3102,9 @@ ThinQ AI
 
 =2018-03-02T10:53:28+09:00 Computer/トピック/社会動向/企業/LiB/keywords
 LiBzCAREER
+
+=2022-02-03T11:29:38+09:00 Computer/トピック/社会動向/企業/LIC/keywords
+判例秘書
 
 =2021-08-25T15:33:48+09:00 Computer/トピック/社会動向/企業/Life is style/keywords
 3D Phantom
@@ -4118,6 +4128,9 @@ Sitecore Experience Cloud
 
 =2017-03-30T10:08:08+09:00 Computer/トピック/社会動向/企業/SKT/keywords
 SKT,SKテレコム
+
+=2022-02-03T11:32:30+09:00 Computer/トピック/社会動向/企業/Skylum/keywords
+スカイラム,Skylum
 
 =2017-03-30T10:09:21+09:00 Computer/トピック/社会動向/企業/Skymind/keywords
 Deeplearning4j,DL4J
@@ -5661,6 +5674,9 @@ My Home Market
 ATOK
 スマート名刺管理
 
+=2022-02-03T11:29:40+09:00 Computer/トピック/社会動向/企業/ジャパンヒュペリナー/keywords
+エカデジ
+
 =2021-04-01T15:31:20+09:00 Computer/トピック/社会動向/企業/ジャパン・カレント/keywords
 Pixial
 
@@ -6482,8 +6498,9 @@ Funds,ファンズ
 =2018-01-13T12:01:55+09:00 Computer/トピック/社会動向/企業/ファンタラクティブ/keywords
 WW checker,ダブダブチェッカー
 
-=2017-04-10T15:01:17+09:00 Computer/トピック/社会動向/企業/ファーストアセント/keywords
+=2022-02-03T11:29:40+09:00 Computer/トピック/社会動向/企業/ファーストアセント/keywords
 パパっと育児＠赤ちゃん手帳
+ainenne
 
 =2017-04-11T09:42:40+09:00 Computer/トピック/社会動向/企業/フィスコ/keywords
 フィスコ,FISCO
@@ -7638,6 +7655,9 @@ Kian
 =2021-04-22T13:35:37+09:00 Computer/トピック/社会動向/企業/華和結ホールディングス/keywords
 AiBank.jp
 
+=2022-02-03T11:29:38+09:00 Computer/トピック/社会動向/企業/調和技研/keywords
+Lango
+
 =2021-12-02T14:01:54+09:00 Computer/トピック/社会動向/企業/講談社/keywords
 Fingerbot
 Eilik
@@ -7834,7 +7854,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2022-01-20T13:01:49+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2022-02-03T11:29:37+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -7881,6 +7901,7 @@ Caltech,カリフォルニア工科大
 エディンバラ大学
 イリノイ大学
 MIT,マサチューセッツ工科大学
+ゲルフ大学
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
@@ -7966,7 +7987,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-01-27T12:09:00+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-02-03T11:29:40+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -8069,6 +8090,7 @@ TSUBAME
 デジタル庁
 個人情報保護委員会
 福島県
+武雄市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
@@ -8113,14 +8135,14 @@ RICO,Responsible Initial Coin Offering
 =2021-02-25T12:34:53+09:00 Computer/トピック/社会動向/研究機関/国立国際医療研究センター/keywords
 NCGM,国立国際医療研究センター
 
-=2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
+=2022-02-03T11:30:43+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
 CERN
 DARPA
 NASA
 アルスエレクトロニカ
 ローレンス・バークレー国立研究所
 Fraunhofer
-アレン人工知能研究所
+AI2,アレン人工知能研究所
 サンディア国立研究所
 
 =2021-11-04T14:39:37+09:00 Computer/トピック/社会動向/研究機関/日本医療研究開発機構/keywords
