@@ -50,7 +50,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2022-02-03T11:29:37+09:00 Computer/トピック/セキュリティ/keywords
+=2022-02-10T12:26:19+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -225,6 +225,7 @@ CronRAT
 悪質
 乗っ取り
 意図せず
+偽メール
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1898,6 +1899,9 @@ IPD-360VR
 バイドゥ,Baidu,百度
 Simeji
 
+=2022-02-10T12:26:19+09:00 Computer/トピック/社会動向/企業/Band Industries/keywords
+Roadie Coach
+
 =2021-12-02T14:04:15+09:00 Computer/トピック/社会動向/企業/Bayer/keywords
 バイエル薬品,Bayer
 
@@ -1959,6 +1963,9 @@ Booking.com,ブッキング・ドットコム
 
 =2019-06-05T11:57:53+09:00 Computer/トピック/社会動向/企業/Books&Company/keywords
 easy writer
+
+=2022-02-10T12:26:18+09:00 Computer/トピック/社会動向/企業/booost technologies/keywords
+ENERGY X
 
 =2021-02-04T12:48:35+09:00 Computer/トピック/社会動向/企業/Boston Dynamics/keywords
 Boston Dynamics,ボストンダイナミクス,ボストン・ダイナミクス
@@ -2405,6 +2412,9 @@ Elastic Stack
 
 =2020-06-18T16:26:52+09:00 Computer/トピック/社会動向/企業/Electronic Arts/keywords
 エレクトロニック・アーツ,Electronic Arts
+
+=2022-02-10T12:26:20+09:00 Computer/トピック/社会動向/企業/Elix/keywords
+kMoL
 
 =2017-10-30T10:48:38+09:00 Computer/トピック/社会動向/企業/elo-bot/keywords
 Elo
@@ -3090,6 +3100,9 @@ AI Dungeon
 =2019-05-24T12:07:25+09:00 Computer/トピック/社会動向/企業/Leaner Technologies/keywords
 Leaner
 
+=2022-02-10T12:26:18+09:00 Computer/トピック/社会動向/企業/Leaning Technologies/keywords
+WebVM
+
 =2019-05-16T11:13:58+09:00 Computer/トピック/社会動向/企業/Lenovo/keywords
 Lenovo,レノボ
 ThinkReality
@@ -3123,13 +3136,14 @@ Lightblue Sense
 Sansar
 Linden Research,Linden Lab
 
-=2020-08-13T12:38:48+09:00 Computer/トピック/社会動向/企業/LINE/keywords
+=2022-02-10T12:26:18+09:00 Computer/トピック/社会動向/企業/LINE/keywords
 Clova
 Clova Friends
 LINE Customer Connect
 Expand Video
 myBridge
 lacore
+CLOVA OCR
 
 =2021-10-21T13:28:21+09:00 Computer/トピック/社会動向/企業/Linked Ideal/keywords
 Toposoid
@@ -3390,6 +3404,9 @@ Scout
 =2020-12-17T12:37:27+09:00 Computer/トピック/社会動向/企業/MoreVision/keywords
 MiRAVEL
 
+=2022-02-10T12:26:19+09:00 Computer/トピック/社会動向/企業/morrow/keywords
+TalkWave
+
 =2019-02-24T19:13:09+09:00 Computer/トピック/社会動向/企業/MOS Burger/keywords
 モスバーガー,MOS Burger
 
@@ -3608,8 +3625,9 @@ NTT docomo
 =2017-04-18T07:25:05+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
 Oshi-el,オシエル
 
-=2017-07-21T09:15:03+09:00 Computer/トピック/社会動向/企業/NTT/NTT東/keywords
+=2022-02-10T12:26:18+09:00 Computer/トピック/社会動向/企業/NTT/NTT東/keywords
 ひかりクラウドcototoba
+AIよみと～る
 
 =2021-10-21T13:28:21+09:00 Computer/トピック/社会動向/企業/NTT/NTT西/keywords
 NTTビジネスソリューションズ
@@ -4162,6 +4180,9 @@ LIVEO
 
 =2018-01-31T14:39:30+09:00 Computer/トピック/社会動向/企業/SOCINNO/keywords
 sRemo-R
+
+=2022-02-10T12:27:41+09:00 Computer/トピック/社会動向/企業/SolarWinds/keywords
+ソーラーウインズ,SolarWinds
 
 =2018-08-14T15:29:47+09:00 Computer/トピック/社会動向/企業/Sonos/keywords
 SONOS,sonos
@@ -5844,7 +5865,7 @@ Shodo
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2021-09-02T15:28:53+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2022-02-10T12:26:17+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -5865,6 +5886,7 @@ QRIO
 amue link
 MEEQ
 PS5
+Neural Network Console
 
 =2020-07-02T14:08:05+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -6322,6 +6344,9 @@ ZUKKU
 =2020-05-28T14:31:15+09:00 Computer/トピック/社会動向/企業/ハピロボ/keywords
 temi
 hapi-robo st,ハピロボ
+
+=2022-02-10T12:26:18+09:00 Computer/トピック/社会動向/企業/ハンモック/keywords
+AnyForm OCR
 
 =2020-02-07T14:45:18+09:00 Computer/トピック/社会動向/企業/ハートコア/keywords
 CXM
@@ -6860,6 +6885,9 @@ SPEEDA
 =2020-12-03T13:15:31+09:00 Computer/トピック/社会動向/企業/ユーハイム/keywords
 THEO
 
+=2022-02-10T12:26:20+09:00 Computer/トピック/社会動向/企業/ヨクト/keywords
+yogaMotion
+
 =2017-04-11T10:35:01+09:00 Computer/トピック/社会動向/企業/ライスカレー製作所/keywords
 オードブル
 
@@ -6959,6 +6987,9 @@ fuzzuf
 =2021-04-08T11:45:21+09:00 Computer/トピック/社会動向/企業/リノベる/keywords
 sugata
 
+=2022-02-10T12:26:19+09:00 Computer/トピック/社会動向/企業/リビングロボット/keywords
+メカトロウィーゴ
+
 =2017-04-11T10:38:59+09:00 Computer/トピック/社会動向/企業/リブセンス/keywords
 IESHIL,イエシル
 
@@ -7039,6 +7070,9 @@ epRobo,エピロボ
 
 =2021-02-18T17:16:18+09:00 Computer/トピック/社会動向/企業/ロボット/keywords
 ROBOT,ロボット
+
+=2022-02-10T12:26:19+09:00 Computer/トピック/社会動向/企業/ロボットスタート/keywords
+Audiostart
 
 =2019-05-16T11:17:19+09:00 Computer/トピック/社会動向/企業/ロレアル/keywords
 ロレアルグループ,ロレアル
@@ -7397,6 +7431,9 @@ LAWGUE
 新日鉄住金ソリューションズ,日鉄ソリューションズ,NSSOL
 DataRobot
 absonne,アブソンヌ
+
+=2022-02-10T12:26:17+09:00 Computer/トピック/社会動向/企業/日本財団/keywords
+MEGURI2040
 
 =2021-07-22T13:23:14+09:00 Computer/トピック/社会動向/企業/日本郵政/keywords
 住所が分からなくても送れるサービス
@@ -7762,6 +7799,9 @@ SMBC,三井住友
 
 =2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/企業/鈴茂器工/keywords
 日本システムプロジェクト
+
+=2022-02-10T12:26:19+09:00 Computer/トピック/社会動向/企業/鑫三海/keywords
+Swan-K1
 
 =2019-07-15T12:57:36+09:00 Computer/トピック/社会動向/企業/阿芙/keywords
 Smart Camera
@@ -8135,13 +8175,13 @@ RICO,Responsible Initial Coin Offering
 =2021-02-25T12:34:53+09:00 Computer/トピック/社会動向/研究機関/国立国際医療研究センター/keywords
 NCGM,国立国際医療研究センター
 
-=2022-02-03T11:30:43+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
+=2022-02-10T12:28:12+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
 CERN
 DARPA
 NASA
 アルスエレクトロニカ
 ローレンス・バークレー国立研究所
-Fraunhofer
+フラウンホーファー,Fraunhofer
 AI2,アレン人工知能研究所
 サンディア国立研究所
 
