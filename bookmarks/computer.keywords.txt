@@ -1029,7 +1029,7 @@ Dating
 名刺将棋
 婚活
 
-=2022-01-20T12:57:40+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2022-02-17T12:29:05+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1131,6 +1131,7 @@ Health
 障碍
 健康
 寄り添い
+歯科
 
 =2021-12-30T12:05:26+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -2405,6 +2406,9 @@ DEEP READ
 =2019-06-05T11:57:52+09:00 Computer/トピック/社会動向/企業/efit/keywords
 QUOREA
 
+=2022-02-17T12:29:05+09:00 Computer/トピック/社会動向/企業/EKTO VR/keywords
+EKTO ONE
+
 =2017-05-15T07:58:33+09:00 Computer/トピック/社会動向/企業/Elastic/keywords
 Elasticsearch
 Kibana
@@ -2579,6 +2583,9 @@ Coroban
 =2018-02-02T09:06:13+09:00 Computer/トピック/社会動向/企業/FUGU INNOVATIONS/keywords
 AUDUBE
 
+=2022-02-17T12:29:06+09:00 Computer/トピック/社会動向/企業/G-Bank Technologies OÜ/keywords
+GIG-A
+
 =2021-07-29T11:54:49+09:00 Computer/トピック/社会動向/企業/G1 Technology/keywords
 Vnode
 
@@ -2665,10 +2672,11 @@ MakeRepeater
 =2017-03-22T07:11:34+09:00 Computer/トピック/社会動向/企業/Good Moneyger/keywords
 VESTA
 
-=2021-10-21T13:31:25+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
+=2022-02-17T12:29:05+09:00 Computer/トピック/社会動向/企業/Google/DeepMind/keywords
 DeepMind,ディープマインド
 AlphaStar
 MuJoCo
+AlphaCode
 
 =2020-02-07T14:45:18+09:00 Computer/トピック/社会動向/企業/Google/Jigsaw/keywords
 Assembler
@@ -2754,6 +2762,9 @@ LOVOT
 
 =2020-04-09T16:40:06+09:00 Computer/トピック/社会動向/企業/grooves/keywords
 グルーヴス,grooves
+
+=2022-02-17T12:29:05+09:00 Computer/トピック/社会動向/企業/GROUND/keywords
+PEER
 
 =2019-10-24T11:26:54+09:00 Computer/トピック/社会動向/企業/Gugenka/keywords
 HoloModels
@@ -2920,9 +2931,6 @@ Coleman
 =2018-07-07T10:02:02+09:00 Computer/トピック/社会動向/企業/INJUS/keywords
 ChatFielder
 
-=2020-10-15T12:30:37+09:00 Computer/トピック/社会動向/企業/InSync/keywords
-WakeAi
-
 =2020-08-13T12:38:48+09:00 Computer/トピック/社会動向/企業/Intel/keywords
 Intel,インテル
 Loihi
@@ -2991,6 +2999,9 @@ puzzle
 
 =2021-07-15T13:32:22+09:00 Computer/トピック/社会動向/企業/Jij/keywords
 ジェイアイジェイ,Jij
+
+=2022-02-17T12:29:05+09:00 Computer/トピック/社会動向/企業/Jio/keywords
+JioPhone
 
 =2017-09-04T12:24:06+09:00 Computer/トピック/社会動向/企業/JIT/keywords
 ICO MARKET
@@ -4546,6 +4557,9 @@ EMARF
 =2017-03-30T10:49:17+09:00 Computer/トピック/社会動向/企業/WACUL/keywords
 AIアナリスト
 
+=2022-02-17T14:26:57+09:00 Computer/トピック/社会動向/企業/WakeAi/keywords
+InSync,WakeAi
+
 =2017-06-19T07:14:45+09:00 Computer/トピック/社会動向/企業/WD/keywords
 WD,ウエスタンデジタル
 
@@ -5185,12 +5199,13 @@ Just Realize!
 オムロン,OMRON
 Toritoss
 
-=2021-07-01T12:17:48+09:00 Computer/トピック/社会動向/企業/オリィ研究所/keywords
+=2022-02-17T12:29:04+09:00 Computer/トピック/社会動向/企業/オリィ研究所/keywords
 OriHime eye
 OriHime-D
 Orihime,OriHime
 吉藤オリィ
 DAWN ver.β
+NIN_NIN
 
 =2017-04-13T10:27:49+09:00 Computer/トピック/社会動向/企業/オリックス/keywords
 オリックス,Orix
@@ -6027,8 +6042,9 @@ Advertising as a Service,AaaS
 =2021-04-15T12:25:20+09:00 Computer/トピック/社会動向/企業/ツインプラネット/keywords
 NEO AVATAR GOVERNANCE
 
-=2021-07-15T13:28:23+09:00 Computer/トピック/社会動向/企業/ツクルバ/keywords
+=2022-02-17T12:29:06+09:00 Computer/トピック/社会動向/企業/ツクルバ/keywords
 cowcamo
+ウルカモ
 
 =2018-03-08T17:56:12+09:00 Computer/トピック/社会動向/企業/ティアフォー/keywords
 ティアフォー,Tier IV
@@ -6733,6 +6749,9 @@ MFクラウド確定申告
 =2017-04-11T10:09:57+09:00 Computer/トピック/社会動向/企業/マージェリック/keywords
 バンブーシュート,bambooshoot
 
+=2022-02-17T12:29:05+09:00 Computer/トピック/社会動向/企業/マーベラス/keywords
+LOOP8
+
 =2021-01-28T12:13:09+09:00 Computer/トピック/社会動向/企業/ミクシィ/keywords
 ミクシィ,mixi
 Romi
@@ -6852,6 +6871,9 @@ Qoobo,クーボ
 
 =2021-04-01T15:32:28+09:00 Computer/トピック/社会動向/企業/ユキヤマ/keywords
 yukiyama,ユキヤマ
+
+=2022-02-17T12:29:05+09:00 Computer/トピック/社会動向/企業/ユナイテッド・スーパーマーケット/keywords
+BLΛNDE
 
 =2018-09-23T14:52:59+09:00 Computer/トピック/社会動向/企業/ユニクロ/keywords
 ユニクロ,UNIQLO,ファーストリテイリング,ファストリ
@@ -7009,6 +7031,9 @@ Rasika
 =2017-04-11T10:37:02+09:00 Computer/トピック/社会動向/企業/リーウェイズ/keywords
 Gate.
 Opus,オーパス
+
+=2022-02-17T12:29:40+09:00 Computer/トピック/社会動向/企業/リーバー/keywords
+LEBER,リーバー
 
 =2017-05-10T07:32:47+09:00 Computer/トピック/社会動向/企業/ルグラン/keywords
 TNQL,テンキュール
