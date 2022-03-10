@@ -948,7 +948,7 @@ JINS
 化粧品
 ビューティー
 
-=2022-03-03T12:43:23+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
+=2022-03-10T11:38:03+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
 フライホイール
 顧客分析
@@ -958,6 +958,7 @@ PR
 カスタマー・エンゲージメント
 商品開発
 CRM
+MA
 
 =2021-02-12T11:17:17+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/keywords
 Google Analytics,Googleアナリティクス
@@ -1033,7 +1034,7 @@ Dating
 名刺将棋
 婚活
 
-=2022-02-17T12:29:05+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2022-03-10T11:38:04+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1136,6 +1137,7 @@ Health
 健康
 寄り添い
 歯科
+看護
 
 =2021-12-30T12:05:26+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1699,6 +1701,9 @@ AI-Exchange,AiX
 AILINK
 AISCOUT
 
+=2022-03-10T11:38:54+09:00 Computer/トピック/社会動向/企業/Airbnb/keywords
+エアビー,airbnb,Airbnb
+
 =2021-10-21T13:35:37+09:00 Computer/トピック/社会動向/企業/Airbus/keywords
 エアバス,Airbus
 
@@ -1758,6 +1763,9 @@ Labellio,ラベリオ
 
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/Altan Robotech/keywords
 Giddel
+
+=2022-03-10T11:39:19+09:00 Computer/トピック/社会動向/企業/Alteryx/keywords
+アルテリックス,Alteryx
 
 =2020-06-25T15:04:17+09:00 Computer/トピック/社会動向/企業/Amazon/keywords
 Amazon,アマゾン
@@ -1834,7 +1842,7 @@ App Annie Ascend
 Cross X AIソリューション
 AIXON
 
-=2020-07-02T14:05:59+09:00 Computer/トピック/社会動向/企業/Apple/keywords
+=2022-03-10T11:38:03+09:00 Computer/トピック/社会動向/企業/Apple/keywords
 Apple,アップル
 iPhone
 App Store
@@ -1845,6 +1853,7 @@ GAFAM
 Mac
 FAMGA
 iPad
+Safari
 
 =2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/企業/AquaFusion/keywords
 AquaMagic
@@ -2101,6 +2110,9 @@ Cisco Intersight
 SD-WAN
 Webex
 
+=2022-03-10T11:38:05+09:00 Computer/トピック/社会動向/企業/Citadel AI/keywords
+Citadel Lens
+
 =2019-01-19T16:47:49+09:00 Computer/トピック/社会動向/企業/Citrix/keywords
 シトリックス
 
@@ -2115,6 +2127,9 @@ Dronut X1
 
 =2021-04-15T12:25:19+09:00 Computer/トピック/社会動向/企業/Click Holdings/keywords
 Honbike
+
+=2022-03-10T11:38:03+09:00 Computer/トピック/社会動向/企業/Cloud CIRCUS/keywords
+Bow Now
 
 =2020-04-23T13:34:02+09:00 Computer/トピック/社会動向/企業/Cloudflair/keywords
 クラウドフレア,Cloudflair
@@ -2257,6 +2272,9 @@ DataRobot,データロボット
 
 =2019-08-12T10:35:20+09:00 Computer/トピック/社会動向/企業/DataSparQ/keywords
 A.I.Bar
+
+=2022-03-10T11:38:03+09:00 Computer/トピック/社会動向/企業/dataX/keywords
+b→dash
 
 =2017-09-07T10:43:47+09:00 Computer/トピック/社会動向/企業/Datorama/keywords
 Datorama Genius
@@ -4232,6 +4250,9 @@ SotaTek,Sota Tek,ソタテック
 =2019-01-30T13:12:17+09:00 Computer/トピック/社会動向/企業/Soul Machines/keywords
 Nadia
 
+=2022-03-10T11:38:04+09:00 Computer/トピック/社会動向/企業/Space Bullet Dynamics Corporation/keywords
+Vox Machinae
+
 =2018-08-24T11:07:28+09:00 Computer/トピック/社会動向/企業/SpaceX/keywords
 イーロン・マスク
 
@@ -5045,9 +5066,15 @@ WALS
 =2018-01-10T11:55:44+09:00 Computer/トピック/社会動向/企業/インロビ/keywords
 BitTax
 
+=2022-03-10T11:38:03+09:00 Computer/トピック/社会動向/企業/インヴァスト/keywords
+Bibro
+
 =2018-03-16T11:48:41+09:00 Computer/トピック/社会動向/企業/イーケイジャパン/keywords
 フォロ
 ビルドロイド
+
+=2022-03-10T11:38:04+09:00 Computer/トピック/社会動向/企業/イーディーエー/keywords
+テレサポ
 
 =2017-03-30T11:30:46+09:00 Computer/トピック/社会動向/企業/イード/keywords
 marble
@@ -5284,6 +5311,9 @@ RecoBee
 =2017-03-30T13:21:09+09:00 Computer/トピック/社会動向/企業/オールプレジデント/keywords
 TEC-PAL,テクパル
 
+=2022-03-10T11:38:03+09:00 Computer/トピック/社会動向/企業/カイロスマーケティン/keywords
+Kairos3
+
 =2017-03-29T11:29:30+09:00 Computer/トピック/社会動向/企業/カウリス/keywords
 FraudAlert
 
@@ -5476,6 +5506,9 @@ Naumanni,ナウマン
 
 =2017-03-30T14:25:05+09:00 Computer/トピック/社会動向/企業/グルーヴノーツ/keywords
 MAGELLAN BLOCKS
+
+=2022-03-10T11:38:04+09:00 Computer/トピック/社会動向/企業/グレート・ビーンズ/keywords
+CIY
 
 =2017-07-24T10:49:06+09:00 Computer/トピック/社会動向/企業/グレープシティ/keywords
 Wikitude SDK 7
@@ -6816,6 +6849,9 @@ MediaPack,メディアパック
 =2020-12-17T12:37:27+09:00 Computer/トピック/社会動向/企業/ミッドナイトブレックファスト/keywords
 muute
 
+=2022-03-10T11:38:04+09:00 Computer/トピック/社会動向/企業/ミツカル/keywords
+Conoris
+
 =2018-12-11T08:01:57+09:00 Computer/トピック/社会動向/企業/ミツフジ/keywords
 hamon Cloud
 
@@ -7777,6 +7813,9 @@ Lango
 Fingerbot
 Eilik
 
+=2022-03-10T11:38:03+09:00 Computer/トピック/社会動向/企業/超越/keywords
+CheckGoods
+
 =2020-12-31T18:11:34+09:00 Computer/トピック/社会動向/企業/都市再生機構/keywords
 UR,都市再生機構
 
@@ -7972,7 +8011,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2022-03-03T12:50:06+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2022-03-10T11:38:05+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 CMU,カーネギーメロン大
@@ -8021,6 +8060,7 @@ Caltech,カリフォルニア工科大
 MIT,マサチューセッツ工科大学
 ゲルフ大学
 オックスフォード大,オックスフォード大学
+釜山大学校
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
