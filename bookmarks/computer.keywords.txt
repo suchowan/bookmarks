@@ -1141,7 +1141,7 @@ Health
 歯科
 看護
 
-=2021-12-30T12:05:26+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
+=2022-03-24T13:09:47+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
 ワイン
 ビール
@@ -1159,6 +1159,8 @@ Retty
 バウムクーヘン
 アロマ
 香り
+カフェ
+盛り付け
 
 =2021-03-18T12:50:14+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
@@ -1440,7 +1442,7 @@ InsurTech
 mecelo
 トレーダー
 
-=2021-05-13T12:37:33+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
+=2022-03-24T13:09:47+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/keywords
 レジなし
 レジ不要
 Oder
@@ -1471,6 +1473,7 @@ ICOCA
 入金
 デビットカード
 投げ銭
+あと払い
 
 =2021-02-04T12:49:44+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/融資/keywords
 住宅ローン
@@ -4194,6 +4197,9 @@ MindSphere3
 =2020-12-03T13:15:30+09:00 Computer/トピック/社会動向/企業/silvereye/keywords
 RehaVR
 
+=2022-03-24T13:09:48+09:00 Computer/トピック/社会動向/企業/Singulos Research/keywords
+Perceptus
+
 =2017-04-17T09:13:30+09:00 Computer/トピック/社会動向/企業/Sisense/keywords
 Sisense Pulse
 
@@ -4824,6 +4830,9 @@ AIsmily,アイスマイリー
 =2017-06-08T07:26:05+09:00 Computer/トピック/社会動向/企業/アイティメディア/keywords
 TechFactory
 
+=2022-03-24T13:09:48+09:00 Computer/トピック/社会動向/企業/アイテス/keywords
+RUC-100
+
 =2020-12-31T18:05:57+09:00 Computer/トピック/社会動向/企業/アイディオット/keywords
 DP2brain
 
@@ -5182,8 +5191,9 @@ ebica予約台帳
 =2020-12-24T12:07:20+09:00 Computer/トピック/社会動向/企業/エフィシエント/keywords
 Steach
 
-=2017-10-04T09:14:11+09:00 Computer/トピック/社会動向/企業/エフセキュア/keywords
+=2022-03-24T13:09:47+09:00 Computer/トピック/社会動向/企業/エフセキュア/keywords
 F-Secure Computer Protection
+ウィズセキュア
 
 =2017-09-11T09:45:48+09:00 Computer/トピック/社会動向/企業/エボラブルアジア/keywords
 hachidori
@@ -5780,6 +5790,9 @@ MachiTag
 My Home Market
 JIBUN HAUS,ジブンハウス
 
+=2022-03-24T13:09:46+09:00 Computer/トピック/社会動向/企業/ジャストシステム/keywords
+一太郎
+
 =2018-03-02T08:39:11+09:00 Computer/トピック/社会動向/企業/ジャストシステム/keywors
 ATOK
 スマート名刺管理
@@ -6321,6 +6334,9 @@ TUNEDiD
 =2021-05-20T12:51:15+09:00 Computer/トピック/社会動向/企業/ドーナッツロボティク/keywords
 C-FACE
 
+=2022-03-24T13:09:47+09:00 Computer/トピック/社会動向/企業/ナイスジャパン/keywords
+CXone
+
 =2018-01-17T15:35:28+09:00 Computer/トピック/社会動向/企業/ナイル/keywords
 カルモ
 
@@ -6420,6 +6436,9 @@ Omiai
 
 =2017-04-10T14:44:34+09:00 Computer/トピック/社会動向/企業/ネットワークバリューコンポネンツ/keywords
 ネットワークバリューコンポネンツ,NVC
+
+=2022-03-24T13:09:48+09:00 Computer/トピック/社会動向/企業/ハイデイ日高/keywords
+日高屋
 
 =2021-08-25T15:34:48+09:00 Computer/トピック/社会動向/企業/ハイヤールー/keywords
 HireRoo,ハイヤールー
@@ -6784,6 +6803,9 @@ BellCloud AI for SNS
 =2018-04-17T09:43:44+09:00 Computer/トピック/社会動向/企業/ベーシック/keywords
 ferret One
 
+=2022-03-24T13:11:50+09:00 Computer/トピック/社会動向/企業/ペイトナー/keywords
+yup,ペイトナー
+
 =2019-01-11T14:40:12+09:00 Computer/トピック/社会動向/企業/ペッパーフードサービス/keywords
 いきなり！ステーキ
 
@@ -7100,7 +7122,7 @@ ShowTalk
 ShowTALK+ASSIST
 eigyo intelligence
 
-=2021-09-16T14:54:57+09:00 Computer/トピック/社会動向/企業/リコー/keywords
+=2022-03-24T13:09:46+09:00 Computer/トピック/社会動向/企業/リコー/keywords
 RICOH,リコー
 RICOH 360 for Ad
 トルノ
@@ -7108,6 +7130,7 @@ THETA
 piglyph
 RICOH Live Streaming API
 イリアス
+WARPE
 
 =2020-12-10T11:58:36+09:00 Computer/トピック/社会動向/企業/リコー/ベクノス/keywords
 IQUI
@@ -7140,6 +7163,9 @@ Rasika
 =2017-04-11T10:37:02+09:00 Computer/トピック/社会動向/企業/リーウェイズ/keywords
 Gate.
 Opus,オーパス
+
+=2022-03-24T13:09:48+09:00 Computer/トピック/社会動向/企業/リーディングマーク/keywords
+ミキワメ
 
 =2022-02-17T12:29:40+09:00 Computer/トピック/社会動向/企業/リーバー/keywords
 LEBER,リーバー
@@ -7242,6 +7268,9 @@ LINE WORKS
 =2019-09-28T12:46:06+09:00 Computer/トピック/社会動向/企業/ワールドハウジングクラブ/keywords
 HiL
 
+=2022-03-24T13:11:10+09:00 Computer/トピック/社会動向/企業/ワールド・モード・ホールディングス/keywords
+WMH,ワールド・モード・ホールディングス
+
 =2017-09-11T09:24:04+09:00 Computer/トピック/社会動向/企業/ヴァル研究所/keywords
 RODEM
 駅すぱあと
@@ -7251,10 +7280,11 @@ Sota
 オムニローバー3WD
 ライトローバー
 
-=2022-01-06T09:44:06+09:00 Computer/トピック/社会動向/企業/三井不動産/keywords
+=2022-03-24T13:09:48+09:00 Computer/トピック/社会動向/企業/三井不動産/keywords
 toppi!,トッピ
 TeNQ
 東京ドーム
+&well
 
 =2021-11-11T10:44:46+09:00 Computer/トピック/社会動向/企業/三井物産/keywords
 SAIVS,Spider Artificial Intelligence Vulnerability Scanner
@@ -8087,8 +8117,12 @@ MIT,マサチューセッツ工科大学
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
 
-=2017-10-30T12:40:56+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
+=2022-03-24T13:09:47+09:00 Computer/トピック/社会動向/大学/大阪大学/keywords
 大阪大学,阪大
+石黒浩
+
+=2022-03-24T13:12:21+09:00 Computer/トピック/社会動向/大学/大阪芸術大学/keywords
+大阪芸大,大阪芸術大学
 
 =2021-06-03T11:46:31+09:00 Computer/トピック/社会動向/大学/宮崎大学/keywords
 宮崎大,宮崎大学
