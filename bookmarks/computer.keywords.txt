@@ -51,7 +51,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2022-04-14T10:40:02+09:00 Computer/トピック/セキュリティ/keywords
+=2022-05-04T17:50:27+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -231,6 +231,7 @@ CronRAT
 保安
 データ削除
 機密
+施錠
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1044,7 +1045,7 @@ Dating
 婚活
 面談
 
-=2022-03-10T11:38:04+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2022-05-04T17:50:27+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1148,6 +1149,7 @@ Health
 寄り添い
 歯科
 看護
+心停止
 
 =2022-03-24T13:09:47+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -2907,6 +2909,9 @@ VContact
 =2020-03-05T14:47:00+09:00 Computer/トピック/社会動向/企業/Honeywell/keywords
 ハネウェル,Honeywell
 
+=2022-05-04T17:50:27+09:00 Computer/トピック/社会動向/企業/HOYA/keywords
+ReadSpeaker
+
 =2019-03-22T13:30:47+09:00 Computer/トピック/社会動向/企業/HPE/keywords
 HPE,Hewlett Packard Enterprise,ヒューレット・パッカード
 Haven OnDemand
@@ -4296,9 +4301,10 @@ Affdex
 =2020-07-23T14:13:22+09:00 Computer/トピック/社会動向/企業/Smith&Nephew/keywords
 CORI Surgical System
 
-=2022-01-20T12:57:39+09:00 Computer/トピック/社会動向/企業/Snap/keywords
+=2022-05-04T17:50:27+09:00 Computer/トピック/社会動向/企業/Snap/keywords
 Snapchat
 Spectacles
+Pixy
 
 =2017-07-26T10:07:29+09:00 Computer/トピック/社会動向/企業/SNAPLACE/keywords
 SNAPLACE,スナップレイス
@@ -4788,6 +4794,9 @@ OneRun
 
 =2021-10-28T14:37:33+09:00 Computer/トピック/社会動向/企業/Yper/keywords
 オキッパ,OKIPPA
+
+=2022-05-04T17:50:27+09:00 Computer/トピック/社会動向/企業/Yuga Labs/keywords
+BAYC
 
 =2020-04-30T12:25:07+09:00 Computer/トピック/社会動向/企業/YUNJI TECHNOLOGY/keywords
 云迹机器人,YUNJI TECHNOLOGY
@@ -6629,6 +6638,9 @@ BUFFALO,バッファロー
 =2021-09-16T14:54:57+09:00 Computer/トピック/社会動向/企業/バニッシュ・スタンダード/keywords
 STAFF START
 
+=2022-05-04T17:50:27+09:00 Computer/トピック/社会動向/企業/バベル/keywords
+ailead
+
 =2017-04-10T14:56:04+09:00 Computer/トピック/社会動向/企業/バリュークリエーション/keywords
 Vasta,ヴァスタ
 
@@ -7514,9 +7526,10 @@ KANADE DSP
 ニンテンドー,Nintendo,任天堂
 リングフィット
 
-=2020-09-24T13:31:31+09:00 Computer/トピック/社会動向/企業/住友電工/keywords
+=2022-05-04T17:50:28+09:00 Computer/トピック/社会動向/企業/住友電工/keywords
 QuickSolution
 住友電気工業,住友電工
+楽々Workflow
 
 =2017-09-14T09:25:09+09:00 Computer/トピック/社会動向/企業/全国農業協同組合中央会/keywords
 全国農業協同組合中央会,JA全中,JA
@@ -7540,6 +7553,9 @@ WithShot
 ふみのはゼミ
 IoANeck
 IoA Work for Senses
+
+=2022-05-04T17:52:10+09:00 Computer/トピック/社会動向/企業/分子之心/keywords
+MoleculeMind,分子之心
 
 =2021-12-09T14:21:05+09:00 Computer/トピック/社会動向/企業/創屋/keywords
 図面見積管理
@@ -7663,6 +7679,9 @@ SERENDIP
 
 =2017-04-11T09:30:16+09:00 Computer/トピック/社会動向/企業/文化放送/keywords
 ラジオプリント
+
+=2022-05-04T17:52:32+09:00 Computer/トピック/社会動向/企業/新浪微博/keywords
+Weibo,微博,新浪微博
 
 =2022-04-07T14:32:57+09:00 Computer/トピック/社会動向/企業/日刊工業新聞/keywords
 日刊工業新聞社,日刊工業新聞
