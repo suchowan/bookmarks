@@ -944,7 +944,7 @@ PhoenixGo
 AobaZero
 GCT
 
-=2022-04-07T14:25:49+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
+=2022-05-12T11:36:30+09:00 Computer/トピック/機械学習/機械学習応用/ファッション/keywords
 airCloset
 SENSY
 PASHALYパシャリィ
@@ -957,6 +957,7 @@ JINS
 化粧品
 ビューティー
 メイクアップ
+スタイリング
 
 =2022-03-10T11:38:03+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
@@ -1927,6 +1928,9 @@ AVACOM
 =2022-02-24T12:27:36+09:00 Computer/トピック/社会動向/企業/AWL/keywords
 アウル,AWL
 
+=2022-05-12T11:36:30+09:00 Computer/トピック/社会動向/企業/Ax Robotix/keywords
+Pixx
+
 =2017-09-15T11:11:54+09:00 Computer/トピック/社会動向/企業/AZAPA/keywords
 DBT,Deep Binary Tree
 
@@ -2522,8 +2526,9 @@ Rez Infinite
 =2018-09-03T14:28:07+09:00 Computer/トピック/社会動向/企業/ENT/keywords
 らく翻訳
 
-=2022-04-13T17:31:46+09:00 Computer/トピック/社会動向/企業/Epic Games/keywords
+=2022-05-11T20:33:02+09:00 Computer/トピック/社会動向/企業/Epic Games/keywords
 エピックゲームズ,Epic,EpicGames,Epic Games
+Unreal Engine
 
 =2020-07-23T14:15:51+09:00 Computer/トピック/社会動向/企業/Ericsson/keywords
 エリクソン,Ericsson
@@ -2972,9 +2977,6 @@ IDCF,IDCフロンティア
 =2021-08-05T13:45:38+09:00 Computer/トピック/社会動向/企業/iFLYTEK/keywords
 科大訊飛,iFLYTEK
 VOITER
-
-=2021-11-18T11:37:21+09:00 Computer/トピック/社会動向/企業/IGP ROBOTICS/keywords
-Cruzr
 
 =2017-06-05T08:10:06+09:00 Computer/トピック/社会動向/企業/IGS/keywords
 IGS,Institution for a Global Society
@@ -3672,8 +3674,9 @@ My Nightingale
 =2021-10-28T13:54:32+09:00 Computer/トピック/社会動向/企業/NOBORDER.z/keywords
 XANALIA
 
-=2021-11-18T11:49:50+09:00 Computer/トピック/社会動向/企業/NOBORDER.z FZE/keywords
+=2022-05-12T11:36:31+09:00 Computer/トピック/社会動向/企業/NOBORDER.z FZE/keywords
 ノーボーダーズ,NOBORDERZ,NOBORDER.z FZE
+XANA
 
 =2021-06-10T14:13:34+09:00 Computer/トピック/社会動向/企業/noco/keywords
 toaster team
@@ -4243,6 +4246,10 @@ SenseGlove Nova
 =2017-11-09T06:58:39+09:00 Computer/トピック/社会動向/企業/SENSY/keywords
 カラフル・ボード
 SENSY BOT for Biz
+
+=2022-05-12T11:30:12+09:00 Computer/トピック/社会動向/企業/Senxeed Robotics/keywords
+IGP ROBOTICS,Senxeed Robotics
+Cruzr
 
 =2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/SEQUENCE/keywords
 SQ-2 SECURITY ROBOT
@@ -5766,6 +5773,9 @@ Cyneural
 CyberTrust,サイバートラスト
 MIRACLE LINUX
 
+=2022-05-12T11:36:30+09:00 Computer/トピック/社会動向/企業/サイバーフォートレス/keywords
+SPiDER TM
+
 =2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/企業/サイバーマトリックス/keywords
 CyberNEO
 
@@ -5987,8 +5997,10 @@ Teachme Biz
 SNAP by IQON
 スタートトゥデイ
 
-=2017-07-21T13:18:08+09:00 Computer/トピック/社会動向/企業/ストックマーク/keywords
+=2022-05-12T11:36:30+09:00 Computer/トピック/社会動向/企業/ストックマーク/keywords
 Anews,エーニュース
+Asales Slide Finder
+Astrategy
 
 =2022-02-24T12:26:05+09:00 Computer/トピック/社会動向/企業/ストレイム アートアンドカルチャー/keywords
 STRAYM
@@ -6933,6 +6945,9 @@ AI-PR
 
 =2017-04-11T10:02:21+09:00 Computer/トピック/社会動向/企業/ベジタリア/keywords
 ベジタリア植物病院
+
+=2022-05-12T11:36:31+09:00 Computer/トピック/社会動向/企業/ベネフィットジャパン/keywords
+Robot Planet
 
 =2022-03-03T13:02:52+09:00 Computer/トピック/社会動向/企業/ベリタステクノロジーズ/keywords
 Veritas,ベリタス,ベリタステクノロジーズ
@@ -8000,9 +8015,6 @@ VW,フォルクスワーゲン
 =2018-01-10T11:07:08+09:00 Computer/トピック/社会動向/企業/自動車/VW/Porsche/keywords
 Porsche,ポルシェ
 
-=2020-01-23T20:33:33+09:00 Computer/トピック/社会動向/企業/自動車/ストックマーク/keywords
-Asales Slide Finder
-
 =2019-07-02T16:03:00+09:00 Computer/トピック/社会動向/企業/自動車/ダイハツ/keywords
 ダイハツ工業,ダイハツ
 
@@ -8398,7 +8410,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-04-14T10:40:02+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-05-12T11:36:30+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -8504,6 +8516,7 @@ TSUBAME
 武雄市
 塩尻市
 掛川市
+滋賀県
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
