@@ -255,7 +255,7 @@ Solid
 DBpedia
 LOD,Linked Open Data
 
-=2022-04-28T12:30:42+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2022-05-26T12:17:16+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
@@ -287,6 +287,7 @@ Power Architecture
 ムーアの法則
 SPARC
 ウエハー
+Snapdragon
 
 =2019-03-11T12:37:51+09:00 Computer/トピック/ツール/keywords
 Ghidra
@@ -782,6 +783,9 @@ FaceMe
 FAQ
 自動応答
 
+=2022-05-26T12:17:15+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/LaMDA/keywords
+LaMDA
+
 =2020-09-03T13:33:11+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Siri/keywords
 Home Pod
 ヘイシリ
@@ -889,7 +893,7 @@ Ops
 スマートインスペクション
 ルーティング
 
-=2021-07-22T13:23:13+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
+=2022-05-26T12:17:16+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/診断・採点/keywords
 出来映え
 映え
 裁判官
@@ -911,6 +915,7 @@ MMEye
 価値
 採寸
 反社チェック
+検品
 
 =2020-08-27T12:49:34+09:00 Computer/トピック/機械学習/機械学習応用/ゲーム/keywords
 囲碁
@@ -1047,7 +1052,7 @@ Dating
 婚活
 面談
 
-=2022-05-04T17:50:27+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2022-05-26T12:17:32+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1152,8 +1157,10 @@ Health
 歯科
 看護
 心停止
+医用
+処方薬
 
-=2022-03-24T13:09:47+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
+=2022-05-26T12:17:27+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
 ワイン
 ビール
@@ -1173,6 +1180,8 @@ Retty
 香り
 カフェ
 盛り付け
+嗅覚
+調理
 
 =2021-03-18T12:50:14+09:00 Computer/トピック/機械学習/機械学習応用/教育/keywords
 Musio
@@ -1314,10 +1323,11 @@ Simeji
 NLP
 言語処理
 
-=2022-01-27T12:22:03+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/keywords
+=2022-05-26T12:17:15+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/keywords
 コーパス
 wikipedia,Wikipedia
 言語モデル
+PaLM
 
 =2022-01-27T12:22:56+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分散表現/keywords
 Word2Vec,word2vec
@@ -1340,7 +1350,7 @@ gensim
 =2017-03-23T11:00:07+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/分類/ナイーブベイズ/keywords
 ベイジアンフィルタ
 
-=2022-01-27T12:08:59+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/keywords
+=2022-05-26T12:17:15+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/形態素解析・意味解析/keywords
 MeCab
 Kuromoji
 JUMAN
@@ -1351,6 +1361,7 @@ BERT
 ELMo
 湯婆婆
 言語モデル
+PaLM
 
 =2020-11-26T11:37:45+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/文字認識・OCR/keywords
 手書き
@@ -1374,13 +1385,14 @@ STACL
 誤訳
 DeepL
 
-=2022-01-27T12:08:59+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
+=2022-05-26T12:17:15+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/要約/keywords
 議事録
 秘書
 IMAKITA
 件名
 見出し
 決議
+PaLM
 
 =2021-11-11T10:44:47+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/音声合成/keywords
 音声処理
@@ -1510,7 +1522,7 @@ Magenta
 音感
 演奏
 
-=2021-12-30T12:05:23+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2022-05-26T12:17:15+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1571,6 +1583,9 @@ BERT
 BMI
 教師なしAI
 GLIDE
+脳波
+Gato
+逆AI
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1623,6 +1638,9 @@ OИE
 =2019-03-03T19:29:06+09:00 Computer/トピック/社会動向/企業/1→10Robotics/keywords
 ワントゥーテン,1→10Robotics
 
+=2022-05-26T12:17:16+09:00 Computer/トピック/社会動向/企業/207/keywords
+TODOCU
+
 =2017-04-21T10:16:47+09:00 Computer/トピック/社会動向/企業/3Dワークス/keywords
 AI研究所
 
@@ -1645,6 +1663,9 @@ A10,A10 Networks
 =2017-03-28T14:30:18+09:00 Computer/トピック/社会動向/企業/A2iA/keywords
 A2iA
 mNot
+
+=2022-05-26T12:17:50+09:00 Computer/トピック/社会動向/企業/ABCRECORDS運営事務局/keywords
+ABCRECORDS
 
 =2017-10-10T09:02:31+09:00 Computer/トピック/社会動向/企業/ABEJA/keywords
 ABEJA Platform
@@ -1945,6 +1966,9 @@ IPD-360VR
 =2019-08-07T10:18:14+09:00 Computer/トピック/社会動向/企業/Baidu/keywords
 バイドゥ,Baidu,百度
 Simeji
+
+=2022-05-26T12:18:39+09:00 Computer/トピック/社会動向/企業/BALMUDA/keywords
+バルミューダ,BALMUDA
 
 =2022-02-10T12:26:19+09:00 Computer/トピック/社会動向/企業/Band Industries/keywords
 Roadie Coach
@@ -3143,6 +3167,9 @@ QooCam
 =2017-10-25T14:26:42+09:00 Computer/トピック/社会動向/企業/Kaspersky/keywords
 Kaspersky,カスペルスキー
 
+=2022-05-25T16:57:08+09:00 Computer/トピック/社会動向/企業/KAT VR/keywords
+KAT
+
 =2021-04-29T13:52:46+09:00 Computer/トピック/社会動向/企業/KC Technologies/keywords
 OYO LIFE
 
@@ -3668,8 +3695,9 @@ MINARAI
 =2017-08-04T09:53:24+09:00 Computer/トピック/社会動向/企業/NHNテコラス/keywords
 CloudGarage
 
-=2022-04-28T12:30:42+09:00 Computer/トピック/社会動向/企業/Niantic/keywords
+=2022-05-26T12:17:50+09:00 Computer/トピック/社会動向/企業/Niantic/keywords
 Pikmin Bloom
+Lightship VPS
 
 =2019-11-14T15:03:47+09:00 Computer/トピック/社会動向/企業/Nice/keywords
 NICE
@@ -3857,6 +3885,9 @@ OTTO,OTTO Motors
 =2021-09-16T14:54:57+09:00 Computer/トピック/社会動向/企業/OWEN/keywords
 保険セールス計算機
 
+=2022-05-26T12:19:15+09:00 Computer/トピック/社会動向/企業/OWNDAYS/keywords
+オンデーズ,OWNDAYS
+
 =2019-05-24T12:07:23+09:00 Computer/トピック/社会動向/企業/OYO/keywords
 OYO LIFE
 
@@ -3910,9 +3941,10 @@ PerkinElmer,パーキンエルマー
 =2019-01-15T13:52:44+09:00 Computer/トピック/社会動向/企業/Pfizer/keywords
 ファイザー,Pfizer
 
-=2020-07-09T16:06:49+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
+=2022-05-25T16:59:08+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
 PFI,Preferred Infrastructure,プリファードインフラストラクチャー
 PFN,Preferred Networks,プリファード・ネットワークス
+Preferred Robotics,プリファード・ロボティクス
 Chainer
 Jubatus
 Playgram
@@ -4063,6 +4095,9 @@ RETISSA Display
 クリックテック,Qlik
 Qlik Sense
 
+=2022-05-26T12:17:51+09:00 Computer/トピック/社会動向/企業/Qosmo/keywords
+Imaginary Soundscape
+
 =2017-11-11T08:37:47+09:00 Computer/トピック/社会動向/企業/Qrio/keywords
 Qrio Smart Lock
 
@@ -4123,8 +4158,9 @@ DEFASTA
 =2020-08-27T12:50:59+09:00 Computer/トピック/社会動向/企業/rinna/keywords
 りんな,rinna
 
-=2017-03-29T14:58:31+09:00 Computer/トピック/社会動向/企業/Rist/keywords
+=2022-05-26T12:19:33+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
+リスト,Rist
 
 =2018-09-03T14:28:16+09:00 Computer/トピック/社会動向/企業/RIT/keywords
 VIREC
@@ -4153,6 +4189,9 @@ TATERU Bot AI
 
 =2017-12-08T11:57:01+09:00 Computer/トピック/社会動向/企業/Robot4U/keywords
 SHUILA
+
+=2022-05-26T12:17:15+09:00 Computer/トピック/社会動向/企業/Robotemi/keywords
+temi
 
 =2021-06-24T13:50:50+09:00 Computer/トピック/社会動向/企業/Rockets/keywords
 LEADPAD
@@ -4958,10 +4997,11 @@ DP2brain
 =2017-09-14T11:00:01+09:00 Computer/トピック/社会動向/企業/アイデミー/keywords
 アイデミー,Aidemy
 
-=2019-10-03T12:14:24+09:00 Computer/トピック/社会動向/企業/アイリッジ/keywords
+=2022-05-26T12:17:42+09:00 Computer/トピック/社会動向/企業/アイリッジ/keywords
 MoneyEasy
 さるぼぼコイン
 NOID IoT住宅パッケージ
+NOID
 
 =2017-08-23T08:28:41+09:00 Computer/トピック/社会動向/企業/アイル/keywords
 CROSSシリーズ
@@ -6221,11 +6261,12 @@ B-Times
 RURA
 CocoDesk
 
-=2022-03-17T12:35:30+09:00 Computer/トピック/社会動向/企業/タカラトミー/keywords
+=2022-05-26T12:17:16+09:00 Computer/トピック/社会動向/企業/タカラトミー/keywords
 オムニボット
 Rizmo
 embot
 SORA-Q
+coemo
 
 =2018-05-19T11:12:05+09:00 Computer/トピック/社会動向/企業/タクセル/keywords
 KAIGAN
@@ -6235,6 +6276,9 @@ KAIGAN
 
 =2020-10-15T12:30:36+09:00 Computer/トピック/社会動向/企業/タケロボ/keywords
 ロボコット
+
+=2022-05-26T12:17:16+09:00 Computer/トピック/社会動向/企業/タッチスポット/keywords
+Gap Graph
 
 =2017-10-20T10:15:49+09:00 Computer/トピック/社会動向/企業/タップアラウンド/keywords
 TAPTrack
@@ -6904,8 +6948,9 @@ Probance Hyper Marketing
 CareerPlus2
 brain insight matching
 
-=2019-04-10T11:48:06+09:00 Computer/トピック/社会動向/企業/ブロックチェーンロック/keywords
+=2022-05-26T12:17:50+09:00 Computer/トピック/社会動向/企業/ブロックチェーンロック/keywords
 KEYVOX
+Lockin
 
 =2017-04-11T09:54:21+09:00 Computer/トピック/社会動向/企業/ブロードバンドタワー/keywords
 ブロードバンドタワー,BBT
@@ -6949,6 +6994,9 @@ Minutes Mayker
 
 =2020-08-27T12:49:35+09:00 Computer/トピック/社会動向/企業/プロパティエージェント/DXYZ/keywords
 FreeiD
+
+=2022-05-26T12:20:05+09:00 Computer/トピック/社会動向/企業/プロントコーポレーション/keywords
+プロント,プロントコーポレーション
 
 =2017-05-02T10:13:36+09:00 Computer/トピック/社会動向/企業/ベクトル/keywords
 AI-PR
@@ -7491,6 +7539,9 @@ MELDY
 =2022-03-03T12:44:59+09:00 Computer/トピック/社会動向/企業/三越伊勢丹/keywords
 ZUKKU,ズック
 三越,伊勢丹,三越伊勢丹
+
+=2022-05-25T16:58:02+09:00 Computer/トピック/社会動向/企業/中国電信/keywords
+チャイナ・テレコム,中国電信
 
 =2020-03-19T14:19:07+09:00 Computer/トピック/社会動向/企業/中興通訊/keywords
 ZTE,中興通訊
@@ -8423,7 +8474,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-05-12T11:36:30+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-05-26T12:17:50+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -8530,6 +8581,7 @@ TSUBAME
 塩尻市
 掛川市
 滋賀県
+都城市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
