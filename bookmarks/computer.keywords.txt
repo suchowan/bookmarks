@@ -2882,6 +2882,9 @@ LOVOT
 =2022-02-17T12:29:05+09:00 Computer/トピック/社会動向/企業/GROUND/keywords
 PEER
 
+=2022-06-02T12:24:59+09:00 Computer/トピック/社会動向/企業/GUCCI/keywords
+グッチ,GUCCI
+
 =2019-10-24T11:26:54+09:00 Computer/トピック/社会動向/企業/Gugenka/keywords
 HoloModels
 
@@ -3056,6 +3059,9 @@ Coleman
 
 =2018-07-07T10:02:02+09:00 Computer/トピック/社会動向/企業/INJUS/keywords
 ChatFielder
+
+=2022-06-01T18:29:19+09:00 Computer/トピック/社会動向/企業/INMO/keywords
+影目科技,INMO
 
 =2020-08-13T12:38:48+09:00 Computer/トピック/社会動向/企業/Intel/keywords
 Intel,インテル
@@ -3292,6 +3298,9 @@ Expand Video
 myBridge
 lacore
 CLOVA OCR
+
+=2022-06-02T12:22:45+09:00 Computer/トピック/社会動向/企業/Link-U/keywords
+ゆれしる
 
 =2021-10-21T13:28:21+09:00 Computer/トピック/社会動向/企業/Linked Ideal/keywords
 Toposoid
@@ -4317,6 +4326,9 @@ UDトーク
 
 =2017-03-30T10:06:45+09:00 Computer/トピック/社会動向/企業/SHIFT PLUS/keywords
 AICO,アイコ
+
+=2022-06-02T12:22:45+09:00 Computer/トピック/社会動向/企業/Shinwa Wise Holdings/keywords
+Edoverse
 
 =2018-02-13T11:43:44+09:00 Computer/トピック/社会動向/企業/Siemens/keywords
 シーメンス,Siemens
@@ -5559,6 +5571,9 @@ HATS
 キャスレーコンサルティング,Casley Consulting
 Gmail HR tech
 
+=2022-06-01T18:30:07+09:00 Computer/トピック/社会動向/企業/キャディ/keywords
+CADDi,キャディ
+
 =2017-12-08T13:23:25+09:00 Computer/トピック/社会動向/企業/キャメル/keywords
 Edia for リクルート
 
@@ -5997,6 +6012,9 @@ TerraTalk,テラトーク
 =2017-05-02T08:13:05+09:00 Computer/トピック/社会動向/企業/ジョリーグッド/keywords
 VRCHEL,ヴァーチェル
 VRCH,ヴァーチ
+
+=2022-06-02T12:22:45+09:00 Computer/トピック/社会動向/企業/ジョージ・アンド・ショーン/keywords
+bible
 
 =2019-04-06T11:58:36+09:00 Computer/トピック/社会動向/企業/ジーアングル/keywords
 アートディレクターAI
@@ -6716,8 +6734,8 @@ T-DASH
 =2019-06-24T11:19:04+09:00 Computer/トピック/社会動向/企業/バンク/keywords
 CASH
 
-=2018-10-01T11:15:03+09:00 Computer/トピック/社会動向/企業/バンダイナムコ/keywords
-バンダイ,バンナム,バンダイナムコ
+=2022-06-01T18:30:34+09:00 Computer/トピック/社会動向/企業/バンダイナムコ/keywords
+ナムコ,バンダイ,バンナム,バンダイナムコ
 ガンシェルジュ ハロ
 
 =2021-11-11T10:44:46+09:00 Computer/トピック/社会動向/企業/バーチャルライツ/keywords
@@ -6903,6 +6921,9 @@ SCORER Cloud Processing,スコアラー クラウド プロセッシング
 =2018-09-03T14:27:58+09:00 Computer/トピック/社会動向/企業/フューチャーモデル/keywords
 PERARK
 
+=2022-06-02T12:26:52+09:00 Computer/トピック/社会動向/企業/フライヤー/keywords
+flier,フライヤー
+
 =2017-08-28T11:22:53+09:00 Computer/トピック/社会動向/企業/フリーダムアーキテクツ/keywords
 DEZAMADO,デザマド
 
@@ -6954,6 +6975,9 @@ Lockin
 
 =2017-04-11T09:54:21+09:00 Computer/トピック/社会動向/企業/ブロードバンドタワー/keywords
 ブロードバンドタワー,BBT
+
+=2022-06-01T18:31:03+09:00 Computer/トピック/社会動向/企業/プライバシーテック研究所/keywords
+Acompany,プライバシーテック研究所
 
 =2021-06-03T11:45:57+09:00 Computer/トピック/社会動向/企業/プライム ライフ テクノロジーズ/keywords
 PLT,プライム ライフ テクノロジーズ
@@ -8474,7 +8498,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-05-26T12:17:50+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-06-02T12:22:46+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -8582,6 +8606,8 @@ TSUBAME
 掛川市
 滋賀県
 都城市
+戸田市
+那須町
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
