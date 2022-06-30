@@ -2008,6 +2008,9 @@ Dr.Wallet
 =2019-10-03T12:14:24+09:00 Computer/トピック/社会動向/企業/beepnow/keywords
 beepシフト
 
+=2022-06-30T11:24:07+09:00 Computer/トピック/社会動向/企業/Beewise/keywords
+ビーワイズ,Beewise
+
 =2019-09-10T14:30:04+09:00 Computer/トピック/社会動向/企業/Bell Helicopter/keywords
 ベル・ヘリコプター,Bell Helicopter
 
@@ -2801,6 +2804,9 @@ getAbstract
 
 =2022-03-17T12:35:30+09:00 Computer/トピック/社会動向/企業/Getty Images/keywords
 iStock
+
+=2022-06-30T11:22:16+09:00 Computer/トピック/社会動向/企業/GfK/keywords
+gfknewron
 
 =2018-08-14T15:27:32+09:00 Computer/トピック/社会動向/企業/GINKAN/keywords
 シンクロライフ
@@ -3695,6 +3701,9 @@ ZEPETO
 =2017-12-15T11:21:50+09:00 Computer/トピック/社会動向/企業/Nayuta/keywords
 マイクロペイメント
 
+=2022-06-30T11:23:36+09:00 Computer/トピック/社会動向/企業/Neatframe/keywords
+Neat Frame,Neatframe
+
 =2020-07-02T14:05:58+09:00 Computer/トピック/社会動向/企業/NEC/keywords
 RAPID機械学習
 RAPID WORKS
@@ -4233,8 +4242,9 @@ DEFASTA
 =2022-06-09T11:09:58+09:00 Computer/トピック/社会動向/企業/Rimini Street/keywords
 リミニストリート,Rimini Street
 
-=2020-08-27T12:50:59+09:00 Computer/トピック/社会動向/企業/rinna/keywords
+=2022-06-30T11:22:18+09:00 Computer/トピック/社会動向/企業/rinna/keywords
 りんな,rinna
+CLOOB
 
 =2022-05-26T12:19:33+09:00 Computer/トピック/社会動向/企業/Rist/keywords
 Deep Inspection
@@ -4651,13 +4661,14 @@ fanicon,ファニコン
 =2021-08-19T12:44:25+09:00 Computer/トピック/社会動向/企業/ThinkX/keywords
 NeuraVoice
 
-=2019-09-14T12:20:14+09:00 Computer/トピック/社会動向/企業/TIS/keywords
+=2022-06-30T11:22:16+09:00 Computer/トピック/社会動向/企業/TIS/keywords
 AISonar
 MONOweb
 chABSA-dataset
 doccano
 PrepaidCube+
 COET
+XR Pay
 
 =2020-07-23T14:14:37+09:00 Computer/トピック/社会動向/企業/Titan Medical/keywords
 タイタンメディカル,Titan Medical
@@ -4917,9 +4928,10 @@ Xilinx,ザイリンクス
 =2020-12-31T18:05:58+09:00 Computer/トピック/社会動向/企業/XYEED/keywords
 キューボ
 
-=2017-07-24T10:01:31+09:00 Computer/トピック/社会動向/企業/Yandex/keywords
+=2022-06-29T18:01:28+09:00 Computer/トピック/社会動向/企業/Yandex/keywords
 CatBoost
 MatrixNet
+YaLM
 
 =2022-03-03T12:13:08+09:00 Computer/トピック/社会動向/企業/YE DIGITAL/keywords
 安川情報システム,YE DIGITAL
@@ -4966,6 +4978,9 @@ fanp Biz
 
 =2018-12-14T15:29:08+09:00 Computer/トピック/社会動向/企業/ZEROBILLBANK JAPAN/keywords
 ZBB,ZEROBILLBANK,ZEROBILLBANK JAPAN
+
+=2022-06-29T18:02:16+09:00 Computer/トピック/社会動向/企業/Zhaoxi/keywords
+兆芯,Zhaoxi
 
 =2019-12-26T15:35:18+09:00 Computer/トピック/社会動向/企業/Zigbee Alliance/keywords
 Zigbee,Zigbee Alliance
@@ -5020,11 +5035,15 @@ imachika,いまチカ
 =2019-04-06T11:58:47+09:00 Computer/トピック/社会動向/企業/いるかラボ/keywords
 AI air
 
-=2021-04-29T13:52:46+09:00 Computer/トピック/社会動向/企業/うるる/keywords
+=2022-06-30T11:22:17+09:00 Computer/トピック/社会動向/企業/うるる/keywords
 eas
+NJSS
 
 =2017-05-15T09:59:19+09:00 Computer/トピック/社会動向/企業/お金のデザイン/keywords
 THEO
+
+=2022-06-30T11:22:16+09:00 Computer/トピック/社会動向/企業/かんざし/keywords
+ぜんまい
 
 =2017-03-30T13:58:46+09:00 Computer/トピック/社会動向/企業/きのあ/keywords
 竹井戸村
@@ -5862,6 +5881,9 @@ FORXAI
 
 =2018-09-14T12:11:28+09:00 Computer/トピック/社会動向/企業/コネクテッドロボティクス/keywords
 OctoChef
+
+=2022-06-30T11:22:16+09:00 Computer/トピック/社会動向/企業/コネル/keywords
+BWTC
 
 =2017-05-15T08:56:54+09:00 Computer/トピック/社会動向/企業/コマースリンク/keywords
 DFO
@@ -7835,6 +7857,9 @@ diip,ディープ
 CommerceLineSP
 FitStats
 
+=2022-06-29T18:01:28+09:00 Computer/トピック/社会動向/企業/学研/keywords
+ナニコレンズ
+
 =2018-11-24T10:47:37+09:00 Computer/トピック/社会動向/企業/安川電機/keywords
 安川電,安川電機
 アイキューブ メカトロニクス
@@ -7999,6 +8024,9 @@ LAWGUE
 新日鉄住金ソリューションズ,日鉄ソリューションズ,NSSOL
 DataRobot
 absonne,アブソンヌ
+
+=2022-06-30T11:22:19+09:00 Computer/トピック/社会動向/企業/日本製鉄/日鉄興和不動産/keywords
+cheercle
 
 =2022-02-10T12:26:17+09:00 Computer/トピック/社会動向/企業/日本財団/keywords
 MEGURI2040
