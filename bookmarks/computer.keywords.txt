@@ -52,7 +52,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2022-06-23T10:21:12+09:00 Computer/トピック/セキュリティ/keywords
+=2022-07-06T16:00:11+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -237,6 +237,9 @@ CronRAT
 大丈夫
 ボットネット
 筒抜け
+マイページ
+精巧
+モザイク
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -259,7 +262,7 @@ Solid
 DBpedia
 LOD,Linked Open Data
 
-=2022-05-26T12:17:16+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
+=2022-07-06T16:00:09+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/keywords
 Processor,プロセッサ
 GPU
 FPGA
@@ -292,6 +295,7 @@ Power Architecture
 SPARC
 ウエハー
 Snapdragon
+GAA
 
 =2019-03-11T12:37:51+09:00 Computer/トピック/ツール/keywords
 Ghidra
@@ -5294,6 +5298,9 @@ InterSafe WebFilter
 =2017-12-01T13:43:10+09:00 Computer/トピック/社会動向/企業/アレグロマジック/keywords
 ＆ai
 
+=2022-07-06T16:03:23+09:00 Computer/トピック/社会動向/企業/アンドパッド/keywords
+ANDPAD,アンドパッド
+
 =2021-07-08T12:54:41+09:00 Computer/トピック/社会動向/企業/アーティエンス・ラボ/keywords
 WOWLight 〜HoCODA〜
 
@@ -7966,8 +7973,9 @@ NSC,日本システムクリエイト
 =2022-05-19T13:11:56+09:00 Computer/トピック/社会動向/企業/日本テクトシステムズ/keywords
 MENKYO
 
-=2018-09-03T14:30:27+09:00 Computer/トピック/社会動向/企業/日本テレビ/keywords
+=2022-07-06T16:00:11+09:00 Computer/トピック/社会動向/企業/日本テレビ/keywords
 日本テレビ放送網,日テレ,日本テレビ
+BlurOn
 
 =2017-09-26T09:35:56+09:00 Computer/トピック/社会動向/企業/日本デジタル・プロセシング・システムズ/keywords
 日本デジタル・プロセシング・システムズ株式会社,DPSJ
@@ -8518,7 +8526,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2022-04-28T12:31:52+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2022-07-06T16:00:09+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 Carnegie Mellon University,CMU,カーネギーメロン大
@@ -8570,6 +8578,7 @@ MIT,マサチューセッツ工科大学
 釜山大学校
 香港中文大学
 Carnegie Mellon University
+ヨーテボリ大学
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
