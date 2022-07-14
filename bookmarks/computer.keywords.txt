@@ -1864,6 +1864,9 @@ innto
 ＆AND INCUBATION
 tabii
 
+=2022-07-14T09:44:10+09:00 Computer/トピック/社会動向/企業/Anker/keywords
+Eufy
+
 =2017-03-28T14:43:00+09:00 Computer/トピック/社会動向/企業/Ankercast/keywords
 ミミヨリ
 
@@ -1955,6 +1958,9 @@ Stride
 
 =2022-06-16T11:26:12+09:00 Computer/トピック/社会動向/企業/atmos/keywords
 アトモス,atmos
+
+=2022-07-14T09:45:38+09:00 Computer/トピック/社会動向/企業/Atome/keywords
+アトミ,Atome
 
 =2020-01-02T12:52:59+09:00 Computer/トピック/社会動向/企業/Augmedics/keywords
 Xvision
@@ -2316,6 +2322,9 @@ Collet
 
 =2018-01-22T13:28:54+09:00 Computer/トピック/社会動向/企業/Crowdroid/keywords
 Amaterras,アマテラス
+
+=2022-07-14T09:45:17+09:00 Computer/トピック/社会動向/企業/CrowdStrike/keywords
+クラウドストライク,CrowdStrike
 
 =2021-09-09T12:14:23+09:00 Computer/トピック/社会動向/企業/Crown Technologies/keywords
 Ella
@@ -3810,6 +3819,9 @@ toaster team
 Nokia,ノキア
 MIKA
 
+=2022-07-13T17:49:30+09:00 Computer/トピック/社会動向/企業/Nord Quantique/keywords
+ノード・クオンティーク,Nord Quantique
+
 =2019-04-06T11:58:48+09:00 Computer/トピック/社会動向/企業/North/keywords
 Focals
 
@@ -4533,6 +4545,9 @@ Squareスタンド
 =2017-10-23T14:23:54+09:00 Computer/トピック/社会動向/企業/SQUEEZE/keywords
 suitebook
 
+=2022-07-13T17:48:38+09:00 Computer/トピック/社会動向/企業/SSS合同会社/keywords
+ずんだもん
+
 =2017-09-14T10:41:13+09:00 Computer/トピック/社会動向/企業/ST Booking/keywords
 カケコム
 
@@ -4945,13 +4960,13 @@ CatBoost
 MatrixNet
 YaLM
 
-=2022-03-03T12:13:08+09:00 Computer/トピック/社会動向/企業/YE DIGITAL/keywords
-安川情報システム,YE DIGITAL
-MMPredict
-MMCloud
-
 =2020-04-09T16:39:27+09:00 Computer/トピック/社会動向/企業/YEEUU Tech/keywords
 S1
+
+=2022-07-14T11:12:42+09:00 Computer/トピック/社会動向/企業/YEデジタル/keywords
+安川情報システム,YE DIGITAL,YEデジタル
+MMPredict
+MMCloud
 
 =2019-10-14T13:20:45+09:00 Computer/トピック/社会動向/企業/YITU/keywords
 依図科技,YITU
@@ -5199,6 +5214,9 @@ LOHACO
 
 =2020-12-24T12:07:21+09:00 Computer/トピック/社会動向/企業/アスツール/keywords
 Smooz
+
+=2022-07-13T17:48:38+09:00 Computer/トピック/社会動向/企業/アステリア/keywords
+Gravio
 
 =2017-11-22T16:48:25+09:00 Computer/トピック/社会動向/企業/アストラゼネカ/keywords
 タグリッソ
@@ -5938,6 +5956,9 @@ Concierge U
 =2021-10-28T13:54:32+09:00 Computer/トピック/社会動向/企業/コージェントラボ/keywords
 SmartRead
 
+=2022-07-14T09:44:10+09:00 Computer/トピック/社会動向/企業/サイエンスアーツ/keywords
+Buddycoｍ
+
 =2017-03-30T14:35:38+09:00 Computer/トピック/社会動向/企業/サイオス/keywords
 SIOS iQ
 
@@ -6556,6 +6577,9 @@ Terra Drone,テラドローン
 =2017-11-15T16:20:10+09:00 Computer/トピック/社会動向/企業/テンセント・ホールディングス/keywords
 テンセント・ホールディングス,騰訊HD,Tencent,テンセント
 
+=2022-07-14T09:44:10+09:00 Computer/トピック/社会動向/企業/テンダ/keywords
+Dojo
+
 =2017-06-12T08:37:33+09:00 Computer/トピック/社会動向/企業/テンプホールディングス/IBS/keywords
 IBS,インテリジェンス ビジネスソリューションズ
 
@@ -6758,8 +6782,9 @@ itSnap
 Cacoo
 Backlog
 
-=2022-01-27T12:08:59+09:00 Computer/トピック/社会動向/企業/ネイキッド/keywords
+=2022-07-14T09:46:45+09:00 Computer/トピック/社会動向/企業/ネイキッド/keywords
 NAKED FLOWERS
+NAKED,ネイキッド
 
 =2020-12-17T12:37:24+09:00 Computer/トピック/社会動向/企業/ネイティブキャンプ/keywords
 3Dキャラクター先生
@@ -7080,6 +7105,9 @@ PERARK
 =2022-06-02T12:26:52+09:00 Computer/トピック/社会動向/企業/フライヤー/keywords
 flier,フライヤー
 
+=2022-07-14T09:46:15+09:00 Computer/トピック/社会動向/企業/フライル/keywords
+Flyle,フライル
+
 =2017-08-28T11:22:53+09:00 Computer/トピック/社会動向/企業/フリーダムアーキテクツ/keywords
 DEZAMADO,デザマド
 
@@ -7383,11 +7411,12 @@ mobiVoice
 =2017-10-10T13:36:28+09:00 Computer/トピック/社会動向/企業/モーションポートレート/keywords
 ようこそパニックマンションへVR
 
-=2019-04-29T17:17:30+09:00 Computer/トピック/社会動向/企業/ヤフー/keywords
+=2022-07-14T09:44:10+09:00 Computer/トピック/社会動向/企業/ヤフー/keywords
 kukai,クウカイ
 AnnexML
 ヤフオク!
 Zホールディングス,ヤフー
+DS.INSIGHT
 
 =2019-04-22T11:51:19+09:00 Computer/トピック/社会動向/企業/ヤプリ/keywords
 Yappli,yappli,ヤプリ
@@ -8553,7 +8582,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2022-07-06T16:00:09+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2022-07-13T17:48:38+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 Carnegie Mellon University,CMU,カーネギーメロン大
@@ -8606,6 +8635,9 @@ MIT,マサチューセッツ工科大学
 香港中文大学
 Carnegie Mellon University
 ヨーテボリ大学
+シンガポール国立大学
+コロラド大学
+ペンシルバニア大学
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
