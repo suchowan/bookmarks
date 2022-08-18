@@ -2697,7 +2697,7 @@ GAFAM
 Libra
 FAMGA
 
-=2017-08-08T09:30:53+09:00 Computer/トピック/社会動向/企業/Facebook/Oculus/keywords
+=2017-08-08T09:30:53+09:00 Computer/トピック/社会動向/企業/Facebook/Quest/keywords
 Oculus,オキュラス
 
 =2017-12-08T18:24:17+09:00 Computer/トピック/社会動向/企業/FACTBASE/keywords
@@ -3649,6 +3649,9 @@ Tapia
 =2017-03-29T11:54:06+09:00 Computer/トピック/社会動向/企業/MKTインターナショナル/keywords
 MKT METAL
 
+=2022-08-18T09:07:25+09:00 Computer/トピック/社会動向/企業/MNTSQ/keywords
+モンテスキュー,MNTSQ
+
 =2021-06-24T13:54:15+09:00 Computer/トピック/社会動向/企業/Mobile Industrial Robots/keywords
 モバイル・インダストリアル・ロボット,Mobile Industrial Robots
 
@@ -4195,6 +4198,9 @@ Progress Corticon
 =2017-04-05T07:48:52+09:00 Computer/トピック/社会動向/企業/PROPELa/keywords
 amblate
 
+=2022-08-17T15:35:40+09:00 Computer/トピック/社会動向/企業/Proton AG/keywords
+ProtonMail
+
 =2021-05-20T12:51:15+09:00 Computer/トピック/社会動向/企業/Proxima Technology/keywords
 DVF SLAM
 
@@ -4452,8 +4458,8 @@ SENSY BOT for Biz
 IGP ROBOTICS,Senxeed Robotics
 Cruzr
 
-=2021-02-25T12:34:10+09:00 Computer/トピック/社会動向/企業/SEQUENCE/keywords
-SQ-2 SECURITY ROBOT
+=2022-08-18T09:06:43+09:00 Computer/トピック/社会動向/企業/SEQSENSE/keywords
+SQ-2
 
 =2020-05-21T13:19:21+09:00 Computer/トピック/社会動向/企業/Serif/keywords
 Affinty
@@ -5006,9 +5012,10 @@ xenoBrain
 =2020-01-23T20:36:45+09:00 Computer/トピック/社会動向/企業/Xerox/keywords
 ゼロックス,Xerox
 
-=2021-08-25T15:33:48+09:00 Computer/トピック/社会動向/企業/Xiaomi/keywords
+=2022-08-17T15:35:40+09:00 Computer/トピック/社会動向/企業/Xiaomi/keywords
 シャオミ,xiaomi
 CyberDog
+CyberOne
 
 =2017-03-30T10:53:26+09:00 Computer/トピック/社会動向/企業/Xilinx/keywords
 Xilinx,ザイリンクス
@@ -6623,6 +6630,9 @@ Seed ID
 =2017-10-04T10:18:51+09:00 Computer/トピック/社会動向/企業/チェンジ/keywords
 VoX,VOICE OF EXPERIENCE
 
+=2022-08-17T15:35:40+09:00 Computer/トピック/社会動向/企業/チケミー/keywords
+TicketMe
+
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/チャオ/keywords
 Ciao Camera
 
@@ -6664,6 +6674,9 @@ scorobo
 =2022-06-08T18:30:45+09:00 Computer/トピック/社会動向/企業/テクノスピーチ/keywords
 CeVIO
 VoiSona
+
+=2022-08-18T09:06:43+09:00 Computer/トピック/社会動向/企業/テクノブレイブ/keywords
+Symphoneme
 
 =2017-08-10T08:39:34+09:00 Computer/トピック/社会動向/企業/テクマトリックス/keywords
 MSIP,Menlo Security Isolation Platform
@@ -6790,8 +6803,9 @@ AI-PR
 =2017-11-19T15:44:45+09:00 Computer/トピック/社会動向/企業/データビークル/keywords
 Data Diver
 
-=2022-01-20T12:57:40+09:00 Computer/トピック/社会動向/企業/データミックス/keywords
+=2022-08-18T09:06:42+09:00 Computer/トピック/社会動向/企業/データミックス/keywords
 Excert
+OptAce
 
 =2020-07-23T14:13:20+09:00 Computer/トピック/社会動向/企業/データ・アプリケーション/keywords
 DAL,データ・アプリケーション
@@ -6922,6 +6936,9 @@ Calling for Telemedicine
 =2017-12-01T13:39:39+09:00 Computer/トピック/社会動向/企業/ネオジャパン/keywords
 desknet's SSS
 AppSuite
+
+=2022-08-18T09:06:43+09:00 Computer/トピック/社会動向/企業/ネオス/keywords
+OfficeBot
 
 =2022-08-11T12:14:12+09:00 Computer/トピック/社会動向/企業/ネクステージ/keywords
 picmo
@@ -8905,7 +8922,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-08-04T12:58:30+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-08-18T09:06:43+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -9021,6 +9038,7 @@ TSUBAME
 足立区
 桑名市
 東京都
+目黒区
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
