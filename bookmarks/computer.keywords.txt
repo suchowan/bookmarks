@@ -1080,7 +1080,7 @@ Dating
 婚活
 面談
 
-=2022-07-28T13:15:24+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2022-09-08T12:16:08+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1188,6 +1188,9 @@ Health
 医用
 処方薬
 車いす
+近視
+バイタル
+PMS
 
 =2022-08-11T12:14:13+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1268,7 +1271,7 @@ DALL-E
 =2021-02-18T17:11:17+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像検索/keywords
 Same Energy
 
-=2021-08-12T13:29:59+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
+=2022-09-07T19:39:56+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像認識/keywords
 顔識別
 顔認識
 顔写真
@@ -1312,6 +1315,7 @@ DeepSolar
 バーコード
 SLAM
 画像分析
+顔スキャン
 
 =2020-06-25T15:04:17+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/keywords
 自動運転
@@ -2383,13 +2387,14 @@ Ella
 =2021-04-22T13:36:21+09:00 Computer/トピック/社会動向/企業/cryptomall ou/keywords
 クリプトモール オーユー,cryptomall ou
 
-=2020-10-29T14:27:44+09:00 Computer/トピック/社会動向/企業/CTC/keywords
+=2022-09-08T12:16:05+09:00 Computer/トピック/社会動向/企業/CTC/keywords
 伊藤忠テクノソリューションズ,CTC
 UiPath
 CarLA
 CINAPS,CTC Integrated AI Platform Stack
 CTC-AICON
 LocusLabs
+MI Success Lab
 
 =2022-04-14T10:40:01+09:00 Computer/トピック/社会動向/企業/Ctrl IQ/keywords
 CIQ,Ctrl IQ
@@ -2776,6 +2781,9 @@ PinQul
 
 =2018-07-07T10:02:03+09:00 Computer/トピック/社会動向/企業/Flow Solutions/keywords
 InSight
+
+=2022-09-08T12:16:07+09:00 Computer/トピック/社会動向/企業/for Crafts/keywords
+quote
 
 =2022-06-15T19:03:53+09:00 Computer/トピック/社会動向/企業/Fortinet/keywords
 フォーティネット,Fortinet
@@ -4689,6 +4697,10 @@ DigireBUILD
 =2018-02-23T14:59:57+09:00 Computer/トピック/社会動向/企業/StockMark/keywords
 AI アルケミスト
 
+=2022-09-08T11:13:08+09:00 Computer/トピック/社会動向/企業/STORES/keywords
+ヘイ,STORES
+STORES 決済
+
 =2019-06-24T12:17:02+09:00 Computer/トピック/社会動向/企業/STORES.jp/keywords
 haconiwa creators
 
@@ -4926,6 +4938,9 @@ innto
 =2021-07-29T11:54:49+09:00 Computer/トピック/社会動向/企業/UsideU/keywords
 TimeRep
 
+=2022-09-08T12:16:05+09:00 Computer/トピック/社会動向/企業/VAIABLE/keywords
+VAI！アート
+
 =2019-01-30T13:13:29+09:00 Computer/トピック/社会動向/企業/Valeo/keywords
 ヴァレオ,Valeo
 
@@ -5088,10 +5103,11 @@ YaLM
 =2020-04-09T16:39:27+09:00 Computer/トピック/社会動向/企業/YEEUU Tech/keywords
 S1
 
-=2022-07-14T11:12:42+09:00 Computer/トピック/社会動向/企業/YEデジタル/keywords
+=2022-09-08T12:16:08+09:00 Computer/トピック/社会動向/企業/YEデジタル/keywords
 安川情報システム,YE DIGITAL,YEデジタル
 MMPredict
 MMCloud
+MMvision
 
 =2019-10-14T13:20:45+09:00 Computer/トピック/社会動向/企業/YITU/keywords
 依図科技,YITU
@@ -5231,9 +5247,6 @@ Mackerel,マカレル
 
 =2017-08-04T10:06:06+09:00 Computer/トピック/社会動向/企業/ぷらっとホーム/keywords
 OpenBlocks
-
-=2022-04-07T14:26:17+09:00 Computer/トピック/社会動向/企業/へイ/keywords
-STORES 決済
 
 =2021-10-14T13:32:55+09:00 Computer/トピック/社会動向/企業/まくら/keywords
 PilloBO
@@ -5527,6 +5540,9 @@ Baskadia
 
 =2018-04-05T13:20:54+09:00 Computer/トピック/社会動向/企業/インテグリティ・ヘルスケア/keywords
 YaDoc
+
+=2022-09-08T12:16:07+09:00 Computer/トピック/社会動向/企業/インテック/keywords
+リモートワーク診断サービス
 
 =2017-11-11T07:37:24+09:00 Computer/トピック/社会動向/企業/インテリジェント ウェイブ/keywords
 CWAT
@@ -6259,6 +6275,9 @@ ASPINA
 
 =2017-07-13T07:19:08+09:00 Computer/トピック/社会動向/企業/シノプシス/keywords
 DesignWare EV6x Vision Processors
+
+=2022-09-07T19:39:56+09:00 Computer/トピック/社会動向/企業/シノプス/keywords
+sinops-CLOUD
 
 =2017-08-23T08:27:43+09:00 Computer/トピック/社会動向/企業/シビラ/keywords
 Broof
@@ -6994,6 +7013,9 @@ itSnap
 
 =2022-01-06T09:46:13+09:00 Computer/トピック/社会動向/企業/ニュー・オータニ/keywords
 ニューオータニ,ニュー・オータニ
+
+=2022-09-08T12:16:06+09:00 Computer/トピック/社会動向/企業/ニーリー/keywords
+Park Direct
 
 =2020-01-02T12:53:00+09:00 Computer/トピック/社会動向/企業/ヌーラボ/keywords
 Cacoo
@@ -8872,10 +8894,13 @@ CanguRo
 =2019-08-27T11:46:05+09:00 Computer/トピック/社会動向/大学/同志社大学/keywords
 同志社,同志社大学
 
+=2022-09-08T12:16:54+09:00 Computer/トピック/社会動向/大学/名古屋大学/keywords
+名古屋大,名古屋大学
+
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2022-08-11T12:14:13+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2022-09-07T19:39:56+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 Carnegie Mellon University,CMU,カーネギーメロン大
@@ -8934,6 +8959,7 @@ Carnegie Mellon University
 コーネル大学
 ユタ大学
 ビンガムトン大学
+メリーランド大学
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
@@ -9026,7 +9052,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-08-31T18:19:35+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-09-08T12:16:05+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -9144,6 +9170,7 @@ TSUBAME
 東京都
 目黒区
 群馬県
+JETRO
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
