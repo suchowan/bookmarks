@@ -2267,6 +2267,9 @@ KAORIUM
 =2017-03-28T14:48:47+09:00 Computer/トピック/社会動向/企業/CEVA/keywords
 CDNN
 
+=2022-10-05T19:48:52+09:00 Computer/トピック/社会動向/企業/Chainalysis/keywords
+チェイナリシス,Chainalysis
+
 =2017-09-25T07:12:04+09:00 Computer/トピック/社会動向/企業/Champion Technology Company/keywords
 DarkLight
 
@@ -2350,6 +2353,9 @@ Kaidoku
 
 =2017-08-08T10:11:14+09:00 Computer/トピック/社会動向/企業/Cognitee/keywords
 UpSighter,アップ・サイター
+
+=2022-10-06T09:04:04+09:00 Computer/トピック/社会動向/企業/Cognizant/keywords
+コグニザント,Cognizant
 
 =2022-01-13T11:29:52+09:00 Computer/トピック/社会動向/企業/CogSmart/keywords
 BrainSuite
@@ -2841,6 +2847,9 @@ Concept Encoder Articles
 Coroban
 Amanogawa
 
+=2022-10-06T09:00:33+09:00 Computer/トピック/社会動向/企業/fruor/keywords
+ミートキャリア
+
 =2018-02-02T09:06:13+09:00 Computer/トピック/社会動向/企業/FUGU INNOVATIONS/keywords
 AUDUBE
 
@@ -2876,6 +2885,9 @@ oto rea
 
 =2018-05-24T10:25:39+09:00 Computer/トピック/社会動向/企業/GAUSS/keywords
 SIVA
+
+=2022-10-06T09:04:32+09:00 Computer/トピック/社会動向/企業/Gaussian Robotics/keywords
+Gaussian,Gaussian Robotics
 
 =2017-04-13T10:26:20+09:00 Computer/トピック/社会動向/企業/GDEP/keywords
 GDEPグループ,GDEP
@@ -3230,6 +3242,9 @@ Coleman
 
 =2018-07-07T10:02:02+09:00 Computer/トピック/社会動向/企業/INJUS/keywords
 ChatFielder
+
+=2022-10-05T19:46:50+09:00 Computer/トピック/社会動向/企業/Inkbox Software/keywords
+NESOS
 
 =2022-06-01T18:29:19+09:00 Computer/トピック/社会動向/企業/INMO/keywords
 影目科技,INMO
@@ -4198,7 +4213,7 @@ PerkinElmer,パーキンエルマー
 =2019-01-15T13:52:44+09:00 Computer/トピック/社会動向/企業/Pfizer/keywords
 ファイザー,Pfizer
 
-=2022-09-01T10:59:31+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
+=2022-10-05T19:46:50+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
 PFI,Preferred Infrastructure,プリファードインフラストラクチャー
 PFN,Preferred Networks,プリファード・ネットワークス
 Preferred Robotics,プリファードロボティクス,プリファード・ロボティクス
@@ -4206,6 +4221,7 @@ Chainer
 Jubatus
 Playgram
 Crypko
+Matlantis
 
 =2018-12-11T09:39:41+09:00 Computer/トピック/社会動向/企業/PFU/keywords
 DynaEye EX
@@ -4912,6 +4928,9 @@ AI音声自動応答サービス
 
 =2020-02-13T13:16:13+09:00 Computer/トピック/社会動向/企業/Tobii/keywords
 Pico Neo 2 Eye
+
+=2022-10-06T09:00:32+09:00 Computer/トピック/社会動向/企業/TOGEKI/keywords
+NEIGHBOR
 
 =2019-09-10T14:28:37+09:00 Computer/トピック/社会動向/企業/toraru/keywords
 GENCHI
@@ -6003,8 +6022,8 @@ Edia for リクルート
 =2022-09-13T18:54:53+09:00 Computer/トピック/社会動向/企業/キャラクターバンク/keywords
 CharacterBank,キャラクターバンク
 
-=2020-09-10T14:09:46+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
-CANON,キャノン,キヤノン
+=2022-10-05T19:48:30+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
+Canon,CANON,キャノン,キヤノン
 Web Performer
 GUARDIANWALL Mail
 GUARDIANWALL WebFilter
@@ -6523,6 +6542,9 @@ SKY ANIMALS
 ファイナルファンタジー
 FFXV
 
+=2022-10-06T09:00:33+09:00 Computer/トピック/社会動向/企業/スクデット/keywords
+Sift
+
 =2021-07-08T12:56:56+09:00 Computer/トピック/社会動向/企業/スケブ/keywords
 Skeb,スケブ
 
@@ -7036,10 +7058,11 @@ sora:share
 =2017-11-11T08:57:43+09:00 Computer/トピック/社会動向/企業/トーマツ/keywords
 WellMe
 
-=2018-06-06T16:36:23+09:00 Computer/トピック/社会動向/企業/ドリーム・アーツ/keywords
+=2022-10-06T09:00:33+09:00 Computer/トピック/社会動向/企業/ドリーム・アーツ/keywords
 INSUITE,インスイート
 知話輪
 hibiki
+SmartDB
 
 =2020-09-17T13:31:29+09:00 Computer/トピック/社会動向/企業/ドワンゴ/keywords
 Dwango,DWANGO,ドワンゴ
@@ -7082,6 +7105,9 @@ GRIDY AIリード
 
 =2017-10-16T10:27:05+09:00 Computer/トピック/社会動向/企業/ナーブ/keywords
 VR内見
+
+=2022-10-05T19:48:00+09:00 Computer/トピック/社会動向/企業/ニコン/keywords
+Nikon,ニコン
 
 =2018-09-03T14:32:09+09:00 Computer/トピック/社会動向/企業/ニチレイフーズ/keywords
 ニチレイ,ニチレイフーズ
@@ -7967,6 +7993,9 @@ WARPE
 
 =2020-12-10T11:58:36+09:00 Computer/トピック/社会動向/企業/リコー/ベクノス/keywords
 IQUI
+
+=2022-10-06T09:05:15+09:00 Computer/トピック/社会動向/企業/リスク計測テクノロジーズ/keywords
+Rimtech,リスク計測テクノロジーズ
 
 =2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/企業/リチェルカセキュリティ/keywords
 fuzzuf
@@ -8919,6 +8948,9 @@ SMBC,三井住友
 
 =2020-05-13T16:50:30+09:00 Computer/トピック/社会動向/企業/金融・保険/野村HD/keywords
 野村證券,野村証券,野村HD
+
+=2022-10-06T09:00:33+09:00 Computer/トピック/社会動向/企業/鈴木ソフトラボラトリー/keywords
+VTeacher
 
 =2021-12-30T12:05:23+09:00 Computer/トピック/社会動向/企業/鈴茂器工/keywords
 日本システムプロジェクト
