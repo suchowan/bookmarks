@@ -454,11 +454,12 @@ Wolfram Alpha
 =2017-05-02T12:36:26+09:00 Computer/トピック/ツール/クラウド/その他/ドワンゴ/keywords
 紅莉栖
 
-=2022-04-07T14:26:18+09:00 Computer/トピック/ツール/ソフトウェアシステム/keywords
+=2022-10-20T09:15:02+09:00 Computer/トピック/ツール/ソフトウェアシステム/keywords
 CodeGuru
 GPT-3
 ノーコード
 ローコード
+AI Programmer
 
 =2017-03-17T16:22:58+09:00 Computer/トピック/ツール/ソフトウェアシステム/ソフトウェアツール/mitoco/keywords
 テラスカイ,TerraSky
@@ -848,7 +849,7 @@ AlphaFold
 =2019-05-28T11:32:23+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/予測/行動/keywords
 排卵日
 
-=2022-08-11T12:14:12+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
+=2022-10-20T09:15:02+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/keywords
 自動生成
 自動編集
 ストーリー
@@ -866,6 +867,7 @@ GPT-3
 イラスト
 ジェネレーティブ
 オリジナル
+AI Programmer
 
 =2022-08-04T12:58:31+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/推薦/keywords
 推薦,リコメンド,recommend
@@ -3099,6 +3101,12 @@ hunterbook
 ハンソン・ロボティクス,Hanson Robotics
 Sofhia,ソフィア
 
+=2022-10-19T20:41:15+09:00 Computer/トピック/社会動向/企業/HashiCorp/keywords
+Terraform
+
+=2022-10-19T20:41:16+09:00 Computer/トピック/社会動向/企業/HashPalette/keywords
+エルフマスターズ
+
 =2018-12-11T08:04:26+09:00 Computer/トピック/社会動向/企業/HCL Technologies/keywords
 HCL,HCL Technologies
 
@@ -3344,6 +3352,9 @@ JioPhone
 
 =2017-09-04T12:24:06+09:00 Computer/トピック/社会動向/企業/JIT/keywords
 ICO MARKET
+
+=2022-10-19T20:41:57+09:00 Computer/トピック/社会動向/企業/Joby Aviation/keywords
+ジョビー・アビエーション,Joby Aviation
 
 =2018-11-29T13:52:57+09:00 Computer/トピック/社会動向/企業/Johnson & Johnson/keywords
 ジョンソン・エンド・ジョンソン,Johnson & Johnson
@@ -3683,6 +3694,9 @@ HADO
 
 =2021-06-10T14:13:34+09:00 Computer/トピック/社会動向/企業/Mellow/keywords
 SHOP STOP
+
+=2022-10-19T20:41:16+09:00 Computer/トピック/社会動向/企業/Memplex/keywords
+清水亮
 
 =2019-02-14T13:44:26+09:00 Computer/トピック/社会動向/企業/Merck/keywords
 メルク,Merck
@@ -5602,6 +5616,9 @@ InterSafe WebFilter
 =2017-12-01T13:43:10+09:00 Computer/トピック/社会動向/企業/アレグロマジック/keywords
 ＆ai
 
+=2022-10-19T20:41:15+09:00 Computer/トピック/社会動向/企業/アレフ/keywords
+びっくりドンキー
+
 =2022-07-06T16:03:23+09:00 Computer/トピック/社会動向/企業/アンドパッド/keywords
 ANDPAD,アンドパッド
 
@@ -6187,8 +6204,9 @@ MAGELLAN BLOCKS
 =2022-03-10T11:38:04+09:00 Computer/トピック/社会動向/企業/グレート・ビーンズ/keywords
 CIY
 
-=2017-07-24T10:49:06+09:00 Computer/トピック/社会動向/企業/グレープシティ/keywords
+=2022-10-20T09:15:03+09:00 Computer/トピック/社会動向/企業/グレープシティ/keywords
 Wikitude SDK 7
+Forguncy
 
 =2021-06-03T11:41:34+09:00 Computer/トピック/社会動向/企業/グローバルウォーカーズ/keywords
 GW-Retail
@@ -7332,7 +7350,7 @@ PASMO,パスモ
 =2017-07-18T09:55:30+09:00 Computer/トピック/社会動向/企業/パソナ/keywords
 @Health+Care,アットヘルスケア
 
-=2022-09-22T08:07:14+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
+=2022-10-20T09:15:03+09:00 Computer/トピック/社会動向/企業/パナソニック/keywords
 パナソニック,Panasonic
 ReaRie,リアリエ
 Educational Partner
@@ -7350,6 +7368,7 @@ NICOBO
 WisTalk
 Vieureka
 Neuron ES
+YOI-en
 
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
@@ -7540,6 +7559,9 @@ eat
 
 =2018-12-11T08:05:15+09:00 Computer/トピック/社会動向/企業/ブリッジインターナショナル/keywords
 ブリッジ,ブリッジインターナショナル
+
+=2022-10-20T09:17:10+09:00 Computer/トピック/社会動向/企業/ブリングアウト/keywords
+Bring Out,ブリングアウト
 
 =2017-10-30T10:33:37+09:00 Computer/トピック/社会動向/企業/ブルーグース/keywords
 Webプロデュースサービス
@@ -8145,6 +8167,9 @@ AI-Checker
 
 =2021-05-27T12:00:27+09:00 Computer/トピック/社会動向/企業/ワイズ技研/keywords
 Y’sSmartAgri
+
+=2022-10-19T20:41:15+09:00 Computer/トピック/社会動向/企業/ワイヤードパッケージ/keywords
+顔パスQR
 
 =2017-07-24T10:46:52+09:00 Computer/トピック/社会動向/企業/ワランティ/keywords
 Warrantee
@@ -8910,10 +8935,11 @@ Morgan Stanley,モルガン・スタンレー
 SBIHD,SBI
 請求QUICK
 
-=2021-08-25T15:33:48+09:00 Computer/トピック/社会動向/企業/金融・保険/SOMPO/keywords
+=2022-10-20T09:15:03+09:00 Computer/トピック/社会動向/企業/金融・保険/SOMPO/keywords
 損保ジャパン,SOMPO
 ジャパンダ
 損害保険ジャパン
+Anyca
 
 =2021-08-25T15:35:53+09:00 Computer/トピック/社会動向/企業/金融・保険/Visa/keywords
 ビザ,Visa
@@ -9076,7 +9102,7 @@ CanguRo
 =2020-01-16T15:01:30+09:00 Computer/トピック/社会動向/大学/国立音楽大学/keywords
 国立音大,国立音楽大学
 
-=2022-09-29T09:07:09+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2022-10-19T20:41:16+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 Carnegie Mellon University,CMU,カーネギーメロン大
@@ -9137,6 +9163,7 @@ Carnegie Mellon University
 ビンガムトン大学
 メリーランド大学
 コンコルディア大学
+ICL
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
