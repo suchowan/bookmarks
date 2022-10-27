@@ -3482,6 +3482,9 @@ WebVM
 =2022-04-07T14:32:35+09:00 Computer/トピック/社会動向/企業/LegalForce/keywords
 リーガルフォース,LegalForce
 
+=2022-10-27T09:17:24+09:00 Computer/トピック/社会動向/企業/Leica/keywords
+ライカ,Leica
+
 =2019-05-16T11:13:58+09:00 Computer/トピック/社会動向/企業/Lenovo/keywords
 Lenovo,レノボ
 ThinkReality
@@ -4933,6 +4936,9 @@ sonar ATS
 =2021-08-19T12:44:25+09:00 Computer/トピック/社会動向/企業/ThinkX/keywords
 NeuraVoice
 
+=2022-10-27T09:15:56+09:00 Computer/トピック/社会動向/企業/TieUps/keywords
+lit.link
+
 =2022-08-04T12:58:31+09:00 Computer/トピック/社会動向/企業/Tiffany/keywords
 NFTiff
 
@@ -5032,6 +5038,9 @@ Mira Robotics,ugo
 
 =2017-03-30T10:43:27+09:00 Computer/トピック/社会動向/企業/ULA/keywords
 ULA,United Launch Alliance
+
+=2022-10-27T09:15:56+09:00 Computer/トピック/社会動向/企業/unerry/keywords
+Beacon Bank
 
 =2018-11-29T13:51:42+09:00 Computer/トピック/社会動向/企業/UNIBOT/keywords
 ユニボット,UNIBOT
@@ -5507,9 +5516,9 @@ Gravio
 =2017-11-22T16:48:25+09:00 Computer/トピック/社会動向/企業/アストラゼネカ/keywords
 タグリッソ
 
-=2022-04-28T12:30:44+09:00 Computer/トピック/社会動向/企業/アスラテック/keywords
+=2022-10-27T10:35:18+09:00 Computer/トピック/社会動向/企業/アスラテック/keywords
 DOKA ROBO
-V-Sido Bilateral
+V-Sido
 
 =2021-09-09T12:14:23+09:00 Computer/トピック/社会動向/企業/アズワン/keywords
 Lab BRAINS
@@ -5872,6 +5881,9 @@ ESS REC NEAO
 
 =2022-09-22T08:11:06+09:00 Computer/トピック/社会動向/企業/エヴィクサー/keywords
 Evixar,エヴィクサー
+
+=2022-10-27T09:15:57+09:00 Computer/トピック/社会動向/企業/エーアイ/keywords
+A.I.VOICE Biz
 
 =2017-08-10T09:09:43+09:00 Computer/トピック/社会動向/企業/エージェンテック/keywords
 ABookSee
@@ -7442,6 +7454,9 @@ Bebot
 =2021-03-04T10:57:38+09:00 Computer/トピック/社会動向/企業/ビーラボ/keywords
 GUARDIAN Security Tag
 
+=2022-10-26T20:39:01+09:00 Computer/トピック/社会動向/企業/ピクシブ/keywords
+Pixiv,ピクシブ
+
 =2021-09-09T12:16:42+09:00 Computer/トピック/社会動向/企業/ピクシーダストテクノロジーズ/keywords
 DeepWear
 PxDT,ピクシーダストテクノロジーズ
@@ -7849,6 +7864,9 @@ mobiVoice
 
 =2022-06-23T10:21:12+09:00 Computer/トピック/社会動向/企業/モビーディック/keywords
 スマホはかる君
+
+=2022-10-27T09:16:55+09:00 Computer/トピック/社会動向/企業/モピ/keywords
+Mopi,モピ
 
 =2017-10-10T13:36:28+09:00 Computer/トピック/社会動向/企業/モーションポートレート/keywords
 ようこそパニックマンションへVR
@@ -9256,7 +9274,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-09-28T21:26:17+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-10-27T09:15:56+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -9376,6 +9394,7 @@ TSUBAME
 群馬県
 JETRO
 尼崎市
+敦賀市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
