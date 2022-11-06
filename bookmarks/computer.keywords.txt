@@ -4228,9 +4228,6 @@ PassLogic,パスロジック
 =2022-04-14T10:43:09+09:00 Computer/トピック/社会動向/企業/PayPal/keywords
 ペイパル,PayPal
 
-=2018-12-11T08:01:09+09:00 Computer/トピック/社会動向/企業/Paytm/keywords
-ペイペイ,PayPay
-
 =2017-03-29T14:42:09+09:00 Computer/トピック/社会動向/企業/PBC/keywords
 PBC,パシフィックビジネスコンサルティング
 Dynamics NAV
@@ -6811,6 +6808,9 @@ LiVR
 SBクリエイティブ
 Servi
 孫正義
+
+=2018-12-11T08:01:09+09:00 Computer/トピック/社会動向/企業/ソフトバンク/PayPay/keywords
+ペイペイ,PayPay
 
 =2020-03-05T15:31:38+09:00 Computer/トピック/社会動向/企業/ソフトバンク/日本コンピュータビジョン/keywords
 JCV,日本コンピュータビジョン
