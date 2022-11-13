@@ -4128,18 +4128,6 @@ Dragon Drive
 NUWAロボティクス,NUWA Robotics
 Kebbi Air
 
-=2021-04-29T13:55:14+09:00 Computer/トピック/社会動向/企業/NVIDIA/ARM/keywords
-PSA
-Kigen
-Pelion
-Neoverse
-アーム,ARM
-
-=2021-01-14T13:03:50+09:00 Computer/トピック/社会動向/企業/NVIDIA/ARM/TREASURE DATA/keywords
-トレジャーデータ,TREASURE DATA
-TREASURE DMP
-TREASURE CDP
-
 =2022-09-29T09:02:13+09:00 Computer/トピック/社会動向/企業/NVIDIA/keywords
 NVIDIA,Nvidia,エヌビディア
 TensorRT
@@ -6813,6 +6801,18 @@ Logicad
 VALIS-Engine
 VALIS-Cockpit
 SMN,ソネット・メディア・ネットワークス
+
+=2021-04-29T13:55:14+09:00 Computer/トピック/社会動向/企業/ソフトバンク/ARM/keywords
+PSA
+Kigen
+Pelion
+Neoverse
+アーム,ARM
+
+=2021-01-14T13:03:50+09:00 Computer/トピック/社会動向/企業/ソフトバンク/ARM/TREASURE DATA/keywords
+トレジャーデータ,TREASURE DATA
+TREASURE DMP
+TREASURE CDP
 
 =2020-09-24T13:30:34+09:00 Computer/トピック/社会動向/企業/ソフトバンク/BOLDLY/keywords
 SBドライブ,BOLDLY
