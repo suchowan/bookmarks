@@ -56,7 +56,7 @@ WEEKLY人工無脳
 カオスマップ
 チートシート
 
-=2022-11-03T11:07:38+09:00 Computer/トピック/セキュリティ/keywords
+=2022-11-17T14:13:23+09:00 Computer/トピック/セキュリティ/keywords
 セキュリティ
 認証
 プライバシー,プライバシ,プライヴァシ
@@ -250,6 +250,7 @@ CosmicStrand
 ISMAP
 個情法
 ZTNA
+DLP
 
 =2018-10-05T11:35:50+09:00 Computer/トピック/セマンティックウェブ/keywords
 SPARQL
@@ -1084,7 +1085,7 @@ Dating
 婚活
 面談
 
-=2022-09-08T12:16:08+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2022-11-17T14:13:23+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1195,6 +1196,9 @@ Health
 近視
 バイタル
 PMS
+免疫
+補聴器
+心不全
 
 =2022-08-11T12:14:13+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -3202,6 +3206,9 @@ Enterprise Intelligence
 Huawei,ファーウェイ
 HarmonyOS
 
+=2022-11-17T14:13:23+09:00 Computer/トピック/社会動向/企業/Hugging Face/keywords
+Moe TTS
+
 =2017-10-16T10:30:52+09:00 Computer/トピック/社会動向/企業/HybridBlock/keywords
 HybridBlock,ハイブリッドブロック
 
@@ -3393,6 +3400,9 @@ GLAS
 
 =2017-08-10T08:04:47+09:00 Computer/トピック/社会動向/企業/JPNEAZY/keywords
 JPNEAZY,ジャパニージー
+
+=2022-11-17T14:13:22+09:00 Computer/トピック/社会動向/企業/Jumpship/keywords
+Somerville
 
 =2019-04-02T11:45:38+09:00 Computer/トピック/社会動向/企業/Juniper/keywords
 ジュニパー,Juniper
@@ -3667,6 +3677,9 @@ ObotAI
 =2018-05-10T09:36:47+09:00 Computer/トピック/社会動向/企業/Marketo/keywords
 Marketo,マルケト
 AudienceAI
+
+=2022-11-17T14:17:07+09:00 Computer/トピック/社会動向/企業/Markforged/keywords
+マークフォージド,Markforge
 
 =2022-11-10T10:47:36+09:00 Computer/トピック/社会動向/企業/MaSiRoプロジェクト/keywords
 ましろプロジェクト,MaSiRoプロジェクト
@@ -4465,6 +4478,9 @@ Catlog
 =2022-08-31T18:19:34+09:00 Computer/トピック/社会動向/企業/Radionomy/keywords
 Winamp
 
+=2022-11-17T14:17:33+09:00 Computer/トピック/社会動向/企業/Rapidus/keywords
+ラピダス,Rapidus
+
 =2020-12-17T12:37:27+09:00 Computer/トピック/社会動向/企業/Re-al/keywords
 TeleAngler
 
@@ -4697,6 +4713,9 @@ MindSphere3
 
 =2020-12-03T13:15:30+09:00 Computer/トピック/社会動向/企業/silvereye/keywords
 RehaVR
+
+=2022-11-17T14:13:22+09:00 Computer/トピック/社会動向/企業/SimSpace/keywords
+Cyber Force Platform
 
 =2022-09-15T13:46:41+09:00 Computer/トピック/社会動向/企業/Singular/keywords
 CRIME NABI
@@ -6135,6 +6154,9 @@ GheliaM
 =2017-09-07T10:26:59+09:00 Computer/トピック/社会動向/企業/ギークス/keywords
 ギークス,geechs
 AnyBot
+
+=2022-11-17T14:13:22+09:00 Computer/トピック/社会動向/企業/ギークピクチュアズ/keywords
+MO|NA バーチャルギャラリー
 
 =2020-08-06T14:09:25+09:00 Computer/トピック/社会動向/企業/ギークプラス/keywords
 Geek+,ギークプラス
@@ -8000,6 +8022,9 @@ THEO
 =2022-02-10T12:26:20+09:00 Computer/トピック/社会動向/企業/ヨクト/keywords
 yogaMotion
 
+=2022-11-17T14:14:16+09:00 Computer/トピック/社会動向/企業/ヨドバシカメラ/keywords
+ヨドバシ,ヨドバシカメラ
+
 =2017-04-11T10:35:01+09:00 Computer/トピック/社会動向/企業/ライスカレー製作所/keywords
 オードブル
 
@@ -8772,8 +8797,8 @@ Virtual Talking Head
 =2022-04-07T14:29:11+09:00 Computer/トピック/社会動向/企業/沖縄セルラー電話/keywords
 沖縄セルラー,沖縄セルラー電話
 
-=2020-03-19T14:18:23+09:00 Computer/トピック/社会動向/企業/沖電気工業/keywords
-沖電気,沖電気工業
+=2022-11-17T14:16:05+09:00 Computer/トピック/社会動向/企業/沖電気工業/keywords
+OKI,沖電気,沖電気工業
 
 =2020-09-10T14:07:32+09:00 Computer/トピック/社会動向/企業/津田工務店/keywords
 OHACO
