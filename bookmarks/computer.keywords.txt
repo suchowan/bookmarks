@@ -1002,7 +1002,7 @@ JINS
 メイクアップ
 スタイリング
 
-=2022-03-10T11:38:03+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
+=2022-12-22T11:58:51+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
 フライホイール
 顧客分析
@@ -1013,6 +1013,7 @@ PR
 商品開発
 CRM
 MA
+CDP
 
 =2022-12-08T10:17:14+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/keywords
 Google Analytics,Googleアナリティクス
@@ -1799,6 +1800,9 @@ VOICEPEAK
 DX Suite
 Learning Center
 
+=2022-12-22T11:58:51+09:00 Computer/トピック/社会動向/企業/AI Picasso/keywords
+AIいらすとや
+
 =2017-11-11T16:10:52+09:00 Computer/トピック/社会動向/企業/AI sales/keywords
 AIクレームチェッカー
 
@@ -1974,9 +1978,10 @@ App Annie Ascend
 =2022-09-22T08:07:14+09:00 Computer/トピック/社会動向/企業/AppBank/keywords
 オフィシャルライブフォトくじ
 
-=2017-07-10T07:18:19+09:00 Computer/トピック/社会動向/企業/Appier/keywords
+=2022-12-22T11:58:51+09:00 Computer/トピック/社会動向/企業/Appier/keywords
 Cross X AIソリューション
 AIXON
+AIRIS
 
 =2022-03-10T11:38:03+09:00 Computer/トピック/社会動向/企業/Apple/keywords
 Apple,アップル
@@ -2847,6 +2852,9 @@ STREAM
 =2017-08-08T08:08:21+09:00 Computer/トピック/社会動向/企業/FireEye/keywords
 FireEye,ファイア・アイ
 
+=2022-12-22T11:58:52+09:00 Computer/トピック/社会動向/企業/FISTBUMP/keywords
+クラウドバランス
+
 =2021-04-22T13:35:38+09:00 Computer/トピック/社会動向/企業/FitBit/keywords
 Fitbit Alta
 Fitbit Alta HR,Alta HR
@@ -3247,8 +3255,9 @@ Enterprise Intelligence
 Huawei,ファーウェイ
 HarmonyOS
 
-=2022-11-17T14:13:23+09:00 Computer/トピック/社会動向/企業/Hugging Face/keywords
+=2022-12-22T11:58:51+09:00 Computer/トピック/社会動向/企業/Hugging Face/keywords
 Moe TTS
+NAGI
 
 =2017-10-16T10:30:52+09:00 Computer/トピック/社会動向/企業/HybridBlock/keywords
 HybridBlock,ハイブリッドブロック
@@ -3643,6 +3652,9 @@ LIQUID eKYC
 =2017-10-24T12:07:43+09:00 Computer/トピック/社会動向/企業/Lisfee/keywords
 FLOWERY
 TAGGER
+
+=2022-12-22T11:58:51+09:00 Computer/トピック/社会動向/企業/Lithium Finance/keywords
+Mainnet
 
 =2020-07-16T13:17:38+09:00 Computer/トピック/社会動向/企業/Live Smart/keywords
 LS mini
@@ -5069,7 +5081,7 @@ lit.link
 =2022-08-04T12:58:31+09:00 Computer/トピック/社会動向/企業/Tiffany/keywords
 NFTiff
 
-=2022-06-30T11:22:16+09:00 Computer/トピック/社会動向/企業/TIS/keywords
+=2022-12-22T11:58:52+09:00 Computer/トピック/社会動向/企業/TIS/keywords
 AISonar
 MONOweb
 chABSA-dataset
@@ -5077,6 +5089,7 @@ doccano
 PrepaidCube+
 COET
 XR Pay
+RoboticBase
 
 =2020-07-23T14:14:37+09:00 Computer/トピック/社会動向/企業/Titan Medical/keywords
 タイタンメディカル,Titan Medical
@@ -5745,9 +5758,10 @@ HAPiiBOT
 =2022-06-16T11:21:41+09:00 Computer/トピック/社会動向/企業/アミーチ/keywords
 スマート雲台
 
-=2017-07-31T11:19:11+09:00 Computer/トピック/社会動向/企業/アライドアーキテクツ/keywords
+=2022-12-22T11:58:52+09:00 Computer/トピック/社会動向/企業/アライドアーキテクツ/keywords
 MILA
 Letro
+echoes
 
 =2018-01-13T11:49:05+09:00 Computer/トピック/社会動向/企業/アラン・プロダクツ/keywords
 ヘアラボカルテ
@@ -6734,6 +6748,9 @@ GenieeSSP
 GenieeDSP
 MAJIN
 
+=2022-12-22T11:58:52+09:00 Computer/トピック/社会動向/企業/ジール/keywords
+CO-ODE
+
 =2019-06-13T13:04:34+09:00 Computer/トピック/社会動向/企業/ジーンアイドル/keywords
 Gene A.I.dols,ジーンアイドル
 
@@ -6951,7 +6968,7 @@ TREASURE CDP
 =2020-09-24T13:30:34+09:00 Computer/トピック/社会動向/企業/ソフトバンク/BOLDLY/keywords
 SBドライブ,BOLDLY
 
-=2021-12-30T12:05:25+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
+=2022-12-22T11:58:51+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフバン,ソフトバンク,SoftBank
 Musio
 Pepper
@@ -6975,6 +6992,7 @@ LiVR
 SBクリエイティブ
 Servi
 孫正義
+ichimill
 
 =2018-12-11T08:01:09+09:00 Computer/トピック/社会動向/企業/ソフトバンク/PayPay/keywords
 ペイペイ,PayPay
@@ -7618,8 +7636,9 @@ Biz-Rensaring
 =2017-03-29T15:02:14+09:00 Computer/トピック/社会動向/企業/ビズリーチ/keywords
 HRMOS,ハーモス
 
-=2022-11-24T11:48:07+09:00 Computer/トピック/社会動向/企業/ビットキー/keywords
+=2022-12-22T11:58:51+09:00 Computer/トピック/社会動向/企業/ビットキー/keywords
 bitkey WORK BOOTH
+homehub
 
 =2021-09-09T12:14:23+09:00 Computer/トピック/社会動向/企業/ビット・トレード・ワン/keywords
 クアッド・クローラーAI
@@ -7952,8 +7971,9 @@ ForestScanner
 =2021-12-09T14:57:27+09:00 Computer/トピック/社会動向/企業/マリス creative design/keywords
 マリスcreative design,マリス creative design
 
-=2022-07-21T11:09:24+09:00 Computer/トピック/社会動向/企業/マルジュ/keywords
+=2022-12-22T11:58:52+09:00 Computer/トピック/社会動向/企業/マルジュ/keywords
 ITSUMEN
+FAST SIGN
 
 =2022-07-07T11:33:57+09:00 Computer/トピック/社会動向/企業/マーキットワン/keywords
 M-ONE
@@ -9505,7 +9525,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-12-15T10:47:23+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-12-22T11:58:53+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -9628,6 +9648,7 @@ JETRO
 敦賀市
 中野区
 静岡県
+亀岡市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
