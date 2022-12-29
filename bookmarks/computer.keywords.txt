@@ -647,7 +647,7 @@ RFIDタグ
 =2019-06-05T11:59:34+09:00 Computer/トピック/ビッグデータ/IoT/Raspberry Pi/keywords
 Raspberry PI,Raspberry Pi,ラズベリーパイ,ラズパイ,RasPi
 
-=2022-06-09T11:08:43+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
+=2022-12-29T08:47:39+09:00 Computer/トピック/ビッグデータ/IoT/住宅・スマートホーム/keywords
 コネクティッドホーム アライアンス
 スマートホーム
 住宅
@@ -665,6 +665,7 @@ HomeKit
 玄関
 レジデンス
 民家
+家具
 
 =2021-01-14T13:01:31+09:00 Computer/トピック/ビッグデータ/IoT/工場・オフィス/keywords
 工場,ファクトリー,プラント,factory
@@ -1878,6 +1879,9 @@ A.L.I.,ALI Technologies
 アリババ,Alibaba
 ジャック・マー,ジャック･マー
 
+=2022-12-28T15:38:28+09:00 Computer/トピック/社会動向/企業/AliveCor/keywords
+アライブコア,AliveCor
+
 =2020-09-03T13:33:11+09:00 Computer/トピック/社会動向/企業/All Turtles/keywords
 mmhmm
 
@@ -2145,6 +2149,9 @@ Candy
 
 =2017-07-04T07:33:01+09:00 Computer/トピック/社会動向/企業/bitFlyer/keywords
 miyabi
+
+=2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/biz・Creave/keywords
+NFT GAMER’S
 
 =2017-08-07T09:58:49+09:00 Computer/トピック/社会動向/企業/Blabo/keywords
 Blabo!
@@ -2478,6 +2485,9 @@ CuGoV3
 =2017-03-28T14:55:22+09:00 Computer/トピック/社会動向/企業/Curious Edge/keywords
 Commu
 
+=2022-12-28T15:37:47+09:00 Computer/トピック/社会動向/企業/CVTE/keywords
+MAXHUB
+
 =2021-12-09T14:24:26+09:00 Computer/トピック/社会動向/企業/CyberArk/keywords
 サイバーアーク,CyberArk
 
@@ -2742,6 +2752,9 @@ ZenClerk
 
 =2020-06-25T15:06:08+09:00 Computer/トピック/社会動向/企業/Empath/keywords
 エンパス,Empath
+
+=2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/Empower Operations/keywords
+OASIS AI
 
 =2017-09-27T09:06:23+09:00 Computer/トピック/社会動向/企業/Emrec Technologies/keywords
 Engazify
@@ -3641,6 +3654,9 @@ Glint
 =2020-06-11T14:11:09+09:00 Computer/トピック/社会動向/企業/Linne/keywords
 LINNE LENS
 LINNÉ LENS
+
+=2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/LINPS/keywords
+CAESU
 
 =2019-01-22T18:39:22+09:00 Computer/トピック/社会動向/企業/Lionbridge Technologies/keywords
 ライオンブリッジ,Lionbridge Technologies
@@ -5075,6 +5091,9 @@ sonar ATS
 =2021-08-19T12:44:25+09:00 Computer/トピック/社会動向/企業/ThinkX/keywords
 NeuraVoice
 
+=2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/THT Japan/keywords
+defunc HOME
+
 =2022-10-27T09:15:56+09:00 Computer/トピック/社会動向/企業/TieUps/keywords
 lit.link
 
@@ -5131,6 +5150,9 @@ Tastime
 
 =2020-02-07T14:45:20+09:00 Computer/トピック/社会動向/企業/TRIPL-1/keywords
 GOKU
+
+=2022-12-29T08:51:25+09:00 Computer/トピック/社会動向/企業/tripla/keywords
+トリプラ,tripla
 
 =2021-04-15T12:25:20+09:00 Computer/トピック/社会動向/企業/Trnio/keywords
 Trnio 3D Scanner
@@ -5407,6 +5429,10 @@ bixid
 =2018-06-15T17:13:16+09:00 Computer/トピック/社会動向/企業/Yoki/keywords
 HACO
 HACREW
+
+=2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/You.com/keywords
+YouWrite
+YouChat
 
 =2017-03-30T10:55:14+09:00 Computer/トピック/社会動向/企業/YouAppi/keywords
 OneRun
@@ -7084,6 +7110,9 @@ Smart Innovator
 =2017-08-21T08:32:10+09:00 Computer/トピック/社会動向/企業/ダイドードリンコ/keywords
 ダイドードリンコ,DyDo
 
+=2022-12-29T08:51:56+09:00 Computer/トピック/社会動向/企業/ダイナトレック/keywords
+DYNATREK,ダイナトレック
+
 =2017-09-19T10:42:55+09:00 Computer/トピック/社会動向/企業/ダッソー/keywords
 BIOVIA
 
@@ -7898,6 +7927,9 @@ BellCloud AI for SNS
 =2020-12-31T18:05:57+09:00 Computer/トピック/社会動向/企業/ベルズシステム/keywords
 ロアンナ
 
+=2022-12-29T08:52:31+09:00 Computer/トピック/社会動向/企業/ベルフェイス/keywords
+bellFace,ベルフェイス
+
 =2018-04-17T09:43:44+09:00 Computer/トピック/社会動向/企業/ベーシック/keywords
 ferret One
 
@@ -8487,9 +8519,10 @@ e-F@ctory
 GX-F
 MELDY
 
-=2022-03-03T12:44:59+09:00 Computer/トピック/社会動向/企業/三越伊勢丹/keywords
+=2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/三越伊勢丹/keywords
 ZUKKU,ズック
 三越,伊勢丹,三越伊勢丹
+REV WORLDS
 
 =2022-08-11T12:16:45+09:00 Computer/トピック/社会動向/企業/上海熙香芸享電子商務/keywords
 シーシャン,上海熙香芸享電子商務
@@ -8517,7 +8550,7 @@ OpShield
 RemoteMeeting
 RemoteView
 
-=2022-08-25T10:18:25+09:00 Computer/トピック/社会動向/企業/交通/keywords
+=2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/交通/keywords
 JR東,東日本旅客鉄道
 JR九州
 NewDays
@@ -8551,6 +8584,7 @@ JAL,日本航空
 日本空港ビルデング
 デルタ航空
 ユナイテッド航空
+志摩スペイン村
 
 =2021-03-11T12:10:06+09:00 Computer/トピック/社会動向/企業/京セラ/KCCS/keywords
 SHELF EYE
@@ -9525,7 +9559,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2022-12-22T11:58:53+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -9649,6 +9683,7 @@ JETRO
 中野区
 静岡県
 亀岡市
+那覇市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
