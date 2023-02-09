@@ -1092,7 +1092,7 @@ Dating
 婚活
 面談
 
-=2022-11-24T11:48:07+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2023-02-09T08:03:45+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1207,6 +1207,7 @@ PMS
 補聴器
 心不全
 スキンケア
+熱中症
 
 =2022-08-11T12:14:13+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1469,7 +1470,7 @@ CHIVOX
 性別
 字幕
 
-=2023-01-26T09:19:12+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
+=2023-02-09T08:03:45+09:00 Computer/トピック/機械学習/機械学習応用/農業・漁業/keywords
 ファーム
 アグリ
 酪農
@@ -1502,6 +1503,7 @@ CHIVOX
 釣り
 トマト
 飼育
+みかん
 
 =2018-09-18T13:16:51+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/keywords
 フィンテック,FinTech
@@ -2102,16 +2104,20 @@ IPD-360VR
 =2022-12-01T10:28:52+09:00 Computer/トピック/社会動向/企業/Baghdav/keywords
 バグデーヴ,Baghdav
 
-=2022-08-31T18:19:34+09:00 Computer/トピック/社会動向/企業/Baidu/keywords
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/Baidu/keywords
 バイドゥ,Baidu,百度
 Simeji
 QianShi
+ERNIE Bot
 
 =2022-05-26T12:18:39+09:00 Computer/トピック/社会動向/企業/BALMUDA/keywords
 バルミューダ,BALMUDA
 
 =2022-02-10T12:26:19+09:00 Computer/トピック/社会動向/企業/Band Industries/keywords
 Roadie Coach
+
+=2023-02-09T08:03:44+09:00 Computer/トピック/社会動向/企業/Baseconnect/keywords
+Musubu
 
 =2021-12-02T14:04:15+09:00 Computer/トピック/社会動向/企業/Bayer/keywords
 バイエル薬品,Bayer
@@ -2443,6 +2449,9 @@ BrainSuite
 =2021-10-28T13:54:33+09:00 Computer/トピック/社会動向/企業/Colorkrew/keywords
 Mamoru Biz
 
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/Colors/keywords
+タスカル
+
 =2022-12-08T10:18:24+09:00 Computer/トピック/社会動向/企業/comipro/keywords
 コミプロ,comipro
 
@@ -2605,12 +2614,13 @@ Weface
 Dell,DELL,デル
 PowerScale
 
-=2020-02-07T14:45:19+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/DeNA/keywords
 AIコンシェルジュ
 Easy Ride
 MOV
 ディー・エヌ・エー,DeNA
 Rerep
+Pococha
 
 =2021-04-01T15:33:30+09:00 Computer/トピック/社会動向/企業/Denodo Technologies/keywords
 Denodo,Denodo Technologies
@@ -4711,6 +4721,9 @@ DEFASTA
 りんな,rinna
 CLOOB
 
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/Rio369/keywords
+FINE TUNING
+
 =2023-01-26T09:19:12+09:00 Computer/トピック/社会動向/企業/Riot Games/keywords
 League of Legends
 
@@ -4883,6 +4896,9 @@ SettleMint,SettleMint NV
 
 =2018-03-02T10:03:37+09:00 Computer/トピック/社会動向/企業/Shamrock Records/keywords
 UDトーク
+
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/Shenzhen KEYES Robot/keywords
+Keyestudio
 
 =2022-08-04T12:58:32+09:00 Computer/トピック/社会動向/企業/Shenzhen Zhuneng Technology/keywords
 Energize Lab
@@ -5225,6 +5241,9 @@ AI音声自動応答サービス
 
 =2020-02-13T13:16:13+09:00 Computer/トピック/社会動向/企業/Tobii/keywords
 Pico Neo 2 Eye
+
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/ToCworks/keywords
+ナゲット
 
 =2022-10-06T09:00:32+09:00 Computer/トピック/社会動向/企業/TOGEKI/keywords
 NEIGHBOR
@@ -5904,6 +5923,10 @@ HAPiiBOT
 =2022-06-16T11:21:41+09:00 Computer/トピック/社会動向/企業/アミーチ/keywords
 スマート雲台
 
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/アムタス/keywords
+Comicle
+めちゃコミ
+
 =2022-12-22T11:58:52+09:00 Computer/トピック/社会動向/企業/アライドアーキテクツ/keywords
 MILA
 Letro
@@ -6039,6 +6062,9 @@ marble
 =2017-05-02T08:40:28+09:00 Computer/トピック/社会動向/企業/イーネットソリューションズ/keywords
 Foundational Components,FCサービス
 Watson Knowledge Studio,WKSサービス
+
+=2023-02-08T17:02:07+09:00 Computer/トピック/社会動向/企業/イー・エージェンシー/keywords
+さぶみっと！レコメンド
 
 =2018-02-06T13:41:22+09:00 Computer/トピック/社会動向/企業/イー・ガーディアン/keywords
 イー・ガーディアン,E-Guardian
@@ -6398,7 +6424,7 @@ Edia for リクルート
 =2022-09-13T18:54:53+09:00 Computer/トピック/社会動向/企業/キャラクターバンク/keywords
 CharacterBank,キャラクターバンク
 
-=2023-01-11T18:46:40+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/キヤノン/keywords
 Canon,CANON,キャノン,キヤノン
 Web Performer
 GUARDIANWALL Mail
@@ -6406,6 +6432,7 @@ GUARDIANWALL WebFilter
 LaiGHT
 Vision Edition-U
 CaptureBrain
+WebPerformer
 
 =2019-06-24T12:17:01+09:00 Computer/トピック/社会動向/企業/キューアンドエー/keywords
 ディー・キュービック
@@ -6832,8 +6859,9 @@ Navicast View Assist
 YOKOZUNA data
 シリコンS,シリコンスタジオ
 
-=2017-03-21T07:30:28+09:00 Computer/トピック/社会動向/企業/シルバーエッグ・テクノロジー/keywords
+=2023-02-08T17:02:07+09:00 Computer/トピック/社会動向/企業/シルバーエッグ・テクノロジー/keywords
 Aigent7
+アイジェント・レコメンダリー
 
 =2019-11-21T14:00:06+09:00 Computer/トピック/社会動向/企業/シンクトゥギャザー/keywords
 eCOM-82
@@ -7225,6 +7253,9 @@ NESiCA
 =2018-09-03T14:28:14+09:00 Computer/トピック/社会動向/企業/タイムズ24/keywords
 B-Times
 
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/タイムマシーン/keywords
+Schecon
+
 =2022-04-28T12:30:44+09:00 Computer/トピック/社会動向/企業/タイムリープ/keywords
 RURA
 CocoDesk
@@ -7269,6 +7300,9 @@ adwhite,アドホワイト
 =2017-05-22T09:41:01+09:00 Computer/トピック/社会動向/企業/ダイキン工業/keywords
 ダイキン,ダイキン工業
 Smart Innovator
+
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/ダイセル/keywords
+Bipass
 
 =2017-08-21T08:32:10+09:00 Computer/トピック/社会動向/企業/ダイドードリンコ/keywords
 ダイドードリンコ,DyDo
@@ -7849,9 +7883,10 @@ Biz-Rensaring
 =2017-03-29T15:02:14+09:00 Computer/トピック/社会動向/企業/ビズリーチ/keywords
 HRMOS,ハーモス
 
-=2022-12-22T11:58:51+09:00 Computer/トピック/社会動向/企業/ビットキー/keywords
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/ビットキー/keywords
 bitkey WORK BOOTH
 homehub
+workhub
 
 =2021-09-09T12:14:23+09:00 Computer/トピック/社会動向/企業/ビット・トレード・ワン/keywords
 クアッド・クローラーAI
@@ -8688,6 +8723,9 @@ Sota
 =2022-04-21T11:02:51+09:00 Computer/トピック/社会動向/企業/ヴェルト/keywords
 you’d
 
+=2023-02-08T17:02:07+09:00 Computer/トピック/社会動向/企業/ヴォイス/keywords
+おてがるレコメンド
+
 =2023-01-05T10:20:46+09:00 Computer/トピック/社会動向/企業/三井/keywords
 Minotti
 
@@ -9216,6 +9254,9 @@ GAIA
 白ヤギe-Learning
 カメリオ
 
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/知財図鑑/keywords
+Bipass
+
 =2022-07-28T13:15:22+09:00 Computer/トピック/社会動向/企業/福岡情報ビジネスセンター/keywords
 旗振
 
@@ -9616,7 +9657,7 @@ CanguRo
 =2022-12-15T10:48:58+09:00 Computer/トピック/社会動向/大学/埼玉大学/keywords
 埼玉大,埼玉大学
 
-=2023-01-04T17:50:00+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 Carnegie Mellon University,CMU,カーネギーメロン大
@@ -9679,6 +9720,7 @@ Carnegie Mellon University
 コンコルディア大学
 ICL
 ヘリオット・ワット大学
+テルアビブ大学
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
@@ -9761,6 +9803,9 @@ TSUBAME
 
 =2018-11-22T10:24:23+09:00 Computer/トピック/社会動向/大学/豊橋技術科学大学/keywords
 豊橋技科大,豊橋技術科学大学
+
+=2023-02-09T08:04:11+09:00 Computer/トピック/社会動向/大学/豊田工業高専/keywords
+豊田高専,豊田工業高専
 
 =2019-01-19T16:48:56+09:00 Computer/トピック/社会動向/大学/金沢工業大学/keywords
 金沢工大,金沢工業大学
