@@ -507,7 +507,7 @@ Golang
 Jakarta EE
 JDK
 
-=2020-07-23T14:13:22+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
+=2023-02-23T13:09:30+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/keywords
 Javascript,JavaScript
 AngularJS
 ESLint
@@ -519,6 +519,7 @@ Nuxt.js
 Next.js
 Deno
 jsrsasign
+core-js
 
 =2018-03-20T14:56:09+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/Node.js/keywords
 Node-RED
@@ -1095,7 +1096,7 @@ Dating
 名刺
 勤怠
 
-=2023-02-09T08:03:45+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
+=2023-02-23T13:09:33+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
 心臓
 製薬
@@ -1211,6 +1212,7 @@ PMS
 心不全
 スキンケア
 熱中症
+運動習慣
 
 =2022-08-11T12:14:13+09:00 Computer/トピック/機械学習/機械学習応用/味覚・嗅覚/keywords
 料理
@@ -1747,6 +1749,9 @@ ABEJA Platform
 =2017-08-08T09:25:40+09:00 Computer/トピック/社会動向/企業/Abra/keywords
 マネーの虎
 
+=2023-02-22T18:10:21+09:00 Computer/トピック/社会動向/企業/Abridged/keywords
+Collab.Land
+
 =2020-01-09T14:37:15+09:00 Computer/トピック/社会動向/企業/Academy of Robotics/keywords
 Kar-go
 
@@ -2164,7 +2169,7 @@ SmaGO
 =2020-09-10T14:08:43+09:00 Computer/トピック/社会動向/企業/Biogen/keywords
 バイオジェン,Biogen
 
-=2021-10-28T13:54:33+09:00 Computer/トピック/社会動向/企業/BIPROGY/keywords
+=2023-02-23T13:09:33+09:00 Computer/トピック/社会動向/企業/BIPROGY/keywords
 Rinza
 RinzaTalk PoC支援サービス
 RinzaTalkプロトタイプ開発キット
@@ -2172,6 +2177,7 @@ Siriusbot
 トチカチ
 BIPROGY,日本ユニシス
 Candy
+BankVision
 
 =2023-01-12T09:58:55+09:00 Computer/トピック/社会動向/企業/bitFlyer/keywords
 miyabi,Miyabi
@@ -2426,6 +2432,9 @@ CM総研,CM総合研究所
 
 =2021-08-19T12:45:13+09:00 Computer/トピック/社会動向/企業/Coca-Cola/keywords
 コカ・コーラ,Coca-Cola
+
+=2023-02-23T13:09:32+09:00 Computer/トピック/社会動向/企業/CodeSandbox/keywords
+Sandpack
 
 =2021-09-16T14:54:54+09:00 Computer/トピック/社会動向/企業/CoeFont/keywords
 CoeFont STUDIO
@@ -2810,6 +2819,9 @@ Engazify
 
 =2021-06-24T13:50:50+09:00 Computer/トピック/社会動向/企業/ENABOT/keywords
 EBO
+
+=2023-02-23T13:09:33+09:00 Computer/トピック/社会動向/企業/Enchanted Tools/keywords
+Miroki
 
 =2021-12-09T14:21:06+09:00 Computer/トピック/社会動向/企業/Engineered Arts/keywords
 Ameca
@@ -3259,6 +3271,9 @@ hunterbook
 ハンソン・ロボティクス,Hanson Robotics
 Sofhia,ソフィア
 
+=2023-02-23T13:10:35+09:00 Computer/トピック/社会動向/企業/Harman International Industries/keywords
+ハーマンインターナショナル,Harman International Industries
+
 =2022-10-19T20:41:15+09:00 Computer/トピック/社会動向/企業/HashiCorp/keywords
 Terraform
 
@@ -3473,8 +3488,9 @@ Optane
 Cyclone V
 Habana Labs
 
-=2021-09-09T12:17:07+09:00 Computer/トピック/社会動向/企業/Intuitive Surgical/keywords
-da Vinci,インテュイティブサージカル
+=2023-02-23T14:07:39+09:00 Computer/トピック/社会動向/企業/Intuitive Surgical/keywords
+ダビンチ,da Vinci
+インテュイティブサージカル,Intuitive Surgical
 
 =2022-09-29T09:02:13+09:00 Computer/トピック/社会動向/企業/Inuitive/keywords
 NU4100
@@ -3612,14 +3628,9 @@ Ad Generation,アドジェネ
 =2017-08-18T08:18:11+09:00 Computer/トピック/社会動向/企業/KDK/keywords
 ペットの窓口
 
-=2020-06-18T16:25:16+09:00 Computer/トピック/社会動向/企業/Keenon/keywords
-擎朗智能
-
-=2020-08-13T12:38:50+09:00 Computer/トピック/社会動向/企業/Keenon Robotics/keywords
+=2023-02-23T12:57:47+09:00 Computer/トピック/社会動向/企業/Keenon Robotics/keywords
 PEANUT
-
-=2021-09-30T13:05:32+09:00 Computer/トピック/社会動向/企業/KeenOnRobot/keywords
-keenon
+擎朗智能,Keenon Robotics
 
 =2019-06-20T20:27:05+09:00 Computer/トピック/社会動向/企業/Keeyls/keywords
 HOTEL BAMPKY
@@ -3956,6 +3967,9 @@ SWAG for Personal
 
 =2017-03-29T11:45:56+09:00 Computer/トピック/社会動向/企業/meuron/keywords
 CALNA
+
+=2023-02-23T13:09:31+09:00 Computer/トピック/社会動向/企業/MICIN/keywords
+curon
 
 =2018-05-03T18:48:01+09:00 Computer/トピック/社会動向/企業/MICOTOテクノロジー/keywords
 mikoto
@@ -4420,6 +4434,9 @@ Orb DLT
 =2023-01-26T09:19:13+09:00 Computer/トピック/社会動向/企業/Orion Star Robotics/keywords
 Lucki PRO
 
+=2023-02-23T13:09:33+09:00 Computer/トピック/社会動向/企業/OrionStar/keywords
+Mini
+
 =2017-09-19T08:17:38+09:00 Computer/トピック/社会動向/企業/OSK/keywords
 eValue NS
 
@@ -4489,10 +4506,10 @@ PerkinElmer,パーキンエルマー
 =2019-01-15T13:52:44+09:00 Computer/トピック/社会動向/企業/Pfizer/keywords
 ファイザー,Pfizer
 
-=2023-02-16T05:48:59+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
+=2023-02-23T14:06:20+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
 PFI,Preferred Infrastructure,プリファードインフラストラクチャー
 PFN,Preferred Networks,プリファード・ネットワークス
-Preferred Robotics,プリファードロボティクス,プリファード・ロボティクス
+PFRobotics,Preferred Robotics,プリファードロボティクス,プリファード・ロボティクス
 Chainer
 Jubatus
 Playgram
@@ -4942,6 +4959,9 @@ mutalk
 MeganeX
 HaritoraX
 
+=2023-02-23T13:09:33+09:00 Computer/トピック/社会動向/企業/shiftbase/keywords
+進捗2Earn
+
 =2022-06-02T12:22:45+09:00 Computer/トピック/社会動向/企業/Shinwa Wise Holdings/keywords
 Edoverse
 
@@ -5045,6 +5065,9 @@ Space View,SpaceView
 =2019-05-16T11:14:46+09:00 Computer/トピック/社会動向/企業/Spectee/keywords
 荒木ゆい
 スペクティ,Spectee
+
+=2023-02-23T13:09:33+09:00 Computer/トピック/社会動向/企業/Speee/keywords
+Housii
 
 =2017-10-23T15:16:40+09:00 Computer/トピック/社会動向/企業/Sphero/keywords
 Sphero,スフィロ
@@ -8493,8 +8516,9 @@ NinjaLockM
 =2021-06-24T13:50:51+09:00 Computer/トピック/社会動向/企業/ライブリッツ/keywords
 Fastmotion
 
-=2022-03-17T12:35:30+09:00 Computer/トピック/社会動向/企業/ラキール/keywords
+=2023-02-22T18:12:49+09:00 Computer/トピック/社会動向/企業/ラキール/keywords
 LaKeel DI
+LaKeel,ラキール
 
 =2022-08-11T12:14:13+09:00 Computer/トピック/社会動向/企業/ラクスル/keywords
 ノバセル
@@ -8958,6 +8982,9 @@ Cmosy
 
 =2017-04-03T08:01:45+09:00 Computer/トピック/社会動向/企業/吉野家/keywords
 CORO
+
+=2023-02-23T13:11:04+09:00 Computer/トピック/社会動向/企業/名古屋テレビ放送/keywords
+名古屋テレビ,名古屋テレビ放送
 
 =2019-02-28T15:49:56+09:00 Computer/トピック/社会動向/企業/大丸松坂屋/keywords
 松坂屋,大丸,大丸松坂屋
@@ -9868,7 +9895,7 @@ TSUBAME
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2023-02-16T13:05:38+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2023-02-22T18:10:21+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -9996,6 +10023,7 @@ JETRO
 北海道
 国立市
 京都府
+奈良県
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
@@ -10044,7 +10072,7 @@ NCGM,国立国際医療研究センター
 =2022-03-17T12:37:30+09:00 Computer/トピック/社会動向/研究機関/基礎生物学研究所/keywords
 NIBB,基礎生物学研究所
 
-=2022-08-10T18:43:18+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
+=2023-02-23T13:09:33+09:00 Computer/トピック/社会動向/研究機関/外国の研究機関/keywords
 CERN
 DARPA
 NASA
@@ -10055,6 +10083,7 @@ AI2,アレン人工知能研究所
 サンディア国立研究所
 ProMare
 オークリッジ国立研究所
+NETL
 
 =2022-10-12T19:35:29+09:00 Computer/トピック/社会動向/研究機関/新産業創造研究機構/keywords
 NIRO,新産業創造研究機構
