@@ -6547,6 +6547,9 @@ URL=https://twitter.com/hs_heddy/status/1202181633278803968
 =2019-06-18T06:31:46+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/春さんのツイート  自分でも試してみたら、もう一つ気をつけるべきことを見つけた。 辞書の場合、型指定をしても抽象型だと全く意味がない（笑） なんとしても具象型になるように書くべき。
 URL=https://twitter.com/sunbluesome/status/1140639949680603137
 
+=2023-03-15T17:50:34+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/流体計算の実行速度比較を再訪してみた- C++, Julia - Qiita
+URL=https://qiita.com/cometscome_phys/items/f2b40fd9e7396b7ec23b
+
 =2021-06-05T06:37:39+09:00 Computer/トピック/ツール/ソフトウェア言語/Julia/速度/清水　団 Dan ShimizuさんはTwitterを使っています 「やっとJuliaで計算終わった！M1 MacBook でn= 6000125006292でした。
 URL=https://twitter.com/dannchu/status/1400929766522310657
 
