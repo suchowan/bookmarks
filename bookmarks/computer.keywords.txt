@@ -1010,7 +1010,7 @@ JINS
 メイクアップ
 スタイリング
 
-=2022-12-22T11:58:51+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
+=2023-04-05T15:19:10+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/keywords
 ニーズ
 フライホイール
 顧客分析
@@ -1022,6 +1022,7 @@ PR
 CRM
 MA
 CDP
+MTG
 
 =2022-12-08T10:17:14+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Web解析/keywords
 Google Analytics,Googleアナリティクス
@@ -1600,7 +1601,7 @@ Magenta
 音感
 演奏
 
-=2022-09-01T10:59:32+09:00 Computer/トピック/機械学習/機械学習理論/keywords
+=2023-04-05T15:19:10+09:00 Computer/トピック/機械学習/機械学習理論/keywords
 論文
 自己組織化
 EMアルゴリズム
@@ -1665,6 +1666,7 @@ GLIDE
 Gato
 逆AI
 GT Sophy
+脳デバイス
 
 =2019-05-16T11:13:57+09:00 Computer/トピック/機械学習/機械学習理論/Qiita/keywords
 StyleGAN
@@ -1807,6 +1809,9 @@ Affdex
 
 =2019-01-11T13:51:37+09:00 Computer/トピック/社会動向/企業/AGC/keywords
 旭硝子,AGC
+
+=2023-04-05T15:19:11+09:00 Computer/トピック/社会動向/企業/Age of AI/keywords
+FreedomGPT
 
 =2020-05-21T13:19:23+09:00 Computer/トピック/社会動向/企業/AGREE/keywords
 LEBER
@@ -2831,8 +2836,9 @@ kMoL
 =2017-10-30T10:48:38+09:00 Computer/トピック/社会動向/企業/elo-bot/keywords
 Elo
 
-=2022-08-25T10:21:23+09:00 Computer/トピック/社会動向/企業/ELSOUL LABO B.V/keywords
+=2023-04-06T07:32:23+09:00 Computer/トピック/社会動向/企業/ELSOUL LABO B.V/keywords
 エルソウルラボ,ELSOUL LABO B.V.
+Skeet
 
 =2022-11-03T11:56:13+09:00 Computer/トピック/社会動向/企業/EmbodyMe/keywords
 Xpression
@@ -3079,6 +3085,9 @@ GAテクノロジーズ,GA technologies
 
 =2017-03-29T09:56:38+09:00 Computer/トピック/社会動向/企業/Gamalon/keywords
 Gamalon,ガマロン
+
+=2023-04-05T15:19:10+09:00 Computer/トピック/社会動向/企業/Gamma Tech/keywords
+Gamma
 
 =2020-11-19T11:52:50+09:00 Computer/トピック/社会動向/企業/Garmin/keywords
 ガーミン,Garmin
@@ -3356,6 +3365,9 @@ Nota,Helpfeel
 CHESS HEROZ
 BackgammonAce
 Kishin
+
+=2023-04-05T15:19:10+09:00 Computer/トピック/社会動向/企業/Hightime/keywords
+hightimeAI
 
 =2017-10-10T14:06:51+09:00 Computer/トピック/社会動向/企業/HIKARI Lab/keywords
 ココロワークス
@@ -4280,6 +4292,9 @@ PitchOn Measure
 =2020-12-03T13:15:29+09:00 Computer/トピック/社会動向/企業/Neura Robotics/keywords
 LARA
 
+=2023-04-05T15:20:56+09:00 Computer/トピック/社会動向/企業/Neuralink/keywords
+ニューラリンク,Neuralink
+
 =2020-10-29T14:27:45+09:00 Computer/トピック/社会動向/企業/NeuralX/keywords
 Presence.fit
 
@@ -4344,6 +4359,9 @@ toaster team
 =2017-10-30T11:27:08+09:00 Computer/トピック/社会動向/企業/Nokia/keywords
 Nokia,ノキア
 MIKA
+
+=2023-04-05T15:19:11+09:00 Computer/トピック/社会動向/企業/Nomic AI/keywords
+GPT4ALL
 
 =2022-07-13T17:49:30+09:00 Computer/トピック/社会動向/企業/Nord Quantique/keywords
 ノード・クオンティーク,Nord Quantique
@@ -6656,6 +6674,9 @@ Keycafe,キーカフェ
 =2020-05-21T13:21:07+09:00 Computer/トピック/社会動向/企業/ギフトモール/keywords
 Giftmall,ギフトモール
 
+=2023-04-06T07:32:33+09:00 Computer/トピック/社会動向/企業/ギブリー/keywords
+法人GPT
+
 =2023-02-16T13:05:35+09:00 Computer/トピック/社会動向/企業/ギャプライズ/keywords
 VWO
 
@@ -8268,6 +8289,9 @@ ClearBox Cloud
 =2022-09-22T08:07:14+09:00 Computer/トピック/社会動向/企業/フルティフル/keywords
 QRだれドコ
 
+=2023-04-06T07:32:16+09:00 Computer/トピック/社会動向/企業/フレームダブルオー/keywords
+Clubs
+
 =2017-04-11T09:55:24+09:00 Computer/トピック/社会動向/企業/フロムスクラッチ/keywords
 B→Dash
 
@@ -8472,8 +8496,8 @@ MFクラウド確定申告
 =2022-06-15T19:28:35+09:00 Computer/トピック/社会動向/企業/マプリィ/keywords
 ForestScanner
 
-=2021-12-09T14:57:27+09:00 Computer/トピック/社会動向/企業/マリス creative design/keywords
-マリスcreative design,マリス creative design
+=2023-04-06T07:34:59+09:00 Computer/トピック/社会動向/企業/マリス creative design/keywords
+マリス,マリスcreative design,マリス creative design
 
 =2022-12-22T11:58:52+09:00 Computer/トピック/社会動向/企業/マルジュ/keywords
 ITSUMEN
@@ -9718,6 +9742,9 @@ KitFit Silverland気
 
 =2017-04-11T14:51:10+09:00 Computer/トピック/社会動向/企業/野村不動産/keywords
 住まいの AI ANSWER
+
+=2023-04-06T07:32:28+09:00 Computer/トピック/社会動向/企業/野村書店/keywords
+Nybble
 
 =2017-10-23T11:53:22+09:00 Computer/トピック/社会動向/企業/野村総研/keywords
 野村総研,野村総合研究所,NRI
