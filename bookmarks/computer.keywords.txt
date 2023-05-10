@@ -2203,6 +2203,12 @@ beepシフト
 =2020-02-20T14:42:16+09:00 Computer/トピック/社会動向/企業/Bell Textron/keywords
 Bell,Bell Textron
 
+=2023-05-10T14:25:47+09:00 Computer/トピック/社会動向/企業/Berkshire Hathaway/keywords
+バークシャー,Berkshire Hathaway
+
+=2023-05-11T07:51:33+09:00 Computer/トピック/社会動向/企業/BESV/keywords
+SMALO
+
 =2022-04-07T14:26:17+09:00 Computer/トピック/社会動向/企業/Betterbound/keywords
 YARIKIRI
 
@@ -2933,7 +2939,7 @@ HUMANITY
 =2022-07-28T13:15:24+09:00 Computer/トピック/社会動向/企業/ENVLOP/keywords
 ZEFT
 
-=2023-04-13T11:47:43+09:00 Computer/トピック/社会動向/企業/Epic Games/keywords
+=2023-05-11T08:33:34+09:00 Computer/トピック/社会動向/企業/Epic Games/keywords
 エピックゲームズ,Epic,EpicGames,Epic Games
 Unreal Engine
 フォートナイト,Fortnite
@@ -3577,6 +3583,9 @@ ROGNAN
 Imagination,Imagination Technologies Group,イマジネーションテクノロジーズ
 PowerVR
 
+=2023-05-11T07:51:34+09:00 Computer/トピック/社会動向/企業/IMD/keywords
+メールスピーク
+
 =2017-03-29T11:22:03+09:00 Computer/トピック/社会動向/企業/IMJ/keywords
 IMJ,アイ・エム・ジェイ
 オウンドBOT
@@ -3962,6 +3971,9 @@ LastPass
 
 =2022-08-11T12:14:12+09:00 Computer/トピック/社会動向/企業/LONGi/keywords
 M10
+
+=2023-05-11T08:32:40+09:00 Computer/トピック/社会動向/企業/Lovalance Studio/keywords
+Nyric
 
 =2021-10-28T13:54:32+09:00 Computer/トピック/社会動向/企業/LOVO/keywords
 ボイススキン
@@ -4362,6 +4374,9 @@ Obbligato
 感情分析ソリューション
 PaPeRo
 Digital KYC
+
+=2023-05-11T06:55:41+09:00 Computer/トピック/社会動向/企業/NEIGHBOR/keywords
+TOGEKI,NEIGHBOR
 
 =2018-01-04T09:09:52+09:00 Computer/トピック/社会動向/企業/NEOPOP/keywords
 Petrone
@@ -5536,9 +5551,6 @@ Pico Neo 2 Eye
 
 =2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/ToCworks/keywords
 ナゲット
-
-=2022-10-06T09:00:32+09:00 Computer/トピック/社会動向/企業/TOGEKI/keywords
-NEIGHBOR
 
 =2023-03-16T10:24:39+09:00 Computer/トピック/社会動向/企業/Too/keywords
 KSIN
@@ -8360,8 +8372,8 @@ Bebot
 =2021-03-04T10:57:38+09:00 Computer/トピック/社会動向/企業/ビーラボ/keywords
 GUARDIAN Security Tag
 
-=2022-10-26T20:39:01+09:00 Computer/トピック/社会動向/企業/ピクシブ/keywords
-Pixiv,ピクシブ
+=2023-05-11T06:27:27+09:00 Computer/トピック/社会動向/企業/ピクシブ/keywords
+Pixiv,pixiv,ピクシブ
 
 =2021-09-09T12:16:42+09:00 Computer/トピック/社会動向/企業/ピクシーダストテクノロジーズ/keywords
 DeepWear
@@ -8699,9 +8711,10 @@ ForestScanner
 =2023-04-06T07:34:59+09:00 Computer/トピック/社会動向/企業/マリス creative design/keywords
 マリス,マリスcreative design,マリス creative design
 
-=2022-12-22T11:58:52+09:00 Computer/トピック/社会動向/企業/マルジュ/keywords
+=2023-05-11T07:51:34+09:00 Computer/トピック/社会動向/企業/マルジュ/keywords
 ITSUMEN
 FAST SIGN
+HR MAPPER
 
 =2022-07-07T11:33:57+09:00 Computer/トピック/社会動向/企業/マーキットワン/keywords
 M-ONE
