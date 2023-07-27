@@ -2396,6 +2396,9 @@ Autofloor
 =2017-08-21T09:22:28+09:00 Computer/トピック/社会動向/企業/Bulbit/keywords
 UNICORN
 
+=2023-07-27T10:13:09+09:00 Computer/トピック/社会動向/企業/Bureau Veritas/keywords
+ビューローベリタス,Bureau Veritas
+
 =2020-07-23T14:13:22+09:00 Computer/トピック/社会動向/企業/BuySell Technologies/keywords
 CASH
 
@@ -3663,7 +3666,7 @@ Swoop
 =2023-06-15T13:58:43+09:00 Computer/トピック/社会動向/企業/i-plug/keywords
 OfferBox
 
-=2023-06-14T11:27:49+09:00 Computer/トピック/社会動向/企業/IBM/keywords
+=2023-07-27T10:09:42+09:00 Computer/トピック/社会動向/企業/IBM/keywords
 Watson
 Bluemix
 IBM TrueNorth
@@ -3673,12 +3676,16 @@ IBM Integrated Analytics System
 PAIRS Geoscope
 Cloud Private for Data
 Lotus 1-2-3
+N-Wing★
 
 =2022-04-28T12:35:01+09:00 Computer/トピック/社会動向/企業/IBM/Kyndryl/keywords
 キンドリル,Kyndryl
 
 =2018-01-31T17:09:07+09:00 Computer/トピック/社会動向/企業/iCARE/keywords
 Carely
+
+=2023-07-27T10:09:45+09:00 Computer/トピック/社会動向/企業/ICONIQ/keywords
+Kuki
 
 =2017-03-29T11:17:46+09:00 Computer/トピック/社会動向/企業/IDCF/keywords
 IDCF,IDCフロンティア
@@ -4759,7 +4766,7 @@ BioPassport
 =2023-07-12T16:41:54+09:00 Computer/トピック/社会動向/企業/NTT/NTTデジタル/keywords
 NTT Digital,NTTデジタル
 
-=2021-02-04T12:48:34+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/keywords
+=2023-07-27T10:09:41+09:00 Computer/トピック/社会動向/企業/NTT/NTTデータ/keywords
 テクノマーク クラウド＋
 NATESAS
 AICYCLE
@@ -4767,6 +4774,7 @@ Hinemos
 AI.Studio
 intra-mart
 SocietyOS
+Alkano
 
 =2022-08-04T12:58:31+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ,Docomo,DOCOMO,docomo
@@ -4886,9 +4894,10 @@ Orb DLT
 =2023-04-19T20:35:38+09:00 Computer/トピック/社会動向/企業/Organum/keywords
 PlayScore 2
 
-=2023-03-09T13:50:05+09:00 Computer/トピック/社会動向/企業/Orion Star Robotics/keywords
+=2023-07-27T10:09:42+09:00 Computer/トピック/社会動向/企業/Orion Star Robotics/keywords
 Lucki
 Mini
+ChatMax
 
 =2017-09-19T08:17:38+09:00 Computer/トピック/社会動向/企業/OSK/keywords
 eValue NS
@@ -5736,6 +5745,9 @@ Name Vision
 =2023-06-15T14:05:15+09:00 Computer/トピック/社会動向/企業/SWITCHBOT/keywords
 スイッチボット,SwitchBot,SWITCHBOT
 
+=2023-07-27T10:12:39+09:00 Computer/トピック/社会動向/企業/Symbotic/keywords
+シンボティック,Symbotic
+
 =2017-04-11T13:19:32+09:00 Computer/トピック/社会動向/企業/Synamon/keywords
 NEUTRANS
 
@@ -6138,6 +6150,9 @@ Yardroid
 
 =2017-08-23T07:27:59+09:00 Computer/トピック/社会動向/企業/White Motion/keywords
 White Motion,ホワイトモーション
+
+=2023-07-27T10:12:07+09:00 Computer/トピック/社会動向/企業/Whole Foods Market/keywords
+Whole Foods,Whole Foods Market
 
 =2019-09-28T12:46:07+09:00 Computer/トピック/社会動向/企業/Wilkinson Baking Company/keywords
 Mini Bakery
@@ -8179,6 +8194,9 @@ SORACOM,ソラコム
 
 =2023-07-20T10:46:40+09:00 Computer/トピック/社会動向/企業/ソラリス/keywords
 Ultra Sooha
+
+=2023-07-27T10:09:46+09:00 Computer/トピック/社会動向/企業/ソリッドレイ研究所/keywords
+OmegaSHIP
 
 =2019-03-18T13:44:31+09:00 Computer/トピック/社会動向/企業/ソリトンシステムズ/keywords
 ソリトン,ソリトンシステムズ
@@ -11035,7 +11053,7 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2023-07-19T14:34:35+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2023-07-27T10:09:46+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -11168,6 +11186,7 @@ JETRO
 宮崎県
 黒部市
 福祉医療機構
+葛飾区
 
 =2023-03-23T10:59:42+09:00 Computer/トピック/社会動向/研究機関/Anthropic/keywords
 Claude
