@@ -1859,9 +1859,10 @@ Deep Predictor
 DX Suite
 Learning Center
 
-=2023-01-12T09:31:40+09:00 Computer/トピック/社会動向/企業/AI Picasso/keywords
+=2023-09-28T10:50:47+09:00 Computer/トピック/社会動向/企業/AI Picasso/keywords
 AIいらすとや
 AI素材.com
+Emi
 
 =2017-11-11T16:10:52+09:00 Computer/トピック/社会動向/企業/AI sales/keywords
 AIクレームチェッカー
@@ -1871,6 +1872,9 @@ AIサムライ,AI Samurai,エーアイサムライ,アイピーコグニティ�
 
 =2023-03-02T11:49:14+09:00 Computer/トピック/社会動向/企業/AI Shift/keywords
 Voicebot
+
+=2023-09-28T10:50:46+09:00 Computer/トピック/社会動向/企業/AI Spera/keywords
+Criminal IP
 
 =2017-11-11T06:26:39+09:00 Computer/トピック/社会動向/企業/AI-Exchange/keywords
 AI-Exchange,AiX
@@ -1939,6 +1943,9 @@ Gripper
 
 =2019-08-07T11:06:19+09:00 Computer/トピック/社会動向/企業/AlgoAge/keywords
 DeepAnime
+
+=2023-09-28T10:50:46+09:00 Computer/トピック/社会動向/企業/Algomatic/keywords
+シゴラクAI
 
 =2019-06-01T11:41:41+09:00 Computer/トピック/社会動向/企業/ALI Technologies/keywords
 A.L.I.,ALI Technologies
@@ -2703,6 +2710,9 @@ Collet
 
 =2018-11-26T17:15:00+09:00 Computer/トピック/社会動向/企業/Criteo/keywords
 クリテオ,Criteo
+
+=2023-09-28T10:50:46+09:00 Computer/トピック/社会動向/企業/CrossBorder/keywords
+Sales Marker Lead
 
 =2018-01-22T13:28:54+09:00 Computer/トピック/社会動向/企業/Crowdroid/keywords
 Amaterras,アマテラス
@@ -4197,6 +4207,9 @@ Expand Video
 myBridge
 lacore
 CLOVA OCR
+
+=2023-09-28T07:43:55+09:00 Computer/トピック/社会動向/企業/LINE WORKS/keywords
+ワークスモバイルジャパン,LINE WORKS
 
 =2022-06-02T12:22:45+09:00 Computer/トピック/社会動向/企業/Link-U/keywords
 ゆれしる
@@ -8547,6 +8560,9 @@ KAIGAN
 =2020-10-15T12:30:36+09:00 Computer/トピック/社会動向/企業/タケロボ/keywords
 ロボコット
 
+=2023-09-28T10:51:32+09:00 Computer/トピック/社会動向/企業/タジク/keywords
+taziku,タジク
+
 =2022-05-26T12:17:16+09:00 Computer/トピック/社会動向/企業/タッチスポット/keywords
 Gap Graph
 
@@ -9394,6 +9410,9 @@ Chat AI BOX
 =2023-03-23T10:59:43+09:00 Computer/トピック/社会動向/企業/フジテレビ/keywords
 iCADs
 
+=2023-09-28T10:52:03+09:00 Computer/トピック/社会動向/企業/フューチャーショップ/keywords
+futureshop,フューチャーショップ
+
 =2017-12-15T15:44:01+09:00 Computer/トピック/社会動向/企業/フューチャースタンダード/keywords
 SCORER Cloud Processing,スコアラー クラウド プロセッシング
 
@@ -9958,9 +9977,10 @@ Rapyuta Robotics,ラピュタ・ロボティクス
 テキカク
 ラフールサーベイ
 
-=2017-04-24T07:27:17+09:00 Computer/トピック/社会動向/企業/ランサーズ/keywords
+=2023-09-28T10:50:47+09:00 Computer/トピック/社会動向/企業/ランサーズ/keywords
 ランサーズ,LANCERS
 pook
+PILE
 
 =2021-06-10T14:13:36+09:00 Computer/トピック/社会動向/企業/ランシステム/keywords
 スペースクリエイト自遊空間
@@ -10203,9 +10223,6 @@ HUE
 AIすだちくん
 Sudachi
 ワークスアプリ,ワークスアプリケーションズ
-
-=2017-09-04T10:11:28+09:00 Computer/トピック/社会動向/企業/ワークスモバイルジャパン/keywords
-LINE WORKS
 
 =2019-09-28T12:46:06+09:00 Computer/トピック/社会動向/企業/ワールドハウジングクラブ/keywords
 HiL
@@ -11472,7 +11489,7 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2023-09-07T11:45:20+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2023-09-28T10:50:47+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -11609,6 +11626,7 @@ JETRO
 大阪市
 和歌山市
 舞鶴市
+内閣府
 
 =2023-03-23T10:59:42+09:00 Computer/トピック/社会動向/研究機関/Anthropic/keywords
 Claude
