@@ -3124,6 +3124,9 @@ TENSAI Flow
 =2020-11-12T12:23:09+09:00 Computer/トピック/社会動向/企業/Eukarya/keywords
 Re:Earth
 
+=2023-10-05T09:37:14+09:00 Computer/トピック/社会動向/企業/EuphoPia/keywords
+いちゃいちゃっと
+
 =2019-05-12T14:48:47+09:00 Computer/トピック/社会動向/企業/Everalbum/keywords
 Ever
 
@@ -3425,8 +3428,9 @@ getAbstract
 =2020-11-05T13:02:05+09:00 Computer/トピック/社会動向/企業/Getinge/keywords
 ゲティンゲグループ,Getinge
 
-=2022-03-17T12:35:30+09:00 Computer/トピック/社会動向/企業/Getty Images/keywords
+=2023-10-05T09:39:40+09:00 Computer/トピック/社会動向/企業/Getty Images/keywords
 iStock
+ゲッティイメージズ,Getty Images
 
 =2022-06-30T11:22:16+09:00 Computer/トピック/社会動向/企業/GfK/keywords
 gfknewron
@@ -5386,6 +5390,9 @@ matsuriNFT
 =2022-11-17T14:17:33+09:00 Computer/トピック/社会動向/企業/Rapidus/keywords
 ラピダス,Rapidus
 
+=2023-10-05T09:37:15+09:00 Computer/トピック/社会動向/企業/RDS/keywords
+RDS CORE-Ler
+
 =2020-12-17T12:37:27+09:00 Computer/トピック/社会動向/企業/Re-al/keywords
 TeleAngler
 
@@ -7236,6 +7243,9 @@ ENAGEED SURVEY
 =2017-09-08T11:53:57+09:00 Computer/トピック/社会動向/企業/エニグモ/keywords
 Paidy
 
+=2023-10-05T09:37:14+09:00 Computer/トピック/社会動向/企業/エニゴ/keywords
+AINOU
+
 =2017-03-30T11:55:14+09:00 Computer/トピック/社会動向/企業/エニドア/keywords
 Conyac
 ConyacDATA
@@ -7623,6 +7633,9 @@ Bow Now
 
 =2017-11-23T07:30:26+09:00 Computer/トピック/社会動向/企業/クラウドリアルティ/keywords
 クラウドリアルティ,Crowd Realty
+
+=2023-10-05T09:38:07+09:00 Computer/トピック/社会動向/企業/クラス/keywords
+CLAS,クラス
 
 =2017-03-30T10:52:05+09:00 Computer/トピック/社会動向/企業/クラスキャット/keywords
 ClassCat,クラスキャット
@@ -11489,7 +11502,7 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2023-09-28T10:50:47+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2023-10-05T09:37:14+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -11627,6 +11640,7 @@ JETRO
 和歌山市
 舞鶴市
 内閣府
+能美市
 
 =2023-03-23T10:59:42+09:00 Computer/トピック/社会動向/研究機関/Anthropic/keywords
 Claude
