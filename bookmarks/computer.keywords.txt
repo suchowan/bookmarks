@@ -1799,6 +1799,9 @@ Active.Ai
 =2021-06-10T14:13:35+09:00 Computer/トピック/社会動向/企業/ADASTEC/keywords
 flowride.ai
 
+=2023-10-31T16:43:59+09:00 Computer/トピック/社会動向/企業/Adept/keywords
+Fuyu
+
 =2017-04-13T10:24:45+09:00 Computer/トピック/社会動向/企業/Adgorithms/keywords
 Adgorithms,アドゴリズム
 Albert,アルバート
@@ -2351,8 +2354,8 @@ BMC,BMC Software
 =2022-08-31T18:19:35+09:00 Computer/トピック/社会動向/企業/bondavi/keywords
 ひよこフィルター
 
-=2017-12-15T15:46:15+09:00 Computer/トピック/社会動向/企業/Booking.com/keywords
-Booking.com,ブッキング・ドットコム
+=2023-10-31T16:44:29+09:00 Computer/トピック/社会動向/企業/Booking.com/keywords
+Booking.com,ブッキングドットコム,ブッキング・ドットコム
 
 =2019-06-05T11:57:53+09:00 Computer/トピック/社会動向/企業/Books&Company/keywords
 easy writer
@@ -2548,6 +2551,9 @@ Azuki
 
 =2023-08-31T13:39:56+09:00 Computer/トピック/社会動向/企業/Chott/keywords
 RESUMY.ai,RESUMY.AI
+
+=2023-10-31T16:45:22+09:00 Computer/トピック/社会動向/企業/CHUWI/keywords
+ツーウェイ,CHUWI
 
 =2019-08-12T10:35:20+09:00 Computer/トピック/社会動向/企業/CIJ/keywords
 AYUDA
@@ -4649,6 +4655,9 @@ SQUEEZE MUSIC
 =2022-04-14T10:42:38+09:00 Computer/トピック/社会動向/企業/MonotaRO/keywords
 モノタロウ,MonotaRO
 
+=2023-10-31T16:44:54+09:00 Computer/トピック/社会動向/企業/MoonPay/keywords
+ムーンペイ,MoonPay
+
 =2021-12-23T12:57:18+09:00 Computer/トピック/社会動向/企業/Moorebot/keywords
 Scout
 
@@ -5187,12 +5196,13 @@ Crypko
 Matlantis
 Kachaka
 
-=2023-07-20T10:46:38+09:00 Computer/トピック/社会動向/企業/PFU/keywords
+=2023-10-31T16:44:00+09:00 Computer/トピック/社会動向/企業/PFU/keywords
 DynaEye EX
 iNetSec
 DynaEye
 Caora
 ScanSnap
+HHKB
 
 =2022-09-22T07:32:52+09:00 Computer/トピック/社会動向/企業/PharmaX/keywords
 YOJO,YOJO Technologies,PharmaX
@@ -10307,11 +10317,17 @@ GAEMI
 =2018-08-19T12:24:35+09:00 Computer/トピック/社会動向/企業/ローイット/keywords
 AI行政書士 マルット
 
+=2023-10-31T16:46:14+09:00 Computer/トピック/社会動向/企業/ローソン/keywords
+LAWSON,ローソン
+
 =2017-04-11T10:46:55+09:00 Computer/トピック/社会動向/企業/ロート製薬/keywords
 K.I.,kafun Intelligence
 
 =2017-04-11T10:45:59+09:00 Computer/トピック/社会動向/企業/ロードスターキャピタル/keywords
 AI-Checker
+
+=2023-10-31T16:44:00+09:00 Computer/トピック/社会動向/企業/ローム/keywords
+NoMaDbot
 
 =2021-05-27T12:00:27+09:00 Computer/トピック/社会動向/企業/ワイズ技研/keywords
 Y’sSmartAgri
