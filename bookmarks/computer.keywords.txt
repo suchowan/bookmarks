@@ -4202,6 +4202,9 @@ ThinkVision
 =2021-07-15T13:28:22+09:00 Computer/トピック/社会動向/企業/LEOC/keywords
 Lappy
 
+=2023-11-02T09:03:28+09:00 Computer/トピック/社会動向/企業/Leon's Furniture Limited/keywords
+LFL,Leon's Furniture Limited
+
 =2022-12-15T10:47:22+09:00 Computer/トピック/社会動向/企業/LexxPluss/keywords
 Hybrid-AMR
 
@@ -6450,6 +6453,9 @@ Wendy's,ウェンディーズ
 =2021-09-30T13:05:32+09:00 Computer/トピック/社会動向/企業/wevnal/keywords
 BOTCHAN
 
+=2023-11-02T09:03:55+09:00 Computer/トピック/社会動向/企業/WeWork/keywords
+ウィーワーク,WeWork
+
 =2020-12-03T13:15:31+09:00 Computer/トピック/社会動向/企業/Whirly Max/keywords
 Yardroid
 
@@ -7480,11 +7486,12 @@ NIN_NIN
 オリックス,Orix
 Test Car ソリューション
 
-=2023-09-14T09:26:11+09:00 Computer/トピック/社会動向/企業/オルツ/keywords
+=2023-11-02T09:02:31+09:00 Computer/トピック/社会動向/企業/オルツ/keywords
 オルツ,ALT+
 Voice Clone
 AI GIJIROKU
 altBRAIN
+LHTM-OPT
 
 =2020-10-01T17:04:34+09:00 Computer/トピック/社会動向/企業/オルビス/keywords
 ORBIS,オルビス
@@ -11619,7 +11626,7 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2023-10-19T12:43:57+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2023-11-02T09:02:31+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -11761,6 +11768,7 @@ JETRO
 徳島市
 観光庁
 取手市
+伊丹市
 
 =2023-03-23T10:59:42+09:00 Computer/トピック/社会動向/研究機関/Anthropic/keywords
 Claude
