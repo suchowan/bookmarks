@@ -1083,7 +1083,7 @@ RoboCup
 =2019-05-24T12:10:09+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/ロボホン/keywords
 RoBoHoN,ロボホン
 
-=2023-03-09T13:55:17+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
+=2023-11-09T08:45:05+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/keywords
 転職
 適性
 マッチング
@@ -1110,6 +1110,7 @@ Dating
 勤怠
 リスキリング
 スカウト
+リクルーティング
 
 =2023-07-13T14:43:16+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/keywords
 HealthTech
@@ -3065,6 +3066,9 @@ Design Voice
 =2023-10-19T12:43:56+09:00 Computer/トピック/社会動向/企業/ElevenLabs/keywords
 AI Dubbing
 
+=2023-11-09T08:45:05+09:00 Computer/トピック/社会動向/企業/ELINHA/keywords
+Checco
+
 =2022-02-10T12:26:20+09:00 Computer/トピック/社会動向/企業/Elix/keywords
 kMoL
 
@@ -3362,8 +3366,8 @@ RVS
 =2021-07-29T11:54:49+09:00 Computer/トピック/社会動向/企業/G1 Technology/keywords
 Vnode
 
-=2020-10-01T14:22:26+09:00 Computer/トピック/社会動向/企業/GA technologies/keywords
-Renosy
+=2023-11-09T10:28:04+09:00 Computer/トピック/社会動向/企業/GA technologies/keywords
+Renosy,RENOSY
 BEST BASHO
 GAテクノロジーズ,GA technologies
 
@@ -3773,6 +3777,9 @@ HarmonyOS
 Moe TTS
 NAGI
 HuggingChat
+
+=2023-11-09T08:45:06+09:00 Computer/トピック/社会動向/企業/Humane/keywords
+Ai pin
 
 =2023-01-12T09:32:41+09:00 Computer/トピック/社会動向/企業/HUMBLE RICH/keywords
 ハンブルリッチ,HUMBLE RICH
@@ -4404,6 +4411,9 @@ AudienceAI
 
 =2022-11-17T14:17:07+09:00 Computer/トピック/社会動向/企業/Markforged/keywords
 マークフォージド,Markforge
+
+=2023-11-09T08:45:06+09:00 Computer/トピック/社会動向/企業/Marriott International/keywords
+シェラトン
 
 =2022-11-10T10:47:36+09:00 Computer/トピック/社会動向/企業/MaSiRoプロジェクト/keywords
 ましろプロジェクト,MaSiRoプロジェクト
@@ -8521,7 +8531,7 @@ Shodo
 =2017-06-08T07:23:09+09:00 Computer/トピック/社会動向/企業/ソニックス/keywords
 FlipCast Cube
 
-=2023-07-25T13:31:02+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
+=2023-11-09T08:45:06+09:00 Computer/トピック/社会動向/企業/ソニー/keywords
 ソニー,SONY
 AIBO,aibo
 KOOV
@@ -8545,6 +8555,7 @@ PS5
 Neural Network Console
 AKASHI
 mocopi
+MOREVE
 
 =2020-07-02T14:08:05+09:00 Computer/トピック/社会動向/企業/ソネット・メディア・ネットワークス/keywords
 So-net
@@ -11626,7 +11637,7 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2023-11-02T09:02:31+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2023-11-09T08:45:05+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -11769,6 +11780,7 @@ JETRO
 観光庁
 取手市
 伊丹市
+岡崎市
 
 =2023-03-23T10:59:42+09:00 Computer/トピック/社会動向/研究機関/Anthropic/keywords
 Claude
