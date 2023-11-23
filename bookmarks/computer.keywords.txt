@@ -2713,6 +2713,9 @@ Convai,Convai Technologies
 =2023-08-23T10:22:09+09:00 Computer/トピック/社会動向/企業/Costco/keywords
 コストコ,Costco
 
+=2023-11-23T09:41:57+09:00 Computer/トピック/社会動向/企業/Creations Un/keywords
+OriMouse
+
 =2023-06-08T10:38:55+09:00 Computer/トピック/社会動向/企業/CreativAI/keywords
 AIとも
 
@@ -2741,7 +2744,7 @@ NFTWars
 =2021-04-22T13:36:21+09:00 Computer/トピック/社会動向/企業/cryptomall ou/keywords
 クリプトモール オーユー,cryptomall ou
 
-=2022-09-08T12:16:05+09:00 Computer/トピック/社会動向/企業/CTC/keywords
+=2023-11-23T09:41:56+09:00 Computer/トピック/社会動向/企業/CTC/keywords
 伊藤忠テクノソリューションズ,CTC
 UiPath
 CarLA
@@ -2749,6 +2752,7 @@ CINAPS,CTC Integrated AI Platform Stack
 CTC-AICON
 LocusLabs
 MI Success Lab
+PITWALL
 
 =2022-04-14T10:40:01+09:00 Computer/トピック/社会動向/企業/Ctrl IQ/keywords
 CIQ,Ctrl IQ
@@ -3958,6 +3962,9 @@ Optane
 Cyclone V
 Habana Labs
 
+=2023-11-23T09:41:57+09:00 Computer/トピック/社会動向/企業/Intelligence Design/keywords
+IDEA
+
 =2023-10-19T12:46:42+09:00 Computer/トピック/社会動向/企業/InterDigital/keywords
 インターデジタル,InterDigital
 
@@ -4197,6 +4204,9 @@ AI Dungeon
 
 =2021-12-16T13:09:29+09:00 Computer/トピック/社会動向/企業/LayerX/keywords
 バクラク
+
+=2023-11-23T09:41:56+09:00 Computer/トピック/社会動向/企業/LazyApply/keywords
+Job GPT
 
 =2023-01-26T09:19:12+09:00 Computer/トピック/社会動向/企業/LEAGUE/keywords
 Wearbuds
@@ -6150,6 +6160,9 @@ Agently
 
 =2023-03-09T13:58:13+09:00 Computer/トピック/社会動向/企業/TeraWulf/keywords
 テラウルフ,TeraWulf
+
+=2023-11-23T09:41:56+09:00 Computer/トピック/社会動向/企業/Tevel Aerobotics Technologies/keywords
+Tevel
 
 =2020-03-05T14:46:44+09:00 Computer/トピック/社会動向/企業/Thales/keywords
 タレス,Thales
@@ -10763,9 +10776,10 @@ HAio
 =2023-05-04T11:36:01+09:00 Computer/トピック/社会動向/企業/建設みらい総研/keywords
 ビズケン
 
-=2023-08-03T12:19:02+09:00 Computer/トピック/社会動向/企業/弁護士ドットコム/keywords
+=2023-11-23T09:41:57+09:00 Computer/トピック/社会動向/企業/弁護士ドットコム/keywords
 クラウドサイン
 Copilot for lawyers
+MeetingBaseCamp
 
 =2021-12-02T14:01:47+09:00 Computer/トピック/社会動向/企業/快活フロンティア/keywords
 コート・ダジュール
@@ -11460,6 +11474,9 @@ Coin Tool,コインツール
 =2018-05-10T09:35:42+09:00 Computer/トピック/社会動向/企業/高島屋/keyword
 高島屋,髙島屋
 
+=2023-11-23T09:42:46+09:00 Computer/トピック/社会動向/企業/鹿島建設/keywords
+鹿島,鹿島建設
+
 =2019-07-24T13:52:58+09:00 Computer/トピック/社会動向/大学/はこだて未来大学/keywords
 はこだて未来大,はこだて未来大学
 
@@ -11683,7 +11700,7 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2023-11-09T08:45:05+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2023-11-23T09:41:57+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -11827,6 +11844,8 @@ JETRO
 取手市
 伊丹市
 岡崎市
+柏崎市
+大館市
 
 =2023-03-23T10:59:42+09:00 Computer/トピック/社会動向/研究機関/Anthropic/keywords
 Claude
