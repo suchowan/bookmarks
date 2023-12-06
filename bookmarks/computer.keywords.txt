@@ -1834,8 +1834,9 @@ Affdex
 =2023-04-05T15:19:11+09:00 Computer/トピック/社会動向/企業/Age of AI/keywords
 FreedomGPT
 
-=2023-07-25T13:32:23+09:00 Computer/トピック/社会動向/企業/Agility Robotics/keywords
+=2023-12-05T17:02:47+09:00 Computer/トピック/社会動向/企業/Agility Robotics/keywords
 Agility,Agility Robotics
+Digit
 
 =2020-05-21T13:19:23+09:00 Computer/トピック/社会動向/企業/AGREE/keywords
 LEBER
@@ -1950,9 +1951,10 @@ DeepAnime
 =2019-06-01T11:41:41+09:00 Computer/トピック/社会動向/企業/ALI Technologies/keywords
 A.L.I.,ALI Technologies
 
-=2021-11-11T11:01:07+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
+=2023-12-05T17:02:47+09:00 Computer/トピック/社会動向/企業/Alibaba/keywords
 アリババ,Alibaba
 ジャック・マー,ジャック･マー
+Animate Anyone
 
 =2022-12-28T15:38:28+09:00 Computer/トピック/社会動向/企業/AliveCor/keywords
 アライブコア,AliveCor
@@ -2106,6 +2108,9 @@ Mac
 FAMGA
 iPad
 Safari
+
+=2023-12-05T17:02:47+09:00 Computer/トピック/社会動向/企業/Apptronik/keywords
+Apollo
 
 =2020-12-24T12:07:23+09:00 Computer/トピック/社会動向/企業/AquaFusion/keywords
 AquaMagic
@@ -3101,6 +3106,9 @@ Emerge wave
 emin,Emotion Intelligence
 Interest Widget
 
+=2023-12-05T17:04:12+09:00 Computer/トピック/社会動向/企業/emole/keywords
+エモル,emole
+
 =2017-12-08T13:23:33+09:00 Computer/トピック/社会動向/企業/Emotion Intelligence/keywords
 Emotion Intelligence,エモーションインテリジェンス
 ZenClerk
@@ -3328,6 +3336,9 @@ foxcope
 =2023-10-12T11:17:29+09:00 Computer/トピック/社会動向/企業/FRAIM/keywords
 日本法務システム研究所,FRAIM
 LAWGUE
+
+=2023-12-05T17:03:20+09:00 Computer/トピック/社会動向/企業/Free Standard/keywords
+フリースタンダード,Free Standard
 
 =2017-10-12T07:22:27+09:00 Computer/トピック/社会動向/企業/freebit/keywords
 Freebit,フリービット
@@ -3675,9 +3686,9 @@ hunterbook
 =2023-04-13T11:44:42+09:00 Computer/トピック/社会動向/企業/Hacksmith Industries/keywords
 MEGAHEX
 
-=2021-11-11T11:02:49+09:00 Computer/トピック/社会動向/企業/Hanson Robotics/keywords
+=2023-12-06T17:34:30+09:00 Computer/トピック/社会動向/企業/Hanson Robotics/keywords
 ハンソン・ロボティクス,Hanson Robotics
-Sofhia,ソフィア
+Sophia,Sofhia,ソフィア
 
 =2023-02-23T13:10:35+09:00 Computer/トピック/社会動向/企業/Harman International Industries/keywords
 ハーマンインターナショナル,Harman International Industries
@@ -4952,6 +4963,9 @@ Focals
 =2021-03-18T12:50:59+09:00 Computer/トピック/社会動向/企業/Notion Labs/keywords
 Notion,Notion Labs
 
+=2023-12-05T17:03:43+09:00 Computer/トピック/社会動向/企業/NOVASTO/keywords
+ノヴァスト,NOVASTO
+
 =2021-06-10T14:17:51+09:00 Computer/トピック/社会動向/企業/NSGホールディングス/keywords
 NSG,NSGホールディングス
 
@@ -5157,6 +5171,9 @@ OTTO,OTTO Motors
 
 =2022-05-26T12:19:15+09:00 Computer/トピック/社会動向/企業/OWNDAYS/keywords
 オンデーズ,OWNDAYS
+
+=2023-12-05T17:04:55+09:00 Computer/トピック/社会動向/企業/Oxford Quantum Circuits/keywords
+OQC,Oxford Quantum Circuits
 
 =2022-09-21T16:52:27+09:00 Computer/トピック/社会動向/企業/OYO/keywords
 OYO LIFE
@@ -5677,6 +5694,9 @@ Skills Graph
 Quip
 Dreamforce
 AppExchange
+
+=2023-12-05T17:04:37+09:00 Computer/トピック/社会動向/企業/SAMANSA/keywords
+サマンサ,SAMANSA
 
 =2020-01-16T15:02:32+09:00 Computer/トピック/社会動向/企業/Samsung/keywords
 Samsung,サムスン
@@ -10780,6 +10800,9 @@ MOTIONBANK
 =2019-07-02T16:02:06+09:00 Computer/トピック/社会動向/企業/平山ホールディングス/keywords
 HAio
 
+=2023-12-05T17:02:47+09:00 Computer/トピック/社会動向/企業/広葉樹合板/keywords
+giraffenap
+
 =2023-03-30T11:57:41+09:00 Computer/トピック/社会動向/企業/建ロボテック/keywords
 運搬トモロボ
 
@@ -11196,8 +11219,9 @@ Rivian,Rivian Automotive
 SUBARU,スバル,富士重工業
 アイサイト
 
-=2019-06-05T11:58:45+09:00 Computer/トピック/社会動向/企業/自動車/Tesla/keywords
+=2023-12-05T17:02:47+09:00 Computer/トピック/社会動向/企業/自動車/Tesla/keywords
 tesla,Tesla,テスラ
+Optimus
 
 =2017-07-04T08:41:54+09:00 Computer/トピック/社会動向/企業/自動車/Volvo/keywords
 Volvo,ボルボ
