@@ -3305,6 +3305,9 @@ Lockdown
 =2017-10-10T11:26:54+09:00 Computer/トピック/社会動向/企業/Flatt/keywords
 PinQul
 
+=2023-12-07T09:02:09+09:00 Computer/トピック/社会動向/企業/Flexispot/keywords
+E9 Pro
+
 =2023-05-18T10:07:07+09:00 Computer/トピック/社会動向/企業/FLIE/keywords
 フリエ,FLIE
 
@@ -3453,6 +3456,9 @@ Symantec,シマンテック,NortonLifeLock
 
 =2023-04-13T11:44:43+09:00 Computer/トピック/社会動向/企業/GenAi/keywords
 Aden
+
+=2023-12-07T09:03:22+09:00 Computer/トピック/社会動向/企業/Generate Biomedicines/keywords
+Generate:Biomedicines,Generate Biomedicines
 
 =2023-08-29T16:13:33+09:00 Computer/トピック/社会動向/企業/Generated Photos/keywords
 AI Human Generator
@@ -3692,6 +3698,9 @@ Sophia,Sofhia,ソフィア
 
 =2023-02-23T13:10:35+09:00 Computer/トピック/社会動向/企業/Harman International Industries/keywords
 ハーマンインターナショナル,Harman International Industries
+
+=2023-12-07T09:03:53+09:00 Computer/トピック/社会動向/企業/Harvard Business Publishing/keywords
+HBP,Harvard Business Publishing
 
 =2022-10-19T20:41:15+09:00 Computer/トピック/社会動向/企業/HashiCorp/keywords
 Terraform
@@ -4420,6 +4429,9 @@ MICA
 
 =2017-10-24T08:05:51+09:00 Computer/トピック/社会動向/企業/Magic Software/keywords
 MSE,Magic Software,マジックソフトウェア
+
+=2023-12-07T09:04:45+09:00 Computer/トピック/社会動向/企業/Magnific/keywords
+Magnific.ai,Magnific
 
 =2022-03-31T17:31:39+09:00 Computer/トピック/社会動向/企業/MaiND Lab/keywords
 FaiCE
@@ -5308,6 +5320,9 @@ PineNote
 =2023-10-26T10:35:33+09:00 Computer/トピック/社会動向/企業/PingCAP/keywords
 TiDB Serverless
 
+=2023-12-07T09:05:17+09:00 Computer/トピック/社会動向/企業/Pitch Software/keywords
+Pitch,Pitch Software
+
 =2019-07-15T12:47:09+09:00 Computer/トピック/社会動向/企業/Pixellot/keywords
 スターコミュニケーションズ
 
@@ -5747,6 +5762,9 @@ KAORIUM
 
 =2017-10-23T11:58:40+09:00 Computer/トピック/社会動向/企業/SCSK/keywords
 PrimeDashBoard
+
+=2023-12-07T09:02:09+09:00 Computer/トピック/社会動向/企業/SDPI/keywords
+ななはぴ
 
 =2017-05-15T08:26:29+09:00 Computer/トピック/社会動向/企業/seak/keywords
 LEAP
@@ -6338,6 +6356,9 @@ Twitter,ツイッター
 =2023-06-08T10:38:54+09:00 Computer/トピック/社会動向/企業/TWO/keywords
 Meal Match
 
+=2023-12-07T10:31:36+09:00 Computer/トピック/社会動向/企業/TWOSTONE&Sons/keywords
+Branding Engineer,TWOSTONE&Sons
+
 =2017-11-11T15:08:05+09:00 Computer/トピック/社会動向/企業/Tyffon/keywords
 TYFFONIUM,ティフォニウム
 
@@ -6492,6 +6513,9 @@ vrTours3D
 
 =2023-10-19T12:43:56+09:00 Computer/トピック/社会動向/企業/vLex/keywords
 Vincent AI
+
+=2023-12-07T09:06:07+09:00 Computer/トピック/社会動向/企業/VMC Motion Technologies/keywords
+VMC Motion,VMC Motion Technologies
 
 =2017-09-04T09:45:53+09:00 Computer/トピック/社会動向/企業/VMware/keywords
 AirWatch
@@ -9407,6 +9431,9 @@ Yohana
 =2023-08-17T10:02:44+09:00 Computer/トピック/社会動向/企業/パブリックコネクト/keywords
 PUBLIC CONNECT,パブリックコネクト
 
+=2023-12-07T09:02:08+09:00 Computer/トピック/社会動向/企業/パルコ/keywords
+PICTONA
+
 =2017-04-10T14:58:05+09:00 Computer/トピック/社会動向/企業/パルスボッツ/keywords
 パルスボッツ株式会社,Palsbots
 
@@ -10600,9 +10627,10 @@ JAL,日本航空
 =2021-03-11T12:10:06+09:00 Computer/トピック/社会動向/企業/京セラ/KCCS/keywords
 SHELF EYE
 
-=2023-11-16T14:26:50+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
+=2023-12-07T09:02:09+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
 KYOCERA,京セラ
+Cotopat
 
 =2023-08-17T10:00:58+09:00 Computer/トピック/社会動向/企業/京王プラザホテル/keywords
 京王プラザ,京王プラザホテル
@@ -10636,8 +10664,8 @@ YOYOGI MORI
 Remorks
 ViKet Town,Viket Town
 
-=2022-12-07T14:56:12+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
-トッパン,凸版
+=2023-12-07T09:07:12+09:00 Computer/トピック/社会動向/企業/凸版印刷/keywords
+TOPPAN,トッパン,凸版
 BotFriends
 navima
 WithShot
