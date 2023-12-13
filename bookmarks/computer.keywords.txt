@@ -3532,6 +3532,9 @@ HelloWork+
 =2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/GMO/GMOインターネット/GMOペパボ/keywords
 ペパボ研究所
 
+=2023-12-12T17:48:40+09:00 Computer/トピック/社会動向/企業/GMO/GMOインターネット/keywords
+お名前.com
+
 =2017-03-29T10:05:14+09:00 Computer/トピック/社会動向/企業/GMO/GMOメイクショップ/keywords
 MakeShop
 MakeRepeater
@@ -3810,10 +3813,11 @@ Enterprise Intelligence
 Huawei,ファーウェイ
 HarmonyOS
 
-=2023-05-18T10:03:45+09:00 Computer/トピック/社会動向/企業/Hugging Face/keywords
+=2023-12-12T17:49:57+09:00 Computer/トピック/社会動向/企業/Hugging Face/keywords
 Moe TTS
 NAGI
 HuggingChat
+HuggingFace,Hugging Face
 
 =2023-11-09T08:45:06+09:00 Computer/トピック/社会動向/企業/Humane/keywords
 Ai pin
@@ -6229,6 +6233,9 @@ sonar ATS
 
 =2021-08-19T12:44:25+09:00 Computer/トピック/社会動向/企業/ThinkX/keywords
 NeuraVoice
+
+=2023-12-12T17:48:40+09:00 Computer/トピック/社会動向/企業/THK/keywords
+MLS
 
 =2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/THT Japan/keywords
 defunc HOME
