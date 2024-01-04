@@ -3133,6 +3133,9 @@ Interest Widget
 =2023-12-05T17:04:12+09:00 Computer/トピック/社会動向/企業/emole/keywords
 エモル,emole
 
+=2024-01-04T09:04:07+09:00 Computer/トピック/社会動向/企業/EmolutionCreative/keywords
+uniqorns
+
 =2017-12-08T13:23:33+09:00 Computer/トピック/社会動向/企業/Emotion Intelligence/keywords
 Emotion Intelligence,エモーションインテリジェンス
 ZenClerk
@@ -3870,6 +3873,9 @@ Swoop
 
 =2023-06-15T13:58:43+09:00 Computer/トピック/社会動向/企業/i-plug/keywords
 OfferBox
+
+=2024-01-04T09:04:07+09:00 Computer/トピック/社会動向/企業/ible Technology/keywords
+Airvida
 
 =2023-07-27T10:09:42+09:00 Computer/トピック/社会動向/企業/IBM/keywords
 Watson
@@ -4855,9 +4861,6 @@ Nature Remo
 =2021-05-13T12:37:34+09:00 Computer/トピック/社会動向/企業/Nature Innovation Group/keywords
 アイカサ
 
-=2018-12-30T13:58:42+09:00 Computer/トピック/社会動向/企業/NAVER/SNOW/keywords
-ZEPETO
-
 =2017-12-15T11:21:50+09:00 Computer/トピック/社会動向/企業/Nayuta/keywords
 マイクロペイメント
 
@@ -5213,10 +5216,11 @@ Orb DLT
 =2023-04-19T20:35:38+09:00 Computer/トピック/社会動向/企業/Organum/keywords
 PlayScore 2
 
-=2023-07-27T10:09:42+09:00 Computer/トピック/社会動向/企業/Orion Star Robotics/keywords
+=2024-01-04T09:04:07+09:00 Computer/トピック/社会動向/企業/Orion Star Robotics/keywords
 Lucki
 Mini
 ChatMax
+LuckiBot
 
 =2023-08-01T21:21:35+09:00 Computer/トピック/社会動向/企業/OSCHINA/keywords
 开源中国,OSCHINA
@@ -5655,7 +5659,8 @@ Rice
 =2022-06-22T16:00:58+09:00 Computer/トピック/社会動向/企業/RICOS/keywords
 IsoGCN
 
-=2021-03-25T12:57:09+09:00 Computer/トピック/社会動向/企業/Ridge-i/keywords
+=2024-01-04T09:08:07+09:00 Computer/トピック/社会動向/企業/Ridge-i/keywords
+リッジアイ,Ridge-i
 GRASP EARTH
 
 =2021-12-23T12:57:16+09:00 Computer/トピック/社会動向/企業/Right Brothers/keywords
@@ -9301,6 +9306,9 @@ NAKED,ネイキッド
 =2017-04-10T14:41:24+09:00 Computer/トピック/社会動向/企業/ネイバー/keywords
 ネイバー,NAVER
 papago
+
+=2018-12-30T13:58:42+09:00 Computer/トピック/社会動向/企業/ネイバー/SNOW/keywords
+ZEPETO
 
 =2018-06-09T10:36:23+09:00 Computer/トピック/社会動向/企業/ネイン/keywords
 Zeeny
