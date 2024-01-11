@@ -2054,7 +2054,8 @@ Annalise CXR
 =2023-02-15T20:25:20+09:00 Computer/トピック/社会動向/企業/ANRI/keywords
 VORTEX
 
-=2023-03-23T10:59:42+09:00 Computer/トピック/社会動向/企業/Anthropic/keywords
+=2024-01-11T10:45:29+09:00 Computer/トピック/社会動向/企業/Anthropic/keywords
+アンソロピック,Anthropic
 Claude
 
 =2021-08-12T13:30:00+09:00 Computer/トピック/社会動向/企業/Antway/keywords
@@ -2648,6 +2649,9 @@ CM総研,CM総合研究所
 
 =2021-08-19T12:45:13+09:00 Computer/トピック/社会動向/企業/Coca-Cola/keywords
 コカ・コーラ,Coca-Cola
+
+=2024-01-11T10:43:11+09:00 Computer/トピック/社会動向/企業/COCOSOFT TECHNOLOGY/keywords
+HIX
 
 =2023-08-10T10:03:24+09:00 Computer/トピック/社会動向/企業/CODEGYM/keywords
 LABOT,CODEGYM
@@ -5179,6 +5183,9 @@ ONE PAY
 =2023-03-01T19:05:07+09:00 Computer/トピック/社会動向/企業/Onebox/keywords
 yaritori
 
+=2024-01-11T10:43:12+09:00 Computer/トピック/社会動向/企業/ONECOM/keywords
+FINTIN 
+
 =2021-09-16T14:54:55+09:00 Computer/トピック/社会動向/企業/OneSmallStep/keywords
 FLAPTALK
 
@@ -5270,6 +5277,9 @@ DATA BRICK
 
 =2017-11-11T15:54:45+09:00 Computer/トピック/社会動向/企業/Panimood/keywords
 Moojis
+
+=2024-01-11T10:43:11+09:00 Computer/トピック/社会動向/企業/Passionate Genius/keywords
+nocall.ai
 
 =2017-09-07T10:59:06+09:00 Computer/トピック/社会動向/企業/PassLogic/keywords
 PassLogic,パスロジック
@@ -11068,7 +11078,7 @@ Motorize
 =2022-02-24T12:26:05+09:00 Computer/トピック/社会動向/企業/日東工器/keywords
 ネジ締めデルボ
 
-=2021-03-11T12:10:06+09:00 Computer/トピック/社会動向/企業/日立/keywords
+=2024-01-11T10:43:12+09:00 Computer/トピック/社会動向/企業/日立/keywords
 TOMONI
 EMIEW3,エミュー・スリー
 Lumada
@@ -11088,6 +11098,7 @@ CoreExplorerTS
 EMIEW
 リモートワーク
 CYDEEN
+SumiROBO
 
 =2023-06-07T14:51:08+09:00 Computer/トピック/社会動向/企業/早川書房/keywords
 ハヤカワ,早川書房
@@ -11167,9 +11178,10 @@ Viber
 みんなのビットコイン
 Rakuten,楽天
 
-=2017-10-03T09:18:45+09:00 Computer/トピック/社会動向/企業/構造計画研究所/keywords
+=2024-01-11T10:43:12+09:00 Computer/トピック/社会動向/企業/構造計画研究所/keywords
 RemoteLock
 HubSpot
+スマホdeリレー
 
 =2019-04-25T18:55:20+09:00 Computer/トピック/社会動向/企業/横河/keywords
 設備異常予兆監視ソリューション
@@ -11853,7 +11865,7 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2023-11-23T09:41:57+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2024-01-11T10:43:12+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -11999,6 +12011,7 @@ JETRO
 岡崎市
 柏崎市
 大館市
+仙北市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
