@@ -2886,6 +2886,10 @@ Emotn
 Darktrace,ダークトレース
 Cyber AI Analyst
 
+=2024-02-22T12:03:33+09:00 Computer/トピック/社会動向/企業/Dassault Systemes/keywords
+ダッソー,Dassault Systemes
+BIOVIA
+
 =2023-06-29T09:07:05+09:00 Computer/トピック/社会動向/企業/Databricks/keywords
 Dolly
 データブリックス,Databricks
@@ -3244,6 +3248,9 @@ ORBIT
 =2023-06-08T10:38:55+09:00 Computer/トピック/社会動向/企業/Ericsson/keywords
 エリクソン,Ericsson
 Ericom Shield
+
+=2024-02-22T12:34:56+09:00 Computer/トピック/社会動向/企業/ESET/keywords
+イーセット,ESET
 
 =2018-05-30T13:31:28+09:00 Computer/トピック/社会動向/企業/Essential Products/keywords
 Essential Phone
@@ -6932,8 +6939,8 @@ xenoBrain
 =2023-06-08T11:32:59+09:00 Computer/トピック/社会動向/企業/xFusion Digital Technologies/keywords
 xFusion,xFusion Digital Technologies
 
-=2024-01-02T15:05:46+09:00 Computer/トピック/社会動向/企業/Xiaomi/keywords
-シャオミ,xiaomi
+=2024-02-22T12:35:44+09:00 Computer/トピック/社会動向/企業/Xiaomi/keywords
+小米技術,シャオミ,xiaomi
 CyberDog
 CyberOne
 POCO
@@ -7668,6 +7675,9 @@ AirNavi
 =2017-03-30T11:51:45+09:00 Computer/トピック/社会動向/企業/エアロセンス/keywords
 エアロセンス,AeroSense
 
+=2024-02-22T12:33:31+09:00 Computer/トピック/社会動向/企業/エアロネクスト/keywords
+4D GRAVITY
+
 =2018-04-05T13:20:52+09:00 Computer/トピック/社会動向/企業/エアークローゼット/keywords
 pickss
 
@@ -8136,6 +8146,9 @@ Renotta
 
 =2023-05-25T09:23:59+09:00 Computer/トピック/社会動向/企業/クラスター/keywords
 cluster,クラスター
+
+=2024-02-22T12:34:08+09:00 Computer/トピック/社会動向/企業/クラダシ/keywords
+Kuradashi,クラダシ
 
 =2023-08-03T12:18:56+09:00 Computer/トピック/社会動向/企業/クラフター/keywords
 Crew
@@ -9119,9 +9132,6 @@ YAOKI
 
 =2023-08-10T11:49:10+09:00 Computer/トピック/社会動向/企業/ダイヤモンドファンタジー/keywords
 チャとれる
-
-=2017-09-19T10:42:55+09:00 Computer/トピック/社会動向/企業/ダッソー/keywords
-BIOVIA
 
 =2017-09-14T09:32:28+09:00 Computer/トピック/社会動向/企業/チェックポイントシステムジャパン/keywords
 Seed ID
@@ -12040,6 +12050,9 @@ TSUBAME
 =2018-10-01T10:21:07+09:00 Computer/トピック/社会動向/大学/横浜市立大学/keywords
 横浜市大
 
+=2024-02-22T12:36:06+09:00 Computer/トピック/社会動向/大学/武蔵野美術大学/keywords
+武蔵野美大,武蔵野美術大学
+
 =2023-07-02T14:27:30+09:00 Computer/トピック/社会動向/大学/沖縄科学技術大学院大学/keywords
 OIST,沖縄科学技術大学院大学
 
@@ -12082,7 +12095,7 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2024-02-15T11:40:46+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2024-02-22T12:33:32+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -12232,6 +12245,7 @@ JETRO
 横芝光町
 美濃加茂市
 西宮市
+中津川市
 
 =2020-10-01T17:06:05+09:00 Computer/トピック/社会動向/研究機関/JAMSTEC/keywords
 海洋研究開発機構,JAMSTEC
