@@ -1855,6 +1855,9 @@ Affdex
 =2023-04-05T15:19:11+09:00 Computer/トピック/社会動向/企業/Age of AI/keywords
 FreedomGPT
 
+=2024-05-30T13:40:37+09:00 Computer/トピック/社会動向/企業/AgileX Robotics/keywords
+AgileX,AgileX Robotics
+
 =2023-12-05T17:02:47+09:00 Computer/トピック/社会動向/企業/Agility Robotics/keywords
 Agility,Agility Robotics
 Digit
@@ -2493,8 +2496,9 @@ Imagica AI
 =2021-06-24T13:50:51+09:00 Computer/トピック/社会動向/企業/Brave/keywords
 Brave Search
 
-=2023-09-14T09:26:12+09:00 Computer/トピック/社会動向/企業/Brilliant Labs/keywords
+=2024-05-30T13:37:38+09:00 Computer/トピック/社会動向/企業/Brilliant Labs/keywords
 Monocle AR
+Frame
 
 =2023-05-25T10:44:33+09:00 Computer/トピック/社会動向/企業/Broadcom/keywords
 ブロードコム,Broadcom
@@ -2608,6 +2612,9 @@ Catena-X,Catena-X Automotive Network
 
 =2023-08-23T10:23:15+09:00 Computer/トピック/社会動向/企業/CATL/keywords
 寧徳時代新能源科技,CATL
+
+=2024-05-30T13:37:39+09:00 Computer/トピック/社会動向/企業/CATS/keywords
+L-ad
 
 =2023-05-17T14:35:18+09:00 Computer/トピック/社会動向/企業/ccpp/keywords
 chichi-pui
@@ -2888,6 +2895,9 @@ Rocky Linux
 CuGo
 CuGoV3
 
+=2024-05-30T13:37:41+09:00 Computer/トピック/社会動向/企業/curiosity/keywords
+Rememory
+
 =2017-03-28T14:55:22+09:00 Computer/トピック/社会動向/企業/Curious Edge/keywords
 Commu
 
@@ -3048,6 +3058,9 @@ Denodo,Denodo Technologies
 
 =2023-06-20T14:56:32+09:00 Computer/トピック/社会動向/企業/Depict/keywords
 GPT-Engineer
+
+=2024-05-30T13:37:41+09:00 Computer/トピック/社会動向/企業/DEVELOPTONIA/keywords
+KiAI
 
 =2021-06-24T13:50:51+09:00 Computer/トピック/社会動向/企業/DGマーケティングデザイン/keywords
 SoundMap
@@ -3893,6 +3906,13 @@ hunterbook
 
 =2023-04-13T11:44:42+09:00 Computer/トピック/社会動向/企業/Hacksmith Industries/keywords
 MEGAHEX
+
+=2023-05-04T11:41:46+09:00 Computer/トピック/社会動向/企業/Hakuhodo DY ONE/アイレップ/keywords
+IREP,アイレップ
+
+=2017-03-30T14:58:39+09:00 Computer/トピック/社会動向/企業/Hakuhodo DY ONE/デジタル・アドバタイジング・コンソーシアム/keywords
+デジタル・アドバタイジング・コンソーシアム,DAC
+DialogOneメディカルパッケージ
 
 =2023-12-06T17:34:30+09:00 Computer/トピック/社会動向/企業/Hanson Robotics/keywords
 ハンソン・ロボティクス,Hanson Robotics
@@ -5391,7 +5411,7 @@ intra-mart
 SocietyOS
 Alkano
 
-=2022-08-04T12:58:31+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
+=2024-05-30T13:37:41+09:00 Computer/トピック/社会動向/企業/NTT/NTTドコモ/keywords
 NTTドコモ,ドコモ,Docomo,DOCOMO,docomo
 petoco
 beyond宣言
@@ -5400,6 +5420,7 @@ my daiz
 NTT docomo
 かたらい
 おくすり手帳Link
+kikito
 
 =2017-04-18T07:25:05+09:00 Computer/トピック/社会動向/企業/NTT/NTTレゾナント/keywords
 Oshi-el,オシエル
@@ -5537,6 +5558,9 @@ Orb DLT
 =2023-06-08T10:40:18+09:00 Computer/トピック/社会動向/企業/Orbic/keywords
 オルビック,Orbic
 
+=2024-05-30T13:39:36+09:00 Computer/トピック/社会動向/企業/Organic Maps OÜ/keywords
+Organic Maps,Organic Maps OÜ
+
 =2023-04-19T20:35:38+09:00 Computer/トピック/社会動向/企業/Organum/keywords
 PlayScore 2
 
@@ -5551,6 +5575,9 @@ LuckiBot
 
 =2017-09-19T08:17:38+09:00 Computer/トピック/社会動向/企業/OSK/keywords
 eValue NS
+
+=2024-05-30T13:40:05+09:00 Computer/トピック/社会動向/企業/OsmAnd BV/keywords
+OsmAnd,OsmAnd BV
 
 =2020-03-05T14:47:38+09:00 Computer/トピック/社会動向/企業/OTTO Motors/keywords
 OTTO,OTTO Motors
@@ -7512,9 +7539,6 @@ NOID
 CROSSシリーズ
 CROSS MALL
 CROSS POINT
-
-=2023-05-04T11:41:46+09:00 Computer/トピック/社会動向/企業/アイレップ/keywords
-IREP,アイレップ
 
 =2022-07-28T13:15:23+09:00 Computer/トピック/社会動向/企業/アイ・アール・システム/keywords
 OGI640
@@ -9666,10 +9690,6 @@ Catchy
 Catchy Writing Assistant
 Slideflow
 
-=2017-03-30T14:58:39+09:00 Computer/トピック/社会動向/企業/デジタル・アドバタイジング・コンソーシアム/keywords
-デジタル・アドバタイジング・コンソーシアム,DAC
-DialogOneメディカルパッケージ
-
 =2017-10-12T12:22:31+09:00 Computer/トピック/社会動向/企業/デジタル・ナレッジ/keywords
 KnowledgeDeliver
 AI Training+
@@ -10679,6 +10699,9 @@ MEET,ミート
 
 =2019-10-24T11:26:55+09:00 Computer/トピック/社会動向/企業/メガハウス/keywords
 おいでよ ボンゴ！
+
+=2024-05-30T13:37:38+09:00 Computer/トピック/社会動向/企業/メシウス/keywords
+krewSheet
 
 =2019-07-02T16:02:06+09:00 Computer/トピック/社会動向/企業/メタップス/keywords
 Laplace,ラプラス
