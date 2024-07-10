@@ -4793,7 +4793,8 @@ Nyric
 =2023-01-18T14:22:57+09:00 Computer/トピック/社会動向/企業/Luka/keywords
 Replika
 
-=2024-06-18T14:38:55+09:00 Computer/トピック/社会動向/企業/Luma AI/keywords
+=2024-07-09T11:39:34+09:00 Computer/トピック/社会動向/企業/Luma AI/keywords
+LumaAI,Luma AI
 Dream Machine
 
 =2023-01-19T11:12:07+09:00 Computer/トピック/社会動向/企業/Lumen Technologies/keywords
@@ -5245,8 +5246,8 @@ Run-DIAS
 =2018-01-26T10:55:49+09:00 Computer/トピック/社会動向/企業/MTG/keywords
 McLEAR
 
-=2024-01-25T11:53:46+09:00 Computer/トピック/社会動向/企業/MTGOX/keywords
-マウントゴックス,MTGOX
+=2024-07-09T11:36:51+09:00 Computer/トピック/社会動向/企業/MTGOX/keywords
+Mt.Gox,マウントゴックス,MTGOX
 
 =2020-10-15T12:30:37+09:00 Computer/トピック/社会動向/企業/mui Lab/keywords
 mui
@@ -6522,6 +6523,9 @@ SKT,SKテレコム
 =2024-07-04T17:39:34+09:00 Computer/トピック/社会動向/企業/Skedway/keywords
 Avail
 
+=2024-07-09T12:02:58+09:00 Computer/トピック/社会動向/企業/SkyDrive/keywords
+スカイドライブ,SkyDrive
+
 =2022-02-03T11:32:30+09:00 Computer/トピック/社会動向/企業/Skylum/keywords
 スカイラム,Skylum
 
@@ -7077,6 +7081,9 @@ Turing Certs
 =2019-07-10T13:59:17+09:00 Computer/トピック/社会動向/企業/Tuya Smart/keywords
 Tuya,Tuya Smart
 
+=2024-07-09T12:02:33+09:00 Computer/トピック/社会動向/企業/Twilio/keywords
+Authy
+
 =2020-10-01T18:09:26+09:00 Computer/トピック/社会動向/企業/twitter/keywords
 Twitter,ツイッター
 
@@ -7214,6 +7221,9 @@ Vector,ベクター
 ヴィーム,Veeam,Veeam Software
 Veeam Recovery to Microsoft Azure with Veeam PN
 Kasten
+
+=2024-07-09T12:04:06+09:00 Computer/トピック/社会動向/企業/Veeva Systems/keywords
+Veeva,Veeva Systems
 
 =2024-05-09T14:22:24+09:00 Computer/トピック/社会動向/企業/Verint Systems/keywords
 ベリント,Verint,Verint Systems
@@ -8870,8 +8880,9 @@ SHARESΦ
 =2022-12-07T14:56:12+09:00 Computer/トピック/社会動向/企業/コシダカ/keywords
 まねきねこ
 
-=2024-02-08T13:08:28+09:00 Computer/トピック/社会動向/企業/コナミ/keywords
+=2024-07-09T12:02:33+09:00 Computer/トピック/社会動向/企業/コナミ/keywords
 Konami,KONAMI,コナミ
+リセラ
 
 =2023-08-17T09:59:59+09:00 Computer/トピック/社会動向/企業/コニカミノルタ/keywords
 ミノルタ,コニカミノルタ
@@ -11484,15 +11495,17 @@ CREPE
 三菱総研,三菱総合研究所,MRI
 Hitomean
 
-=2022-01-20T12:57:40+09:00 Computer/トピック/社会動向/企業/三菱重工業/keywords
+=2024-07-09T12:04:54+09:00 Computer/トピック/社会動向/企業/三菱重工業/keywords
 TOMONI
 PLATTER Auto
+MHI,三菱重工,三菱重工業
 
-=2022-01-27T12:09:03+09:00 Computer/トピック/社会動向/企業/三菱電機/keywords
+=2024-07-09T12:05:27+09:00 Computer/トピック/社会動向/企業/三菱電機/keywords
 Maisart,マイサート
 e-F@ctory
 GX-F
 MELDY
+MELCO,三菱電機
 
 =2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/三越伊勢丹/keywords
 ZUKKU,ズック
@@ -11798,8 +11811,8 @@ Versatile
 =2021-12-30T12:05:22+09:00 Computer/トピック/社会動向/企業/山洋電気/keywords
 SANMOTION
 
-=2024-07-04T17:46:12+09:00 Computer/トピック/社会動向/企業/川崎重工業/keywords
-川重,川崎重工,Kawasaki,川崎重工業
+=2024-07-09T12:06:21+09:00 Computer/トピック/社会動向/企業/川崎重工業/keywords
+KHI,川重,川崎重工,Kawasaki,川崎重工業
 duAro
 
 =2021-02-12T11:17:18+09:00 Computer/トピック/社会動向/企業/帝人/keywords
@@ -12198,6 +12211,9 @@ Ford,フォード
 
 =2020-04-02T16:56:29+09:00 Computer/トピック/社会動向/企業/自動車/Geely Auto/keywords
 Geely,Geely Auto
+
+=2024-07-09T12:07:06+09:00 Computer/トピック/社会動向/企業/自動車/GM/Cruise/keywords
+クルーズ,Cruise
 
 =2020-11-05T13:01:22+09:00 Computer/トピック/社会動向/企業/自動車/Harley-Davidson/keywords
 ハーレーダビッドソン,Harley-Davidson
