@@ -4577,6 +4577,9 @@ AIキャンバス
 =2022-08-11T12:14:13+09:00 Computer/トピック/社会動向/企業/KINTO/keywords
 Prism Japan
 
+=2024-08-01T09:08:04+09:00 Computer/トピック/社会動向/企業/KITS/keywords
+Pangolin
+
 =2022-01-20T12:57:41+09:00 Computer/トピック/社会動向/企業/kiwami/keywords
 HoloVase
 
@@ -5472,6 +5475,9 @@ Nightfall
 =2022-01-06T09:44:07+09:00 Computer/トピック/社会動向/企業/Nightingale Health/keywords
 My Nightingale
 
+=2024-08-01T09:09:44+09:00 Computer/トピック/社会動向/企業/Niobium Microsystems/keywords
+Niobium,Niobium Microsystems
+
 =2023-09-14T09:29:10+09:00 Computer/トピック/社会動向/企業/NIUSIA/keywords
 ニュウジア,NIUSIA
 
@@ -5855,6 +5861,9 @@ Pega Robotic Automation
 
 =2024-03-21T12:17:39+09:00 Computer/トピック/社会動向/企業/Pegatron/keywords
 ペガトロン,Pegatron
+
+=2024-08-01T09:10:05+09:00 Computer/トピック/社会動向/企業/Pentera/keywords
+ペンテラ,Pentera
 
 =2019-02-06T18:16:29+09:00 Computer/トピック/社会動向/企業/Pepsi/keywords
 ペプシ,Pepsi,PepsiCo
@@ -8521,12 +8530,13 @@ NIN_NIN
 オリックス,Orix
 Test Car ソリューション
 
-=2023-11-02T09:02:31+09:00 Computer/トピック/社会動向/企業/オルツ/keywords
+=2024-08-01T09:08:05+09:00 Computer/トピック/社会動向/企業/オルツ/keywords
 オルツ,ALT+
 Voice Clone
 AI GIJIROKU
 altBRAIN
 LHTM-OPT
+EagleAI
 
 =2020-10-01T17:04:34+09:00 Computer/トピック/社会動向/企業/オルビス/keywords
 ORBIS,オルビス
@@ -9309,6 +9319,9 @@ MachiTag
 
 =2022-04-07T14:34:18+09:00 Computer/トピック/社会動向/企業/ジクー/keywords
 Jicoo,ジクー
+
+=2024-08-01T09:08:05+09:00 Computer/トピック/社会動向/企業/ジブリッシュ・ラボ/keywords
+SketchMe.App
 
 =2022-03-17T12:36:25+09:00 Computer/トピック/社会動向/企業/ジブンハウス/keywords
 My Home Market
@@ -10131,6 +10144,9 @@ NAVITIME,ナビタイム
 
 =2023-10-24T15:40:22+09:00 Computer/トピック/社会動向/企業/ナブテスコ/keywords
 Kirari MUSE
+
+=2024-08-01T09:10:44+09:00 Computer/トピック/社会動向/企業/ナブラワークス/keywords
+Nabla,ナブラワークス
 
 =2018-12-14T14:20:02+09:00 Computer/トピック/社会動向/企業/ナレッジコミュニケーション/keywords
 ナレコムAI
@@ -12736,7 +12752,7 @@ CanguRo
 =2022-12-15T10:48:58+09:00 Computer/トピック/社会動向/大学/埼玉大学/keywords
 埼玉大,埼玉大学
 
-=2024-07-23T12:39:15+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
+=2024-08-01T09:08:05+09:00 Computer/トピック/社会動向/大学/外国の大学/keywords
 ハーバード
 スタンフォード大学
 Carnegie Mellon University,CMU,カーネギーメロン大
@@ -12808,6 +12824,7 @@ Human Motion Diffusion
 インド工科大学
 Aston大学
 北京航空航天大学
+イタリア工科大
 
 =2021-01-07T11:41:57+09:00 Computer/トピック/社会動向/大学/大分大学/keywords
 大分大,大分大学
