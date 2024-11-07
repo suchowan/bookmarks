@@ -2212,6 +2212,9 @@ Midnight
 =2022-06-23T10:21:12+09:00 Computer/トピック/社会動向/企業/ArchiTek/keywords
 AiOnIc
 
+=2024-11-07T12:32:54+09:00 Computer/トピック/社会動向/企業/ARISE/keywords
+ARISE analytics
+
 =2021-12-16T13:09:30+09:00 Computer/トピック/社会動向/企業/ARPARA GLOBAL TECHNOLOGY/keywords
 arpara
 
@@ -2717,6 +2720,9 @@ DarkLight
 =2024-06-06T15:04:04+09:00 Computer/トピック/社会動向/企業/ChantoBit/keywords
 ラクサクAI
 
+=2024-11-07T12:32:54+09:00 Computer/トピック/社会動向/企業/Character Technologies/keywords
+Character.AI
+
 =2023-01-12T09:32:22+09:00 Computer/トピック/社会動向/企業/Check Point/keywords
 チェック・ポイント,Check Point
 
@@ -2843,9 +2849,10 @@ Devin
 =2022-01-13T11:29:52+09:00 Computer/トピック/社会動向/企業/CogSmart/keywords
 BrainSuite
 
-=2024-07-25T13:09:50+09:00 Computer/トピック/社会動向/企業/Cohere/keywords
+=2024-11-07T12:32:53+09:00 Computer/トピック/社会動向/企業/Cohere/keywords
 Command R+
 Takane
+Aya Expanse
 
 =2023-03-09T13:59:29+09:00 Computer/トピック/社会動向/企業/Coherent Capital Advisors/keywords
 コヒーレント,Coherent Capital Advisors
@@ -4076,6 +4083,9 @@ hunterbook
 =2023-04-13T11:44:42+09:00 Computer/トピック/社会動向/企業/Hacksmith Industries/keywords
 MEGAHEX
 
+=2024-11-07T12:32:53+09:00 Computer/トピック/社会動向/企業/Hacobu/keywords
+MOVO Berth
+
 =2023-05-04T11:41:46+09:00 Computer/トピック/社会動向/企業/Hakuhodo DY ONE/アイレップ/keywords
 IREP,アイレップ
 
@@ -4380,8 +4390,8 @@ HAZAMA BASE
 =2020-06-25T15:07:08+09:00 Computer/トピック/社会動向/企業/Infervision/keywords
 北京推想科技,Infervision
 
-=2018-04-28T12:27:21+09:00 Computer/トピック/社会動向/企業/Infineon Technologies/keywords
-インフィニオン
+=2024-11-07T11:40:17+09:00 Computer/トピック/社会動向/企業/Infineon Technologies/keywords
+インフィニオン,Infineon,Infineon Technologies
 
 =2023-07-25T13:31:02+09:00 Computer/トピック/社会動向/企業/Inflection AI/keywords
 Inflection
@@ -5868,12 +5878,12 @@ Crypto Browser
 =2020-10-22T14:26:12+09:00 Computer/トピック/社会動向/企業/OPSION/keywords
 RISA
 
-=2023-10-26T10:35:33+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
+=2024-11-07T14:35:02+09:00 Computer/トピック/社会動向/企業/Oracle/keywords
 オラクル,Oracle
 Live Experience Cloud
 BlueKai
 GraphPipe
-Netsuite
+Netsuite,NetSuite
 
 =2017-09-26T08:27:03+09:00 Computer/トピック/社会動向/企業/Orb/keywords
 Orb DLT
@@ -6182,8 +6192,14 @@ Serve
 Jooto,ジョートー
 Tayori
 
+=2024-11-07T12:34:50+09:00 Computer/トピック/社会動向/企業/Prada/keywords
+プラダ,Prada
+
 =2024-06-13T17:44:42+09:00 Computer/トピック/社会動向/企業/Prada Group/keywords
 プラダ・グループ,Prada Group
+
+=2024-11-07T12:32:54+09:00 Computer/トピック/社会動向/企業/PRICELESS/keywords
+PHOENIX
 
 =2024-05-16T16:36:38+09:00 Computer/トピック/社会動向/企業/primeNumber/keywords
 trocco
@@ -6203,6 +6219,9 @@ Progress Corticon
 
 =2019-01-15T13:51:19+09:00 Computer/トピック/社会動向/企業/Pronto AI/keywords
 レヴァンドウスキー
+
+=2024-11-07T12:17:59+09:00 Computer/トピック/社会動向/企業/Proofpoint/keywords
+プルーフポイント,Proofpoint
 
 =2017-04-05T07:48:52+09:00 Computer/トピック/社会動向/企業/PROPELa/keywords
 amblate
@@ -6298,6 +6317,9 @@ Kn1ght
 
 =2023-05-25T10:43:16+09:00 Computer/トピック/社会動向/企業/Quad Miners/keywords
 Network Blackbox
+
+=2024-11-07T12:34:01+09:00 Computer/トピック/社会動向/企業/Quadric/keywords
+クアドリック,Quadric
 
 =2017-08-28T12:37:54+09:00 Computer/トピック/社会動向/企業/Qualcomm/keywords
 Qualcomm,クアルコム
@@ -6406,6 +6428,9 @@ Resonant,Resonant Solutions
 
 =2022-09-28T21:26:17+09:00 Computer/トピック/社会動向/企業/Respawn Entertainment/keywords
 Apex Legends
+
+=2024-11-07T12:32:54+09:00 Computer/トピック/社会動向/企業/Retail AI/keywords
+Skip Cart
 
 =2020-02-20T14:43:27+09:00 Computer/トピック/社会動向/企業/Reuters/keywords
 ロイター,Reuters
@@ -6912,6 +6937,9 @@ suitebook
 
 =2017-09-14T10:41:13+09:00 Computer/トピック/社会動向/企業/ST Booking/keywords
 カケコム
+
+=2024-11-07T12:32:53+09:00 Computer/トピック/社会動向/企業/StackBlitz/keywords
+bolt.new
 
 =2021-10-21T13:36:41+09:00 Computer/トピック/社会動向/企業/Standard AI/keywords
 スタンダードAI,Standard AI
@@ -7494,8 +7522,9 @@ Steam
 =2019-06-17T13:58:06+09:00 Computer/トピック/社会動向/企業/Varjo/keywords
 ヴァルヨ,Varjo
 
-=2024-10-22T11:09:17+09:00 Computer/トピック/社会動向/企業/VAST/keywords
+=2024-11-07T12:32:54+09:00 Computer/トピック/社会動向/企業/VAST/keywords
 Vast,VAST
+Haven-1
 
 =2020-06-25T15:05:30+09:00 Computer/トピック/社会動向/企業/VDOO Connected Trust/keywords
 ビドゥ,VDOO Connected Trust
@@ -11422,8 +11451,9 @@ Mopi,モピ
 =2024-09-19T11:54:48+09:00 Computer/トピック/社会動向/企業/モリサワ/keywords
 森澤,モリサワ
 
-=2024-03-07T12:08:03+09:00 Computer/トピック/社会動向/企業/モンスターラボ/keywords
+=2024-11-07T12:32:53+09:00 Computer/トピック/社会動向/企業/モンスターラボ/keywords
 Code Rebuild AI
+DataAnalyze AI
 
 =2017-10-10T13:36:28+09:00 Computer/トピック/社会動向/企業/モーションポートレート/keywords
 ようこそパニックマンションへVR
@@ -12495,12 +12525,13 @@ Taskus
 =2020-12-24T12:07:21+09:00 Computer/トピック/社会動向/企業/東洋製罐/keywords
 SABOT
 
-=2022-09-22T08:07:14+09:00 Computer/トピック/社会動向/企業/東芝/keywords
+=2024-11-07T12:32:54+09:00 Computer/トピック/社会動向/企業/東芝/keywords
 RECAIUS,リカイアス
 Visconti
 TOSHIBA
 Voice Track Maker
 SATLYS
+ELERA
 
 =2018-12-30T13:58:41+09:00 Computer/トピック/社会動向/企業/東風津梁/keywords
 PAN
