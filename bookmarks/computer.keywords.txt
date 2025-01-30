@@ -2850,6 +2850,9 @@ CM総研,CM総合研究所
 =2024-01-11T10:43:11+09:00 Computer/トピック/社会動向/企業/COCOSOFT TECHNOLOGY/keywords
 HIX
 
+=2025-01-30T13:00:22+09:00 Computer/トピック/社会動向/企業/Code Intelligence/keywords
+Spark
+
 =2023-08-10T10:03:24+09:00 Computer/トピック/社会動向/企業/CODEGYM/keywords
 LABOT,CODEGYM
 
@@ -3516,6 +3519,9 @@ MagDisk
 =2023-08-23T10:21:16+09:00 Computer/トピック/社会動向/企業/epice/keywords
 ORBIT
 
+=2025-01-30T13:00:23+09:00 Computer/トピック/社会動向/企業/Eptura/keywords
+Archibus
+
 =2024-01-30T17:40:50+09:00 Computer/トピック/社会動向/企業/Equinix/keywords
 エクイニクス,Equinix
 
@@ -3644,6 +3650,9 @@ Fano Labs,有光科技
 
 =2023-04-27T12:24:21+09:00 Computer/トピック/社会動向/企業/FastCopy研究所/keywords
 FastCopy,FastCopy研究所
+
+=2025-01-30T13:02:14+09:00 Computer/トピック/社会動向/企業/Fastly/keywords
+ファストリー,Fastly
 
 =2022-04-13T17:28:01+09:00 Computer/トピック/社会動向/企業/FDNA/keywords
 Face2Gene
@@ -5244,6 +5253,9 @@ HADO
 =2021-06-10T14:13:34+09:00 Computer/トピック/社会動向/企業/Mellow/keywords
 SHOP STOP
 
+=2025-01-30T13:00:23+09:00 Computer/トピック/社会動向/企業/MEME/keywords
+スクペイ
+
 =2023-03-02T10:03:50+09:00 Computer/トピック/社会動向/企業/Memplex/keywords
 清水亮
 Memeplex
@@ -6117,6 +6129,9 @@ Pega Robotic Automation
 =2024-03-21T12:17:39+09:00 Computer/トピック/社会動向/企業/Pegatron/keywords
 ペガトロン,Pegatron
 
+=2025-01-30T13:01:05+09:00 Computer/トピック/社会動向/企業/Pendo.io/keywords
+Pendo,Pendo.io
+
 =2024-08-01T09:10:05+09:00 Computer/トピック/社会動向/企業/Pentera/keywords
 ペンテラ,Pentera
 
@@ -6165,6 +6180,9 @@ YOJO,YOJO Technologies,PharmaX
 
 =2024-10-29T13:03:46+09:00 Computer/トピック/社会動向/企業/Phase One/keywords
 Capture One
+
+=2025-01-30T13:00:22+09:00 Computer/トピック/社会動向/企業/PHISON Electronics/keywords
+aiDAPTIV
 
 =2017-07-04T11:14:38+09:00 Computer/トピック/社会動向/企業/Phybbit/keywords
 SpiderAF
@@ -6686,6 +6704,9 @@ Undefined Survivors
 Gen-2
 Gen3,Gen-3
 
+=2025-01-30T13:00:23+09:00 Computer/トピック/社会動向/企業/S8 Plus/keywords
+S8 Payment
+
 =2024-03-07T12:08:02+09:00 Computer/トピック/社会動向/企業/SAEON/keywords
 ALTINO
 
@@ -7019,8 +7040,8 @@ CircleO
 =2023-10-26T10:35:33+09:00 Computer/トピック/社会動向/企業/Spawning/keywords
 Kudurru
 
-=2023-02-16T13:05:35+09:00 Computer/トピック/社会動向/企業/Speakeasy Labs/keywords
-スピーク
+=2025-01-30T13:03:17+09:00 Computer/トピック/社会動向/企業/Speakeasy Labs/keywords
+スピーク,スピークジャパン,Speakeasy Labs
 
 =2019-05-16T11:14:46+09:00 Computer/トピック/社会動向/企業/Spectee/keywords
 荒木ゆい
@@ -10162,6 +10183,9 @@ TREASURE CDP
 
 =2020-09-24T13:30:34+09:00 Computer/トピック/社会動向/企業/ソフトバンク/BOLDLY/keywords
 SBドライブ,BOLDLY
+
+=2025-01-30T13:00:23+09:00 Computer/トピック/社会動向/企業/ソフトバンク/Gen-AX/keywords
+X-Boost
 
 =2024-03-14T13:17:45+09:00 Computer/トピック/社会動向/企業/ソフトバンク/keywords
 ソフバン,ソフトバンク,SoftBank
@@ -13806,6 +13830,9 @@ NIRO,新産業創造研究機構
 
 =2021-11-04T14:39:37+09:00 Computer/トピック/社会動向/研究機関/日本医療研究開発機構/keywords
 AMED,日本医療研究開発機構
+
+=2025-01-30T13:03:54+09:00 Computer/トピック/社会動向/研究機関/日本総合研究所/keywords
+日本総研,日本総合研究所
 
 =2021-06-24T13:55:41+09:00 Computer/トピック/社会動向/研究機関/炭素回収技術研究機構/keywords
 CRRA,炭素回収技術研究機構
