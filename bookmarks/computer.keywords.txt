@@ -3397,7 +3397,8 @@ Porker
 =2024-03-28T11:54:41+09:00 Computer/トピック/社会動向/企業/EcoFlow/keywords
 エコフロー,EcoFlow
 
-=2024-01-25T11:52:23+09:00 Computer/トピック/社会動向/企業/ECOVACS/keywords
+=2025-03-06T10:21:45+09:00 Computer/トピック/社会動向/企業/ECOVACS/keywords
+エコバックス,ECOVACS
 DEEBOT
 
 =2021-10-28T13:54:32+09:00 Computer/トピック/社会動向/企業/EDGE/keywords
@@ -3430,8 +3431,8 @@ Elastic Stack
 =2024-12-10T12:02:09+09:00 Computer/トピック/社会動向/企業/Electrolux/keywords
 エレクトロラックス,Electrolux
 
-=2020-06-18T16:26:52+09:00 Computer/トピック/社会動向/企業/Electronic Arts/keywords
-エレクトロニック・アーツ,Electronic Arts
+=2025-03-06T10:28:13+09:00 Computer/トピック/社会動向/企業/Electronic Arts/keywords
+エレクトロニック・アーツ,EA,Electronic Arts
 
 =2023-01-18T14:22:57+09:00 Computer/トピック/社会動向/企業/Eleven Labs/keywords
 Design Voice
@@ -4459,6 +4460,9 @@ Inaho,inaho
 
 =2024-10-17T12:16:34+09:00 Computer/トピック/社会動向/企業/INBRAIN Neuroelectronics/keywords
 INBRAIN,INBRAIN Neuroelectronics
+
+=2025-03-06T10:28:45+09:00 Computer/トピック/社会動向/企業/Inception/keywords
+Mercury Coder
 
 =2022-08-25T10:18:25+09:00 Computer/トピック/社会動向/企業/Include/keywords
 Steora
@@ -6009,8 +6013,8 @@ Galea
 =2024-07-16T13:39:16+09:00 Computer/トピック/社会動向/企業/OpenDriveLab/keywords
 GenAD
 
-=2024-10-31T12:33:35+09:00 Computer/トピック/社会動向/企業/OpenStreet/keywords
-HELLO CYCLING
+=2025-03-06T11:44:27+09:00 Computer/トピック/社会動向/企業/OpenStreet/keywords
+ハロサイ,HELLO CYCLING
 コモビ
 
 =2023-06-08T10:40:48+09:00 Computer/トピック/社会動向/企業/OpenX Technologies/keywords
@@ -6180,7 +6184,7 @@ Pages
 =2019-01-15T13:52:44+09:00 Computer/トピック/社会動向/企業/Pfizer/keywords
 ファイザー,Pfizer
 
-=2023-02-23T14:06:20+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
+=2025-03-06T10:28:46+09:00 Computer/トピック/社会動向/企業/PFI・PFN/keywords
 PFI,Preferred Infrastructure,プリファードインフラストラクチャー
 PFN,Preferred Networks,プリファード・ネットワークス
 PFRobotics,Preferred Robotics,プリファードロボティクス,プリファード・ロボティクス
@@ -6190,6 +6194,7 @@ Playgram
 Crypko
 Matlantis
 Kachaka
+Misebo
 
 =2023-10-31T16:44:00+09:00 Computer/トピック/社会動向/企業/PFU/keywords
 DynaEye EX
@@ -10687,6 +10692,9 @@ Dwango,DWANGO,ドワンゴ
 ARTILIFE
 TUNEDiD
 Gotcha
+
+=2025-03-06T10:28:45+09:00 Computer/トピック/社会動向/企業/ドン・キホーテ/keywords
+ジハン・キホーテ
 
 =2023-04-27T12:27:37+09:00 Computer/トピック/社会動向/企業/ドーナッツ ロボティクス/keywords
 ドーナツロボティクス,ドーナッツ ロボティクス
