@@ -2929,7 +2929,7 @@ Mamoru Biz
 =2023-02-09T08:03:45+09:00 Computer/トピック/社会動向/企業/Colors/keywords
 タスカル
 
-=2025-03-25T12:12:25+09:00 Computer/トピック/社会動向/企業/Colt/keywords
+=2025-03-25T12:12:25+09:00 Computer/トピック/社会動向/企業/Colt Technology Services/keywords
 コルト,Colt
 
 =2023-05-04T11:37:54+09:00 Computer/トピック/社会動向/企業/Comcast/keywords
@@ -3554,6 +3554,9 @@ ORBIT
 =2025-01-30T13:00:23+09:00 Computer/トピック/社会動向/企業/Eptura/keywords
 Archibus
 
+=2025-04-03T11:36:23+09:00 Computer/トピック/社会動向/企業/Equal1/keywords
+Bell-1
+
 =2024-01-30T17:40:50+09:00 Computer/トピック/社会動向/企業/Equinix/keywords
 エクイニクス,Equinix
 
@@ -3754,9 +3757,6 @@ Memoria
 
 =2019-10-03T12:14:23+09:00 Computer/トピック/社会動向/企業/Flashback/keywords
 Lockdown
-
-=2017-10-10T11:26:54+09:00 Computer/トピック/社会動向/企業/Flatt/keywords
-PinQul
 
 =2023-12-07T09:02:09+09:00 Computer/トピック/社会動向/企業/Flexispot/keywords
 E9 Pro
@@ -4024,6 +4024,10 @@ GeeQuad
 
 =2021-09-09T12:14:24+09:00 Computer/トピック/社会動向/企業/Gloval/keywords
 HelloWork+
+
+=2025-04-03T11:37:46+09:00 Computer/トピック/社会動向/企業/GMO/GMO Flatt Security/keywords
+Flatt,GMO Flatt Security
+PinQul
 
 =2024-06-27T14:49:16+09:00 Computer/トピック/社会動向/企業/GMO/GMOインターネット/GMO AIR/keywords
 GMO AI＆ロボティクス商事,GMO AIR
@@ -7753,8 +7757,8 @@ SACCA
 =2021-06-10T14:18:09+09:00 Computer/トピック/社会動向/企業/Unitree Robotics/keywords
 Unitree,Unitree Robotics
 
-=2021-04-08T11:39:02+09:00 Computer/トピック/社会動向/企業/Unity Technologies/keywords
-ユニティ・テクノロジーズ,Unity Technologies
+=2025-04-03T11:38:37+09:00 Computer/トピック/社会動向/企業/Unity Technologies/keywords
+Unity,ユニティ・テクノロジーズ,Unity Technologies
 
 =2019-02-06T18:17:12+09:00 Computer/トピック/社会動向/企業/Universal City Studios/keywords
 ユニバーサル・スタジオ,Universal City Studios
@@ -12365,6 +12369,9 @@ REV WORLDS
 =2023-04-20T10:54:15+09:00 Computer/トピック/社会動向/企業/上島珈琲/keywords
 UCC,上島珈琲
 
+=2025-04-03T11:40:19+09:00 Computer/トピック/社会動向/企業/上新電機/keywords
+Joshin,上新電機
+
 =2024-12-12T09:37:47+09:00 Computer/トピック/社会動向/企業/上海垣信衛星科技/keywords
 SSST,上海垣信衛星科技
 
@@ -12622,6 +12629,9 @@ Opera
 MetaLife
 スキルアップ研究所
 i3Links
+
+=2025-04-03T11:39:26+09:00 Computer/トピック/社会動向/企業/宇宙サービスイノベーションラボ/keywords
+SSIL,宇宙サービスイノベーションラボ
 
 =2018-11-24T10:47:37+09:00 Computer/トピック/社会動向/企業/安川電機/keywords
 安川電,安川電機
@@ -14024,8 +14034,8 @@ FOCUS,計算科学振興財団
 =2024-08-21T14:29:39+09:00 Computer/トピック/社会動向/研究機関/量子科学技術研究開発機構/keywords
 QST,量子科学技術研究開発機構
 
-=2019-06-24T12:19:50+09:00 Computer/トピック/社会動向/研究機関/防災科学技術研究所/keywords
-NIED,防災科学研究所,防災科学技術研究所
+=2025-04-03T11:41:05+09:00 Computer/トピック/社会動向/研究機関/防災科学技術研究所/keywords
+防災科研,NIED,防災科学研究所,防災科学技術研究所
 
 =2022-07-27T18:10:39+09:00 Computer/トピック/社会動向/規格/keywords
 著作権
