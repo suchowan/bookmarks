@@ -2515,6 +2515,9 @@ SPOKES
 =2019-06-13T12:59:41+09:00 Computer/トピック/社会動向/企業/BluAge/keywords
 Canary
 
+=2025-04-15T10:38:22+09:00 Computer/トピック/社会動向/企業/Blue Origin/keywords
+ブルーオリジン,Blue Origin
+
 =2019-04-10T11:48:04+09:00 Computer/トピック/社会動向/企業/Blue Prism/keywords
 ブループリズム,Blue Prism
 Decipher
@@ -5093,9 +5096,6 @@ Web score
 ログビルド,log build
 Log Kun
 
-=2018-09-07T11:38:45+09:00 Computer/トピック/社会動向/企業/Logitech/ロジクール/keywords
-ASTRO Gaming
-
 =2021-12-16T13:09:30+09:00 Computer/トピック/社会動向/企業/LogMeIn/keywords
 LastPass
 
@@ -5397,7 +5397,7 @@ mikoto
 マイクロン,Micron Technology
 エルピーダ
 
-=2025-03-25T12:09:34+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
+=2025-04-15T10:37:29+09:00 Computer/トピック/社会動向/企業/Microsoft/keywords
 Microsoft,マイクロソフト,日本MS
 Azure
 Cortana
@@ -5433,6 +5433,7 @@ Dataflex
 Lobe
 Office
 OneNote
+Playwright
 
 =2022-09-21T16:48:57+09:00 Computer/トピック/社会動向/企業/MicroStrategy/keywords
 マイクロストラテジー,MicroStrategy
@@ -7487,6 +7488,9 @@ The North Face,ノースフェイス,ノース・フェイス
 =2024-06-06T15:04:04+09:00 Computer/トピック/社会動向/企業/The Simulation/keywords
 Showrunner
 
+=2025-04-15T10:39:11+09:00 Computer/トピック/社会動向/企業/The Wellcome Trust/keywords
+ウェルカム・トラスト,ウェルカムトラスト,The Wellcome Trust
+
 =2017-12-13T10:08:23+09:00 Computer/トピック/社会動向/企業/THECOO/keywords
 fanicon,ファニコン
 
@@ -9040,6 +9044,12 @@ IMACEL,イマセル
 
 =2021-06-10T14:13:35+09:00 Computer/トピック/社会動向/企業/エル・シィ/keywords
 Brynhildr
+
+=2025-04-15T10:39:37+09:00 Computer/トピック/社会動向/企業/エレコム/Logitech/keywords
+ロジテック,Logitech
+
+=2018-09-07T11:38:45+09:00 Computer/トピック/社会動向/企業/エレコム/Logitech/ロジクール/keywords
+ASTRO Gaming
 
 =2024-06-06T15:04:05+09:00 Computer/トピック/社会動向/企業/エレファンテック/keywords
 NeuralJet
