@@ -2661,10 +2661,11 @@ CASH
 =2018-02-23T15:15:50+09:00 Computer/トピック/社会動向/企業/BXD/keywords
 enza
 
-=2025-04-17T10:20:52+09:00 Computer/トピック/社会動向/企業/ByteDance/keywords
+=2025-06-10T14:06:29+09:00 Computer/トピック/社会動向/企業/ByteDance/keywords
 バイトダンス,ByteDance
 Coze
 BytePlus
+Trae
 
 =2017-06-12T07:25:11+09:00 Computer/トピック/社会動向/企業/C Channel/keywords
 C CHANNEL
@@ -4665,6 +4666,9 @@ Root
 
 =2024-12-05T11:38:12+09:00 Computer/トピック/社会動向/企業/IronNet/keywords
 アイアンネット,IronNet
+
+=2025-06-10T14:07:02+09:00 Computer/トピック/社会動向/企業/ispace/keywords
+アイスペース,ispace
 
 =2025-01-23T14:21:59+09:00 Computer/トピック/社会動向/企業/IssueHunt/keywords
 Baseline
@@ -12323,6 +12327,9 @@ ANGO
 =2018-01-31T17:17:56+09:00 Computer/トピック/社会動向/企業/レジェンダ・コーポレーション/keywords
 1st JUDGE,ファーストジャッジ
 
+=2025-06-10T14:06:29+09:00 Computer/トピック/社会動向/企業/レゾンデートル/keywords
+ヒールメイト
+
 =2018-08-04T07:26:23+09:00 Computer/トピック/社会動向/企業/レッジ/keywords
 Ledge.ai
 
@@ -12544,8 +12551,9 @@ ROBO Cleaper
 ずんどう屋
 コナズ珈琲
 
-=2023-06-08T10:38:54+09:00 Computer/トピック/社会動向/企業/丸井/keywords
+=2025-06-10T14:07:31+09:00 Computer/トピック/社会動向/企業/丸井/keywords
 エポスカード
+マルイ,丸井
 
 =2023-03-09T13:55:16+09:00 Computer/トピック/社会動向/企業/丸文/keywords
 Aeolus Robotics
