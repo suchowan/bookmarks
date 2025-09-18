@@ -2653,6 +2653,9 @@ BricsCAD
 Monocle AR
 Frame
 
+=2025-09-18T08:11:28+09:00 Computer/トピック/社会動向/企業/Britannica/keywords
+ブリタニカ,Britannica
+
 =2024-06-27T14:42:32+09:00 Computer/トピック/社会動向/企業/British Telecom/keywords
 BT,British Telecom
 
@@ -4674,6 +4677,9 @@ HAZAMA BASE
 =2024-11-07T11:40:17+09:00 Computer/トピック/社会動向/企業/Infineon Technologies/keywords
 インフィニオン,Infineon,Infineon Technologies
 
+=2025-09-18T08:09:55+09:00 Computer/トピック/社会動向/企業/infiniteloop/keywords
+Desktop Mate
+
 =2023-07-25T13:31:02+09:00 Computer/トピック/社会動向/企業/Inflection AI/keywords
 Inflection
 
@@ -6204,6 +6210,9 @@ TAO Toolkit
 =2024-09-19T11:49:37+09:00 Computer/トピック/社会動向/企業/NYOUM/keywords
 YOUM
 
+=2025-09-18T08:11:09+09:00 Computer/トピック/社会動向/企業/O'Reilly/keywords
+オライリー,O'Reilly
+
 =2024-11-19T13:40:39+09:00 Computer/トピック/社会動向/企業/O2/keywords
 Daisy
 
@@ -6825,6 +6834,9 @@ Morph
 
 =2020-02-20T14:40:58+09:00 Computer/トピック/社会動向/企業/QuickWork/keywords
 Daniel
+
+=2025-09-18T08:10:33+09:00 Computer/トピック/社会動向/企業/Quollio Technologies/keywords
+Quollio,Quollio Technologies
 
 =2023-06-15T14:01:03+09:00 Computer/トピック/社会動向/企業/Qure.ai Technologies/keywords
 Qure.ai,Qure.ai Technologies
@@ -8596,6 +8608,11 @@ CarriRo
 デリロ
 ラクロシェア
 RakuRo
+
+=2025-09-18T07:47:36+09:00 Computer/トピック/社会動向/企業/Zoho/keywords
+ゾーホー,Zoho
+ManageEngine OpManager,OpManager
+Zohoピープル
 
 =2020-04-16T13:29:07+09:00 Computer/トピック/社会動向/企業/Zoom/keywords
 ズーム,Zoom
@@ -10847,10 +10864,6 @@ POCKETALK
 AutoMemo
 フォト消しゴム
 BirdieTalk
-
-=2017-10-16T09:26:10+09:00 Computer/トピック/社会動向/企業/ゾーホージャパン/keywords
-ManageEngine OpManager,OpManager
-Zohoピープル
 
 =2019-01-26T10:28:52+09:00 Computer/トピック/社会動向/企業/タイトー/keywords
 NESiCA
@@ -13868,9 +13881,10 @@ VirO
 =2022-02-03T11:29:38+09:00 Computer/トピック/社会動向/企業/調和技研/keywords
 Lango
 
-=2021-12-02T14:01:54+09:00 Computer/トピック/社会動向/企業/講談社/keywords
+=2025-09-18T08:09:55+09:00 Computer/トピック/社会動向/企業/講談社/keywords
 Fingerbot
 Eilik
+マガポケ
 
 =2025-07-17T14:04:42+09:00 Computer/トピック/社会動向/企業/谷村実業/keywords
 THE PERFECT BOX
@@ -14063,8 +14077,9 @@ Swan-K1
 =2019-07-15T12:57:36+09:00 Computer/トピック/社会動向/企業/阿芙/keywords
 Smart Camera
 
-=2024-05-09T14:16:40+09:00 Computer/トピック/社会動向/企業/集英社/keywords
+=2025-09-18T08:09:55+09:00 Computer/トピック/社会動向/企業/集英社/keywords
 DEAIBOOKS
+ジャンプ
 
 =2023-11-16T12:28:39+09:00 Computer/トピック/社会動向/企業/零一万物/keywords
 01.AI,零一万物
