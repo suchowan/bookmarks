@@ -6846,8 +6846,8 @@ RoboBus
 =2023-09-05T15:48:47+09:00 Computer/トピック/社会動向/企業/Pixelmator Team/keywords
 Photomator,Pixelmator Team
 
-=2024-06-18T14:38:55+09:00 Computer/トピック/社会動向/企業/pixiv/keywords
-ピクシブ,pixiv
+=2026-03-26T10:10:09+09:00 Computer/トピック/社会動向/企業/pixiv/keywords
+ピクシブ,pixiv,Pixiv
 BOOTH
 
 =2017-04-10T07:59:33+09:00 Computer/トピック/社会動向/企業/PLAN-B/keywords
@@ -8416,6 +8416,9 @@ ULA,United Launch Alliance
 =2024-06-20T17:19:02+09:00 Computer/トピック/社会動向/企業/Umee Technologies/keywords
 Front Agent
 
+=2026-03-26T11:05:25+09:00 Computer/トピック/社会動向/企業/Umios/keywords
+マルハニチロ,umios,Umios
+
 =2025-02-06T12:31:21+09:00 Computer/トピック/社会動向/企業/UnaBiz/keywords
 Sigfox
 
@@ -8520,8 +8523,8 @@ Various,Various Robotics
 =2025-06-12T13:51:06+09:00 Computer/トピック/社会動向/企業/Vassar Robotics/keywords
 Navrim
 
-=2024-11-07T12:32:54+09:00 Computer/トピック/社会動向/企業/VAST/keywords
-Vast,VAST
+=2026-03-26T10:49:06+09:00 Computer/トピック/社会動向/企業/Vast Space/keywords
+Vast,VAST,Vast Space
 Haven-1
 
 =2020-06-25T15:05:30+09:00 Computer/トピック/社会動向/企業/VDOO Connected Trust/keywords
@@ -8656,6 +8659,9 @@ WDC,ウエスタンデジタル,Western Digital,WD
 
 =2018-03-05T14:15:17+09:00 Computer/トピック/社会動向/企業/webintPro/keywords
 HIWIRE
+
+=2026-03-26T11:12:17+09:00 Computer/トピック/社会動向/企業/Webster/keywords
+ウェブスター,Webster
 
 =2024-08-29T12:06:28+09:00 Computer/トピック/社会動向/企業/Weights & Biases/keywords
 Nejumi.ai
@@ -9746,6 +9752,9 @@ Gステイト
 
 =2022-09-21T16:48:25+09:00 Computer/トピック/社会動向/企業/エスパリアール/keywords
 手書きくん
+
+=2026-03-26T11:11:37+09:00 Computer/トピック/社会動向/企業/エターナルホスピタリティ/keywords
+鳥貴族
 
 =2020-07-30T11:57:36+09:00 Computer/トピック/社会動向/企業/エッグスンシングス/keywords
 EGGS 'N THINGS,エッグスンシングス
@@ -12188,9 +12197,6 @@ mimik
 =2023-05-18T10:03:43+09:00 Computer/トピック/社会動向/企業/ピカブル/keywords
 Prompt Space
 
-=2023-05-11T06:27:27+09:00 Computer/トピック/社会動向/企業/ピクシブ/keywords
-Pixiv,pixiv,ピクシブ
-
 =2025-10-11T11:54:54+09:00 Computer/トピック/社会動向/企業/ピクシーダストテクノロジーズ/keywords
 DeepWear
 ピクシーダスト.PxDT,ピクシーダストテクノロジーズ
@@ -12636,9 +12642,6 @@ ForestScanner
 ITSUMEN
 FAST SIGN
 HR MAPPER
-
-=2025-03-25T12:11:31+09:00 Computer/トピック/社会動向/企業/マルハニチロ/keywords
-umios,マルハニチロ
 
 =2022-07-07T11:33:57+09:00 Computer/トピック/社会動向/企業/マーキットワン/keywords
 M-ONE
@@ -13374,6 +13377,9 @@ Agibot
 
 =2022-08-11T12:16:45+09:00 Computer/トピック/社会動向/企業/上海熙香芸享電子商務/keywords
 シーシャン,上海熙香芸享電子商務
+
+=2026-03-26T11:13:01+09:00 Computer/トピック/社会動向/企業/上海電気/keywords
+Shanghai Electric,上海電気
 
 =2023-02-02T09:56:45+09:00 Computer/トピック/社会動向/企業/中京テレビ/keywords
 そらメディア
@@ -14328,8 +14334,8 @@ SAIC,上海汽車
 =2017-12-15T16:11:06+09:00 Computer/トピック/社会動向/企業/自動車/日産/keywords
 Easy Ride
 
-=2017-11-25T08:42:22+09:00 Computer/トピック/社会動向/企業/自動車/起亜/keywords
-起亜,KIA
+=2026-03-26T11:14:28+09:00 Computer/トピック/社会動向/企業/自動車/起亜/keywords
+KIA,Kia,起亜
 Kian
 
 =2025-03-27T09:19:32+09:00 Computer/トピック/社会動向/企業/良品計画/keywords
