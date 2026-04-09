@@ -1896,8 +1896,8 @@ FreedomGPT
 =2025-02-06T12:31:20+09:00 Computer/トピック/社会動向/企業/AGEST/keywords
 TFACT
 
-=2025-09-25T07:24:35+09:00 Computer/トピック/社会動向/企業/AgiBot/keywords
-智元機器人,AgiBot
+=2026-04-09T16:09:01+09:00 Computer/トピック/社会動向/企業/AgiBot/keywords
+智元機器人,AGIBOT,AgiBot
 
 =2024-05-30T13:40:37+09:00 Computer/トピック/社会動向/企業/AgileX Robotics/keywords
 AgileX,AgileX Robotics
@@ -3547,8 +3547,9 @@ kotosora
 =2022-03-31T17:31:36+09:00 Computer/トピック/社会動向/企業/Dual Life Partners/keywords
 PAYTODAY
 
-=2023-03-16T10:24:36+09:00 Computer/トピック/社会動向/企業/DuckDuckGo/keywords
+=2026-04-09T16:01:24+09:00 Computer/トピック/社会動向/企業/DuckDuckGo/keywords
 DuckAssist
+Duck.ai
 
 =2025-11-25T10:38:02+09:00 Computer/トピック/社会動向/企業/Duralex/keywords
 デュラレックス,Duralex
@@ -4288,8 +4289,8 @@ HelloWork+
 Flatt,GMO Flatt Security
 PinQul
 
-=2024-06-27T14:49:16+09:00 Computer/トピック/社会動向/企業/GMO/GMOインターネット/GMO AIR/keywords
-GMO AI＆ロボティクス商事,GMO AIR
+=2026-04-09T16:10:37+09:00 Computer/トピック/社会動向/企業/GMO/GMOインターネット/GMO AIR/keywords
+GMO AI&ロボティクス,GMO AI＆ロボティクス商事,GMO AIR
 
 =2017-03-29T10:02:51+09:00 Computer/トピック/社会動向/企業/GMO/GMOインターネット/GMOペパボ/keywords
 ペパボ研究所
@@ -6378,6 +6379,9 @@ MiRZA
 =2017-11-11T07:20:39+09:00 Computer/トピック/社会動向/企業/NTT/NTTコムウェア/keywords
 Deeptector
 
+=2026-04-09T16:01:24+09:00 Computer/トピック/社会動向/企業/NTT/NTTスマートコネクト/keywords
+クラウドUTMパック
+
 =2022-11-10T10:44:02+09:00 Computer/トピック/社会動向/企業/NTT/NTTソノリティ/keywords
 nwm
 
@@ -8082,6 +8086,9 @@ I-Robo
 =2022-12-15T10:48:08+09:00 Computer/トピック/社会動向/企業/Techman Robot/keywords
 テックマンロボット,Techman Robot
 
+=2026-04-09T16:03:04+09:00 Computer/トピック/社会動向/企業/Technology Business Programming Network/keywords
+TBPN,Technology Business Programming Network
+
 =2024-11-28T14:20:47+09:00 Computer/トピック/社会動向/企業/TechSeeker/keywords
 AI Research
 
@@ -8117,8 +8124,9 @@ ExposureAI
 テンストレント,Tenstorrent
 Blackhole
 
-=2023-09-21T09:42:17+09:00 Computer/トピック/社会動向/企業/TENTIAL/keywords
+=2026-04-09T16:01:24+09:00 Computer/トピック/社会動向/企業/TENTIAL/keywords
 テンシャル,TENTIAL
+BAKUNE
 
 =2017-04-10T14:29:59+09:00 Computer/トピック/社会動向/企業/Teradata/keyowords
 Teradata,テラデータ
@@ -8665,8 +8673,8 @@ Curio AI
 =2023-03-30T11:57:41+09:00 Computer/トピック/社会動向/企業/WAYDOO/keywords
 subnado
 
-=2025-05-15T09:48:15+09:00 Computer/トピック/社会動向/企業/Wayve Technologies/keywords
-Wayve,ウェイブ・テクノロジーズ,Wayve Technologies
+=2026-04-09T16:08:10+09:00 Computer/トピック/社会動向/企業/Wayve Technologies/keywords
+Wayve,ウェイブ,ウェイブ・テクノロジーズ,Wayve Technologies
 GAIA
 
 =2024-11-21T15:46:05+09:00 Computer/トピック/社会動向/企業/WD/keywords
@@ -9285,6 +9293,9 @@ Platio
 
 =2017-11-22T16:48:25+09:00 Computer/トピック/社会動向/企業/アストラゼネカ/keywords
 タグリッソ
+
+=2026-04-09T16:03:59+09:00 Computer/トピック/社会動向/企業/アストラム/keywords
+ぺんてる,アストラム
 
 =2023-03-01T19:05:07+09:00 Computer/トピック/社会動向/企業/アストロスケール/keywords
 デブリ
@@ -13488,10 +13499,11 @@ JR四国
 SHELF EYE
 ELCIELO
 
-=2023-12-07T09:02:09+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
+=2026-04-09T16:01:24+09:00 Computer/トピック/社会動向/企業/京セラ/keywords
 KANADE DSP
 KYOCERA,京セラ
 Cotopat
+sNAPout
 
 =2023-08-17T10:00:58+09:00 Computer/トピック/社会動向/企業/京王プラザホテル/keywords
 京王プラザ,京王プラザホテル
@@ -13825,6 +13837,9 @@ SERENDIP
 
 =2022-05-04T17:52:32+09:00 Computer/トピック/社会動向/企業/新浪微博/keywords
 Weibo,微博,新浪微博
+
+=2026-04-09T16:04:43+09:00 Computer/トピック/社会動向/企業/新石器/keywords
+Neolix,新石器
 
 =2025-04-17T10:25:11+09:00 Computer/トピック/社会動向/企業/新興出版社啓林館/keywords
 啓林館,新興出版社啓林館
@@ -14939,7 +14954,10 @@ OIST,沖縄科学技術大学院大学
 =2021-03-18T12:51:45+09:00 Computer/トピック/社会動向/大学/順天堂大学/keywords
 順天堂,順天堂大学
 
-=2026-03-05T10:57:56+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
+=2026-04-09T16:01:25+09:00 Computer/トピック/社会動向/専門学校/敬心学園/keywords
+KEISHIN.net
+
+=2026-04-09T16:01:25+09:00 Computer/トピック/社会動向/政府・政府関連機関・地方自治体/keywords
 政府
 政府関連機関
 地方自治体
@@ -15095,6 +15113,7 @@ JETRO
 富山県
 山形県
 財務省
+荒川区
 
 =2024-05-15T08:55:28+09:00 Computer/トピック/社会動向/研究機関/ATR情報研究所/keywords
 国際電気通信基礎技術研究所,ATR情報研究所
