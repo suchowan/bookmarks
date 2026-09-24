@@ -3659,6 +3659,9 @@ Nik Collection
 =2024-02-01T12:28:50+09:00 Computer/トピック/社会動向/企業/DXスコープ/keywords
 dXscope,DXスコープ
 
+=2026-09-24T08:51:17+09:00 Computer/トピック/社会動向/企業/Dyad Tech/keywords
+Dyad,Dyad Tech
+
 =2024-10-15T11:21:58+09:00 Computer/トピック/社会動向/企業/Dynabook/keywords
 dynabook,Dynabook
 
@@ -4145,6 +4148,9 @@ quote
 
 =2025-12-04T11:24:09+09:00 Computer/トピック/社会動向/企業/Forcesteed Robotics/keywords
 Forcesteed,Forcesteed Robotics
+
+=2026-09-24T08:47:46+09:00 Computer/トピック/社会動向/企業/Formas/keywords
+Cartesian
 
 =2022-06-15T19:03:53+09:00 Computer/トピック/社会動向/企業/Fortinet/keywords
 フォーティネット,Fortinet
@@ -5338,6 +5344,9 @@ Nape
 =2023-03-16T10:24:37+09:00 Computer/トピック/社会動向/企業/KEYi Tech/keywords
 Loona
 
+=2026-09-24T08:49:21+09:00 Computer/トピック/社会動向/企業/Keysight Technologies/keywords
+キーサイト,Keysight,Keysight Technologies
+
 =2025-05-26T09:48:53+09:00 Computer/トピック/社会動向/企業/KFC/keywords
 ケンタ,ケンタッキー,KFC
 
@@ -5872,6 +5881,9 @@ MateVerse
 =2026-09-15T15:41:50+09:00 Computer/トピック/社会動向/企業/Math Magic/keywords
 Hitem3D
 
+=2026-09-24T08:49:46+09:00 Computer/トピック/社会動向/企業/Matlantis/keywords
+マトランティス,Matlantis
+
 =2023-07-20T10:46:39+09:00 Computer/トピック/社会動向/企業/MATRIX/keywords
 AI先生
 Genesis
@@ -6124,6 +6136,9 @@ Flippy
 
 =2019-04-18T13:09:38+09:00 Computer/トピック/社会動向/企業/misosil/keywords
 Tofu
+
+=2026-09-24T08:50:22+09:00 Computer/トピック/社会動向/企業/Mission Critical Group/keywords
+MCG,Mission Critical Group
 
 =2026-06-04T10:09:24+09:00 Computer/トピック/社会動向/企業/Mistral AI/keywords
 Codestral
@@ -8851,6 +8866,9 @@ Front Agent
 =2025-02-06T12:31:21+09:00 Computer/トピック/社会動向/企業/UnaBiz/keywords
 Sigfox
 
+=2026-09-24T08:52:02+09:00 Computer/トピック/社会動向/企業/unbiased.ai/keywords
+Union Alpha,Pareto
+
 =2022-10-27T09:15:56+09:00 Computer/トピック/社会動向/企業/unerry/keywords
 Beacon Bank
 
@@ -9056,6 +9074,9 @@ Coicy
 
 =2025-03-18T11:32:48+09:00 Computer/トピック/社会動向/企業/Volocopter/keywords
 ヴォロコプター,Volocopter
+
+=2026-09-24T08:50:47+09:00 Computer/トピック/社会動向/企業/Voxela/keywords
+ヴォクセラ,Voxela
 
 =2023-05-03T15:58:27+09:00 Computer/トピック/社会動向/企業/VRoid Project/keywords
 ChatVRM
@@ -12428,9 +12449,11 @@ Zeeny
 HRテック
 Calling for Telemedicine
 
-=2017-12-01T13:39:39+09:00 Computer/トピック/社会動向/企業/ネオジャパン/keywords
+=2026-09-24T08:47:46+09:00 Computer/トピック/社会動向/企業/ネオジャパン/keywords
 desknet's SSS
 AppSuite
+desknet's NEO
+ChatLuck
 
 =2022-08-18T09:06:43+09:00 Computer/トピック/社会動向/企業/ネオス/keywords
 OfficeBot
@@ -12531,6 +12554,9 @@ ZUKKU
 
 =2024-06-20T17:19:02+09:00 Computer/トピック/社会動向/企業/ハックルベリー/keywords
 All in gift
+
+=2026-09-24T08:47:46+09:00 Computer/トピック/社会動向/企業/ハナモフロル/keywords
+はなちゃん
 
 =2025-09-04T08:41:39+09:00 Computer/トピック/社会動向/企業/ハピネスプラネット/keywords
 FIRA
@@ -14772,8 +14798,8 @@ OHACO
 =2021-12-02T14:01:55+09:00 Computer/トピック/社会動向/企業/湘南ヘルスイノベーションパーク/keywords
 湘南アイパーク
 
-=2019-12-26T12:55:33+09:00 Computer/トピック/社会動向/企業/滴滴出行/keywords
-DiDi,滴滴出行
+=2026-09-24T07:29:45+09:00 Computer/トピック/社会動向/企業/滴滴出行/keywords
+Didi,DiDi,滴滴出行
 
 =2024-01-18T13:14:24+09:00 Computer/トピック/社会動向/企業/燈/keywords
 AKARI,燈
