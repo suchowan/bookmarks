@@ -4416,9 +4416,9 @@ getAbstract
 =2020-11-05T13:02:05+09:00 Computer/トピック/社会動向/企業/Getinge/keywords
 ゲティンゲグループ,Getinge
 
-=2023-10-05T09:39:40+09:00 Computer/トピック/社会動向/企業/Getty Images/keywords
+=2026-10-20T12:33:21+09:00 Computer/トピック/社会動向/企業/Getty Images/keywords
 iStock
-ゲッティイメージズ,Getty Images
+ゲッティ,ゲッティイメージズ,Getty Images
 
 =2022-06-30T11:22:16+09:00 Computer/トピック/社会動向/企業/GfK/keywords
 gfknewron
@@ -5668,6 +5668,9 @@ LINNE LENS,LINNÉ LENS
 =2022-12-29T08:47:39+09:00 Computer/トピック/社会動向/企業/LINPS/keywords
 CAESU
 
+=2026-10-20T12:30:37+09:00 Computer/トピック/社会動向/企業/LinQ/keywords
+Whoo
+
 =2019-01-22T18:39:22+09:00 Computer/トピック/社会動向/企業/Lionbridge Technologies/keywords
 ライオンブリッジ,Lionbridge Technologies
 
@@ -5747,6 +5750,9 @@ Emily
 
 =2021-10-28T13:54:32+09:00 Computer/トピック/社会動向/企業/LOVO/keywords
 ボイススキン
+
+=2026-10-20T12:32:52+09:00 Computer/トピック/社会動向/企業/Luckin Coffee/keywords
+瑞幸咖啡,Luckin Coffee
 
 =2023-01-18T14:22:57+09:00 Computer/トピック/社会動向/企業/Luka/keywords
 Replika
@@ -7607,6 +7613,9 @@ Rehab Cloud モーションAI
 
 =2026-09-10T09:14:05+09:00 Computer/トピック/社会動向/企業/Relay/keywords
 Relay Q
+
+=2026-10-20T12:34:25+09:00 Computer/トピック/社会動向/企業/Reliance Industries/keywords
+リライアンス,Reliance Industries
 
 =2026-05-07T10:35:17+09:00 Computer/トピック/社会動向/企業/Remote Robotic Systems/keywords
 RRS,Remote Robotic Systems
@@ -9922,8 +9931,8 @@ Advantest,アドバンテスト
 =2017-09-25T07:41:17+09:00 Computer/トピック/社会動向/企業/アドバンテック/keywords
 アドバンテック,Advantech
 
-=2026-10-15T13:24:03+09:00 Computer/トピック/社会動向/企業/アドベンチャー/keywords
-スカイチケット
+=2026-10-21T09:25:21+09:00 Computer/トピック/社会動向/企業/アドベンチャー/keywords
+skyticket,スカイチケット
 
 =2024-06-06T15:04:04+09:00 Computer/トピック/社会動向/企業/アニポス/keywords
 もしぺ
@@ -12738,6 +12747,9 @@ YOI-en
 Technics
 Yohana
 
+=2026-10-20T12:30:37+09:00 Computer/トピック/社会動向/企業/パピレス/keywords
+Renta!
+
 =2023-08-17T10:02:44+09:00 Computer/トピック/社会動向/企業/パブリックコネクト/keywords
 PUBLIC CONNECT,パブリックコネクト
 
@@ -13246,6 +13258,9 @@ BellCloud AI for SNS
 =2022-12-29T08:52:31+09:00 Computer/トピック/社会動向/企業/ベルフェイス/keywords
 bellFace,ベルフェイス
 
+=2026-10-20T12:33:57+09:00 Computer/トピック/社会動向/企業/ベロシティエアロワークス/keywords
+Velocity Aeroworks,ベロシティエアロワークス
+
 =2018-04-17T09:43:44+09:00 Computer/トピック/社会動向/企業/ベーシック/keywords
 ferret One
 
@@ -13667,9 +13682,10 @@ LIVEWORK
 LaKeel DI
 LaKeel,ラキール
 
-=2026-06-25T11:00:00+09:00 Computer/トピック/社会動向/企業/ラクス/keywords
+=2026-10-20T12:30:37+09:00 Computer/トピック/社会動向/企業/ラクス/keywords
 楽楽明細
 楽楽精算
+ASURACORE
 
 =2022-08-11T12:14:13+09:00 Computer/トピック/社会動向/企業/ラクスル/keywords
 ノバセル
