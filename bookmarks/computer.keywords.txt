@@ -1808,6 +1808,9 @@ AARTOS DDS
 =2026-02-11T10:24:43+09:00 Computer/トピック/社会動向/企業/ABARTH/keywords
 アバルト,ABARTH
 
+=2026-10-22T08:29:51+09:00 Computer/トピック/社会動向/企業/ABB Robotics/keywords
+ABB,ABB Robotics
+
 =2024-10-10T13:06:06+09:00 Computer/トピック/社会動向/企業/Abbott Laboratories/keywords
 アボット,Abbott Laboratories
 
@@ -2479,6 +2482,9 @@ DBT,Deep Binary Tree
 
 =2021-07-15T13:29:10+09:00 Computer/トピック/社会動向/企業/Azmee/keywords
 アズミー,Azmee
+
+=2026-10-22T08:29:16+09:00 Computer/トピック/社会動向/企業/AZOO/keywords
+WASIMIL
 
 =2017-11-22T16:46:42+09:00 Computer/トピック/社会動向/企業/B.b.designLab/keywords
 IPD-360VR
@@ -3227,6 +3233,9 @@ Convai,Convai Technologies
 
 =2026-01-22T11:28:59+09:00 Computer/トピック/社会動向/企業/CONVERSE/keywords
 コンバース,CONVERSE
+
+=2026-10-22T08:32:46+09:00 Computer/トピック/社会動向/企業/Cornelis Networks/keywords
+Cornelis,Cornelis Networks
 
 =2023-01-05T10:21:45+09:00 Computer/トピック/社会動向/企業/Cornerstone/keywords
 コーナーストーン,Cornerstone
@@ -5282,6 +5291,9 @@ Somerville
 =2017-07-24T07:42:57+09:00 Computer/トピック/社会動向/企業/JX通信社/keywords
 FASTALERT,ファストアラート
 ビーコ
+
+=2026-10-22T08:29:16+09:00 Computer/トピック/社会動向/企業/Jコミックテラス/keywords
+マンガ図書館
 
 =2017-03-29T11:37:54+09:00 Computer/トピック/社会動向/企業/KAG/keywords
 Money Data Bank,MDB
@@ -7900,6 +7912,9 @@ EcoStruxure Machine
 =2025-09-11T08:48:22+09:00 Computer/トピック/社会動向/企業/Schwalbe/keywords
 シュワルベ,Schwalbe
 
+=2026-10-22T08:29:16+09:00 Computer/トピック/社会動向/企業/SCIEN/keywords
+EnCite
+
 =2017-10-23T11:58:40+09:00 Computer/トピック/社会動向/企業/SCSK/keywords
 PrimeDashBoard
 
@@ -8321,8 +8336,8 @@ AI アルケミスト
 =2026-04-28T15:29:25+09:00 Computer/トピック/社会動向/企業/Stokke AS/keywords
 ストッケ,Stokke AS
 
-=2022-09-08T11:13:08+09:00 Computer/トピック/社会動向/企業/STORES/keywords
-ヘイ,STORES
+=2026-10-22T08:30:58+09:00 Computer/トピック/社会動向/企業/STORES/keywords
+ヘイ,ストアーズ,STORES
 STORES 決済
 
 =2019-06-24T12:17:02+09:00 Computer/トピック/社会動向/企業/STORES.jp/keywords
@@ -8585,6 +8600,9 @@ Agently
 
 =2023-03-09T13:58:13+09:00 Computer/トピック/社会動向/企業/TeraWulf/keywords
 テラウルフ,TeraWulf
+
+=2026-10-22T08:32:21+09:00 Computer/トピック/社会動向/企業/TES-AMM JAPAN/keywords
+TES-AMM,TES-AMM JAPAN
 
 =2024-10-29T13:05:21+09:00 Computer/トピック/社会動向/企業/Tether/keywords
 テザー,Tether
@@ -9437,6 +9455,9 @@ YouChat
 =2017-03-30T10:55:14+09:00 Computer/トピック/社会動向/企業/YouAppi/keywords
 OneRun
 
+=2026-10-22T08:33:28+09:00 Computer/トピック/社会動向/企業/YOUIBOT Robotics/keywords
+YOUIBOT,YOUIBOT Robotics
+
 =2021-10-28T14:37:33+09:00 Computer/トピック/社会動向/企業/Yper/keywords
 オキッパ,OKIPPA
 
@@ -10032,6 +10053,9 @@ ANDPAD,アンドパッド
 =2023-05-04T11:35:59+09:00 Computer/トピック/社会動向/企業/アーガイル/keywords
 AI占い by チャットGPT
 
+=2026-10-22T08:29:16+09:00 Computer/トピック/社会動向/企業/アーシスト/keywords
+ANIMAL PROTECH
+
 =2023-02-16T13:05:35+09:00 Computer/トピック/社会動向/企業/アーチャーズ/keywords
 Palette
 
@@ -10342,6 +10366,9 @@ EGGS 'N THINGS,エッグスンシングス
 
 =2024-10-10T13:08:05+09:00 Computer/トピック/社会動向/企業/エッセンス/keywords
 esse-sense,エッセンス
+
+=2026-10-22T11:08:15+09:00 Computer/トピック/社会動向/企業/エナジーシステムサービスジャパン/keywords
+ESSJ,エナジーシステムサービスジャパン
 
 =2022-11-24T11:48:07+09:00 Computer/トピック/社会動向/企業/エナジード/keywords
 ENAGEED SURVEY
@@ -11822,8 +11849,9 @@ VALIS-Engine
 VALIS-Cockpit
 SMN,ソネット・メディア・ネットワークス
 
-=2026-08-27T08:38:57+09:00 Computer/トピック/社会動向/企業/ソフトクリエイト/keywords
+=2026-10-22T08:29:16+09:00 Computer/トピック/社会動向/企業/ソフトクリエイト/keywords
 メニナルAI
+Safe AI Gateway
 
 =2021-04-29T13:55:14+09:00 Computer/トピック/社会動向/企業/ソフトバンク/ARM/keywords
 PSA
@@ -13547,6 +13575,9 @@ SPX4
 
 =2019-04-22T11:51:19+09:00 Computer/トピック/社会動向/企業/ヤプリ/keywords
 Yappli,yappli,ヤプリ
+
+=2026-10-22T08:31:42+09:00 Computer/トピック/社会動向/企業/ヤマザキマザック/keywords
+マザック,ヤマザキマザック
 
 =2023-05-18T10:03:49+09:00 Computer/トピック/社会動向/企業/ヤマセホールディングス/keywords
 1822ai
