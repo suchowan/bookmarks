@@ -1756,6 +1756,9 @@ URL=https://gigazine.net/news/20251023-apple-drastically-cutting-iphone-air-prod
 =2026-09-11T06:02:54+09:00 Computer/OS/iOS/iPhone Duo、世界最安は米国！日本は何位？トルコでは2TBが100万円超 - iPhone Mania
 URL=https://iphone-mania.jp/iphone18-605682/
 
+=2026-10-24T08:49:47+09:00 Computer/OS/iOS/iPhone DuoにAppleCare+を選ばなかった理由-4種類の保険を比較 - iPhone Mania
+URL=https://iphone-mania.jp/iphone18-607830/
+
 =2026-09-10T04:08:58+09:00 Computer/OS/iOS/iPhone DuoはApple Pencil対応。ただし意外な落とし穴も… #appleevent _ ギズモード・ジャパン
 URL=https://www.gizmodo.jp/article/9fb4f78a-1d16-4192-83a9-83a700a1d491/
 
@@ -8053,11 +8056,17 @@ URL=https://twitter.com/Dirg_rocketdyne/status/1741630451369078954
 =2024-02-04T16:04:28+09:00 Computer/OS/MacOS/XユーザーのGOROmanさん- 「MacBook Proの画面をVision Pro内に出してXcode起動してエディットしてビルドしてそのまま空間内で実行出来るの控え目に言って神やなw 昔自分がやってた事をAppleが全部やってくれて感無量だw」
 URL=https://twitter.com/GOROman/status/1754038195342446963
 
+=2026-10-23T16:17:23+09:00 Computer/OS/MacOS/XユーザーのGrEarlさん- 「これMacの対応策これだけじゃ不完全で， MacBookのKeyChain AccessからもRootを信頼しない設定が必要ですね 上流にサイトの方でも記載するようPRを出します やり方は ⌘Comma
+URL=https://x.com/Iamwonderingif/status/2113530206216741328
+
 =2025-09-24T00:09:33+09:00 Computer/OS/MacOS/XユーザーのHiromitsu Takagiさん- 「NHKプラスが、ちょっと前にログイン画面のドメイン名を変更した？のか、iOS-iPadOS-macOSのランダム生成パスワード自動入力機能に任せていた実家の母の端末が自力でログインできなくなって詰
 URL=https://x.com/HiromitsuTakagi/status/1970505824822034898
 
 =2026-05-10T13:53:25+09:00 Computer/OS/MacOS/XユーザーのHiromitsu Takagiさん- 「再起動して直るやつなら、「日本語入力プログラム」のprocessをkillするとよいですよ。
 URL=https://x.com/HiromitsuTakagi/status/2053337590233977209
+
+=2026-10-25T10:01:10+09:00 Computer/OS/MacOS/XユーザーのKaraganaさん- 「icloud(.)com からデータアクセスできないようにしたとて、セキュリティレベルは変わらないと思います。
+URL=https://x.com/Krgn1002/status/2114160303495876639
 
 =2024-10-16T02:36:47+09:00 Computer/OS/MacOS/XユーザーのKazunori Makinoさん- 「工業製品としての緻密な出来の良さとそれからくる耐久性の高さ。音や指に伝わる感覚のフィードバックが良好で、ストレスが少ないこと。それらがOSも含めて一体としてデザインされていること。(たまにやらかした
 URL=https://x.com/kzmakino/status/1846243837532123615
@@ -10741,8 +10750,17 @@ URL=https://x.com/HiromitsuTakagi/status/2110186520879726790
 =2026-07-21T21:28:00+09:00 Computer/OS/Unix/Android/Xユーザーのkeyさん- 「海岸にヒグマがいたので、遠方だけどPixelの100倍ズームで頑張って撮った結果、AI処理でヒグマが-岩-になった。
 URL=https://x.com/keyvajra/status/2079543917998162095
 
+=2026-10-22T06:06:44+09:00 Computer/OS/Unix/Android/Xユーザーのlog4jさん- 「i own a relatively new (2025) samsung tv. i kept getting weirdly targeted ads. i tried reversing the f
+URL=https://x.com/log4j/status/2113014142600953868
+
+=2026-10-24T08:57:48+09:00 Computer/OS/Unix/Android/Xユーザーのlog4jさん- 「turns out it classifies what audio it hears, before reporting back to samsung. sensor preferences, dog
+URL=https://x.com/log4j/status/2113781968601055366
+
 =2026-10-20T11:48:26+09:00 Computer/OS/Unix/Android/Xユーザーのmaloneさん- 「LG spyware gone and simplified the UI https---t.co-qmLGDURELb」 - X
 URL=https://x.com/malonehedges/status/2112375361589981471
+
+=2026-10-25T00:40:37+09:00 Computer/OS/Unix/Android/XユーザーのPraetorさん- 「if you want to stop your TV from spying on you, but don't want to get banned, follow these steps 1. 
+URL=https://x.com/FourVork/status/2114019237224165397
 
 =2026-10-18T10:01:59+09:00 Computer/OS/Unix/Android/XユーザーのSHINJI KIMURAさん- 「CodexのようなAgent systemをテレビに入れてAndroidtvのトップを作り替えて、 テレビを見ながら、エージェントに質問できるようにして、音声で、Netflixで、ダウンタ
 URL=https://x.com/shinzizm2/status/2111623795652059603
@@ -14562,6 +14580,9 @@ URL=https://x.com/CasseCool/status/1918533006366474298
 
 =2026-10-19T18:44:13+09:00 Computer/OS/Unix/Xユーザーのあおいさん- 「すげぇぇw OSとか色々がぶっ壊れて文鎮化してたスマホをCodexが直してくれたわ 初期化もリカバリーも出来なくて詰んだな 思ってたのが治ったw https---t.co-56y98quihf」 - X
 URL=https://x.com/aoi_beta/status/2112117605830099432
+
+=2026-10-22T23:39:42+09:00 Computer/OS/Unix/Xユーザーのふじた_雑用係さん- 「こんなときもやらかすのか TrendMicro さんよ…… （非公開MLに送るべきを公開MLに送付） Greg KH が「お前またかよ」って呆れ果ててる。
+URL=https://x.com/nfujita55a/status/2113279131945472261
 
 =2024-09-13T16:52:26+09:00 Computer/OS/Unix/Xユーザーのわだゆり@R人狼会さん- 「Linuxの生みの親が「ワタシハリナックスチョットワカル」Tシャツ着てたの好きだった。可愛いけど着る勇気はない https---t.co-oDz4Ldz6ej」 - X
 URL=https://x.com/yuriRK/status/1834500370024071231
@@ -23833,6 +23854,9 @@ URL=https://gigazine.net/news/20260812-iphone-ultra/
 =2026-05-09T13:00:00+09:00 Computer/ハードウェア/Apple社内で議論勃発？ MagSafeはプレミアモデルだけでよくないか？ _ ギズモード・ジャパン
 URL=https://www.gizmodo.jp/2026/05/what-needs-for-magsafe.html
 
+=2026-10-22T23:00:00+09:00 Computer/ハードウェア/Arc B390搭載で35B級LLMが動くSBC「LattePanda Sigma 2」 - PC Watch
+URL=https://pc.watch.impress.co.jp/docs/news/2149426.html
+
 =2026-06-15T22:30:00+09:00 Computer/ハードウェア/ARMゲーミングPCの夜明け？ NVIDIAのRTX Spark搭載PCを触ってみた - ギズモード・ジャパン
 URL=https://www.gizmodo.jp/article/rtx-spark-handson/
 
@@ -24865,8 +24889,20 @@ URL=https://gigazine.net/news/20251225-iphone-18-usa-samsung-camera/
 =2016-09-11T11:35:56+09:00 Computer/ハードウェア/iPhone 7、どこが変わった？ 知るべきことすべて｜ギズモード・ジャパン
 URL=http://www.gizmodo.jp/2016/09/the-iphone-7-is-here-everything-you-need-to-know.html
 
+=2026-10-26T20:30:00+09:00 Computer/ハードウェア/iPhone Duo「画面割れた」報告が続出。どれも同じ形で構造の問題がある説も - ギズモード・ジャパン
+URL=https://www.gizmodo.jp/article/2610-iphone-duo-screen-crack-issue/
+
+=2026-10-26T08:20:07+09:00 Computer/ハードウェア/iPhone Duoが耐久テストで不合格-IP68でもヒンジに粉塵が侵入 - iPhone Mania
+URL=https://iphone-mania.jp/iphone18-607927/
+
+=2026-10-24T08:49:47+09:00 Computer/ハードウェア/iPhone DuoにAppleCare+を選ばなかった理由-4種類の保険を比較 - iPhone Mania
+URL=https://iphone-mania.jp/iphone18-607830/
+
 =2026-09-10T04:08:58+09:00 Computer/ハードウェア/iPhone DuoはApple Pencil対応。ただし意外な落とし穴も… #appleevent _ ギズモード・ジャパン
 URL=https://www.gizmodo.jp/article/9fb4f78a-1d16-4192-83a9-83a700a1d491/
+
+=2026-10-23T06:32:24+09:00 Computer/ハードウェア/iPhone Duoを32,640回折りたたんだ結果、ヒンジに意外な変化が！ - iPhone Mania
+URL=https://iphone-mania.jp/iphone18-607725/
 
 =2025-09-26T06:40:13+09:00 Computer/ハードウェア/iPhone17カメラを支える｢日本企業4社｣の正体､各社のトップが横浜の技術拠点に集まって来日中のアップルCEOに技術プレゼンテーションを実施 - スマホ・ガジェット - 東洋経済オンライン
 URL=https://toyokeizai.net/articles/-/907508?display=b
@@ -32626,6 +32662,9 @@ URL=https://otona-life.com/iphone-android/241469/
 =2024-12-03T10:00:03+09:00 Computer/ハードウェア/感熱方式ミニプリンター“iNSPiC memo”のコンセプトモデルを日本最大級の文具の祭典「文具女子博2024」に参考出品 - キヤノンマーケティングジャパン株式会社のプレスリリース
 URL=https://prtimes.jp/main/html/rd/p/000001213.000013943.html
 
+=2026-10-26T19:00:00+09:00 Computer/ハードウェア/慣れれば最強の文字入力？ なぞってタイピングするエアーキーボード - ギズモード・ジャパン
+URL=https://www.gizmodo.jp/article/2610-typair-air-keyboard/
+
 =2024-03-31T06:23:19+09:00 Computer/ハードウェア/戦闘地域に３Ｄプリンターで校舎を建設　ウクライナでの取り組み - CNN.co.jp
 URL=https://www.cnn.co.jp/style/architecture/35217149.html
 
@@ -36150,6 +36189,9 @@ URL=https://x.com/NOTOKEKE/status/1796466693193285755
 
 =2024-04-13T12:46:54+09:00 Entertainment/ゲーム/その他/Xユーザーのコタケノトケケさん- 「先日公開された8番出口とアース製薬のモンダミンのコラボWebCMですが、 正しくはパロディCMで、コラボした覚えは一切はありません。
 URL=https://twitter.com/NOTOKEKE/status/1778993237354741770
+
+=2026-10-24T09:27:07+09:00 Entertainment/ゲーム/その他/Xユーザーのコロラド州さん- 「バイオハザード最初ゲーム始める前に謎のお客さまアンケートみたいな画面出て「まあゲーム初めてだしきっと難しいだろうから…1かな…」と思って1選択してやってたんだけどこの画面が難易度選択画面らしくて1が一番ハ
+URL=https://x.com/Mr_mofmof/status/2113789346956587431
 
 =2025-02-15T17:32:57+09:00 Entertainment/ゲーム/その他/Xユーザーのコータローさん- 「みんなAIにばっかり言及し筋だと思う ちゃんとカードゲームとして見ようじゃない 見える範囲でも「女性のカードの枚数パンプ」の効果があるのに女性かどうかの属性がカードのどこにも記載されてないのでクソゲーです」 - X
 URL=https://x.com/DemensionalRobo/status/1890680686773694483
@@ -42543,6 +42585,9 @@ URL=https://yaneuraou.yaneu.com/2021/05/05/wcsc31-the-software-that-prevented-pa
 
 =2026-05-01T02:41:11+09:00 Entertainment/ゲーム/将棋/【速報】羽生善治九段（55）が敗れる　タイトル100期をかけた挑戦は持ち越し
 URL=https://news.tv-asahi.co.jp/news_society/articles/000502483.html
+
+=2026-10-26T20:09:51+09:00 Entertainment/ゲーム/将棋/【速報】西山朋佳女流四冠が史上初の女性棋士へ　棋士編入の意思を表明｜将棋情報局
+URL=https://book.mynavi.jp/shogi/detail/id=154271
 
 =2020-11-17T05:50:15+09:00 Entertainment/ゲーム/将棋/【連載】評価関数を作ってみよう！その1 やねうら王 公式サイト
 URL=http://yaneuraou.yaneu.com/2020/11/17/make-evaluate-function/
@@ -57804,6 +57849,9 @@ URL=https://x.com/autumium/status/1984160728191025181
 
 =2025-07-19T19:47:22+09:00 Science/化学/Xユーザーのこいるガン⑨さん- 「1kg超えミョウバン結晶育成のようす！ https---t.co-UfqGRisWei」 - X
 URL=https://x.com/coilgun_9/status/1946522244341244163
+
+=2026-10-24T21:06:31+09:00 Science/化学/Xユーザーのこいるガン⑨さん- 「もっと熱い出来たてのルビーだと、 オレンジ→黒→紅色です！ https---t.co-9gVKLAcfW1」 - X
+URL=https://x.com/coilgun_9/status/2113965357669244943
 
 =2023-10-02T13:17:49+09:00 Science/化学/Xユーザーのこなみひでおさん- 「この化学の問題の解答にあるように，式中の数値には単位を付けて計算すると意味がはっきりします。ほんらい物理量は数値×単位というのが基本的な考え方です。 ＞単位を含んだ式はありません https---t.co-elSJD
 URL=https://twitter.com/konamih/status/1708697769823883285
@@ -99958,6 +100006,9 @@ URL=https://newsdig.tbs.co.jp/articles/-/2299177?display=1
 =2025-05-11T06:06:06+09:00 Science/医学/WHOは健康への影響指摘…子供にはスマホ等をいつからどう使わせるべきか 尾木ママ「未就学児は親と一緒に」｜FNNプライムオンライン
 URL=https://www.fnn.jp/articles/THK/868842
 
+=2026-10-27T16:01:44+09:00 Science/医学/WHO事務局長「パンデミックへの備え、十分でない」　NIKKEI感染症会議開幕 - 日本経済新聞
+URL=https://www.nikkei.com/article/DGXZQOUD157WO0V11C26A0000000/
+
 =2025-05-19T07:19:48+09:00 Science/医学/WHO年次総会開幕 「パンデミック条約」採択の見通し アメリカ脱退表明を受けた対応も協議へ - NHK - WHO
 URL=https://www3.nhk.or.jp/news/html/20250519/k10014810261000.html
 
@@ -102856,6 +102907,9 @@ URL=https://x.com/stanrei_note/status/2037081933012730367
 =2025-11-03T07:16:07+09:00 Science/医学/Xユーザーのすのりた225さん- 「長い小児科医生活でわかったこと、感染症は目からもうつることがある、診察時医療用ゴーグルをルーチンでするようになったらだいぶお風邪もらわなくなりました 質のいい隙間の少ないやつがいいです 小さい子はマス
 URL=https://x.com/snorita254/status/1985108686524879243
 
+=2026-10-25T13:01:25+09:00 Science/医学/Xユーザーのすわさん- 「小児科医です。非小児科医であれば、赤ちゃんにしかない反射を診る機会があまりないのでやってみたくなるのかもしれません。
+URL=https://x.com/suwacchi_napier/status/2114205667427045468
+
 =2024-09-24T19:37:57+09:00 Science/医学/Xユーザーのすん@製薬工場勤務さん- 「この投稿から2年ちょっと うまい棒はさらに値上がって12円が15円に ロキソニンの薬価はさらに下がって現在10.1円に 笑える https---t.co-cdJ2x7llAn https---t.co-C6gl
 URL=https://x.com/shin_gmp/status/1838528293072695604
 
@@ -103143,6 +103197,9 @@ URL=https://x.com/Nagapiii/status/2067885368582770881
 
 =2023-08-27T08:19:59+09:00 Science/医学/Xユーザーのなつやすみ（だぞぉーさん- 「@marxindo 「科学の問題ではなく倫理の問題」 で想い起すのは種痘の歴史。江戸時代の蘭方医が行っていた安全性や倫理面の議論が明治文明開化で中断し、1970年代に副反応に”気が付いた”結果、狂乱状態の陥っ
 URL=https://twitter.com/dandonban/status/1695576858249789825
+
+=2026-10-24T22:17:21+09:00 Science/医学/Xユーザーのにゃにゃさん- 「例えば渋谷区は小児のインフルエンザワクチンはフルミストも含め完全に無料なんですが、打たない人もいます。
+URL=https://x.com/Dr_Asuw/status/2113983185201840369
 
 =2024-12-28T21:26:24+09:00 Science/医学/Xユーザーのにゃにゃ小児科さん- 「マスクの文部副大臣も神奈川の某議員さん（元弁護士）もLUUP推進。 マスクを外すのが基本も、LUUP推進も根っこにある考え方が共通するような印象を持っています。 古臭いけれど、思いやりとか弱い人を大事にとか、公
 URL=https://x.com/Dr_Asuw/status/1872982430061400377
@@ -103749,6 +103806,9 @@ URL=https://twitter.com/Kyukimasa/status/1718230547510788373
 
 =2025-05-22T07:07:45+09:00 Science/医学/Xユーザーのゆきまさかずよしさん- 「サウナは健康にいいのかという話 https---t.co-VhyRNcSUtX サウナに長時間入るのではなく、冷水プールと交互に入るのが重要ではあるらしい（高温に晒されることより急冷した時の身体反応のほうが主にな
 URL=https://x.com/Kyukimasa/status/1925312585240650196
+
+=2026-10-27T20:39:55+09:00 Science/医学/Xユーザーのゆきまさかずよしさん- 「シャーロック・ホームズのモデルとなったジョセフ・ベル医師の伝記本（新刊）の紹介 https---t.co-fc51hfVbpK 大学講師も勤めたスコットランドの外科医で患者を見ただけで出身や生活習慣
+URL=https://x.com/Kyukimasa/status/2115045826758324273
 
 =2026-02-17T18:47:23+09:00 Science/医学/Xユーザーのゆきまさかずよしさん- 「スーダンのコプト人は急速な進化でマラリア耐性を獲得 https---t.co-vc9ch8fACT 6世紀頃にエジプトから迫害を逃れ移住してきた民族。
 URL=https://x.com/Kyukimasa/status/2023695765546430578
@@ -106330,6 +106390,9 @@ URL=https://x.com/J_kaliy/status/1821881417942646988
 =2024-10-31T17:11:13+09:00 Science/医学/Xユーザーの林　譲治さん- 「先日、帰省して病院に行ったのだが、医師不足が本当に深刻で、休診科目もある。老人が集まっていたのは、暇だからではなく、主治医が決まった日にしか来ないから。」 - X
 URL=https://x.com/J_kaliy/status/1851899715409056116
 
+=2026-10-26T15:30:33+09:00 Science/医学/Xユーザーの林　譲治さん- 「国民保護法では製薬会社は医薬品の備蓄をする義務があるとなっている。平時は製薬会社の自己負担。倉庫や何やらかにやら。
+URL=https://x.com/J_kaliy/status/2114605582669975673
+
 =2025-07-20T12:13:09+09:00 Science/医学/Xユーザーの林　譲治さん- 「昔勤めていた病院で院長がライオンズクラブの人間なので、他の患者が二時間も三時間も待っている時にライオンズクラブのメンバーは待ち時間なしで診断された。
 URL=https://x.com/J_kaliy/status/1946770327264219369
 
@@ -107358,6 +107421,9 @@ URL=https://x.com/nakasanak/status/1860229386487889931
 
 =2024-09-13T20:12:53+09:00 Science/医学/Xユーザーの雀蜂@統合失調症さん- 「うちの主治医この件でマジギレしてた 試しにジェネリックのクエチアピン飲んでみたが、効きが悪くて睡眠の質まで悪化したので先発のセロクエルに戻したらこれまで通りちゃんと寝れるようになった https---t.co-I
 URL=https://x.com/hachi_schizo/status/1834550817426395622
+
+=2026-10-26T22:18:19+09:00 Science/医学/Xユーザーの雑学をまとめる犬さん- 「■医学論文にも登場した、パン袋の留め具を分類する人々 パンの袋の留め具に、学名や解剖図、系統樹を作っている「HORG」という団体が存在します。
+URL=https://x.com/zatsugakuinu/status/2114708203577729408
 
 =2026-03-08T08:21:25+09:00 Science/医学/Xユーザーの雑学ペンギンさん- 「@nikkei エチレン生産停止がもたらす危機ランキングベスト15を深堀り https---t.co-uBfPvk7zr8」 - X
 URL=https://x.com/singaporetweet2/status/2030423605360865779
@@ -109908,6 +109974,9 @@ URL=https://gigazine.net/news/20250504-just-thinking-hungry-change-immune-system
 
 =2025-10-12T16:36:02+09:00 Science/医学/お腹の脂肪を減らす「8つのヒント」とは？...食事以外の「2つの隠れた要因」が代謝を狂わせていた｜ニューズウィーク日本版 オフィシャルサイト
 URL=https://www.newsweekjapan.jp/stories/lifestyle/2025/10/573910.php
+
+=2026-10-24T07:12:23+09:00 Science/医学/お茶は飲み方次第、心臓の健康に良くも悪くも　紅茶の方が緑茶よりも効果？ - CNN.co.jp
+URL=https://www.cnn.co.jp/fringe/35253851.html
 
 =2023-09-26T17:28:04+09:00 Science/医学/お酒だけじゃない　γ-GTP やALTが高いのは「肝臓の働き過ぎ」のサイン：日経ビジネス電子版
 URL=https://business.nikkei.com/atcl/gen/19/00283/091200223/
@@ -122148,6 +122217,9 @@ URL=https://x.com/fujimicho/status/2024423726314672365
 
 =2023-11-16T12:31:25+09:00 Science/地学・地理学/XユーザーのAyano AKIYAMAさん- 「海岸線も長いし河川も長い。国管理河川で総延長1万km、都道府県管理河川で11万km。その周辺に何の草木が生えているのかという気の遠くなるような調査を毎年（毎年ですぞ）できるようにするための技術です。
 URL=https://twitter.com/ayano_kova/status/1724993547362066902
+
+=2026-10-26T21:07:00+09:00 Science/地学・地理学/XユーザーのCartografía Digitalさん- 「¿Sabías dónde termina el agua de cada río de España y Portugal-  Este increíble mapa ani
+URL=https://x.com/digimaps/status/2114690254053810370
 
 =2024-10-31T16:40:55+09:00 Science/地学・地理学/XユーザーのCHIKYU 地球深部探査船「ちきゅう」さん- 「【解説】チャートとは？ 放散虫(左)などの二酸化ケイ素(SiO2)の殻をもつ生物の遺骸が1000年に数mmのペースで陸から遠く離れた深海底でゆっくり堆積し、固まった岩石(右)です。
 URL=https://x.com/Chikyu_JAMSTEC/status/1851892090306990214
@@ -137311,6 +137383,9 @@ URL=http://www.astroarts.co.jp/article/hl/a/10179_lmc
 =2026-07-15T16:00:00+09:00 Science/天文学/トピック/マヤ遺跡の壁に刻まれた数式から当時の学者の名前が初めて明らかに、「古代の大数学者に匹敵する」と研究チームは評価 - GIGAZINE
 URL=https://gigazine.net/news/20260715-mathematics-formula-from-maya/
 
+=2026-10-27T05:50:43+09:00 Science/天文学/トピック/マーズ・オデッセイがとらえた火星の大峡谷「マリネリス峡谷」 - アストロピクス
+URL=https://astropics.bookbright.co.jp/valles-marineris-mars-odyssey
+
 =2019-02-10T17:17:55+09:00 Science/天文学/トピック/ミライノシテン-本部-山口潜伏さんのツイート これ好き。 地動説と天動説の違い。天動説で考えると星の動きが複雑になりすぎる。 コペルニクスは神を信じていないわけではなく、「神がこんな複雑でわけわからんもん作るか！」と
 URL=https://twitter.com/mirainoshiten/status/1094473092020154368
 
@@ -138954,6 +139029,9 @@ URL=https://sorae.info/newslink/20230518-sapod
 
 =2023-08-16T13:49:09+09:00 Science/天文学/トピック/地球は宇宙でありふれた存在なのか？　生命もまた「宇宙にありふれた存在」なのか？（戸谷 友則） - ブルーバックス - 講談社
 URL=https://gendai.media/articles/-/113802
+
+=2026-10-26T08:46:47+09:00 Science/天文学/トピック/地球は生命にとって「最良の星」ではない？ 科学者が太陽系の外に探す楽園 - クーリエ・ジャポン
+URL=https://courrier.jp/news/archives/462973/
 
 =2022-11-26T14:56:42+09:00 Science/天文学/トピック/地球は考えられていたよりも「はるかに早く」形成されたことを示す最新研究 - Forbes JAPAN（フォーブス ジャパン）
 URL=https://forbesjapan.com/articles/detail/52260
@@ -141267,6 +141345,9 @@ URL=https://sorae.info/astronomy/20260803-black-hole-wind.html
 
 =2022-08-18T12:32:54+09:00 Science/天文学/トピック/巨大なブラックホールのペアを宿した“みずがめ座”の特異銀河。超大型望遠鏡が撮影 - sorae 宇宙へのポータルサイト
 URL=https://sorae.info/astronomy/20220818-ngc7727.html
+
+=2026-10-26T04:39:14+09:00 Science/天文学/トピック/巨大なブラックホールはどうやってジェットを噴き出す？　JAXA天文衛星「XRISM」などの観測成果
+URL=https://sorae.info/astronomy/20261026-jet-of-3c-120.html
 
 =2018-11-04T10:13:17+09:00 Science/天文学/トピック/巨大な原始超銀河団、「宇宙の灯台」たるパルサーの姿：今週の宇宙ギャラリー｜WIRED.jp
 URL=https://wired.jp/2018/11/03/lighthouses-pulsars/
@@ -145788,6 +145869,9 @@ URL=https://sorae.info/newslink/sapod-psyche-3-years-since-launch
 
 =2026-01-11T08:05:15+09:00 Science/天文学/宇宙開発/1000京ドル試算の小惑星プシケへ　探査機サイキは2029年到着を目指す
 URL=https://sorae.info/extra/psyche.html
+
+=2026-10-23T08:27:22+09:00 Science/天文学/宇宙開発/100億ウォン投じた衛星事業、失敗後も公表せず【独自】-Chosun online 朝鮮日報
+URL=https://www.chosunonline.com/site/data/html_dir/2026/10/23/2026102380122.html
 
 =2024-06-29T10:38:04+09:00 Science/天文学/宇宙開発/10日間のはずが、帰還いつ？　宇宙船スターライナー飛行試験 ｜ 共同通信
 URL=https://nordot.app/1179568863741231173?c=39550187727945729
@@ -150322,6 +150406,9 @@ URL=https://gigazine.net/news/20240826-starlink-outside-region-fee/
 =2022-12-03T08:30:00+09:00 Science/天文学/宇宙開発/Starlinkは通信障害の対策になる？スマホと衛星の直接通信は？--KDDI高橋社長が回答 - CNET Japan
 URL=https://japan.cnet.com/article/35196895/
 
+=2026-10-26T12:30:00+09:00 Science/天文学/宇宙開発/Starlinkより高速でコンパクトな高速衛星インターネットサービス「Amazon Leo」がやってくる - ギズモード・ジャパン
+URL=https://www.gizmodo.jp/article/2610-amazon-leo-satellite-internet/
+
 =2022-12-12T14:34:34+09:00 Science/天文学/宇宙開発/Starlink用アンテナを分解、カスタムICと1016個の素子がずらり - 日経クロステック（xTECH）
 URL=https://xtech.nikkei.com/atcl/nxt/column/18/02119/120700006/
 
@@ -152556,6 +152643,9 @@ URL=https://x.com/rocket_EE_okada/status/2029499498737881188
 
 =2026-10-01T08:31:28+09:00 Science/天文学/宇宙開発/XユーザーのOlaf Frohnさん- 「Map of all active &amp; planned Solar System missions and their destinations as of October 1st 20
 URL=https://x.com/OlafFrohn/status/2105440421761429811
+
+=2026-10-27T08:54:18+09:00 Science/天文学/宇宙開発/XユーザーのOlena Rohozaさん- 「The global response to Musk and Trump's pressure on Ukraine, accompanied by a temporary shutdow
+URL=https://x.com/OlenaRohoza/status/2114868253931507903
 
 =2023-10-18T15:35:03+09:00 Science/天文学/宇宙開発/XユーザーのOMOTENASHI Projectさん- 「これまでOMOTENASHIからの電波の探索を行って来ましたが、残念ながら電波は受信できませんでした。
 URL=https://twitter.com/OMOTENASHI_JAXA/status/1714530511757156563
@@ -160246,6 +160336,9 @@ URL=https://forbesjapan.com/articles/detail/78464
 =2022-03-07T12:36:10+09:00 Science/天文学/宇宙開発/マスク氏、ウクライナでの「Starlink」利用に注意喚起--ロシアの標的になるおそれ - CNET Japan
 URL=https://japan.cnet.com/article/35184510/
 
+=2026-10-25T07:02:37+09:00 Science/天文学/宇宙開発/マスク氏、ウクライナのスターリンク接続をスペースXが制限したと説明　サービスは復旧 - BBCニュース
+URL=https://www.bbc.com/japanese/articles/c6y0e9epklgxo
+
 =2026-10-21T09:14:16+09:00 Science/天文学/宇宙開発/マスク氏、ウクライナ向け衛星通信の制限を指示 米紙報道　写真2枚　国際ニュース：AFPBB News
 URL=https://www.afpbb.com/articles/-/3658582
 
@@ -160293,6 +160386,9 @@ URL=https://sorae.info/space/20210906-katherine-johnson.html
 
 =2018-11-20T04:55:58+09:00 Science/天文学/宇宙開発/マーズ2020ローバーの着陸地が決定！！！ 小野雅裕のブログ
 URL=http://hiroono.com/ja/2018/11/20/m2020_jazero/
+
+=2026-10-27T05:50:43+09:00 Science/天文学/宇宙開発/マーズ・オデッセイがとらえた火星の大峡谷「マリネリス峡谷」 - アストロピクス
+URL=https://astropics.bookbright.co.jp/valles-marineris-mars-odyssey
 
 =2024-08-20T06:31:43+09:00 Science/天文学/宇宙開発/ミサイル探知追尾の衛星網を構築　防衛省が初要求、3000億円超 ｜ 共同通信
 URL=https://nordot.app/1198614988715475676?c=39550187727945729
@@ -169270,6 +169366,9 @@ URL=https://x.com/vudiho/status/2075516427700949389
 =2026-09-29T01:13:20+09:00 Science/数学/Xユーザーのリアル農夫houmei@【JCU】マイクラ城郭再現【BE勢】さん- 「お願いがあります。 数学強い人に聞きたいです。
 URL=https://x.com/nouhuhoumei/status/2104605384770297998
 
+=2026-10-25T22:18:58+09:00 Science/数学/Xユーザーのリアル農夫houmei@【JCU】マイクラ城郭再現【BE勢】さん- 「けどまあ、アラビア語でギリシャ哲学や科学にアクセスできるようになったのは日本の明治期の翻訳と一致するし、「英語で大学の講義をすればなんでもうまくいく( ｰ
+URL=https://x.com/nouhuhoumei/status/2114345979361263936
+
 =2026-01-01T21:58:38+09:00 Science/数学/Xユーザーのロボ太さん- 「初詣客「次の人の願いがかないますように」 初詣客「前の人の願いがかないますように」 神社「Exception in thread -main- java.lang.StackOverflowError」」 -
 URL=https://x.com/kaityo256/status/2006711666256515091
 
@@ -171699,6 +171798,9 @@ URL=https://twitter.com/mathlava/status/1289119318731415554
 
 =2022-08-25T14:53:26+09:00 Science/数学/数学を愛する会さんはTwitterを使っています- 「数学好きに迷路を解く方法を聞いてみた結果 https---t.co-aPb5Ubwk3C」 - Twitter
 URL=https://twitter.com/mathlava/status/1562679525804482560
+
+=2026-10-26T08:39:41+09:00 Science/数学/数学を揺るがすAI。その影響は科学のほかの領域にも広がりつつある - WIRED.jp
+URL=https://wired.jp/article/ai-is-coming-for-science-next-watch-out/
 
 =2024-07-26T11:48:00+09:00 Science/数学/数学オリンピックの問題で銀メダルレベルのスコアを残すAIを開発したとGoogle DeepMindが発表 - GIGAZINE
 URL=https://gigazine.net/news/20240726-google-deepmind-silver-medal-mathematical-olympiad-problems/
@@ -180589,6 +180691,9 @@ URL=https://gigazine.net/news/20240722-polar-vortex-stratospheric-warming/
 =2023-01-16T10:52:17+09:00 Science/気象学・環境/南極のオゾンホール、2066年ごろまでに消失へ　国連報告- 日本経済新聞
 URL=https://www.nikkei.com/article/DGXZQOCB12CCM0S3A110C2000000/
 
+=2026-10-26T14:04:53+09:00 Science/気象学・環境/南極のレーダー観測が南半球の中緯度地域の気象予報に貢献 -南半球に大雨や大雪をもたらす「大気の川」の再現・予報精度の向上に新たな可能性- - 2026年度 研究成果 - 国立極地研究所
+URL=https://www.nipr.ac.jp/info2026/20261026.html
+
 =2023-09-26T18:01:08+09:00 Science/気象学・環境/南極の冬の海氷面積、過去最小を大幅更新　気候変動に懸念 - ロイター
 URL=https://jp.reuters.com/life/XK2PY2DSTZPSVI3BKSU7CIDIWY-2023-09-26/
 
@@ -181602,6 +181707,9 @@ URL=https://newsdig.tbs.co.jp/articles/-/2030014?display=1
 
 =2019-11-12T19:08:33+09:00 Science/気象学・環境/日本のプラスチックごみの行方を知って、冷静な議論を 小野恭子 リスク評価手法の開発 SYNODOS -シノドス-
 URL=https://synodos.jp/society/22945
+
+=2026-10-25T08:27:59+09:00 Science/気象学・環境/日本の四季が「二季」になる？　「ちいさい秋」を探して - 日本経済新聞
+URL=https://www.nikkei.com/article/DGXZQOUD0245V0S6A001C2000000/
 
 =2026-01-30T15:25:13+09:00 Science/気象学・環境/日本の家なぜ寒い？低体温症の死者 年1000人超 8割が室内 上下の温度差に注意
 URL=https://news.tv-asahi.co.jp/news_society/articles/900183001.html
@@ -192571,6 +192679,9 @@ URL=https://x.com/bou128/status/2051972644673921102
 =2025-10-19T00:23:44+09:00 Science/生物学/XユーザーのAlmondfishサメ子さん- 「すごいのは千葉県は熊がいたことがないんだってね。絶滅じゃなくて、過去にもいたことがない。
 URL=https://x.com/realAlmondfish/status/1979569089459994861
 
+=2026-10-25T05:40:00+09:00 Science/生物学/XユーザーのAltoさん- 「鎌倉の海辺で、サンドイッチを一口食べようとした瞬間、空から何か降りてきてサンドイッチだけ持っていっちゃったんだ。
+URL=https://x.com/AltoBot/status/2114094578840072685
+
 =2026-04-22T21:53:43+09:00 Science/生物学/Xユーザーのambrosiusさん- 「今日いつもお世話になっている動物病院の先生から結構深刻なお話をうかがいました。お知り合いの獣医師さんが、道で倒れていて運ばれたキツネを診察、看護師の方と万全の防護で臨んだにも関わらず、SFTSに感
 URL=https://x.com/ambrosius1978/status/2046935482773524578
 
@@ -196051,6 +196162,9 @@ URL=https://x.com/Iwatekko6969/status/1928754409909141722
 =2025-07-17T19:27:24+09:00 Science/生物学/Xユーザーのすぽんちゅさん- 「私は幸いなことに今まで山中でクマに遭ったことがないが、これはやっぱり爆竹持ち歩いてるからだと思う。 カーブしてて先が見通せない道とか、獣臭いところでは必ず鳴らすようにしてる。一回、見知らぬ山菜採りのおじさんにバカにされ
 URL=https://x.com/Iwatekko6969/status/1945792445306077470
 
+=2026-10-25T13:01:25+09:00 Science/生物学/Xユーザーのすわさん- 「小児科医です。非小児科医であれば、赤ちゃんにしかない反射を診る機会があまりないのでやってみたくなるのかもしれません。
+URL=https://x.com/suwacchi_napier/status/2114205667427045468
+
 =2026-02-11T17:14:46+09:00 Science/生物学/Xユーザーのすーさん@誤字多めさん- 「人工授精の研究と技術が進めば、繁殖のために移動させなくても済む。 相性の悪いペアを無理に同居させなくても済む。
 URL=https://x.com/suimu_calcite/status/2021498129552638248
 
@@ -196891,6 +197005,9 @@ URL=https://x.com/ahoukahou/status/1926116776342937874
 =2023-12-08T16:28:33+09:00 Science/生物学/Xユーザーのやまねこ楢ノ木技研さん- 「半硬化したシリコーンゴムをカマドウマが貫通するプロセスがなんとなくわかった。。まず、最初の個体が無理やり突っ込んで途中で息絶える。
 URL=https://twitter.com/felis_silv/status/1733025758539661343
 
+=2026-10-24T15:03:48+09:00 Science/生物学/Xユーザーのやよいさん- 「四日市にコウノトリおるんやけどあんたこんなところおってええんか？ えっ？ コウノトリやんねこれ？？？ https---t.co-U3gw0hlrbu」 - X
+URL=https://x.com/Yayoi55_bot/status/2113874075437453345
+
 =2026-10-22T15:08:47+09:00 Science/生物学/Xユーザーのゆ.Nakamuraさん- 「うちのインコはリモート打ち合わせ中はわりかし静かやけど、「お疲れ様です」がトリガーになって発狂するからやばい。
 URL=https://x.com/nakamura88_/status/2113150557045379333
 
@@ -196911,6 +197028,9 @@ URL=https://x.com/yukaric03886076/status/1972793851728592896
 
 =2026-08-30T06:49:27+09:00 Science/生物学/Xユーザーのゆきさん- 「植物検疫において土は最も警戒されており基本的にどんなに少量だろうが混入していれば問答無用で輸入不可になるからです。
 URL=https://x.com/fkjhZTXeqKN3Tqi/status/2093818337281368159
+
+=2026-10-25T07:44:58+09:00 Science/生物学/Xユーザーのゆきのりさん- 「軍用犬を作ろうとしている会社は小泉進次郎と繋がっている 人間のくだらない戦争に犬を巻き込むな！！！ きっと戦場では偵察だけではない 人間は昔、犬を特攻隊と同じように使っていた過去がある 本当にムカついて涙が
+URL=https://x.com/puppyukinori/status/2114126029065453932
 
 =2023-10-12T14:52:26+09:00 Science/生物学/Xユーザーのゆきま_創作本通販中さん- 「フィッシュアンドチップスの魚がなんの魚なのか、っていう漫画がTLに流れてきてたけど、植生と動物は邦訳とかでアジアや日本に生息してる近似種、に置き換えられていたり（誤訳の場合も多々ある）するので、実物のヨーロッ
 URL=https://twitter.com/Ch_yukima/status/1712345460999131374
@@ -201859,6 +201979,9 @@ URL=https://x.com/gishigaku/status/1911278475442532421
 =2026-09-08T21:16:13+09:00 Science/生物学/Xユーザーの原田　実さん- 「国芳の無駄描きに出てくるニャロメ氏の先祖みたいな猫さん、尻尾はちゃんと二股だし、昭和の妖怪事典に「ニャロメ」の項目が立てられた例があるから、妖怪画扱いでいいと思う。
 URL=https://x.com/gishigaku/status/2097297957183799389
 
+=2026-10-27T16:33:47+09:00 Science/生物学/Xユーザーの原田　実さん- 「狸映画は1930～60年代まで日本映画の一大ジャンルだったが1970年代にいったん消滅。その後は80年代、90年代、ゼロ年代、（今のところ）2020年代に各一本のみというありさまになった。 https---
+URL=https://x.com/gishigaku/status/2114983884228378962
+
 =2026-05-12T13:10:38+09:00 Science/生物学/Xユーザーの原田　実さん- 「猫が死体を操るというのは火車と同一視されたからで、おそらく猫に死期が近い人の体臭の変化を感じ取って近づく習性があるからだろうけど、アメリカでは病院で買われた猫が臨終の床に寄り添い患者を慰める天使としてかわい
 URL=https://x.com/gishigaku/status/2054051600042459222
 
@@ -202960,6 +203083,9 @@ URL=https://x.com/nennpa/status/1888818055473738089
 =2025-03-05T22:54:49+09:00 Science/生物学/Xユーザーの怪人ウシガエル男さん- 「うおおおおー！！ 我が家のビオトープに降臨されとる！ これで、私も種の保存法の第三十四条：土地所有者等の義務を負うものになったよ。
 URL=https://x.com/suppon/status/1897284668241928642
 
+=2026-10-25T22:47:12+09:00 Science/生物学/Xユーザーの悪嘘 トヰバーチャル見世物屋さん- 「クマ対策について、個体識別+学習放獣の組み合わせは一定の効果を上げている所もありますが、個体数が多すぎない事やゴミ対策等をしていてクマとの軋轢が少ない場合に限ることが多いです。
+URL=https://x.com/Ashidema_Toi/status/2114353082108989566
+
 =2026-10-04T17:24:15+09:00 Science/生物学/Xユーザーの悲しそうな顔の病理烏賊さん- 「こういう動物が生の鶏肉食べてもカンピロバクター感染は起きない(と思ってる)。
 URL=https://x.com/squid_no_natsu/status/2106661664154382497
 
@@ -203476,6 +203602,9 @@ URL=https://twitter.com/ShinyaMatsuura/status/1751744521132716162
 =2024-07-27T17:00:28+09:00 Science/生物学/Xユーザーの林 雄司さん- 「バットディテクター（コウモリの超音波を聞く装置）を買ったので街の超音波を聞いて回ってた https---t.co-8P2sm7LMTw」 - X
 URL=https://x.com/yaginome/status/1817107774842765414
 
+=2026-10-26T06:38:07+09:00 Science/生物学/Xユーザーの林　譲治さん- 「「遺伝子を組み換えれば強い軍用犬になる」ってのは科学ではなくレイシズムそのものだよ。個体の特性は遺伝子で決まると言ってるわけだからね。」 - X
+URL=https://x.com/J_kaliy/status/2114471592319394123
+
 =2026-10-09T18:08:54+09:00 Science/生物学/Xユーザーの林　譲治さん- 「あとホモ・サピエンスの遺伝子の多様性は同じ山のゴリラの遺伝子の多様性より狭いくらいのもので、そもそもそれで民族を定義するなど意味がないよ。
 URL=https://x.com/J_kaliy/status/2108484842858111033
 
@@ -203628,6 +203757,9 @@ URL=https://x.com/Molice/status/2039484957593305286
 
 =2024-12-12T09:43:33+09:00 Science/生物学/Xユーザーの森瀬 繚＠セーフモードさん- 「-終末の魚 Doomsday Fish-という異名は、元の英語版記事にもありました。興味が湧いたので調べてみると、どうやら英語圏で広まったのは、東日本大震災の折。前年に10数匹のこの魚が海岸に漂着したことが
 URL=https://x.com/Molice/status/1867007348239372369
+
+=2026-10-26T10:49:09+09:00 Science/生物学/Xユーザーの森瀬 繚＠セーフモードさん- 「狸の話題に便乗。『南総里見八犬傳』では、悪女・玉梓に関連して-玉面-が狸の古名として言及されますが、『本草綱目』における玉面狸は美味、美臭ということで、現代ではハクビシンだと解釈されています。
+URL=https://x.com/Molice/status/2114534766330704160
 
 =2022-02-12T00:51:15+09:00 Science/生物学/Xユーザーの森瀬 繚＠翻訳クラファン開催中（固定ポスト参照）さん- 「#cthulhujp ヨタカの鳴き声が国によって違うということは、たとえば翻訳小説に「ヨタカの鳴き声」と出てきた時、読者が思い浮かべる印象が作者の意図したものと異なってしまいかねぬ
 URL=https://twitter.com/Molice/status/1492164335271292929
@@ -203946,6 +204078,9 @@ URL=https://x.com/michitakawatana/status/2030191763504386390
 
 =2026-04-17T12:08:00+09:00 Science/生物学/Xユーザーの温泉ペンギンさん- 「Y染色体は受け継がれるだろという意見がありますが、 ・Y染色体も遺伝の過程で変異する ・後宮も宦官もない日本の朝廷では父系が途切れず継承してる保障はない ・そもそもY染色体が受け継がれてるから何なの？そ
 URL=https://x.com/pen_pen2020/status/2044976141619040600
+
+=2026-10-26T17:30:39+09:00 Science/生物学/Xユーザーの温泉ペンギンさん- 「犬に爆弾背負わせて戦車に突っ込ませる国は、人間にも同じことをやらせるよね。この国は沖縄戦で子ども達にやらせた前科があるし。
+URL=https://x.com/pen_pen2020/status/2114635807743222046
 
 =2025-02-05T17:21:16+09:00 Science/生物学/Xユーザーの満田晴穂さん- 「自在置物　大王具足虫 ついに最後のロウ付けが終わったと動きのチェックしてたら自重で脚の関節が折れた。 外骨格の生物が陸上で大型化出来ない理由が垣間見れた。 https---t.co-lBJsR6fm1H」 - X
 URL=https://x.com/haruomitsuta/status/1887053867504033986
@@ -206946,6 +207081,9 @@ URL=https://news.yahoo.co.jp/expert/articles/7376c8c57abc1de67781e90babfaece22c7
 
 =2023-07-03T10:48:29+09:00 Science/生物学/「心臓」でも「肺」でもない、じつは「人体最強」の「臓器」…その名に恥じない「機能」と「しくみ」が凄かった！（椛島 健治） - ブルーバックス - 講談社
 URL=https://gendai.media/articles/-/112133?imp=0
+
+=2026-10-27T06:04:45+09:00 Science/生物学/「怒りがおさまらない」父は超有名アーティストの二世ミュージシャン　小泉進次郎氏と軍用犬開発キーマンの“握手写真”に怒り投稿 - 女性自身
+URL=https://jisin.jp/entertainment/entertainment-news/2606152/
 
 =2026-10-02T20:30:00+09:00 Science/生物学/「怖い話しますね」　庭を見ると……背筋が凍る光景に「終わりましたね」「いやあああ！」「私なら泣き叫ぶ」 - ライフスタイル ねとらぼ
 URL=https://nlab.itmedia.co.jp/cont/articles/4026336/
@@ -213079,6 +213217,9 @@ URL=https://www.s.u-tokyo.ac.jp/ja/press/2022/8042/
 =2025-08-29T06:21:39+09:00 Science/生物学/クマ対策で来年度当初予算３７億円計上、環境省の概算要求…専門職員・防護柵・緩衝帯 - 読売新聞
 URL=https://www.yomiuri.co.jp/national/20250829-OYT1T50120/
 
+=2026-10-24T20:00:00+09:00 Science/生物学/クマ対策で泣く泣く伐採した“柿の木”→驚きの正体に「何百万ですよ！」「大儲けじゃん！」と78万再生 - その他生き物 ねとらぼ
+URL=https://nlab.itmedia.co.jp/cont/articles/4035060/
+
 =2025-04-18T05:10:37+09:00 Science/生物学/クマ被害“特例的に市街地でも猟銃の使用可” 改正法が成立 - NHK - クマ被害
 URL=https://www3.nhk.or.jp/news/html/20250418/k10014782941000.html
 
@@ -215109,6 +215250,9 @@ URL=https://news.jp/i/1425966189058392103?c=39550187727945729
 
 =2024-06-02T12:04:35+09:00 Science/生物学/ペットも高齢化、のしかかる「老老介護」　老犬・老猫ホーム急増 - 日本経済新聞
 URL=https://www.nikkei.com/article/DGXZQOUE094JV0Z00C25A4000000/
+
+=2026-10-26T08:27:36+09:00 Science/生物学/ペット向けも登場、遺体を焼かずアルカリ水溶液で分解する「アクアメーション」は日本の葬送を変えるか？ 【現代死生考】冬の火葬待ちは東京で平均8日、料金高騰と火葬混雑が深刻化する多死社会・日本の新しい選択肢 - JBpress (ジェイビー
+URL=https://jbpress.ismedia.jp/articles/-/97686
 
 =2026-01-17T09:13:41+09:00 Science/生物学/ペット業界の闇：展示場でぐったり…4日で廃業も　犬猫の移動販売に規制強化求める声 - 毎日新聞
 URL=https://mainichi.jp/articles/20260116/k00/00m/100/165000c
@@ -218181,6 +218325,9 @@ URL=https://bookstand.webdoku.jp/news/2021/06/07/200000.html
 
 =2023-08-16T13:49:09+09:00 Science/生物学/地球は宇宙でありふれた存在なのか？　生命もまた「宇宙にありふれた存在」なのか？（戸谷 友則） - ブルーバックス - 講談社
 URL=https://gendai.media/articles/-/113802
+
+=2026-10-26T08:46:47+09:00 Science/生物学/地球は生命にとって「最良の星」ではない？ 科学者が太陽系の外に探す楽園 - クーリエ・ジャポン
+URL=https://courrier.jp/news/archives/462973/
 
 =2024-01-01T13:57:43+09:00 Science/生物学/地球は第6の大量絶滅時代に突入した？人類の未来を左右する森林消失の悪夢 気鋭の地質学者・九州大学大学院教授の尾上哲治が語る2024年のキーワード - JBpress (ジェイビープレス)
 URL=https://jbpress.ismedia.jp/articles/-/78624
@@ -221706,6 +221853,9 @@ URL=https://twitter.com/AsaiLabot2/status/1272389276659888128
 
 =2026-05-27T08:00:35+09:00 Science/生物学/浜名湖で一度は姿を消した…「海のゆりかご」アマモ　植生が本格的に回復　浜松・湖西市の漁師の試行錯誤実る｜静岡新聞DIGITAL 静岡県のニュース
 URL=https://news.at-s.com/article/1979696
+
+=2024-01-09T13:01:00+09:00 Science/生物学/浜辺でずっと欲しかったクジラの骨を発見→持ち帰ろうと思ったら思わぬ落とし穴が　地元の自治体に連絡した結果は？ - ねとらぼ
+URL=https://nlab.itmedia.co.jp/cont/articles/3370620/
 
 =2018-07-23T19:20:36+09:00 Science/生物学/浪花道@3日目東L-44aさんのツイート これすごく「日常を侵食する非日常」の背筋ゾクゾクする感じ味わえるからみんな買って…
 URL=https://twitter.com/naniwadou999/status/1021355974068559872
@@ -227044,6 +227194,9 @@ URL=https://x.com/wordcage/status/2017489612378386886
 =2026-03-08T01:55:38+09:00 SIG/単位・進法/XユーザーのWylfċenさん- 「Fun fact- Tolkien got the word ‘eleventy’ from Old English. After 70, 80, and 90, Old English kept g
 URL=https://x.com/wylfcen/status/2030326517679452216
 
+=2026-10-25T14:11:05+09:00 SIG/単位・進法/XユーザーのWさん- 「なぜ1ダースには12個あるのでしょうか
+URL=https://x.com/sxicex/status/2114223198783049740
+
 =2025-03-18T04:06:42+09:00 SIG/単位・進法/XユーザーのYildiz - Sans Mercyさん- 「-In 2015 the Dozenal Society of America adopted the more compact single-letter abbreviation -z-
 URL=https://x.com/iamiwhois/status/1901711809335177446
 
@@ -229941,6 +230094,9 @@ URL=http://www.huffingtonpost.jp/2018/02/01/japanese-emperor_a_23350737/
 
 =2022-09-08T10:19:30+09:00 SIG/暦/トピック/太田記念美術館 Ota Memorial Museum of ArtさんはTwitterを使っています- 「家内安全を守るため、十二支の動物たちはこのように合体したようです。
 URL=https://twitter.com/ukiyoeota/status/1567684015142105089
+
+=2026-10-25T08:23:33+09:00 SIG/暦/トピック/太陰暦　三酔人経綸問答㉘｜みをつくし
+URL=https://note.com/joyous_honest486/n/n1d108b78b6de
 
 =2022-07-27T07:52:45+09:00 SIG/暦/トピック/太陽は月より400倍大きいし、天文学基準で日曜日が長くなってくれないかな→天文学者が心強いマジレス - Togetter
 URL=https://togetter.com/li/1922073
@@ -237163,6 +237319,9 @@ URL=http://www.jisc.go.jp/app/pager?%23jps.JPSH0090D:JPSO0023:/JPS/JPSO0090.jsp=
 =2025-02-09T10:00:00+09:00 SIG/暦/規格/Xユーザーの(((はげしい)))キーウィ@オカリナ講師のジャスティンさん- 「みんな日付の書き方が違うから、わたしはこう https---t.co-aBagezvx4t」 - X
 URL=https://x.com/Justin_ocarina/status/1888392371513024893
 
+=2026-10-24T01:03:39+09:00 SIG/暦/規格/XユーザーのADACHI Masatoshi ..-.. 足立昌聰さん- 「3-5日以内とされる速報（規則8条1項）は「事態を知った後、速やかに」という規定ぶりなので、確報の「知った日から30日以内」（規則8条2項）とは異なり、期間を定
+URL=https://x.com/MasatoshiAdachi/status/2113662645819891971
+
 =2025-07-29T09:52:22+09:00 SIG/暦/規格/XユーザーのTakeharu Masudaさん- 「@Sloth_Horse ISO 8601（国際規格）で、並べ方や表記法を厳格に規定していて、 日付： yyyy-mm-dd もしくは yyyymmdd 時刻：（24時間表記のみ許される） hh-m
 URL=https://x.com/tacsheaven/status/1949996385480450482
 
@@ -237177,6 +237336,9 @@ URL=https://x.com/Sloth_Horse/status/1949771319211675847
 
 =2024-04-24T05:23:00+09:00 SIG/暦/規格/Xユーザーのシャポコさん- 「軽い気持ちで調べ始めたらグロい表ができた https---t.co-2WKVdFtn0a」 - X
 URL=https://twitter.com/shapoco/status/1782867792901152788
+
+=2026-10-23T21:56:21+09:00 SIG/暦/規格/Xユーザーの初心シャさん- 「個人情報漏えい時の確報について、規則上は初日不参入だが、運用上は初日算入になっているのは、行政機関も同様。
+URL=https://x.com/chihojichi/status/2113615512098013282
 
 =2026-01-19T09:54:28+09:00 SIG/暦/規格/【RESEARCH】日本の暦に関する全ての法令一覧──完全解説｜地球暦 HELIO COMPASS
 URL=https://note.com/helio_compass/n/n15f141d29931
@@ -237195,6 +237357,9 @@ URL=https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%AA%E3%82%A6%E3%82%B9%E9%80%9A%
 
 =2018-07-29T10:55:22+09:00 SIG/暦/規格/先発グレゴリオ暦 - Wikipedia
 URL=https://ja.wikipedia.org/wiki/%E5%85%88%E7%99%BA%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%82%AA%E6%9A%A6
+
+=2026-10-26T14:02:01+09:00 SIG/暦/規格/初日不算入か初日算入かについて解釈論の余地はあるか｜白石忠志
+URL=https://note.com/tadashisan/n/ne2373992e277
 
 =2016-11-04T06:58:07+09:00 SIG/暦/規格/国立国会図書館デジタルコレクション - 法令全書. 明治６年太政官布告258号(7月20日)
 URL=http://dl.ndl.go.jp/info:ndljp/pid/787953/266
