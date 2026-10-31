@@ -21907,6 +21907,9 @@ URL=https://www.zaikei.co.jp/article/20190629/518426.html
 =2023-11-25T03:33:21+09:00 Computer/トピック/セキュリティ/AIが人生の会話のすべてを記録していく未来とは WIRED.jp
 URL=https://wired.jp/article/the-case-for-using-ai-to-log-your-every-living-moment/
 
+=2026-10-29T17:34:02+09:00 Computer/トピック/セキュリティ/AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態：ちょっと昔のInnovative Tech - ITmedia NEWS
+URL=https://www.itmedia.co.jp/news/article/2610/29/2000002679/
+
 =2023-10-19T00:00:00+09:00 Computer/トピック/セキュリティ/AIが人間の専門家並みにインシデント調査へ貢献。“CmdGPT”を活用した台湾発プラットフォームが注目集める Techable(テッカブル)
 URL=https://techable.jp/archives/220821
 
@@ -23625,6 +23628,9 @@ URL=https://wirelesswire.jp/2018/04/64722/
 
 =2026-10-06T05:15:05+09:00 Computer/トピック/セキュリティ/ARTEX/AIペネトレーションテストツール「ARTEX」についてまとめてみた - piyolog
 URL=https://piyolog.hatenadiary.jp/entry/2026/10/06/121225
+
+=2026-10-23T17:54:32+09:00 Computer/トピック/セキュリティ/ARTEX/ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態 - トレンドマイクロ (JP)
+URL=https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html
 
 =2026-10-07T00:37:42+09:00 Computer/トピック/セキュリティ/ARTEX/Xユーザーのconnect24hさん- 「噂の自律テンペストエージェント、ARTEX、うちの環境で評価してみた。
 URL=https://x.com/connect24h/status/2107495522198306988
@@ -25405,6 +25411,9 @@ URL=https://note.com/natty_puma9348/n/n12b47ebc76a2
 =2024-12-03T10:30:00+09:00 Computer/トピック/セキュリティ/ChatGPTに特定の人物名を入力すると動作が停止することが判明 - GIGAZINE
 URL=https://gigazine.net/news/20241203-chatgpt-refuses-to-say-the-names/
 
+=2026-10-30T07:08:43+09:00 Computer/トピック/セキュリティ/ChatGPTに絶対入力してはいけない情報　漏洩から身を守る3つの対策 - Forbes JAPAN 公式サイト（フォーブス ジャパン）
+URL=https://forbesjapan.com/articles/detail/106736
+
 =2023-08-10T10:06:00+09:00 Computer/トピック/セキュリティ/ChatGPTの“脱獄プロンプト”登場　文末に書くだけで「爆弾の作り方」「IDの盗み方」に回答：Innovative Tech - ITmedia NEWS
 URL=https://www.itmedia.co.jp/news/articles/2308/10/news041.html
 
@@ -26097,6 +26106,9 @@ URL=https://gigazine.net/news/20260715-cursor-0day-disclosure/
 
 =2021-12-14T15:15:11+09:00 Computer/トピック/セキュリティ/CVE-2021-44228 Log4jの脆弱性のAWS環境への影響 - Qiita
 URL=https://qiita.com/tsukamoto/items/858f2bb863e75d4225c4
+
+=2026-10-30T15:29:00+09:00 Computer/トピック/セキュリティ/CVE-2026-98432 について調べてみた - 11 年潜んでいた Linux の TCP の脆弱性と2行の修正
+URL=https://zenn.dev/pollenjp/articles/2026-10-29-linux-tcp-ip-options-uaf
 
 =2026-10-16T05:43:02+09:00 Computer/トピック/セキュリティ/CVE-2026-99999（PwnEscape）を読み解く──「KVMの脆弱性」ではなく、Linuxネットワークスタックの脆弱性 #AWS - Qiita
 URL=https://qiita.com/k2_naka/items/fa87685231377f15e7e3
@@ -26958,6 +26970,9 @@ URL=https://smhn.info/202405-sim-hijack-again
 
 =2024-04-09T15:18:54+09:00 Computer/トピック/セキュリティ/eKYC/国会で「もう詰んでいるんです！」マイナンバー流出の「週刊現代」記事は国会でなぜ問題にされたのか（岩瀬 達哉） - 現代ビジネス - 講談社
 URL=https://gendai.media/articles/-/127469
+
+=2026-10-28T17:36:15+09:00 Computer/トピック/セキュリティ/eKYC/失効免許証の不正流用、西日本の県警でも　元公安捜査員が新証言 - 毎日新聞
+URL=https://mainichi.jp/articles/20261028/k00/00m/040/220000c
 
 =2026-10-22T07:06:58+09:00 Computer/トピック/セキュリティ/eKYC/失効免許証を警備部門に流用　神奈川県警で30年前から常態化か - 毎日新聞
 URL=https://mainichi.jp/articles/20261021/k00/00m/040/394000c
@@ -33184,6 +33199,9 @@ URL=https://gigazine.net/news/20261005-debian-security-advisory/
 =2026-05-11T16:42:00+09:00 Computer/トピック/セキュリティ/Linuxカーネルの論理バグ“Copy Fail”が示した論理バグとゼロコピーの危険な連鎖 - gihyo.jp
 URL=https://gihyo.jp/article/2026/05/daily-linux-260511
 
+=2026-10-30T17:27:54+09:00 Computer/トピック/セキュリティ/Linuxカーネルの重大な脆弱性（CVE-2026-98432）によるカーリルへの影響について - カーリルのブログ
+URL=https://blog.calil.jp/2026/10/linux-kernel.html
+
 =2021-06-21T11:18:18+09:00 Computer/トピック/セキュリティ/Linuxカーネル開発における「Rust」採用の動き、グーグルとISRGがさらなる後押し - ZDNet Japan
 URL=https://japan.zdnet.com/article/35172646/
 
@@ -38530,6 +38548,9 @@ URL=https://www.viet-jo.com/news/economy/200918190531.html
 =2025-07-25T05:00:00+09:00 Computer/トピック/セキュリティ/VPNから侵入したランサムウェア攻撃、内部不正による情報漏えいなど、皆がよく知るインシデントについて大阪大学 猪俣教授が語り続ける意味：ITmedia Security Week 2025 春 - ＠IT
 URL=https://atmarkit.itmedia.co.jp/ait/articles/2507/22/news009.html
 
+=2026-10-29T07:55:00+09:00 Computer/トピック/セキュリティ/VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】 - INTERNET Watch
+URL=https://internet.watch.impress.co.jp/docs/event/2151590.html
+
 =2020-08-25T07:30:00+09:00 Computer/トピック/セキュリティ/VPNが不正アクセス経路に--制御系システムのセキュリティ - ZDNet Japan
 URL=https://japan.zdnet.com/article/35158574/
 
@@ -39139,6 +39160,9 @@ URL=https://www.itmedia.co.jp/news/articles/2211/08/news185.html
 =2018-02-26T14:01:00+09:00 Computer/トピック/セキュリティ/WordPressのセキュリティの現状を分析--ジェイピー・セキュアが研究組織を開設 - ZD...
 URL=https://japan.zdnet.com/article/35115247/
 
+=2026-10-30T06:30:11+09:00 Computer/トピック/セキュリティ/WordPressの脆弱性「wp2shell」を狙った攻撃の観測 #Security - Qiita
+URL=https://qiita.com/melkihara/items/8bb5e61321066be53d83
+
 =2021-01-26T09:18:18+09:00 Computer/トピック/セキュリティ/WordPressを運用中のサーバがまるごとPHPマルウェアに感染していた時の対応メモ - Qiita
 URL=https://qiita.com/Ayutanalects/items/a359df4e4b445229fcf2
 
@@ -39369,6 +39393,9 @@ URL=https://twitter.com/MasatoshiAdachi/status/1769629746437201934
 
 =2026-07-10T14:19:51+09:00 Computer/トピック/セキュリティ/XユーザーのADACHI Masatoshi ..-.. 足立昌聰さん- 「改正法も成立したので、統計利用等特例を巡って話題になっていた、「医療情報の統計利用等に患者の氏名が必要か」という極めてテクニカルな（あまり本質的でない）論点につ
 URL=https://x.com/MasatoshiAdachi/status/2075449903522713638
+
+=2026-10-30T19:30:15+09:00 Computer/トピック/セキュリティ/XユーザーのADACHI Masatoshi ..-.. 足立昌聰さん- 「日弁連から「【緊急】サイバーセキュリティ注意喚起　日本弁護士連合会から会員の皆様へ」と題して配信されているメール。
+URL=https://x.com/MasatoshiAdachi/status/2116115459561169209
 
 =2026-09-15T11:17:47+09:00 Computer/トピック/セキュリティ/XユーザーのADACHI Masatoshi ..-.. 足立昌聰さん- 「本件は、ICH M14の国内プロセスを進めつつ、FDAが導入したような匿名化・欠損データの受け入れをPMDAに求める内容かと思います。
 URL=https://x.com/MasatoshiAdachi/status/2099684069953126676
@@ -39654,6 +39681,9 @@ URL=https://x.com/dnobori/status/1951939964482298057
 
 =2026-10-12T23:58:44+09:00 Computer/トピック/セキュリティ/XユーザーのDan Kogai (小飼 弾)さん- 「「(ツイートの)指摘を踏まえてpasskeyの図解を描き直して」というプロンプトでChatGPTが描いたのがこちら。
 URL=https://x.com/dankogai/status/2109660044694614365
+
+=2026-10-29T13:31:18+09:00 Computer/トピック/セキュリティ/XユーザーのDaniel Parkさん- 「ピクルのCEOのDanielです。昨日、ピクルがユーザーの確認なしにホテルへ電話をかけ、2回目にはAIだと名乗りませんでした。ご本人とホテルにお詫びします。お店への電話は「かける前に確認」と「
+URL=https://x.com/danifesto/status/2115662737779097865
 
 =2025-10-09T16:10:27+09:00 Computer/トピック/セキュリティ/Xユーザーのdaookmnf231さん- 「#中国人の日常 中国の公務員さん、中華AIの検閲が厳しすぎる為、大量な機密文書をChatGPTに放り込んで処理 ↓ 内容が「過激」としてChatGPTの規約に引っかかり、監視・追跡の対象に ↓
 URL=https://x.com/daookmnf231/status/1976183462257475800
@@ -40278,6 +40308,9 @@ URL=https://twitter.com/HiromitsuTakagi/status/1022875441214832645
 
 =2025-12-30T16:21:19+09:00 Computer/トピック/セキュリティ/XユーザーのHiromitsu Takagiさん- 「「プリンシプル・コード（仮称）（案）概要開示対象事項 具体例」のここ、UserAgentの意味を勘違いしてるねえ。
 URL=https://x.com/HiromitsuTakagi/status/2005902000719028593
+
+=2026-10-30T11:05:22+09:00 Computer/トピック/セキュリティ/XユーザーのHiromitsu Takagiさん- 「「マーケティングや販促に利用するため保持し続ける」？ 本人に対してならそもそも目的外利用で違法。
+URL=https://x.com/HiromitsuTakagi/status/2115988402206339098
 
 =2025-10-21T09:38:12+09:00 Computer/トピック/セキュリティ/XユーザーのHiromitsu Takagiさん- 「「ユーザーから見ると、企業としての姿勢は評価」だって？ いやいや、良し悪しを見抜けない法務が責任回避して、ユーザーに責任を押し付けてるだけやん。
 URL=https://x.com/HiromitsuTakagi/status/1980433401778991349
@@ -43024,6 +43057,9 @@ URL=https://twitter.com/smbd/status/1773619067665915938
 =2026-07-12T12:04:47+09:00 Computer/トピック/セキュリティ/Xユーザーのmiwa seshimoさん- 「議員さんだけではなく、大手報道機関が、ほぼ妄想である「個人情報ダダ洩れ問題」をさも大問題であるかのようにキャンペーンはってしまったことが罪深い。
 URL=https://x.com/SeshimoMiwa/status/2076140687108784424
 
+=2026-10-29T10:30:50+09:00 Computer/トピック/セキュリティ/XユーザーのMiyahanさん- 「昨今のセキュリティーインシデント祭により、社内でずっと言い続けても無視されてきた、「ちゃんとパッチあてろ」「EoLしてるOS・ミドルウェア入れ替えろ」「ポート全開放やめろ」「APIキー・アクセスキーの
+URL=https://x.com/miyahancom/status/2115617322190995466
+
 =2025-10-20T12:28:51+09:00 Computer/トピック/セキュリティ/XユーザーのMiyahanさん- 「架空の旧弊社で全社ランサムウェア感染事故の被害を唯一免れた自担当の超先進的な対策を特別にご紹介します。
 URL=https://x.com/miyahancom/status/1980113960696418786
 
@@ -43098,6 +43134,9 @@ URL=https://x.com/N65006333/status/1818593997709099362
 
 =2024-07-24T19:53:05+09:00 Computer/トピック/セキュリティ/XユーザーのMt.Rainierさん- 「読んだ。不適正利用禁止が内閣法制局の指摘で個人情報に関する義務になったというのは初めて知った（高木スライド）。
 URL=https://x.com/N65006333/status/1816064053057577229
+
+=2026-10-30T09:30:38+09:00 Computer/トピック/セキュリティ/Xユーザーのmultilayerさん- 「「WIDEがブロッキングを潰した」という見方もあるけど、キャリアが実施に慎重なのは、通信の秘密を守るのが法律上の義務だから。
+URL=https://x.com/multilayer/status/2115964560410821022
 
 =2026-05-15T09:53:56+09:00 Computer/トピック/セキュリティ/XユーザーのMystery Parrot (ミスパロ)さん- 「トランプ大統領の訪中に同行した FOX。 「私の運転手が 2分路駐したら $40 の違反通知がスマホに。北京はそこら中に監視カメラ。中国政府はすべて見張ってる」 これに対し
 URL=https://x.com/ParrotMystery/status/2055089263814029391
@@ -43215,6 +43254,9 @@ URL=https://x.com/SUKANEKI_STI/status/1876326415244910877
 
 =2025-01-28T05:25:47+09:00 Computer/トピック/セキュリティ/XユーザーのNEO2さん- 「大阪万博は罠だった様だ。 入場するには万博IDを作成しないと不可みたい。IDにはクレカ情報、顔認証指紋情報等機微情報が含まれる。
 URL=https://x.com/NEO111777/status/1883974708481384556
+
+=2026-10-29T16:00:04+09:00 Computer/トピック/セキュリティ/XユーザーのNewsNews.Todayさん- 「日本航空、約9万人の個人情報流出　このうち2000人はパスポート番号や連絡先も流出 https---t.co-rYPtQfoQ3u」 - X
+URL=https://x.com/newsnews_today/status/2115700174723195048
 
 =2026-09-15T22:29:03+09:00 Computer/トピック/セキュリティ/XユーザーのNHKニュースさん- 「陸自使用のUSBにマルウエア　正規手続き経ず隊員が持ち込み https---t.co-AnxSp8Oy1u #nhk_news」 - X
 URL=https://x.com/nhk_news/status/2099853002660278605
@@ -43978,8 +44020,14 @@ URL=https://x.com/shota7y/status/2113855523233906738
 =2024-05-18T13:23:18+09:00 Computer/トピック/セキュリティ/XユーザーのShuji Sado (佐渡 秀治) コロナで背骨を骨折ニキさん- 「ITmediaも規模としては差はないけど、OSDNだと自分らが毎日 ADサーバーを調整しまくって何とか秩序を保ってたのがもう4年前なんだよな。
 URL=https://x.com/shujisado/status/1791685973212045802
 
+=2026-10-30T11:27:07+09:00 Computer/トピック/セキュリティ/XユーザーのShuji Sado (佐渡 秀治)さん- 「CVE-2026-98432の件だけども、一般の各distroのアドバイザリに従って更新を適用することで十分かな。
+URL=https://x.com/shujisado/status/2115993873445159072
+
 =2026-10-22T14:46:41+09:00 Computer/トピック/セキュリティ/XユーザーのShuji Sado (佐渡 秀治)さん- 「PHP2Shellへの各distroの対応の差異が大きいな。超速で対応するDebian、高速かつPHP 5.5、7系、8.1までバックポートするUbuntu、Red HatとSU
 URL=https://x.com/shujisado/status/2113144994722910313
+
+=2026-10-31T08:17:40+09:00 Computer/トピック/セキュリティ/XユーザーのShuji Sado (佐渡 秀治)さん- 「む、マジかよ。Red HatがまたCVE-2026-98432の評価引き上げた。
+URL=https://x.com/shujisado/status/2116308585114436053
 
 =2026-08-18T20:44:19+09:00 Computer/トピック/セキュリティ/XユーザーのShuji Sado (佐渡 秀治)さん- 「生成AIプリンシプルコード改定版を見ているが、OSG-JPとして送ったパブコメでの指摘部分がかなり反映されている気がする。
 URL=https://x.com/shujisado/status/2089679785807294613
@@ -44034,6 +44082,9 @@ URL=https://x.com/CasseCool/status/1802619384135139796
 
 =2024-12-30T10:12:07+09:00 Computer/トピック/セキュリティ/XユーザーのSpicaさん- 「ハッカーはiPhoneを狙う 2024年中にiOS端末の18.4%、Androidの11.4%がフィッシングのためのアタックを受ける https---t.co-rpSBAMlsW6 2019年以降iOSはAndroid
 URL=https://x.com/CasseCool/status/1873537518957891739
+
+=2026-10-29T20:42:44+09:00 Computer/トピック/セキュリティ/XユーザーのSpicaさん- 「上海でChina MobileのSIMを買ったら、3回顔（瞳？）を撮影され、パスポートを2回スキャンされた。
+URL=https://x.com/CasseCool/status/2115771309775077861
 
 =2026-01-05T12:38:01+09:00 Computer/トピック/セキュリティ/XユーザーのSpicaさん- 「中国みたいに入口で身分証（現地民は居民身份证、外国人はパスポート）を提示するのかね。 国籍で別料金化すると、日本人にも何らかの国籍証明が必要になる事態に多くは気付いてない。 何とかして外国人からお金をとり
 URL=https://x.com/CasseCool/status/2008020133151711480
@@ -44331,6 +44382,9 @@ URL=https://x.com/yamazaksv2/status/2014624454090096813
 
 =2023-08-25T09:22:39+09:00 Computer/トピック/セキュリティ/XユーザーのYangさん- 「最悪なのは金融機関のシステムメンテに当たっている部分がコロナで人員不足になりシステム障害を起こすことかなぁ。
 URL=https://twitter.com/sopetioyan/status/1694867849494638934
+
+=2026-10-29T11:47:34+09:00 Computer/トピック/セキュリティ/XユーザーのYasuhiro Morishitaさん- 「-ブロッキングは、憲法が保障する「通信の秘密」の侵害につながる。
+URL=https://x.com/OrangeMorishita/status/2115636631843860786
 
 =2026-07-23T12:16:41+09:00 Computer/トピック/セキュリティ/Xユーザーのyhkondoさん- 「OpenAIが内部でセキュリティの実験をしていたら、対象のAIが、検査の正解を求めに勝手に外に抜け出して、外部のサーバーを攻撃して情報を取ろうとしていた事件が報じられている。
 URL=https://x.com/yhkondo/status/2080129949651112121
@@ -44715,6 +44769,9 @@ URL=https://x.com/5mum3/status/2074675479102300369
 
 =2024-08-11T11:17:46+09:00 Computer/トピック/セキュリティ/Xユーザーのおふとんさん- 「この #平成名前辞典 って、つまりどこかの情報漏洩で得た個人情報でも、希少のを省けば、フルネームと生年ぐらいであれば公表していいってこと？ そもそも元が“漏洩“の個人情報を売買していいものなの？ みんな私の名前があったと
 URL=https://x.com/off___ton/status/1822457349564764391
+
+=2026-10-29T14:31:04+09:00 Computer/トピック/セキュリティ/Xユーザーのおれはねこさん- 「こないだ松屋にセキュリティやばいよ。脆弱性修正したらどう？って連絡したのに一向に返信ないからね… セキュリティへの意識低いのかも」 - X
+URL=https://x.com/orehanekodaga/status/2115677777701552442
 
 =2023-09-11T21:10:43+09:00 Computer/トピック/セキュリティ/Xユーザーのお侍さんさん- 「ビッグモーターのせいで、１秒たりとも仕事をサボれない超監視社会へ。 https---t.co-fVMygo7QtR」 - X
 URL=https://twitter.com/ZanEngineer/status/1701206635132399837
@@ -45460,6 +45517,9 @@ URL=https://x.com/Kyukimasa/status/1992537703267877200
 =2024-05-17T08:11:41+09:00 Computer/トピック/セキュリティ/Xユーザーのゆきまさかずよしさん- 「数学者ジム・シモンズの追悼記事（5月10日没） https---t.co-Q1ZPiKpdqZ 暗号解読者として国防研究所で働いたがベトナム戦争に反対して解雇、数学を活かして投資会社作って大成功を収めた。
 URL=https://twitter.com/Kyukimasa/status/1791245162179703175
 
+=2026-10-31T17:43:50+09:00 Computer/トピック/セキュリティ/Xユーザーのゆきまさかずよしさん- 「数年前に発表された「延々と会話を続けて詐欺師のリソースを削ぐAIボット」があるけど https---t.co-owgIt9xSyo 詐欺電話のほうもAIだから、どこかの時点で応答AIとなんらかの合意
+URL=https://x.com/Kyukimasa/status/2116451064572756429
+
 =2026-08-25T08:35:38+09:00 Computer/トピック/セキュリティ/Xユーザーのゆきまさかずよしさん- 「時代遅れなことで成立するセキュリティ https---t.co-iyGC3EEtlA メールクライアントのEudoraやSymbian OSのデバイスを使う。
 URL=https://x.com/Kyukimasa/status/2092033117855027389
 
@@ -45774,6 +45834,9 @@ URL=https://x.com/creamsoooooooda/status/2076013562359861533
 
 =2026-10-26T22:03:25+09:00 Computer/トピック/セキュリティ/Xユーザーのチェシャ猫さん- 「形式手法をやっている側としては、実装方針が面白いのは事実なんですが、同時に、一般人向けに SNS に投稿する内容としては相当ミスリーティングだとも感じました。
 URL=https://x.com/y_taka_23/status/2114704451026194871
+
+=2026-10-29T16:40:48+09:00 Computer/トピック/セキュリティ/Xユーザーのツイキャス公式さん- 「【緊急メンテナンスについて】 長時間にわたり、ご利用の皆さまには多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。
+URL=https://x.com/twitcasting_jp/status/2115710429158932945
 
 =2026-10-13T18:13:18+09:00 Computer/トピック/セキュリティ/Xユーザーのテクノビビ - Software Engineerさん- 「ん？ これって、クライアント側の制御を信用せずサーバー側で認証・認可・入力値検証を徹底しろという、20年以上前から言われている基本原則の話では？ なぜGoogle 
 URL=https://x.com/techno_bibi/status/2109935498924052690
@@ -46276,6 +46339,9 @@ URL=https://x.com/tetsuyaoi2tmi/status/2022457896001507541
 =2026-02-15T17:23:41+09:00 Computer/トピック/セキュリティ/Xユーザーの大井哲也弁護士｜プライバシー&セキュリティさん- 「世古先生、まとめ早！個人情報保護法の論点は尽きていると認識していますので、AIを搭載しているSaaSに秘密情報を投入したらNDA違反になるか？問題。
 URL=https://x.com/tetsuyaoi2tmi/status/2022949925915599029
 
+=2026-10-30T12:37:19+09:00 Computer/トピック/セキュリティ/Xユーザーの大井哲也弁護士｜プライバシー&セキュリティさん- 「利活用を担うデジタルマーケティング部門とセキュリティを担う情シス部門を横断するチーフデジタルオフィサー不在が根本原因。
+URL=https://x.com/tetsuyaoi2tmi/status/2116011540638048710
+
 =2024-11-30T05:28:59+09:00 Computer/トピック/セキュリティ/Xユーザーの大君 AI学習中さん- 「立花孝志氏は、「無視するなら（個人）情報をばらすぞ」とメディアや奥谷氏を脅迫し、従わせようとしています。
 URL=https://x.com/tycoon737308/status/1862594628912128274
 
@@ -46570,6 +46636,9 @@ URL=https://x.com/seko_law/status/2003054519509496283
 =2026-10-25T19:07:48+09:00 Computer/トピック/セキュリティ/Xユーザーの弁護士 那須翔 - フィンテック入門連載中さん- 「これ、応じる理由がないんですよね… AI学習方法の開示、26日から知財保護原則を適用　企業に対応促す - 日本経済新聞 https---t.co-HQiGPFOcFC」 -
 URL=https://x.com/N65006333/status/2114297867578077284
 
+=2026-10-29T18:55:50+09:00 Computer/トピック/セキュリティ/Xユーザーの弁護士 那須翔 - フィンテック入門連載中さん- 「だからこそ同意と契約履行は区別されなければならないし、同意は個別でなければならない（包括的な同意は無効にしなければならない）んですよね。
+URL=https://x.com/N65006333/status/2115744410386448509
+
 =2026-09-17T00:38:57+09:00 Computer/トピック/セキュリティ/Xユーザーの弁護士 那須翔さん- 「GDPRは仮名化を基本的にリスク低減措置として扱っていて、かつ第三者提供に特別の規制を課してもいないので、日本のように仮名データは第三者提供制限の対象になるかという問いは存在しないけど、仮名化の程度が
 URL=https://x.com/N65006333/status/2100248079790399553
 
@@ -46614,6 +46683,9 @@ URL=https://x.com/ichifuna_law/status/2113783707660423313
 
 =2024-10-22T12:45:55+09:00 Computer/トピック/セキュリティ/Xユーザーの彩恵りり-科学ライター兼Vtuberさん- 「巨大な素数を見つけるのが何の役に立つのか？確かにこれ自体は今のところは役に立たない、けど巨大な素数の探索は素数判定の数学的手法の新規開拓やプログラムの改善、ひいては現代の通信暗号技
 URL=https://x.com/Science_Release/status/1848571460748775644
+
+=2026-10-30T20:46:00+09:00 Computer/トピック/セキュリティ/Xユーザーの後藤条理(GOTOU Eri)さん- 「日弁連を名乗る組織から1枚目のメールがきて、本物っぽいけど見た目があやしすぎる……って思ってスルーしてたら、さっき2枚目のメール（あやしいメール送ってごめん本物です）がきて、日弁連のリ
+URL=https://x.com/xxfl/status/2116134520873537976
 
 =2023-10-05T07:59:09+09:00 Computer/トピック/セキュリティ/Xユーザーの徳丸 浩さん 「詐欺サイトの大半はLet's EncryptでHTTPS化している ←わかる Let's Encryptを使っているサイトの大半は詐欺サイトである ←なぜそうなる」 _ X
 URL=https://twitter.com/ockeghem/status/1709704740752568449
@@ -46864,6 +46936,9 @@ URL=https://x.com/kenjisugiura01/status/2009614037861179857
 =2026-10-20T14:33:32+09:00 Computer/トピック/セキュリティ/Xユーザーの杉浦健二 STORIA LAWさん- 「結構なことではあるのですが、個情委自身から発信してもらわないと、事業者としては判断しづらい気がします。
 URL=https://x.com/kenjisugiura01/status/2112416910705098846
 
+=2026-10-31T20:11:10+09:00 Computer/トピック/セキュリティ/Xユーザーの東京新聞の菅沼さん新聞力研究所の菅沼さんさん- 「陸上自衛隊の思想調査問題を追い続ける熊本日日新聞の植木記者の話を今日、聞く機会があった。
+URL=https://x.com/uchisaiwaichoTK/status/2116488141762875806
+
 =2026-08-30T15:06:22+09:00 Computer/トピック/セキュリティ/Xユーザーの東京新聞の菅沼さん新聞力研究所の菅沼さんさん- 「高市政権下では「インテリジェンス(情報の収集・分析)」と言えば何でも許される空気感があるが、思想調査に関わった陸上自衛隊の元隊員は熊本日日新聞の取材に対し「インテリジェンスと
 URL=https://x.com/uchisaiwaichoTK/status/2093943388965941460
 
@@ -47067,6 +47142,9 @@ URL=https://x.com/osakaracing/status/2106008471678386218
 
 =2025-05-11T12:57:48+09:00 Computer/トピック/セキュリティ/Xユーザーの消化試合さん- 「昨日の録画を見直して、自分なりにまとめると。 日本の個人情報保護法 単なるデータの管理手続き。AI法案との関連性は低い。
 URL=https://x.com/syouka_ziai/status/1921414410347663826
+
+=2026-10-29T22:04:08+09:00 Computer/トピック/セキュリティ/Xユーザーの涼華さん- 「【注意喚起】(写真は証拠用のを使用しています) 今日、最寄り駅-新宿を移動している間に、カバンの中にスマートタグをこっそり入れられていました。
+URL=https://x.com/suzukacos/status/2115791798509687151
 
 =2024-07-01T10:51:07+09:00 Computer/トピック/セキュリティ/Xユーザーの深津 貴之 - THE GUILDさん- 「Twitterのアカウント掘ると、「1人の人間が壊れてしまう過程」みたいな大量データがあるわけだけど…　逆にあれを医療に応用して、メンタルが病む前に適切なセーフティ出せる仕組みつくれないのかな（
 URL=https://x.com/fladdict/status/1807592742706680132
@@ -51115,6 +51193,9 @@ URL=https://japan.zdnet.com/article/35132772/
 =2022-04-22T06:31:34+09:00 Computer/トピック/セキュリティ/「データ駆動型社会」は必ずしもバラ色の未来を保証しない - WirelessWire News
 URL=https://wirelesswire.jp/2022/04/82271/
 
+=2026-10-30T05:25:54+09:00 Computer/トピック/セキュリティ/「トクリュウ」対策　スマホの遠隔解析導入で被害防止へ　警察官職務執行法改正案が衆議院本会議で審議入り - TBS NEWS DIG
+URL=https://newsdig.tbs.co.jp/articles/-/3051469?display=1
+
 =2025-04-17T22:18:08+09:00 Computer/トピック/セキュリティ/「ドコモメール」に保護していても削除される不具合、復元できず - ケータイ Watch
 URL=https://k-tai.watch.impress.co.jp/docs/news/2007855.html
 
@@ -53851,6 +53932,9 @@ URL=https://kabumatome.doorblog.jp/archives/66033516.html
 =2026-09-04T06:30:00+09:00 Computer/トピック/セキュリティ/お名前.com/GMOナショナルセキュリティ、国家レベルのサイバー脅威やリスクを分析する専門部署「インテリジェンス課」新設 - INTERNET Watch
 URL=https://internet.watch.impress.co.jp/docs/news/2138040.html
 
+=2026-10-30T15:27:51+09:00 Computer/トピック/セキュリティ/お名前.com/GMO不正アクセス　攻撃者のサイトを開くと「IPを抜かれる」のは本当か（山口健太） - エキスパート - Yahoo!ニュース
+URL=https://news.yahoo.co.jp/expert/articles/6f8c52efbf6aacb3c585a700e822bf218a0b1161
+
 =2026-10-29T09:16:46+09:00 Computer/トピック/セキュリティ/お名前.com/GMO不正アクセスの脅迫サイト　総務省が通信会社に強制遮断を要請 [情報漏洩・個人情報流出の最新ニュース]：朝日新聞
 URL=https://www.asahi.com/articles/ASVBX42PGVBXULFA01KM.html
 
@@ -53860,11 +53944,17 @@ URL=https://satoru.net/hacker/gmo/261025-seimei.html
 =2026-10-26T14:40:48+09:00 Computer/トピック/セキュリティ/お名前.com/GMO熊谷代表「社内ホワイトハッカーが事前に指摘」も対策遅れ、国に「能動的サイバー防御」要請　「責任転嫁では」SNSで批判も - ITmedia NEWS
 URL=https://www.itmedia.co.jp/news/article/2610/26/2000002571/
 
+=2026-10-31T05:44:36+09:00 Computer/トピック/セキュリティ/お名前.com/TBS痛恨ミスか！GMOハッカーのSNS「モザイク忘れ」でネット炎上 - zakⅡ
+URL=https://www.zakzak.co.jp/article/20261031-EOLBAJQP5BHVFPYJ6ZQTJS7VFI/
+
 =2026-10-27T10:30:19+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの2分でだいたい分かるニュースさん- 「GMOインターネット、熊谷のメッセージで顧客の同情心を喚起し政府への圧力を生み出そうとするも、内容の稚拙さで逆効果となり、むしろハッカー側の主張に理解が広がる始末。
 URL=https://x.com/koto_tsumu/status/2114892418164334695
 
 =2026-10-22T15:30:26+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの@sontaku_zero_fxさん- 「お名前.comまじでやってくれたな、、、海外fxのMT4ログインされて400万ちょいやられた、、、悲しすぎて立ち直れん、、、 聞く筋間違えてるとは思いつつも使ってる海外証券にも一応補填できないか確認中
 URL=https://x.com/sontaku_zero_fx/status/2113156002506059846
+
+=2026-10-31T16:51:37+09:00 Computer/トピック/セキュリティ/お名前.com/XユーザーのActiveTK․さん- 「調査は @8iqu3 さんに協力していただいています。 ぜひそちらもフォローを！（なんと高校生の方です） また情報系に興味がある人のためのDiscordサーバー「TK鯖」を運営しているので、こちら
+URL=https://x.com/ActiveTK5929/status/2116437925626089803
 
 =2026-10-25T09:08:02+09:00 Computer/トピック/セキュリティ/お名前.com/XユーザーのADACHI Masatoshi ..-.. 足立昌聰さん- 「arms-lengthの問題があるので、顧客向けの価格と比べて廉価に親会社へサービス提供できない都合、正直、グループ子会社にセキュリティベンダーがいても、直接は
 URL=https://x.com/MasatoshiAdachi/status/2114146934139363836
@@ -53916,6 +54006,12 @@ URL=https://x.com/HiromitsuTakagi/status/2114225508510794094
 
 =2023-12-29T16:15:06+09:00 Computer/トピック/セキュリティ/お名前.com/XユーザーのHiromitsu Takagiさん- 「やっぱりあれは「GMOサイバー攻撃」という攻撃なのですね。 https---t.co-pTrIXy3qCs」 - X
 URL=https://twitter.com/HiromitsuTakagi/status/1740632518695784820
+
+=2026-11-01T02:00:22+09:00 Computer/トピック/セキュリティ/お名前.com/XユーザーのHiromitsu Takagiさん- 「両者に類似性を感じるのが、気づいてもらうためのはずの文章が内容的に下手だということ。
+URL=https://x.com/HiromitsuTakagi/status/2116576020472197256
+
+=2026-10-31T21:32:48+09:00 Computer/トピック/セキュリティ/お名前.com/XユーザーのHiromitsu Takagiさん- 「今日は休日の学会出張だったので追えていなかったが、Grok Botが報告してくれた。便利ですなあ。
+URL=https://x.com/HiromitsuTakagi/status/2116508687682732291
 
 =2023-12-14T00:53:58+09:00 Computer/トピック/セキュリティ/お名前.com/XユーザーのHiromitsu Takagiさん- 「非寸止め型脆弱性スキャナを無断で不特定多数の顧客らにかけて有料サービスを売り込む事業に手を貸した支援士がいたら、その支援士は24条違反の登録取消し・名称使用停止処分（19条2項）になるかねえ。
 URL=https://twitter.com/HiromitsuTakagi/status/1734964890249642111
@@ -54013,6 +54109,9 @@ URL=https://twitter.com/yousukezan/status/1736393605118673014
 =2023-12-13T00:35:13+09:00 Computer/トピック/セキュリティ/お名前.com/XユーザーのYuhei FUJITAさん- 「しかもこの本人確認、メールアドレス入れるだけでオプション契約できてしまうのよ つまりそのLINEの通知にあるURLはむやみに晒しては駄目なんよ マジでこれふざけてるからお名前-.comだけは何が何でも使い
 URL=https://twitter.com/Yuhei_FUJITA/status/1734597784140136666
 
+=2026-10-29T17:56:57+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのzen_nifさん- 「なんで公表しちゃうの？ ねぇ？なんでなの！？ 捜査が不利になってしまいません？」 - X
+URL=https://x.com/zen_nif/status/2115729592900354520
+
 =2026-10-26T13:54:29+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのあらららんさん- 「@FXWOLF2 「fcwsus」というアップデートサーバーを介して一つに繋がっているからだ。
 URL=https://x.com/U19Jr/status/2114581410010845263
 
@@ -54064,6 +54163,9 @@ URL=https://twitter.com/haza3g/status/1734186844714406041
 =2026-10-25T07:42:28+09:00 Computer/トピック/セキュリティ/お名前.com/XユーザーのひとごとMDさん- 「これほんとなら、イエラエさん、大したことない･･･- GMOグループの全体のCISO（最高情報セキュリティ責任者）は、イエラエの執行役員なのですが。
 URL=https://x.com/hitogoto_butyo/status/2114125401366929482
 
+=2026-10-29T03:46:13+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのひろゆきさん- 「GMOのクラッカーが大阪在住説。 金より承認欲求を優先して手掛かりを増やしてるから、大阪の若者でGMOのサービス契約者とだんだん絞られて来てる模様。」 - X
+URL=https://x.com/hirox246/status/2115515494845354331
+
 =2023-12-12T22:08:08+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのまきのっぴさん- 「ネタにマジレスだが各種図書館が真っ当に(lg-go-ac).jp使ってればお名前.comになりようがないよね、と一瞬思いつつ改めて確認したらそうでもなかった。
 URL=https://twitter.com/pmakino/status/1734560767217652017
 
@@ -54078,6 +54180,9 @@ URL=https://twitter.com/yuiyui12322/status/1734580683010658613
 
 =2026-10-22T22:42:53+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのゆとにーさん- 「お名前ドットコムに不正アクセスしたハッキングチームから今さっきメール来ました 今出回ってる脅迫文マジです 私の破綻させられた口座の番号、被害額一致しました #お名前ドットコム #不正アクセス #不正取引 h
 URL=https://x.com/yutoriineet/status/2113264833307267254
+
+=2026-10-29T16:23:50+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのらいちｨｨさん- 「GMOの一件の登場人物って ・被害者対応をよそに効いてないアピールを繰り返す痛い創業者 ・ごく初歩的な脆弱性を放置する技術レベルの大企業 ・報告されたのに無視するずさんなコーポレートガバナンス ・情報商材
+URL=https://x.com/ra1ch4/status/2115706156954083832
 
 =2024-01-05T01:17:03+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのアル＠店番引退さん- 「ValueDomainちょっと待ってくれ ”お客様が実施されました無料セキュリティ診断” ってネットde診断の無料版は退会したし当然実施してないのになんで事後報告くんの？ https---t.co-eLMSLov7
 URL=https://twitter.com/alu_mitsuki/status/1742943231674056748
@@ -54100,6 +54205,9 @@ URL=https://x.com/solavia_A/status/2113934446714126675
 =2026-10-22T15:30:26+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのハエさん- 「お名前.comまじでやってくれたな、、、海外fxのMT4ログインされて400万ちょいやられた、、、悲しすぎて立ち直れん、、、 聞く筋間違えてるとは思いつつも使ってる海外証券にも一応補填できないか確認中、、、、
 URL=https://x.com/sontaku_zero_fx/status/2113156002506059846
 
+=2026-10-31T15:21:38+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのハーフナー舞衣子さん- 「おるね https---t.co-KDobmE6fgy」 - X
+URL=https://x.com/Wu_SangClanchan/status/2116415281442824671
+
 =2026-10-24T15:18:13+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーのポジポジさん- 「これを機に、いい加減お名前ドットコムのダークパターンもどうにかした方がいいと思います。あれは悪質なので。
 URL=https://x.com/SushiBomber8484/status/2113877703539712066
 
@@ -54118,8 +54226,17 @@ URL=https://x.com/NobMiwa/status/2114859403707121669
 =2026-10-27T06:09:27+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの三輪信雄さん- 「お名前さんのユーザが取るべき行動、AVフルスキャンだけでは危険です 数台のユーザPCの解析を行なっても全体像は図れませんので、バックドアがないとかバクドアを見つけたから駆除できる、という情報に惑わされないで
 URL=https://x.com/NobMiwa/status/2114826765948575868
 
+=2026-10-31T07:36:14+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの三輪信雄さん- 「お名前さんの二次サイト疑い、コンテンツにも類似性が散見されます https---t.co-bYqLicpEiD」 - X
+URL=https://x.com/NobMiwa/status/2116298156778598737
+
 =2026-10-23T21:42:12+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの三輪信雄さん- 「これよこれ、犯人がログインしっぱなしの場合があるんですよ「パスワードを変更した後も、証券会社・FX会社等のサーバーの仕様によっては、一定期間、既存の接続セッションが維持され、第三者が継続的に取引できる場合が
 URL=https://x.com/NobMiwa/status/2113611950018195621
+
+=2026-10-31T06:51:41+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの三輪信雄さん- 「まぢかこれ、すぐに消えるかもしれないので魚拓」 - X
+URL=https://x.com/NobMiwa/status/2116286945970290829
+
+=2026-10-30T13:10:46+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの三輪信雄さん- 「サイバーインシデント演習で、「社長が勝手にSNSで発信して止められない、政府や警察にも迷惑をかけている」というシナリオを追加しなければいけないかな」 - X
+URL=https://x.com/NobMiwa/status/2116019958560035279
 
 =2026-10-24T22:23:53+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの三輪信雄さん- 「事業者さんに代わって注意喚起 https---t.co-YrUnpezdvw」 - X
 URL=https://x.com/NobMiwa/status/2113984827481542968
@@ -54175,6 +54292,9 @@ URL=https://twitter.com/ockeghem/status/1734430708817617068
 =2023-12-12T12:50:19+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの徳丸 浩さん- 「パストラバーサルとかありますが、不正アクセス禁止法で逮捕された人もいるのに大丈夫なんでしょうか」 - X
 URL=https://twitter.com/ockeghem/status/1734420387977642476
 
+=2026-10-31T17:09:51+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの田端信太郎 ＠ 毎朝8時45分から株ライブ！さん- 「GMOインターネットグループのサービスが不正アクセスを受けた問題で、子会社のセキュリティー企業が2024年4月にシステムの欠陥（脆弱性）を指摘していたことがGMO幹部への
+URL=https://x.com/tabbata/status/2116442512760230240
+
 =2026-10-24T09:25:54+09:00 Computer/トピック/セキュリティ/お名前.com/Xユーザーの田端信太郎 ＠ 毎朝8時45分から株ライブ！さん- 「この、なぜか無駄に薄暗くて、カッコ良さげな空気だけ醸し出している、サイバー攻撃監視センターって、「世界最強ホワイトハッカー集団」を率いているオレすげええ！！！と、GMO熊
 URL=https://x.com/tabbata/status/2113789041875509377
 
@@ -54202,6 +54322,12 @@ URL=https://twitter.com/saitoyukio1972/status/1740637724301000803
 =2026-10-29T04:19:42+09:00 Computer/トピック/セキュリティ/お名前.com/[言葉] GMOの「犯人」は「正午」を「午後12時」と表現していた。そしてGeminiも自信満々で…｜お役所のエクセル EXCELでつまずかない！公務員の実務で必須の操作をまとめて解決
 URL=https://note.com/oyakusho/n/n77c409c5baea
 
+=2026-10-31T05:50:26+09:00 Computer/トピック/セキュリティ/お名前.com/《GMOサイバー攻撃》犯罪心理学者が読み解く｢脅迫犯の-ちぐはぐな素顔-｣…稚拙な演出と-交渉を公開する-矛盾 - ライフ - 東洋経済オンライン
+URL=https://toyokeizai.net/articles/-/963044?page=2
+
+=2026-10-31T05:51:35+09:00 Computer/トピック/セキュリティ/お名前.com/「GMOに通報を無視された」事件14日前から動いてたアカウントの動きまとめ
+URL=https://satoru.net/hacker/gmo/261031-houkoku.html
+
 =2026-10-28T14:13:07+09:00 Computer/トピック/セキュリティ/お名前.com/「ほとんどデタラメ…」GMOサイバー攻撃で個人情報をさらされた人物が代表取材に困惑「サービスは一度も使っていない」…熊谷代表は犯人に100万ドルの懸賞 - 集英社オンライン
 URL=https://shueisha.online/articles/-/259042
 
@@ -54225,6 +54351,9 @@ URL=https://www.yomiuri.co.jp/economy/20261028-GYT1T00030/
 
 =2020-06-04T04:51:59+09:00 Computer/トピック/セキュリティ/お名前.com/当社利用のドメイン登録サービス「お名前.com」で発生した事象について（最終報告）｜コインチェック株式会社
 URL=https://corporate.coincheck.com/press/Y8pLx5Q2
+
+=2026-10-29T17:36:32+09:00 Computer/トピック/セキュリティ/お名前.com/渦中のGMO、熊谷代表の発信は“火に油”か？　「経営トップが自ら広報」の功罪：危機管理広報のプロが分析 - ITmedia NEWS
+URL=https://www.itmedia.co.jp/news/article/2610/29/2000002674/
 
 =2026-10-24T05:18:24+09:00 Computer/トピック/セキュリティ/お名前.com/ＧＭＯの「能動的サイバー防御」緊急要請、政府関係者「求めに応じ発動決める制度ではない」 - 読売新聞
 URL=https://www.yomiuri.co.jp/politics/20261024-GYT1T00257/
@@ -68779,6 +68908,9 @@ URL=https://www.businessinsider.jp/article/2607-meta-faces-lawsuit-over-ai-drive
 =2026-10-22T17:15:40+09:00 Computer/トピック/セキュリティ/メタに過去最大4兆円罰金　米裁判所｢個人情報扱いで利用者欺いた｣：朝日新聞
 URL=https://www.asahi.com/articles/ASVBQ1VX8VBQUHBI00JM.html
 
+=2026-10-28T08:00:00+09:00 Computer/トピック/セキュリティ/メタのAI「Muse」、共有コンテンツが第三者からも閲覧可能だった - ギズモード・ジャパン
+URL=https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/
+
 =2026-10-25T04:33:04+09:00 Computer/トピック/セキュリティ/メタのAI「Muse」が日本上陸、利便性とプライバシーを両立する「10の対策」 - Forbes JAPAN 公式サイト（フォーブス ジャパン）
 URL=https://forbesjapan.com/articles/detail/106913
 
@@ -71995,6 +72127,9 @@ URL=https://www.gizmodo.jp/2019/12/worst-passwords-2019.html
 =2023-05-11T05:18:37+09:00 Computer/トピック/セキュリティ/今度は徳島市でも判明、止まらない富士通Japan巡るコンビニ誤交付トラブル - 日経クロステック（xTECH）
 URL=https://xtech.nikkei.com/atcl/nxt/news/18/15159/
 
+=2026-10-31T05:22:02+09:00 Computer/トピック/セキュリティ/今後のセキュリティの考え方
+URL=https://zenn.dev/cscloud_blog/articles/a987163efae5d8
+
 =2021-10-19T09:44:25+09:00 Computer/トピック/セキュリティ/今後は公表が相次ぐかも？ 日立グループがいわゆる「PPAP」メールの利用廃止を発表【やじうまWatch】 - INTERNET Watch
 URL=https://internet.watch.impress.co.jp/docs/yajiuma/1359403.html
 
@@ -72114,6 +72249,9 @@ URL=https://japan.cnet.com/article/35140271/
 
 =2019-07-18T10:00:00+09:00 Computer/トピック/セキュリティ/仮想通貨の「不正追跡」で急浮上のスタートアップ、Chainalysisの役割 Forbes JAPAN（フォーブス ジャパン）
 URL=https://forbesjapan.com/articles/detail/28501
+
+=2026-10-30T06:53:56+09:00 Computer/トピック/セキュリティ/仮想通貨の取引大手に不正アクセス、過去最大９９００億円盗難か…北朝鮮ハッカー集団関与の可能性 - 読売新聞
+URL=https://www.yomiuri.co.jp/economy/20261030-GYT1T00297
 
 =2018-12-19T07:15:15+09:00 Computer/トピック/セキュリティ/仮想通貨の呼び名を「暗号資産」に改める。ビットコインは通貨ではない理由-アゴラ
 URL=http://agora-web.jp/archives/2036240-2.html
@@ -72648,6 +72786,9 @@ URL=https://www.sankei.com/article/20260115-DCTW6MFLOVLV3FCUYLWPJNHA6E/
 
 =2018-06-02T06:30:00+09:00 Computer/トピック/セキュリティ/個人情報、守る・使う「二刀流」　ＡＩ・暗号を駆使　　：日本経済新聞
 URL=https://www.nikkei.com/article/DGXMZO31251700R00C18A6TJM000/
+
+=2026-10-29T17:42:51+09:00 Computer/トピック/セキュリティ/個人情報、退会したのになぜ残る？　法律の規定や企業の販促ニーズ - 日本経済新聞
+URL=https://www.nikkei.com/article/DGXZQOUD215J90R21C26A0000000/
 
 =2025-06-05T14:19:54+09:00 Computer/トピック/セキュリティ/個人情報からの稼ぎ、自分の手に　ブラジルが「データ主権」へ法案 - 日本経済新聞
 URL=https://www.nikkei.com/article/DGXZQOGN038DT0T00C25A6000000/
@@ -84175,6 +84316,9 @@ URL=https://gigazine.net/news/20210415-nypd-robot-dog-spot/
 =2026-06-25T07:00:00+09:00 Computer/トピック/セキュリティ/警察署長が「Flock」のナンバープレート追跡システムを使って元恋人をストーキングしていたことが判明 - GIGAZINE
 URL=https://gigazine.net/news/20260625-police-flock-stalking/
 
+=2026-10-17T05:27:13+09:00 Computer/トピック/セキュリティ/警職法一部改正法案（被害防止電子計算機調査）について｜弁護士 那須翔 - フィンテック入門連載中
+URL=https://note.com/techlawyer/n/n6e011e166a11
+
 =2026-06-12T16:30:00+09:00 Computer/トピック/セキュリティ/警視庁、メール受信者の注意力を逆手に取った「二段階式フィッシングメール」に注意喚起 - INTERNET Watch
 URL=https://internet.watch.impress.co.jp/docs/news/2116742.html
 
@@ -86274,6 +86418,9 @@ URL=https://takagi-hiromitsu.jp/diary/20260705.html
 
 =2026-03-17T14:59:43+09:00 Computer/トピック/セキュリティ/高木浩光＠自宅の日記 - 「裁判官マップ」現る。破産者マップとは何が違うのか？
 URL=https://takagi-hiromitsu.jp/diary/20260317.html
+
+=2026-10-29T05:28:03+09:00 Computer/トピック/セキュリティ/高木浩光＠自宅の日記 - 「遠隔解析」改め「被害防止電子計算機調査」 警察官職務執行法の一部を改正する法律案 自動論評
+URL=https://takagi-hiromitsu.jp/diary/20261029.html
 
 =2025-04-19T04:54:55+09:00 Computer/トピック/セキュリティ/高木浩光＠自宅の日記 - 【足掛け12年の総括】統計目的の二次利用が決定利用禁止を条件に許される理由が1997年勧告に明記されていた
 URL=https://takagi-hiromitsu.jp/diary/20250419.html
@@ -93177,6 +93324,9 @@ URL=https://x.com/CasseCool/status/1885138189654122952
 
 =2026-10-22T05:06:49+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/XユーザーのSpicaさん- 「こんなファウンドリ市場に新参者が入り込むパイが残っている気がしない。 サムスンさえファウンドリ部門は設けてない（2025年は7兆ウォンの赤字）。 数世代前の28nm-14nmノードで🇼UMCが利益を出して
 URL=https://x.com/CasseCool/status/2112999064195207297
+
+=2026-10-30T12:03:50+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/XユーザーのSpicaさん- 「シンガポール企業のMegaspeedがNVIDIA GPUを中国へ迂回供給していたという疑惑。
+URL=https://x.com/CasseCool/status/2116003112523878450
 
 =2026-08-14T21:29:00+09:00 Computer/トピック/ツール/GPU・FPGA・ASIC/XユーザーのSpicaさん- 「スマートフォン用SoCのメーカー別シェア Dimensityシリーズが、サムスンやXiaomiやら幅広く使用されているMediaTekが1位 対照的にAppleのAチップはiPhone専用で3位 上位4社
 URL=https://x.com/CasseCool/status/2088241476719243476
@@ -127222,6 +127372,9 @@ URL=https://www.gizmodo.jp/2026/05/apple-intelligence-short-cut.html
 =2026-02-04T10:51:00+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/AppleがXcodeとコーディングエージェントのClaude AgentやOpenAI Codexとの統合を発表、さらにMCPにも対応 - GIGAZINE
 URL=https://gigazine.net/news/20260204-apple-xcode-claude-agent-codex/
 
+=2026-10-23T17:54:32+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態 - トレンドマイクロ (JP)
+URL=https://www.trendmicro.com/ja_jp/jp-security/26/j/expertview-20261023-01.html
+
 =2026-07-20T07:00:00+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/ASCII.jp：AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった
 URL=https://ascii.jp/elem/000/004/420/4420739/
 
@@ -127837,8 +127990,14 @@ URL=https://x.com/AnatoliKopadze/status/2100688686228910207
 =2026-10-07T00:37:42+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/Xユーザーのconnect24hさん- 「噂の自律テンペストエージェント、ARTEX、うちの環境で評価してみた。
 URL=https://x.com/connect24h/status/2107495522198306988
 
+=2026-10-29T13:31:18+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/XユーザーのDaniel Parkさん- 「ピクルのCEOのDanielです。昨日、ピクルがユーザーの確認なしにホテルへ電話をかけ、2回目にはAIだと名乗りませんでした。ご本人とホテルにお詫びします。お店への電話は「かける前に確認」と「
+URL=https://x.com/danifesto/status/2115662737779097865
+
 =2026-10-17T21:27:22+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/XユーザーのDeniさん- 「this is getting f-cking dangerous... REA creator just dropped 20 GitHub repos to build a f-cking rev
 URL=https://x.com/0xDeniAi/status/2111433889587527770
+
+=2026-10-28T22:58:00+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/XユーザーのGabriel Ocana-Santeroさん- 「Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy 
+URL=https://x.com/OcanaSantero/status/2115442964574908902
 
 =2026-10-16T08:57:46+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/XユーザーのHiromitsu Takagiさん- 「検査の等級を表す標準が必要かもね。今更だけど、AI検査になっていくだろうから尚更だな。
 URL=https://x.com/HiromitsuTakagi/status/2110882858705576151
@@ -127899,6 +128058,9 @@ URL=https://x.com/Kyukimasa/status/2091396087970214011
 
 =2026-10-18T10:35:21+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/Xユーザーのゆきまさかずよしさん- 「「世界中のAIエージェントが一斉にお買い得ペーパータオルを買ったらどうなるか」 https---t.co-wWPwYmoDZm 家庭のAIアシスタントが効率的に買い物したり予約やチケットを取る購買ス
 URL=https://x.com/Kyukimasa/status/2111632190337696046
+
+=2026-10-31T17:43:50+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/Xユーザーのゆきまさかずよしさん- 「数年前に発表された「延々と会話を続けて詐欺師のリソースを削ぐAIボット」があるけど https---t.co-owgIt9xSyo 詐欺電話のほうもAIだから、どこかの時点で応答AIとなんらかの合意
+URL=https://x.com/Kyukimasa/status/2116451064572756429
 
 =2026-10-21T05:20:30+09:00 Computer/トピック/ツール/ソフトウェアシステム/エージェント/Xユーザーの三輪信雄さん- 「ARTEXばかりが騒がれていますが、悪用されたAIエージェントは他にもあります https---t.co-g7hXxx00JE」 - X
 URL=https://x.com/NobMiwa/status/2112640119115313277
@@ -147766,6 +147928,9 @@ URL=https://x.com/SuguruKun_ai/status/1998743841751576943
 =2026-05-15T11:59:48+09:00 Computer/トピック/ツール/ソフトウェアシステム/ローコード/Xユーザーのなつみかん川上奈津美さん- 「AI時代、基礎を知らないまま子どもたちがあっという間にゲームやアプリのようなものを作れてしまうのを見ると、この順番でいいのだろうかと思う瞬間もあるかもしれない。
 URL=https://x.com/natsu_tech_mom/status/2055120936232509442
 
+=2026-10-29T06:24:26+09:00 Computer/トピック/ツール/ソフトウェアシステム/ローコード/Xユーザーのはぇ～さん- 「誰もプログラム書かなくなった」 - X
+URL=https://x.com/haxe/status/2115555314959544515
+
 =2026-09-16T20:56:05+09:00 Computer/トピック/ツール/ソフトウェアシステム/ローコード/Xユーザーのはとぽっぽ会社員x不動産x旅館さん- 「pdf編集をしたい… けどAcrobatは契約したくない… と思ったらClaudeで編集ソフトが出来ました… ブラウザベースだし、めちゃ軽いし、好きな機能も追加できるし… Adobeよ
 URL=https://x.com/junsvest/status/2100191994010316943
 
@@ -162967,6 +163132,9 @@ URL=http://shiropen.com/2017/08/12/27359
 =2019-02-28T11:59:20+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/人工知能もついにココまで！写真やイラストが健全か、健全でないのか判定できるJavaScriptライブラリ -NSFW JS コリス
 URL=https://coliss.com/articles/build-websites/operation/javascript/indecent-content-checking-nsfwjs.html
 
+=2026-10-29T07:02:29+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長 - ITmedia AI＋
+URL=https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/
+
 =2024-02-19T10:02:16+09:00 Computer/トピック/ツール/ソフトウェア言語/JavaScript/今からでも遅くないconsoleを使いこなそう #JavaScript - Qiita
 URL=https://qiita.com/S4nTo/items/453b5e6ee933765211ec
 
@@ -177712,6 +177880,9 @@ URL=https://forest.watch.impress.co.jp/docs/news/1412418.html
 =2019-11-20T08:30:00+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/人気プログラミング言語、PythonがJavaを抜き2位に--GitHub「Octoverse」レポート - ZDNet Japan
 URL=https://japan.zdnet.com/article/35145190/
 
+=2026-10-29T07:02:29+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長 - ITmedia AI＋
+URL=https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/
+
 =2019-05-05T08:46:42+09:00 Computer/トピック/ツール/ソフトウェア言語/Python/今度こそわかるぞRNN, LSTM編 - Qiita
 URL=https://qiita.com/kazukiii/items/df809d6cd5d7d1f57be3
 
@@ -184317,6 +184488,9 @@ URL=https://internet.watch.impress.co.jp/docs/yajiuma/1540693.html
 
 =2022-02-09T14:04:43+09:00 Computer/トピック/ツール/ソフトウェア言語/人間に匹敵するプログラミング能力のあるAIが開発される - ナゾロジー
 URL=https://nazology.net/archives/104375
+
+=2026-10-29T07:02:29+09:00 Computer/トピック/ツール/ソフトウェア言語/今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長 - ITmedia AI＋
+URL=https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/
 
 =2025-06-11T06:15:17+09:00 Computer/トピック/ツール/ソフトウェア言語/全世界のソフトウェア開発者は4700万人。最も多いのがJavaScript開発者で2800万人、Java、Pythonが続く。スラッシュデータの調査 － Publickey
 URL=https://www.publickey1.jp/blog/25/4700javascript2800javapython.html
@@ -202021,6 +202195,9 @@ URL=https://www.nikkei.com/article/DGXZQOSG089CJ0Y6A500C2000000/
 =2019-08-30T03:00:21+09:00 Computer/トピック/ビッグデータ/SNS/SNSが混沌とする時代、いまこそ「Tumblr」のようなサーヴィスが求められている｜WIRED.jp
 URL=https://wired.jp/2019/08/29/tumblr-reinvigorated/
 
+=2026-10-30T15:28:33+09:00 Computer/トピック/ビッグデータ/SNS/SNSで「やせる」情報を見た女子高生、マンジャロに手を出し…医師らが「16歳未満のSNS禁止」要望 - 弁護士ドットコム
+URL=https://www.bengo4.com/c_23/n_21130/
+
 =2025-08-25T07:15:00+09:00 Computer/トピック/ビッグデータ/SNS/SNSで「先生になりすます」生徒たち--そのエグすぎる実態 - CNET Japan
 URL=https://japan.cnet.com/article/35237083/
 
@@ -202908,6 +203085,9 @@ URL=https://twitter.com/Kapillareffekt/status/1613800061728874498
 
 =2022-11-08T09:54:14+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Gakushi Fujiwara - 藤原学思さんはTwitterを使っています- 「マスク氏は、ツイッターにおける日本のコンテンツを「すばらしい」と言っています。
 URL=https://twitter.com/fujiwara_g1/status/1589783318543106048
+
+=2026-10-28T17:49:46+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/GMO熊谷代表、Xで「削除しないと刑事告訴」　行き過ぎた言動に疑問の声 - 内外タイムス
+URL=https://naigaitimes.com/society/595797/
 
 =2017-10-08T11:27:31+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Google HomeにつぶやくとTwitterでつぶやくやつ、IFTTTですぐできた。 - Qiita
 URL=https://qiita.com/kazunori279/items/fdadbfde58ed133bb9d5
@@ -205348,6 +205528,9 @@ URL=https://x.com/yunishio/status/1887667646398967963
 =2024-06-21T22:20:08+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/XユーザーのYuya Wakai 若井優也さん- 「論文の著者ご本人から直接コメントいただいてしまった。これだからツイッターやめられないのよ。。
 URL=https://x.com/wakapaijazz/status/1804142259958669603
 
+=2026-10-29T17:56:57+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーのzen_nifさん- 「なんで公表しちゃうの？ ねぇ？なんでなの！？ 捜査が不利になってしまいません？」 - X
+URL=https://x.com/zen_nif/status/2115729592900354520
+
 =2026-06-13T05:26:28+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/XユーザーのΓ(ゆ-)さん- 「風流の基準を満たしておらず京都にしかなさすぎる https---t.co-3LMTra33pD」 - X
 URL=https://x.com/Nekonoshisha/status/2065531198416228730
 
@@ -205729,6 +205912,9 @@ URL=https://twitter.com/DaTa_jp/status/1741736957401764117
 =2026-04-04T19:30:46+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーのチャーちゃんさん- 「NHKはこんなことやってちゃいけないよね。Xの投稿を映像と共にニュースにして国民に流す。
 URL=https://x.com/sayurinman/status/2040376525598695502
 
+=2026-10-29T16:40:48+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーのツイキャス公式さん- 「【緊急メンテナンスについて】 長時間にわたり、ご利用の皆さまには多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。
+URL=https://x.com/twitcasting_jp/status/2115710429158932945
+
 =2026-08-21T20:48:03+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーのツユキマコトさん- 「@kuboon あー、複数のポストを並べておいてって文脈でしたね。全然別でした -bow- https---t.co-hr7VrJMzqG」 - X
 URL=https://x.com/everes/status/2090767889049809084
 
@@ -205758,6 +205944,9 @@ URL=https://x.com/norsk_tan/status/1795232629458907621
 
 =2024-09-15T01:27:50+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーのハニーバニーさん- 「感想の話で忘れられないのが、匿名箱に送った長めの感想に「すごく嬉しい！名乗り出て！何かお礼させて！」と返信ツイがあり、俺は臆して名乗り出なかったんだけど3日くらいして全然知らん人が「私です」ってリプつけてて、それ
 URL=https://x.com/harukawa_bunny/status/1834992465667145904
+
+=2026-10-31T15:21:38+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーのハーフナー舞衣子さん- 「おるね https---t.co-KDobmE6fgy」 - X
+URL=https://x.com/Wu_SangClanchan/status/2116415281442824671
 
 =2024-03-26T12:36:00+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーのバーチャル美少女ねむ-NemForbes JAPANインタビュー掲載中さん- 「【X速報】 Xが「個人情報と晒し行為に関するポリシー」を更新、「実名を明らかにしていないユーザーの実名や写真を晒すことを明示的に禁止」しました！ VTube
 URL=https://twitter.com/nemchan_nel/status/1772467512011112882
@@ -205836,6 +206025,9 @@ URL=https://x.com/redbear2014/status/2005589160149798934
 
 =2024-06-16T10:41:42+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーの三炊青葉 (sansui.aoba)さん- 「これはXのアルゴリズム（それを行う事で、投稿の価値が大きく重み付される）を利用したもので、推したい絵師さんの投稿がおすすめのタイムラインに乗り易くなります。
 URL=https://x.com/sansui_aoba/status/1802154553674182858
+
+=2026-10-30T13:10:46+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーの三輪信雄さん- 「サイバーインシデント演習で、「社長が勝手にSNSで発信して止められない、政府や警察にも迷惑をかけている」というシナリオを追加しなければいけないかな」 - X
+URL=https://x.com/NobMiwa/status/2116019958560035279
 
 =2024-02-13T14:32:48+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーの三重交通【公式】さん- 「X上にて、弊社が、特定の個人アカウントの方に対し、その方の会社へ苦情の連絡をしたという情報が投稿されておりますが、本投稿のような対応をした事実はなく、一切関係はございません。
 URL=https://twitter.com/miekotsu_bus/status/1757276616223547643
@@ -206067,6 +206259,9 @@ URL=https://x.com/ats4u/status/1827402538200789281
 
 =2024-04-18T22:08:15+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーの岩元大輔さん- 「水原の件で、薬物依存被害者の会のポストにいいねしたら、コカイン売りますみたいなオススメが流れるようになったのでXのアルゴリズムもヤバい」 - X
 URL=https://twitter.com/sta_labo/status/1780946446923206818
+
+=2026-10-31T10:09:16+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーの島崎　譲さん- 「ネトウヨの中には匿名を良いことに個人の鬱憤晴らし程度の軽い気持ちで罵詈雑言を投下していた者もいるだろう。見なよ。
+URL=https://x.com/yuzuru_simazaki/status/2116336671574929863
 
 =2024-08-26T17:19:11+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/Xユーザーの崖田文雄@内閣掃除大臣兼SNS外交担当大臣【公式】さん- 「【悲報】 河野太郎、ブロックに対する言い訳が止まらず、天才的な見苦しさを発揮してしまう https---t.co-KLD0LUjShm」 - X
 URL=https://x.com/GAKEDAfumio/status/1827984120468922748
@@ -209008,6 +209203,9 @@ URL=https://twitter.com/watanabe_1984/status/1562428525910536192
 =2021-01-25T17:07:39+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/渡邉英徳 Hidenori WatanaveさんはTwitterを使っています 「「東日本大震災ツイートマッピング」を公開しました。東日本大震災発生から24時間以内につぶやかれたジオタグ付きツイートをアーカイブしています。 httpst.co15k
 URL=https://twitter.com/hwtnv/status/1353615501319053313
 
+=2026-10-29T17:36:32+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/渦中のGMO、熊谷代表の発信は“火に油”か？　「経営トップが自ら広報」の功罪：危機管理広報のプロが分析 - ITmedia NEWS
+URL=https://www.itmedia.co.jp/news/article/2610/29/2000002674/
+
 =2022-11-07T18:33:26+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/溝ロ力丸さんはTwitterを使っています- 「柴田勝家（SF作家）は柴田勝家（武将）のなりすましアカウントではなく、柴田勝家（武将）を敬愛するあまりペンネームを柴田勝家にして10年近く活動している社会的存在だという事情がイーロン・マスクに伝わるだろ
 URL=https://twitter.com/marumizog/status/1589551590427734016
 
@@ -209367,6 +209565,9 @@ URL=https://www.news-postseven.com/archives/20260828_2128121.html?DETAIL
 
 =2026-10-23T05:22:20+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/高市早苗首相はなぜSNSでは饒舌なのか - GQ JAPAN
 URL=https://www.gqjapan.jp/article/20261023-satetsu-takeda-column
+
+=2026-10-31T06:02:52+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/高市氏、国会での答弁数が最少　5首相平均、SNSは突出し最多 - NEWSjp
+URL=https://news.jp/i/1489161255457718609?c=39550187727945729
 
 =2026-03-29T05:27:20+09:00 Computer/トピック/ビッグデータ/SNS/Twitter/高市首相、取材対応は少なく　歴代と比べ、Xでは連日発信 - NEWSjp
 URL=https://news.jp/i/1410878148283875699?c=39550187727945729
@@ -209863,6 +210064,9 @@ URL=https://x.com/ashitawawatashi/status/1997112262579155082
 =2026-05-11T13:47:24+09:00 Computer/トピック/ビッグデータ/SNS/Xユーザーのふっちゃん@戦争反対さん- 「衝撃！！ 高市早苗「松井さんとは私自身も私の秘書も面識がない」 文春では秘書と松井氏は「リモート会議」で会話 「リモートだから直接会ったことはない」と言い逃れるつもり？？？ 公設第一秘書木下氏を
 URL=https://x.com/ashitawawatashi/status/2053698464664670336
 
+=2026-10-28T22:17:24+09:00 Computer/トピック/ビッグデータ/SNS/Xユーザーのぼうごなつこ＠本アカ乗っ取られ中さん- 「ブラジルの選挙戦略「右派を無視。ブロックやミュートすると右派アカウントのエンゲージメントが低下する。
+URL=https://x.com/nasukoA/status/2115432749553365032
+
 =2025-12-16T19:09:23+09:00 Computer/トピック/ビッグデータ/SNS/Xユーザーのま-ちゃみ隊長（高部正樹）さん- 「タイ軍がカンボジアにある特殊詐欺拠点を空爆したらしいけど、急激に詐欺メールの受信が減ったのはそのせいなのか？だとしたらタイ軍に心から感謝であります！」 - X
 URL=https://x.com/takabemasaki/status/2000870866104852991
 
@@ -210162,6 +210366,9 @@ URL=https://x.com/nikkei/status/1903424191661219908
 
 =2026-04-08T11:00:46+09:00 Computer/トピック/ビッグデータ/SNS/Xユーザーの日本経済新聞 電子版（日経電子版）さん- 「オードリー・タン氏「偽情報への免疫力が重要」 https---t.co-34vZw4Ff6E ――もし世界のメディアの中から1社を買収できるとしたら、どこを選びますか。
 URL=https://x.com/nikkei/status/2041697732423798876
+
+=2026-10-30T14:03:26+09:00 Computer/トピック/ビッグデータ/SNS/Xユーザーの星 暁雄 (ITと人権)さん- 「ブラジルの大統領選をルラ勝利に導いたジャノネス議員のSNS戦略を記したミニマニュアル。
+URL=https://x.com/AkioHoshi/status/2116033211239452953
 
 =2025-12-03T22:12:36+09:00 Computer/トピック/ビッグデータ/SNS/Xユーザーの昼間たかしさん- 「SNSの危険性が理解できない人へ 3日間だけ、こうやってSNSを使ってみてください。 TLが“完全に地獄”になります。
 URL=https://x.com/quadrumviro/status/1996205931269706000
@@ -221319,6 +221526,9 @@ URL=https://japan.zdnet.com/article/35090666/
 
 =2022-07-28T12:32:00+09:00 Computer/トピック/ブロックチェーン/仮想通貨の取り締まり、米国で強化の動き--業界大手CoinbaseをSECが調査か - CNET Japan
 URL=https://japan.cnet.com/article/35191099/
+
+=2026-10-30T06:53:56+09:00 Computer/トピック/ブロックチェーン/仮想通貨の取引大手に不正アクセス、過去最大９９００億円盗難か…北朝鮮ハッカー集団関与の可能性 - 読売新聞
+URL=https://www.yomiuri.co.jp/economy/20261030-GYT1T00297
 
 =2017-09-23T09:30:57+09:00 Computer/トピック/ブロックチェーン/仮想通貨の取引所「登録」休止や撤退が相次ぐ｜登録しないのではなく、できない本当の理由 仮想通貨まとめ
 URL=http://virtualmoney.jp/I0001372
@@ -259852,6 +260062,9 @@ URL=https://x.com/genkuroki/status/1975964168688947587
 =2026-10-27T15:26:52+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/NotebookLM/_RuleTrek_ベンチマークが突き付ける厳しい現実：現行のAIエージェントであってもルール演繹推論を正確に行うのはまだまだ難しい - 渋谷駅前で働くデータサイエンティストのブログ
 URL=https://tjo.hatenablog.com/entry/2026/10/27/083000
 
+=2026-10-30T12:16:06+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/NotebookLM/「Gemini Notebook」、数百冊の教科書を無料で利用可能に - Impress Watch
+URL=https://www.watch.impress.co.jp/docs/news/2152548.html
+
 =2026-09-07T07:00:00+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/NotebookLM/「Gemini Notebook」で「Google Play」の書籍を分析可能に--3つの活用法を紹介 - ZDNET Japan
 URL=https://japan.zdnet.com/article/35252194/
 
@@ -261220,6 +261433,9 @@ URL=https://x.com/__alcedo/status/1957699892731597227
 =2024-08-25T11:25:25+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/XユーザーのCorinne Lowさん- 「Really cool evidence from Wharton colleague @hamsabastani that AI use by students harms learning. When 
 URL=https://x.com/femonomics/status/1827532707141734451
 
+=2026-10-29T13:31:18+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/XユーザーのDaniel Parkさん- 「ピクルのCEOのDanielです。昨日、ピクルがユーザーの確認なしにホテルへ電話をかけ、2回目にはAIだと名乗りませんでした。ご本人とホテルにお詫びします。お店への電話は「かける前に確認」と「
+URL=https://x.com/danifesto/status/2115662737779097865
+
 =2025-10-21T10:06:37+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/XユーザーのFizz-DI＠比較と使い分け-KOJIMA Yushiさん- 「想像していた未来 「AIが発達すれば薬剤師なんて要らなくなる」 いま起きていること 「AIを使ってデマを流す人が居るので、薬剤師が専門家として情報訂正-不安解
 URL=https://x.com/Fizz_DI/status/1980440554522735040
 
@@ -261432,6 +261648,9 @@ URL=https://x.com/Kyukimasa/status/1902589675694416147
 
 =2026-06-02T16:11:17+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Xユーザーのゆきまさかずよしさん- 「子供と会話できるAI搭載ぬいぐるみ玩具「Bondu」の話 https---t.co-jqdFHxE9cc 完成度の高い知育玩具だが、“screen-free”を謳い文句にしている。
 URL=https://x.com/Kyukimasa/status/2061707205116936694
+
+=2026-10-31T17:43:50+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Xユーザーのゆきまさかずよしさん- 「数年前に発表された「延々と会話を続けて詐欺師のリソースを削ぐAIボット」があるけど https---t.co-owgIt9xSyo 詐欺電話のほうもAIだから、どこかの時点で応答AIとなんらかの合意
+URL=https://x.com/Kyukimasa/status/2116451064572756429
 
 =2026-02-26T12:47:01+09:00 Computer/トピック/機械学習/機械学習応用/Bot・対話システム/Xユーザーのゆきまさかずよしさん- 「生成AIと人間では「おそらく」「たぶん」などで表される確率が違うのだそうだ（南カリフォルニア大学の研究） https---t.co-wzR5wmkM1i 「impossible」みたいなのは変わらな
 URL=https://x.com/Kyukimasa/status/2026866564616827366
@@ -300181,6 +300400,9 @@ URL=http://forest.watch.impress.co.jp/docs/serial/yajiuma/1079158.html
 =2024-08-28T04:04:32+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/小型で軽量な小規模言語モデルPLaMo Liteの提供開始 - 株式会社Preferred Networks
 URL=https://www.preferred.jp/ja/news/pr20240828/
 
+=2026-10-31T15:28:03+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/小学生の絵に「AIくさい」　中傷相次ぎしょうゆコンクール公開中止 [福島県]：朝日新聞
+URL=https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html
+
 =2024-05-06T11:47:14+09:00 Computer/トピック/機械学習/機械学習応用/その他の応用/創作/小学館やJIC、AI翻訳で漫画5万点輸出へ　スタートアップに29億円出資 - 日本経済新聞
 URL=https://www.nikkei.com/article/DGXZQOUA030YP0T00C24A5000000/?n_cid=SNSTW001
 
@@ -333670,6 +333892,9 @@ URL=https://twitter.com/jingbay/status/1491790715768094730
 =2023-07-26T13:00:00+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Workday Adaptive Planning のモデリング エンジン Elastic Hypercube Technology の次世代版を発表 - CNET Japan
 URL=https://japan.cnet.com/release/30881559/
 
+=2026-10-30T11:05:22+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/XユーザーのHiromitsu Takagiさん- 「「マーケティングや販促に利用するため保持し続ける」？ 本人に対してならそもそも目的外利用で違法。
+URL=https://x.com/HiromitsuTakagi/status/2115988402206339098
+
 =2024-12-02T23:49:12+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/XユーザーのHiromitsu Takagiさん- 「そもそもマーケティング（関連性のないデータによるダイレクトマーケティング）こそが1970年代からのデータ保護法が作られたきっかけよ。そろそろやめないとな。
 URL=https://x.com/HiromitsuTakagi/status/1863596281953972561
 
@@ -333687,6 +333912,9 @@ URL=https://twitter.com/Kyukimasa/status/1730209294619234335
 
 =2024-09-22T14:26:09+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Xユーザーのマライ・メントライン＠職業はドイツ人さん- 「あるマーケティング会議にて 「日本企業の特徴でありダメな点の一つは、汎用性の低い自社アプリをムリヤリ顧客にDLさせ、会員登録＆ニュースレター配信で囲い込みを図ろうとする点です。
 URL=https://x.com/marei_de_pon/status/1837725048767238316
+
+=2026-10-30T12:37:19+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Xユーザーの大井哲也弁護士｜プライバシー&セキュリティさん- 「利活用を担うデジタルマーケティング部門とセキュリティを担う情シス部門を横断するチーフデジタルオフィサー不在が根本原因。
+URL=https://x.com/tetsuyaoi2tmi/status/2116011540638048710
 
 =2025-11-03T12:00:08+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/Xユーザーの梶谷健人 - POSTSさん- 「AIで色んなものがスーパーパーソナライズ化されていくと、様々な領域で「◯◯のNetflix化」的な現象が起きそう。
 URL=https://x.com/kajikent/status/1985180161973661918
@@ -334689,6 +334917,9 @@ URL=https://markezine.jp/article/detail/43633
 
 =2020-12-14T00:00:00+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/価格・クーポンの最適化で販促効果を最大化！ 「カカクのカガク」提供開始 Techable(テッカブル)
 URL=https://techable.jp/archives/144533
+
+=2026-10-29T17:42:51+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/個人情報、退会したのになぜ残る？　法律の規定や企業の販促ニーズ - 日本経済新聞
+URL=https://www.nikkei.com/article/DGXZQOUD215J90R21C26A0000000/
 
 =2024-05-27T00:00:00+09:00 Computer/トピック/機械学習/機械学習応用/マーケティング/元GoogleのCRM製品開発者らが設立。AIで企業のSNS管理と成長をサポートするHighperformr.ai Techable(テッカブル)
 URL=https://techable.jp/archives/234985
@@ -343671,6 +343902,9 @@ URL=https://twitter.com/ETH_en/status/1778352616616976531
 
 =2024-04-24T04:19:34+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/Xユーザーのfoxhangerさん- 「「日本人は鉄腕アトムやガンダムで人型ロボットに親しんでいるから、アドバンテージがある」ってのも、もはや過去の話ですね。
 URL=https://twitter.com/foxhanger/status/1782851829891817575
+
+=2026-10-28T22:58:00+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/XユーザーのGabriel Ocana-Santeroさん- 「Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy 
+URL=https://x.com/OcanaSantero/status/2115442964574908902
 
 =2025-12-30T08:06:58+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/XユーザーのHachi Reborn (革新)さん- 「バーニー・サンダース 「なぜアマゾンのような企業は労働者をロボットに置き換えたがるのか？ それは単純な話だ。
 URL=https://x.com/RebornHachi/status/2005777593904283905
@@ -353662,6 +353896,9 @@ URL=https://prtimes.jp/main/html/rd/p/000000025.000141327.html
 =2019-05-13T17:00:20+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/人手不足が深刻ないま、建設業界は“ロボット革命”を求めている｜WIRED.jp
 URL=https://wired.jp/2019/05/13/the-construction-industry-needs-a-robot-revolution/
 
+=2026-10-30T06:42:42+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/人手不足に対応　ＡＩロボットが「びん」自動選別　本格実証　横浜市｜tvkNEWSアーカイブ- デジタル3ch テレビ神奈川
+URL=https://www.tvk-yokohama.com/tvknews-archive/2026/10/30/20374.php
+
 =2023-05-29T10:37:29+09:00 Computer/トピック/機械学習/機械学習応用/ロボット/人手不足の“切り札”、成長鮮明「協働ロボット」の進化｜ニュースイッチ by 日刊工業新聞社
 URL=https://newswitch.jp/p/37136
 
@@ -360331,6 +360568,9 @@ URL=http://thebridge.jp/2018/08/ai-headhunting-service-scouty
 =2018-06-25T07:00:00+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/AIがライバルに！？　城繁幸さんに聞くHR Tech時代の人事サバイブ術  - I...
 URL=http://www.itmedia.co.jp/business/articles/1806/25/news027.html
 
+=2026-10-29T17:34:02+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態：ちょっと昔のInnovative Tech - ITmedia NEWS
+URL=https://www.itmedia.co.jp/news/article/2610/29/2000002679/
+
 =2021-04-21T09:28:10+09:00 Computer/トピック/機械学習/機械学習応用/人事・転職・マッチング/AIが候補者を抽出、異動先を提案　NEC子会社が自治体向けに開発 - ITmedia NEWS
 URL=https://www.itmedia.co.jp/news/spv/2104/21/news090.html
 
@@ -366723,6 +366963,9 @@ URL=https://x.com/ai_database/status/2097133897498951822
 
 =2026-10-19T12:28:00+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/XユーザーのEARLの医学&AIノートさん- 「保守責任は発生すれど、個人情報直接識別子が入らない待合システムならアプリとしてはかなり単純なので、プログラミング分からない人がAIに作らせるのは許容範囲だと思う。
 URL=https://x.com/EARL_med_tw/status/2112022928162496587
+
+=2026-10-28T22:58:00+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/XユーザーのGabriel Ocana-Santeroさん- 「Last night an AI agent performed brain surgery on a mouse. We gave it 19 gene therapy 
+URL=https://x.com/OcanaSantero/status/2115442964574908902
 
 =2024-06-08T13:35:23+09:00 Computer/トピック/機械学習/機械学習応用/医療・介護/XユーザーのHaruhiko Okumuraさん- 「ChatGPTに医療行為をさせるのはダメだけど、医療事務での活用はOpenAIからも活用例として紹介されていますよね https---t.co-KNiLmu13Ca」 - X
 URL=https://x.com/h_okumura/status/1799299158467367074
@@ -389191,6 +389434,9 @@ URL=http://jp.techcrunch.com/2017/08/24/httpstechcrunch-com20170823this-algorith
 =2023-07-25T05:07:21+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/小型SAR衛星6号機 「アマテル-Ⅲ」が日本最高分解能46cmの画像取得に成功 - QPS-SAR-6 “AMATERU-Ⅲ” presents 46cm x 39cm resolution with its spotlight imaging mo
 URL=http://i-qps.net/news/news/1255/
 
+=2026-10-31T15:28:03+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/小学生の絵に「AIくさい」　中傷相次ぎしょうゆコンクール公開中止 [福島県]：朝日新聞
+URL=https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html
+
 =2022-11-09T20:54:06+09:00 Computer/トピック/機械学習/機械学習応用/画像/画像処理/小山浩之さんはTwitterを使っています- 「防犯カメラの映像を”AI”で超解像復元した別人が逮捕される話はすでにありそうですねそうですね」 - Twitter
 URL=https://twitter.com/0yama/status/1590311769016524800
 
@@ -409903,6 +410149,9 @@ URL=https://car.watch.impress.co.jp/docs/news/1439886.html
 =2023-07-12T16:57:45+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/トヨタWoven City、デジタルツインで「自動運転」をすでに実現 - 自動運転ラボ
 URL=https://jidounten-lab.com/u_42156
 
+=2026-10-30T06:53:30+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/トヨタ×ウェイモの無人タクシーには思わぬ壁がある？ 自動運転の最大の壁は「技術」じゃない!-　 - 自動車情報誌「ベストカー」
+URL=https://bestcarweb.jp/feature/column/1666737
+
 =2020-01-07T00:00:00+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/トヨタ、CES2020にて実証都市「コネクティッド・シティ」構想を発表！ Techable(テッカブル)
 URL=https://techable.jp/archives/114832
 
@@ -409944,6 +410193,9 @@ URL=https://robotstart.info/2020/04/11/toyota-carplay.html
 
 =2017-05-23T13:09:07+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/トヨタがブロックチェーン＆分散型台帳への取り組みを公表、自動運転車開発のデータを共有 ITジャーナリスト星暁雄の情報論ノート
 URL=http://hoshi.air-nifty.com/diary/2017/05/post-6727.html
+
+=2026-10-29T07:13:27+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/トヨタがロボタクシー生産へ、「ｂＺ４Ｘ」ベースに来年から試験…米ウェイモと協業し国内外で展開 - 読売新聞
+URL=https://www.yomiuri.co.jp/economy/20261030-GYT1T00400/
 
 =2019-02-16T08:00:00+09:00 Computer/トピック/機械学習/機械学習応用/自動運転・自動操縦/自動車/トヨタが中国にAI・自動運転拠点の狙い - ライブドアニュース
 URL=http://news.livedoor.com/article/detail/16029417/
@@ -423480,6 +423732,9 @@ URL=https://forbesjapan.com/articles/detail/70490
 
 =2024-07-24T02:51:48+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/メタが公開した「Llama 3.1」は、AIの開発に幅広く影響を及ぼす可能性を秘めている _ WIRED.jp
 URL=https://wired.jp/article/meta-ai-llama-3/
+
+=2026-10-28T08:00:00+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/メタのAI「Muse」、共有コンテンツが第三者からも閲覧可能だった - ギズモード・ジャパン
+URL=https://www.gizmodo.jp/article/meta-muse-ghost-share-security-issue/
 
 =2026-10-25T04:33:04+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/データセット/メタのAI「Muse」が日本上陸、利便性とプライバシーを両立する「10の対策」 - Forbes JAPAN 公式サイト（フォーブス ジャパン）
 URL=https://forbesjapan.com/articles/detail/106913
@@ -437256,6 +437511,9 @@ URL=https://x.com/ohnuki_tsuyoshi/status/1830591697769685374
 
 =2026-03-31T03:48:26+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/翻訳/Xユーザーの尻P(野尻抱介)さん- 「多様性を保つために言語の壁は有効、ってフリーマン・ダイソンが言ってたので、この流れは要注意かなあ。
 URL=https://x.com/nojiri_h/status/2038689827206693368
+
+=2026-10-31T10:09:16+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/翻訳/Xユーザーの島崎　譲さん- 「ネトウヨの中には匿名を良いことに個人の鬱憤晴らし程度の軽い気持ちで罵詈雑言を投下していた者もいるだろう。見なよ。
+URL=https://x.com/yuzuru_simazaki/status/2116336671574929863
 
 =2025-01-01T20:42:30+09:00 Computer/トピック/機械学習/機械学習応用/自然言語処理/翻訳/Xユーザーの怠惰担当-スシイーターさん- 「これなんだよなあ… https---t.co-CGJc8T8lbO」 - X
 URL=https://x.com/sushieater_/status/1874420936600068412
@@ -453912,6 +454170,9 @@ URL=https://x.com/u_zhaan/status/1884094386113515722
 
 =2024-05-31T14:23:41+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/Xユーザーのyoshihiro tsudukiさん- 「「iPhoneのウォレット機能でマイナンバーカードの機能が安全に使える」と言われても、私はマイナンバーカードを作ることそのものが嫌。
 URL=https://x.com/y_tsuduki/status/1796412209020690826
+
+=2026-10-29T01:04:08+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/Xユーザーのyousukezanさん- 「QRコード注文は危険」 - X
+URL=https://x.com/yousukezan/status/2115474705935425935
 
 =2022-10-05T03:26:32+09:00 Computer/トピック/機械学習/機械学習応用/金融・財務/決済/Xユーザーのあにむず~Anim'z~@広島発けものVTuber 月曜水曜定期配信！さん- 「【注意喚起】PayPayカードの支払いがフラットリボ払いになってませんか？ 毎月の支払額が一定になるよう自動的にリボ払いにされるヤバいシステムで母が知らな
 URL=https://twitter.com/Animz_hiroshima/status/1577364561141063681
